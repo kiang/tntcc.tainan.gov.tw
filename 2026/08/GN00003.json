@@ -1,16 +1,16 @@
 {
-    "eventId": "G000605-1",
+    "eventId": "GN00003",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "中華西路 觀海橋北側至永華路(南向) 發生壅塞",
+    "eventContent": "北外環 長和路一段222巷100弄口至北外環路口 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.18406852769266",
-    "eventWgsy": "23.01216689522898",
+    "eventWgsx": "120.24132560083837",
+    "eventWgsy": "23.055965615658064",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-15T17:46:26+08:00",
+    "eventHappenTime": "2026-08-15T19:41:25+08:00",
     "atisUpdateTime": "2026-08-15T19:44:51+08:00"
 }
