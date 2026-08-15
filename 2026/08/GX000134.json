@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000140",
+    "eventId": "GX000134",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "竹林街(竹林街24巷-中正北路) 發生壅塞",
+    "eventContent": "中正南路(正南一街-正南三路) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24639938318762",
-    "eventWgsy": "23.040211932069806",
+    "eventWgsx": "120.22520227595103",
+    "eventWgsy": "23.029934258545637",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-15T17:56:26+08:00",
+    "eventHappenTime": "2026-08-15T18:26:26+08:00",
     "atisUpdateTime": "2026-08-15T18:29:39+08:00"
 }
