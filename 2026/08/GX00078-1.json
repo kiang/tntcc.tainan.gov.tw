@@ -1,0 +1,16 @@
+{
+    "eventId": "GX00078-1",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "健康\/永福路口-夏林路-永華路-平豐路-安億橋-平生路-平生\/安平路口 發生壅塞",
+    "eventTownName": "中西區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.20006966307295",
+    "eventWgsy": "22.981433462756023",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-15T17:16:26+08:00",
+    "atisUpdateTime": "2026-08-15T17:23:28+08:00"
+}

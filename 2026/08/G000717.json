@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000152",
+    "eventId": "G000717",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "文德路(裕信六街-中山路) 發生壅塞",
+    "eventContent": "中正南北路 永康交流道至中華路(西向) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24815294571428",
-    "eventWgsy": "22.9765328532022",
+    "eventWgsx": "120.25115035233196",
+    "eventWgsy": "23.042023907913673",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-15T17:06:26+08:00",
+    "eventHappenTime": "2026-08-15T17:21:25+08:00",
     "atisUpdateTime": "2026-08-15T17:23:28+08:00"
 }

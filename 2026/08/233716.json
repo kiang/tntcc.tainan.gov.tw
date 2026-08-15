@@ -1,16 +1,16 @@
 {
-    "eventId": "229462",
+    "eventId": "233716",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "1260632設計課零資",
-    "eventTownName": "安南區",
+    "eventContent": "6260304洪金鳳新增設",
+    "eventTownName": "將軍區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18524027375315",
-    "eventWgsy": "23.048334617727978",
+    "eventWgsx": "120.16003421845812",
+    "eventWgsy": "23.231586154641082",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-15T11:03:49+08:00",
+    "eventHappenTime": "2026-08-15T17:14:21+08:00",
     "atisUpdateTime": "2026-08-15T17:22:41+08:00"
 }
