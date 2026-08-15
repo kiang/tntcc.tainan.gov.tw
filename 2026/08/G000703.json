@@ -1,0 +1,16 @@
+{
+    "eventId": "G000703",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "裕農路 東門路至太子路(東向) 發生壅塞",
+    "eventTownName": "東區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.22438908562388",
+    "eventWgsy": "22.984895962520792",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-15T16:31:25+08:00",
+    "atisUpdateTime": "2026-08-15T17:15:53+08:00"
+}

@@ -1,0 +1,16 @@
+{
+    "eventId": "GX300012",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "裕義路 (裕英路至裕義路口右轉車道) 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.24788195651222",
+    "eventWgsy": "22.98703157915898",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-15T16:01:25+08:00",
+    "atisUpdateTime": "2026-08-15T17:15:53+08:00"
+}

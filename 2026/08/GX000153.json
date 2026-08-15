@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000153",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "國1仁德南向出口 發生壅塞",
+    "eventTownName": "仁德區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.24817532260671",
+    "eventWgsy": "22.97985698276188",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-15T17:01:25+08:00",
+    "atisUpdateTime": "2026-08-15T17:15:53+08:00"
+}

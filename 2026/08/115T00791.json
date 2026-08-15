@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00791",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "708台灣臺南市安平區望月橋往慶平路與建平十七街口",
+    "eventWgsx": "120.1758758991319",
+    "eventWgsy": "22.99720313286675",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-15T09:53:18+08:00",
+    "atisUpdateTime": "2026-08-15T17:15:39+08:00"
+}

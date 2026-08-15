@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000227",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "裕永(忠孝)-大灣路1102巷(西向) 發生壅塞",
+    "eventTownName": "",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.25054319718775",
+    "eventWgsy": "22.99866030941832",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-15T17:01:25+08:00",
+    "atisUpdateTime": "2026-08-15T17:15:53+08:00"
+}

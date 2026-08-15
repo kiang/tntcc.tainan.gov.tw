@@ -1,0 +1,16 @@
+{
+    "eventId": "233258",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "白河區南94汰換管線工程",
+    "eventTownName": "白河區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.42885987883932",
+    "eventWgsy": "23.355314446113187",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-15T08:48:30+08:00",
+    "atisUpdateTime": "2026-08-15T17:15:39+08:00"
+}

@@ -1,0 +1,16 @@
+{
+    "eventId": "GX00081-2",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "健康\/文平路口-健康路-中華西路-中華北路-大港觀海橋南端 發生壅塞",
+    "eventTownName": "安平區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.17755620321685",
+    "eventWgsy": "22.983009369886343",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-15T10:45:25+08:00",
+    "atisUpdateTime": "2026-08-15T17:15:53+08:00"
+}

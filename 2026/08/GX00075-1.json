@@ -1,0 +1,16 @@
+{
+    "eventId": "GX00075-1",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "大同\/國民路口-國民路-南門路-南門\/府前路口 發生壅塞",
+    "eventTownName": "南區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.2159784578793",
+    "eventWgsy": "22.967394479041022",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-15T07:31:25+08:00",
+    "atisUpdateTime": "2026-08-15T17:15:53+08:00"
+}
