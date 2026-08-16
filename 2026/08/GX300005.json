@@ -1,16 +1,16 @@
 {
-    "eventId": "GX300013",
+    "eventId": "GX300005",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "高速一街 (裕德二街至太子路) 發生壅塞",
+    "eventContent": "裕孝路 (裕孝路129號至裕農路) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24860281956182",
-    "eventWgsy": "22.98702942044741",
+    "eventWgsx": "120.24348002768076",
+    "eventWgsy": "22.986909334918476",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-16T16:40:25+08:00",
+    "eventHappenTime": "2026-08-16T17:05:25+08:00",
     "atisUpdateTime": "2026-08-16T17:15:04+08:00"
 }
