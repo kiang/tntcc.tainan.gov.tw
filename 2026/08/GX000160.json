@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000160",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "仁愛街(三村二街-中正北路) 發生壅塞",
+    "eventTownName": "永康",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.23899995195448",
+    "eventWgsy": "23.044144144940805",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-17T07:21:25+08:00",
+    "atisUpdateTime": "2026-08-17T07:29:56+08:00"
+}
