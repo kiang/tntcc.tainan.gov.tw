@@ -1,16 +1,16 @@
 {
-    "eventId": "20260816133137003",
+    "eventId": "20260816140204018",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "南化區",
+    "eventTownName": "安定區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.46935606671306",
-    "eventWgsy": "23.00382166189933",
+    "eventWgsx": "120.20827862259922",
+    "eventWgsy": "23.09905543384151",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-16T13:35:19+08:00",
+    "eventHappenTime": "2026-08-16T14:02:38+08:00",
     "atisUpdateTime": "2026-08-16T14:15:02+08:00"
 }
