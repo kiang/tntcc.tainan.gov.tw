@@ -1,8 +1,8 @@
 {
     "eventId": "GX000222",
     "eventType": "JAM",
-    "eventSubType": "Jam",
-    "eventContent": "林森-中華東(東向) 發生壅塞",
+    "eventSubType": "HeavyJam",
+    "eventContent": "林森-中華東(東向) 發生重度壅塞",
     "eventTownName": "",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-16T14:30:25+08:00",
-    "atisUpdateTime": "2026-08-16T14:44:58+08:00"
+    "eventHappenTime": "2026-08-16T15:00:25+08:00",
+    "atisUpdateTime": "2026-08-16T15:14:38+08:00"
 }
