@@ -1,16 +1,16 @@
 {
-    "eventId": "20260816191345018",
+    "eventId": "20260816200807003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "關廟區",
+    "eventTownName": "東山區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.33068497666798",
-    "eventWgsy": "23.00075090822686",
+    "eventWgsx": "120.43764770847726",
+    "eventWgsy": "23.27315987536644",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-16T19:15:27+08:00",
+    "eventHappenTime": "2026-08-16T20:11:38+08:00",
     "atisUpdateTime": "2026-08-16T20:14:32+08:00"
 }
