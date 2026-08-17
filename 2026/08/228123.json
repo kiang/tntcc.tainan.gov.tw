@@ -1,16 +1,16 @@
 {
-    "eventId": "228124",
+    "eventId": "228123",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "C250311設計課零資",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.13401367733219",
-    "eventWgsy": "23.058631744526917",
+    "eventWgsx": "120.13381120123712",
+    "eventWgsy": "23.060000814539503",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T09:01:43+08:00",
+    "eventHappenTime": "2026-08-17T14:12:53+08:00",
     "atisUpdateTime": "2026-08-17T14:29:56+08:00"
 }
