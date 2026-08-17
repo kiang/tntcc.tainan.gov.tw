@@ -1,16 +1,16 @@
 {
-    "eventId": "GN00007",
+    "eventId": "GX00096-1",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "長和路一段 永安橋北向車道起點至北外環匝道口 發生壅塞",
+    "eventContent": "南科聯絡道 中正北路至新港社大道(東向) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24013218308282",
-    "eventWgsy": "23.050709873602376",
+    "eventWgsx": "120.2736597392099",
+    "eventWgsy": "23.05577745349403",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T07:41:25+08:00",
+    "eventHappenTime": "2026-08-18T07:31:25+08:00",
     "atisUpdateTime": "2026-08-18T07:44:54+08:00"
 }
