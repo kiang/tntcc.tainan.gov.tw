@@ -1,16 +1,16 @@
 {
-    "eventId": "229651",
+    "eventId": "229947",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年新市所用戶新裝-臺南市安定區公所",
+    "eventContent": "114年新市所用戶新裝-辰驊國際",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22810596149101",
-    "eventWgsy": "23.08586693484241",
+    "eventWgsx": "120.22680624401457",
+    "eventWgsy": "23.083009578183873",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T12:20:18+08:00",
+    "eventHappenTime": "2026-08-17T13:40:05+08:00",
     "atisUpdateTime": "2026-08-17T13:59:34+08:00"
 }

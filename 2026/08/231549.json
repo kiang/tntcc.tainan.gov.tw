@@ -1,16 +1,16 @@
 {
-    "eventId": "232741",
+    "eventId": "231549",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "永康所113-114年管線設備維修工程",
+    "eventContent": "「龍舜建設(股)未來馥84戶-天然氣管線銜接工程」",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22747126965768",
-    "eventWgsy": "23.03433878863757",
+    "eventWgsx": "120.25802395479946",
+    "eventWgsy": "23.015822201367197",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T09:29:04+08:00",
+    "eventHappenTime": "2026-08-17T13:46:14+08:00",
     "atisUpdateTime": "2026-08-17T13:59:34+08:00"
 }
