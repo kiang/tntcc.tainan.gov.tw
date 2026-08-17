@@ -1,16 +1,16 @@
 {
-    "eventId": "20260817172927005",
+    "eventId": "20260817182840003",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "白河區",
+    "eventTownName": "新營區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.4174096883944",
-    "eventWgsy": "23.379618321951256",
+    "eventWgsx": "120.30712333967958",
+    "eventWgsy": "23.303110424799197",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T17:30:18+08:00",
+    "eventHappenTime": "2026-08-17T18:29:12+08:00",
     "atisUpdateTime": "2026-08-17T18:44:24+08:00"
 }
