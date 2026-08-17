@@ -1,16 +1,16 @@
 {
-    "eventId": "231618",
+    "eventId": "233227",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "4260300中華電信股份有限公司台南營運處新增設",
+    "eventContent": "配合警察局路口監控箱埋設電信配管",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26373924947538",
-    "eventWgsy": "23.03887626321999",
+    "eventWgsx": "120.2589538275863",
+    "eventWgsy": "23.000142445304366",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T10:26:04+08:00",
+    "eventHappenTime": "2026-08-17T16:15:15+08:00",
     "atisUpdateTime": "2026-08-17T16:29:09+08:00"
 }
