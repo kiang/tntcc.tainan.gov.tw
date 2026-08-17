@@ -1,16 +1,16 @@
 {
-    "eventId": "232269",
+    "eventId": "234265",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "新化大德路大新路與善化民族路民權路等汰?管線工程",
+    "eventContent": "善化區胡厝里胡厝寮216-2號等供水延管工程",
     "eventTownName": "善化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29688579706044",
-    "eventWgsy": "23.131027165031163",
+    "eventWgsx": "120.26899418707235",
+    "eventWgsy": "23.143594997341363",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T08:57:15+08:00",
+    "eventHappenTime": "2026-08-17T18:15:12+08:00",
     "atisUpdateTime": "2026-08-17T18:29:18+08:00"
 }
