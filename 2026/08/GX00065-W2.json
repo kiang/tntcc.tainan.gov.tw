@@ -1,8 +1,8 @@
 {
     "eventId": "GX00065-W2",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "台86線西向\/W2 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "台86線西向\/W2 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T17:11:25+08:00",
-    "atisUpdateTime": "2026-08-17T17:14:37+08:00"
+    "eventHappenTime": "2026-08-17T17:21:25+08:00",
+    "atisUpdateTime": "2026-08-17T17:29:46+08:00"
 }

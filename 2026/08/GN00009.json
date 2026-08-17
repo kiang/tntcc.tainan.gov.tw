@@ -1,16 +1,16 @@
 {
-    "eventId": "GX300018",
+    "eventId": "GN00009",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "大發路 (大發路282號至太子路) 發生壅塞",
+    "eventContent": "長和路一段 河堤道路口至永安路 永運路口 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.25153027203373",
-    "eventWgsy": "22.98880307777765",
+    "eventWgsx": "120.2400972164816",
+    "eventWgsy": "23.050426548366172",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T17:11:25+08:00",
+    "eventHappenTime": "2026-08-17T17:15:25+08:00",
     "atisUpdateTime": "2026-08-17T17:29:46+08:00"
 }
