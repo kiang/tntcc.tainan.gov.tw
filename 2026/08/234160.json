@@ -1,0 +1,16 @@
+{
+    "eventId": "234160",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "安南區安和路四段128巷新設管線工程",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.21875978453949",
+    "eventWgsy": "23.05301309980297",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-17T08:21:14+08:00",
+    "atisUpdateTime": "2026-08-17T08:29:43+08:00"
+}
