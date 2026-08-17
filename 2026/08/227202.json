@@ -1,16 +1,16 @@
 {
-    "eventId": "231618",
+    "eventId": "227202",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "4260300中華電信股份有限公司台南營運處新增設",
+    "eventContent": "「遠雄建設事業(股)15F328戶-天然氣管線埋設工程」",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26373924947538",
-    "eventWgsy": "23.03887626321999",
+    "eventWgsx": "120.2457084618184",
+    "eventWgsy": "23.049136001220575",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T10:26:04+08:00",
+    "eventHappenTime": "2026-08-17T10:12:18+08:00",
     "atisUpdateTime": "2026-08-17T10:29:29+08:00"
 }
