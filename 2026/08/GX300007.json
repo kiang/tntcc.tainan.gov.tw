@@ -1,8 +1,8 @@
 {
     "eventId": "GX300007",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "裕農路 (裕孝路至太子四街) 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "裕農路 (裕孝路至太子四街) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T09:36:27+08:00",
-    "atisUpdateTime": "2026-08-17T10:29:36+08:00"
+    "eventHappenTime": "2026-08-17T10:31:25+08:00",
+    "atisUpdateTime": "2026-08-17T10:44:43+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "225153",
+    "eventId": "233894",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合污水改管",
+    "eventContent": "埋設用戶電信引上配管",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22389334681216",
-    "eventWgsy": "22.964951842248205",
+    "eventWgsx": "120.22652310504435",
+    "eventWgsy": "22.98776680612691",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T09:04:15+08:00",
+    "eventHappenTime": "2026-08-17T10:31:40+08:00",
     "atisUpdateTime": "2026-08-17T10:44:34+08:00"
 }
