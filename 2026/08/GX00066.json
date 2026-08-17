@@ -1,16 +1,16 @@
 {
-    "eventId": "GN00001",
+    "eventId": "GX00066",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "長和路一段 長和路一段192巷至河堤道路 發生壅塞",
+    "eventContent": "台86線西向\/W3 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.2360329881763",
-    "eventWgsy": "23.054802519485666",
+    "eventWgsx": "120.31985294896748",
+    "eventWgsy": "22.988683783936683",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T17:05:25+08:00",
+    "eventHappenTime": "2026-08-17T17:11:25+08:00",
     "atisUpdateTime": "2026-08-17T17:14:37+08:00"
 }
