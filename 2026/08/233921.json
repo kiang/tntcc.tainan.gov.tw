@@ -1,16 +1,16 @@
 {
-    "eventId": "233920",
+    "eventId": "233921",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "115年佳里所用戶用水設備新(改)裝工作勞務採購(開口契約)",
-    "eventTownName": "佳里區",
+    "eventTownName": "北門區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17413822938029",
-    "eventWgsy": "23.174184379067796",
+    "eventWgsx": "120.09859842638029",
+    "eventWgsy": "23.234329658724917",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T07:45:23+08:00",
+    "eventHappenTime": "2026-08-17T09:59:04+08:00",
     "atisUpdateTime": "2026-08-17T10:14:17+08:00"
 }
