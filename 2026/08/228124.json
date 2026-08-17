@@ -1,16 +1,16 @@
 {
-    "eventId": "233510",
+    "eventId": "228124",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
-    "eventTownName": "安平區",
+    "eventContent": "C250311設計課零資",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16922859636819",
-    "eventWgsy": "22.999592801442386",
+    "eventWgsx": "120.13401367733219",
+    "eventWgsy": "23.058631744526917",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T08:22:12+08:00",
+    "eventHappenTime": "2026-08-17T09:01:43+08:00",
     "atisUpdateTime": "2026-08-17T09:14:53+08:00"
 }

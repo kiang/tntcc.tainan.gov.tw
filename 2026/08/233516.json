@@ -1,16 +1,16 @@
 {
-    "eventId": "233510",
+    "eventId": "233516",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
-    "eventTownName": "安平區",
+    "eventContent": "埋設用戶電信引上配管",
+    "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16922859636819",
-    "eventWgsy": "22.999592801442386",
+    "eventWgsx": "120.21878462038157",
+    "eventWgsy": "23.0041623784023",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T08:22:12+08:00",
+    "eventHappenTime": "2026-08-17T09:00:55+08:00",
     "atisUpdateTime": "2026-08-17T09:14:53+08:00"
 }
