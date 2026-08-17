@@ -1,16 +1,16 @@
 {
-    "eventId": "229556",
+    "eventId": "230837",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南海水淡化廠輸水管線統包工程(第一期)",
+    "eventContent": "(S2L554042)臺南三客網115年度電信零星積點發包工程S2L554043銅 S2L554044光",
     "eventTownName": "七股區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.13312506993182",
-    "eventWgsy": "23.187703954075126",
+    "eventWgsx": "120.12992256456337",
+    "eventWgsy": "23.134688353691146",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T08:12:45+08:00",
+    "eventHappenTime": "2026-08-17T09:39:43+08:00",
     "atisUpdateTime": "2026-08-17T09:59:10+08:00"
 }
