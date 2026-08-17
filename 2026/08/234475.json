@@ -1,16 +1,16 @@
 {
-    "eventId": "233917",
+    "eventId": "234475",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市安定區新吉里新吉14之3號等供水延管工程",
+    "eventContent": "5260536交通部高速公路局第二新建工程分局第三工務所線路遷移",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21227604986214",
-    "eventWgsy": "23.08738837715202",
+    "eventWgsx": "120.2294591054983",
+    "eventWgsy": "23.08379782844638",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T08:37:39+08:00",
+    "eventHappenTime": "2026-08-17T09:21:03+08:00",
     "atisUpdateTime": "2026-08-17T09:29:57+08:00"
 }

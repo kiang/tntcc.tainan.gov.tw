@@ -1,16 +1,16 @@
 {
-    "eventId": "231846",
+    "eventId": "232795",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年永康所用戶用水設備新(改)裝工作勞務採購",
+    "eventContent": "6260325臺南市政府交通局新增設",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25487067554549",
-    "eventWgsy": "23.03058636329743",
+    "eventWgsx": "120.23993931479481",
+    "eventWgsy": "23.003366831355255",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T08:07:06+08:00",
+    "eventHappenTime": "2026-08-17T09:17:16+08:00",
     "atisUpdateTime": "2026-08-17T09:29:57+08:00"
 }
