@@ -1,0 +1,16 @@
+{
+    "eventId": "228563",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "新設電信管道(S2D405560)",
+    "eventTownName": "大內區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.35475961434054",
+    "eventWgsy": "23.123257039190747",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-17T11:47:24+08:00",
+    "atisUpdateTime": "2026-08-17T11:59:21+08:00"
+}
