@@ -1,0 +1,16 @@
+{
+    "eventId": "TNWRB0092",
+    "eventType": "DISASTER",
+    "eventSubType": "",
+    "eventContent": "淹水超過 10.0 公分",
+    "eventTownName": "安南區",
+    "eventSource": "WRB_FLOODREALTIME",
+    "eventLocation": "安南區-十二佃七寶塔旁(編號70)",
+    "eventWgsx": "120.177256",
+    "eventWgsy": "23.067526",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-17T12:40:02+08:00",
+    "atisUpdateTime": "2026-08-17T12:44:44+08:00"
+}
