@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000136",
+    "eventId": "GX00094",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "中正北路(新行街-318巷) 發生壅塞",
+    "eventContent": "新港社大道 環西路至中正北路(南向) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24219788183767",
-    "eventWgsy": "23.04150696431121",
+    "eventWgsx": "120.28249541199604",
+    "eventWgsy": "23.090296179406174",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T17:40:25+08:00",
+    "eventHappenTime": "2026-08-17T17:31:25+08:00",
     "atisUpdateTime": "2026-08-17T17:44:54+08:00"
 }
