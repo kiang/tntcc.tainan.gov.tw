@@ -1,0 +1,16 @@
+{
+    "eventId": "232233",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "台南市政府文化局給水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.19845838533304",
+    "eventWgsy": "22.98872360070443",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-17T10:43:29+08:00",
+    "atisUpdateTime": "2026-08-17T10:59:46+08:00"
+}
