@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI02436",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市東區新樓街與前鋒路",
+    "eventWgsx": "120.2128490945589",
+    "eventWgsy": "22.989695738049",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-17T10:44:45+08:00",
+    "atisUpdateTime": "2026-08-17T16:59:25+08:00"
+}

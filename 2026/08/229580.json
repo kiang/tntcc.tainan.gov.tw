@@ -1,0 +1,16 @@
+{
+    "eventId": "229580",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "修配管(S2D510055-S2L553003)",
+    "eventTownName": "柳營區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.36669956838855",
+    "eventWgsy": "23.255459701545682",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-17T16:43:06+08:00",
+    "atisUpdateTime": "2026-08-17T16:59:25+08:00"
+}
