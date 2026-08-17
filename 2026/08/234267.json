@@ -1,16 +1,16 @@
 {
-    "eventId": "231357",
+    "eventId": "234267",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "永康所113-114年管線設備維修工程",
+    "eventContent": "銜接用戶管",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2142792739599",
-    "eventWgsy": "23.02299367719856",
+    "eventWgsx": "120.25867614318665",
+    "eventWgsy": "23.014097549653915",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T11:18:42+08:00",
+    "eventHappenTime": "2026-08-17T13:04:01+08:00",
     "atisUpdateTime": "2026-08-17T13:14:58+08:00"
 }
