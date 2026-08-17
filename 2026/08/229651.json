@@ -1,16 +1,16 @@
 {
-    "eventId": "234475",
+    "eventId": "229651",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5260536交通部高速公路局第二新建工程分局第三工務所線路遷移",
+    "eventContent": "114年新市所用戶新裝-臺南市安定區公所",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2294591054983",
-    "eventWgsy": "23.08379782844638",
+    "eventWgsx": "120.22810596149101",
+    "eventWgsy": "23.08586693484241",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T09:21:03+08:00",
+    "eventHappenTime": "2026-08-17T12:20:18+08:00",
     "atisUpdateTime": "2026-08-17T12:29:38+08:00"
 }
