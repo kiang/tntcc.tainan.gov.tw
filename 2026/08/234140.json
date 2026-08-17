@@ -1,16 +1,16 @@
 {
-    "eventId": "233510",
+    "eventId": "234140",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
+    "eventContent": "臺南市安平污水下水道系統大同分區分支管網及用戶接管工程第三標",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16922859636819",
-    "eventWgsy": "22.999592801442386",
+    "eventWgsx": "120.15138858723643",
+    "eventWgsy": "22.996984161312504",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T08:22:12+08:00",
+    "eventHappenTime": "2026-08-17T08:35:37+08:00",
     "atisUpdateTime": "2026-08-17T08:44:45+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "233871",
+    "eventId": "232631",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "新營區東興十街等汰換管線工程",
+    "eventContent": "114年新營所用戶用水設備新(改)裝工作勞務採購(周新峰\/開口契約)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32525529066638",
-    "eventWgsy": "23.31888132933098",
+    "eventWgsx": "120.27594845794444",
+    "eventWgsy": "23.264242229316054",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T08:13:20+08:00",
+    "eventHappenTime": "2026-08-17T08:34:00+08:00",
     "atisUpdateTime": "2026-08-17T08:44:45+08:00"
 }
