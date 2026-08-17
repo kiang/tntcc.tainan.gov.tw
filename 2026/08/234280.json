@@ -1,16 +1,16 @@
 {
-    "eventId": "233846",
+    "eventId": "234280",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年新營所用戶用水設備新(改)裝工作勞務採購(蔡秋碧\/開口契約)",
+    "eventContent": "114年-台南市政府體育局(甲管路7260275)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32152340124291",
-    "eventWgsy": "23.311168541981644",
+    "eventWgsx": "120.31388514421005",
+    "eventWgsy": "23.3107075288655",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T08:32:55+08:00",
+    "eventHappenTime": "2026-08-17T08:47:30+08:00",
     "atisUpdateTime": "2026-08-17T08:59:49+08:00"
 }

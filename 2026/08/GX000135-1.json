@@ -1,16 +1,16 @@
 {
-    "eventId": "GX00073-1",
+    "eventId": "GX000135-1",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "小東路 裕永路至北門路(西向) 發生壅塞",
+    "eventContent": "中正南路(新中街-中正路) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.239816588194",
-    "eventWgsy": "22.99854161427409",
+    "eventWgsx": "120.24392151571662",
+    "eventWgsy": "23.041705086602462",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T07:46:26+08:00",
+    "eventHappenTime": "2026-08-17T08:51:25+08:00",
     "atisUpdateTime": "2026-08-17T09:00:02+08:00"
 }
