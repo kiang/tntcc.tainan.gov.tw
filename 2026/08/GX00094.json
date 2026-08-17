@@ -1,8 +1,8 @@
 {
     "eventId": "GX00094",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "新港社大道 環西路至中正北路(南向) 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "新港社大道 環西路至中正北路(南向) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T18:31:25+08:00",
-    "atisUpdateTime": "2026-08-17T18:44:41+08:00"
+    "eventHappenTime": "2026-08-17T18:46:28+08:00",
+    "atisUpdateTime": "2026-08-17T18:59:53+08:00"
 }
