@@ -1,16 +1,16 @@
 {
-    "eventId": "GX300003",
+    "eventId": "GX00090-1",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "裕永路 (裕農變電所至裕農路) 發生壅塞",
+    "eventContent": "北外環 長和路至南科聯絡道(西向) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.2410454093617",
-    "eventWgsy": "22.990388108302202",
+    "eventWgsx": "120.27220717157829",
+    "eventWgsy": "23.061251062547377",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T17:56:27+08:00",
+    "eventHappenTime": "2026-08-17T17:46:35+08:00",
     "atisUpdateTime": "2026-08-17T17:59:37+08:00"
 }
