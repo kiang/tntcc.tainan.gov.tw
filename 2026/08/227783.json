@@ -1,16 +1,16 @@
 {
-    "eventId": "229947",
+    "eventId": "227783",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年新市所用戶新裝-辰驊國際",
+    "eventContent": "114年新市所用戶新裝-許富雄",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22680624401457",
-    "eventWgsy": "23.083009578183873",
+    "eventWgsx": "120.21489576072601",
+    "eventWgsy": "23.078413736208496",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-17T13:40:05+08:00",
+    "eventHappenTime": "2026-08-17T15:15:53+08:00",
     "atisUpdateTime": "2026-08-17T15:29:30+08:00"
 }
