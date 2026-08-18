@@ -1,16 +1,16 @@
 {
-    "eventId": "233282",
+    "eventId": "234258",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "6260428臺南市仁德區公所用戶申請變壓器遷移",
+    "eventContent": "7260059專成國際股份有限公司新設用電",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21657152279343",
-    "eventWgsy": "22.947382616155018",
+    "eventWgsx": "120.21164415437356",
+    "eventWgsy": "22.981256030824735",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:55:55+08:00",
+    "eventHappenTime": "2026-08-18T09:36:04+08:00",
     "atisUpdateTime": "2026-08-18T09:44:12+08:00"
 }
