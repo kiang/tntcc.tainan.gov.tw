@@ -1,16 +1,16 @@
 {
-    "eventId": "234160",
+    "eventId": "208907",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "安南區安和路四段128巷新設管線工程",
+    "eventContent": "銜接用戶管--毛建棠",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21875978453949",
-    "eventWgsy": "23.05301309980297",
+    "eventWgsx": "120.17460083946833",
+    "eventWgsy": "23.06904957227428",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:03:27+08:00",
+    "eventHappenTime": "2026-08-18T08:04:49+08:00",
     "atisUpdateTime": "2026-08-18T08:14:41+08:00"
 }
