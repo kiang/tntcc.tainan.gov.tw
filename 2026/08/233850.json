@@ -1,16 +1,16 @@
 {
-    "eventId": "210596",
+    "eventId": "233850",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期工程主、次幹管第三標",
+    "eventContent": "銜接用戶管--陸惠卿",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22748998115789",
-    "eventWgsy": "22.969675573771223",
+    "eventWgsx": "120.22679054413986",
+    "eventWgsy": "22.976403659105916",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:58:53+08:00",
+    "eventHappenTime": "2026-08-18T15:05:50+08:00",
     "atisUpdateTime": "2026-08-18T15:14:32+08:00"
 }
