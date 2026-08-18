@@ -1,16 +1,16 @@
 {
-    "eventId": "233871",
+    "eventId": "228050",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "新營區東興十街等汰換管線工程",
+    "eventContent": "114年-市區巡修B班(甲管路C250089)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32525529066638",
-    "eventWgsy": "23.31888132933098",
+    "eventWgsx": "120.31229020696733",
+    "eventWgsy": "23.311189581231336",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:14:44+08:00",
+    "eventHappenTime": "2026-08-18T08:26:52+08:00",
     "atisUpdateTime": "2026-08-18T08:44:50+08:00"
 }
