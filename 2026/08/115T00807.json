@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00807",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "佳里區",
+    "eventSource": "PWB",
+    "eventLocation": "722台灣臺南市佳里區中興街273號",
+    "eventWgsx": "120.1812010998989",
+    "eventWgsy": "23.154876621590958",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-18T10:05:34+08:00",
+    "atisUpdateTime": "2026-08-18T10:14:24+08:00"
+}
