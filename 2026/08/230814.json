@@ -1,16 +1,16 @@
 {
-    "eventId": "228503",
+    "eventId": "230814",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管--三鑫龍建設(林依靜)",
+    "eventContent": "銜接用戶管--品泓建設(閻淑惠)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.1651864824847",
-    "eventWgsy": "23.05459654071745",
+    "eventWgsx": "120.16731693691447",
+    "eventWgsy": "23.053026474187384",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T10:08:28+08:00",
+    "eventHappenTime": "2026-08-18T10:36:07+08:00",
     "atisUpdateTime": "2026-08-18T10:44:43+08:00"
 }
