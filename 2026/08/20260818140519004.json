@@ -1,16 +1,16 @@
 {
-    "eventId": "20260818131702019",
+    "eventId": "20260818140519004",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
     "eventTownName": "安平區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.1575587532816",
-    "eventWgsy": "22.98806597016981",
+    "eventWgsx": "120.18211015724349",
+    "eventWgsy": "22.995939104983524",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T13:18:30+08:00",
+    "eventHappenTime": "2026-08-18T14:06:06+08:00",
     "atisUpdateTime": "2026-08-18T14:14:54+08:00"
 }
