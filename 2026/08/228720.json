@@ -1,9 +1,9 @@
 {
-    "eventId": "223602",
+    "eventId": "228720",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "(S2L253077)臺南三客網114年度電信零星積點發包工程",
-    "eventTownName": "七股區",
+    "eventContent": "(S2D486240)臺南三客網114年度電信零星積點發包工程相關工作單 : S2L257082",
+    "eventTownName": "北門區",
     "eventSource": "PWB",
     "eventLocation": "",
     "eventWgsx": "120.17713460769413",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:51:14+08:00",
+    "eventHappenTime": "2026-08-18T15:07:54+08:00",
     "atisUpdateTime": "2026-08-18T15:29:39+08:00"
 }

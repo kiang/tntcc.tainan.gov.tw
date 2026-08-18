@@ -1,0 +1,16 @@
+{
+    "eventId": "20260818152231003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "一般(集合)住宅",
+    "eventTownName": "善化區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.29443441447077",
+    "eventWgsy": "23.129387105529563",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-18T15:23:54+08:00",
+    "atisUpdateTime": "2026-08-18T15:29:03+08:00"
+}
