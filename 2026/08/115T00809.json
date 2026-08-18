@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00809",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "709台灣臺南市安南區本原街二段272號",
+    "eventWgsx": "120.18396109866484",
+    "eventWgsy": "23.055407691769922",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-18T13:26:09+08:00",
+    "atisUpdateTime": "2026-08-18T13:29:35+08:00"
+}
