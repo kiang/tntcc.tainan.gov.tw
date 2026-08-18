@@ -1,16 +1,16 @@
 {
-    "eventId": "115T00805",
+    "eventId": "115T00808",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "漏水",
     "eventTownName": "永康區",
     "eventSource": "PWB",
-    "eventLocation": "710台灣臺南市永康區永安路113之1號",
-    "eventWgsx": "120.24571909101469",
-    "eventWgsy": "23.044070699576526",
+    "eventLocation": "710台灣臺南市永康區三村二街10號",
+    "eventWgsx": "120.23874509186827",
+    "eventWgsy": "23.044422699349894",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:51:53+08:00",
+    "eventHappenTime": "2026-08-18T11:05:55+08:00",
     "atisUpdateTime": "2026-08-18T11:14:59+08:00"
 }
