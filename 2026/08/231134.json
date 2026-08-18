@@ -1,16 +1,16 @@
 {
-    "eventId": "233905",
+    "eventId": "231134",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南孝智161kV及22.8kV共同路徑電纜管路挖埋土木工程",
+    "eventContent": "(S2D586067)臺南三客網115年度電信零星積點發包工程(新工法",
     "eventTownName": "學甲區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18267807336493",
-    "eventWgsy": "23.23884660940069",
+    "eventWgsx": "120.17713460769413",
+    "eventWgsy": "23.16540943869045",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T09:03:10+08:00",
+    "eventHappenTime": "2026-08-18T11:46:46+08:00",
     "atisUpdateTime": "2026-08-18T11:59:21+08:00"
 }
