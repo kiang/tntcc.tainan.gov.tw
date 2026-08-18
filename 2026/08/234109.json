@@ -1,16 +1,16 @@
 {
-    "eventId": "232580",
+    "eventId": "234109",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "污水遷移管道(S2L553362-S2L553364)",
+    "eventContent": "修配管(S2D510257-S2L552149) ",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.28015349732114",
-    "eventWgsy": "23.29511604488979",
+    "eventWgsx": "120.27634587931223",
+    "eventWgsy": "23.29457393864018",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T14:26:47+08:00",
+    "eventHappenTime": "2026-08-18T15:28:10+08:00",
     "atisUpdateTime": "2026-08-18T15:44:47+08:00"
 }
