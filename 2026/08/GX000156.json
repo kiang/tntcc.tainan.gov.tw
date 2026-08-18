@@ -1,8 +1,8 @@
 {
     "eventId": "GX000156",
     "eventType": "JAM",
-    "eventSubType": "Jam",
-    "eventContent": "中正路(仁義路-中山路) 發生壅塞",
+    "eventSubType": "HeavyJam",
+    "eventContent": "中正路(仁義路-中山路) 發生重度壅塞",
     "eventTownName": "仁德區",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:11:25+08:00",
-    "atisUpdateTime": "2026-08-18T08:14:40+08:00"
+    "eventHappenTime": "2026-08-18T08:26:26+08:00",
+    "atisUpdateTime": "2026-08-18T08:29:43+08:00"
 }

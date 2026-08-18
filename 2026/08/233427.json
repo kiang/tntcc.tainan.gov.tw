@@ -1,16 +1,16 @@
 {
-    "eventId": "208907",
+    "eventId": "233427",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管--毛建棠",
-    "eventTownName": "安南區",
+    "eventContent": "戴煌文給水",
+    "eventTownName": "關廟區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17460083946833",
-    "eventWgsy": "23.06904957227428",
+    "eventWgsx": "120.35079033461162",
+    "eventWgsy": "22.894227465416176",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:04:49+08:00",
+    "eventHappenTime": "2026-08-18T08:21:44+08:00",
     "atisUpdateTime": "2026-08-18T08:29:44+08:00"
 }

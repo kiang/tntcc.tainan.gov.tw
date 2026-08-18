@@ -1,16 +1,16 @@
 {
-    "eventId": "230049",
+    "eventId": "211135",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "2260279清景麟地產有限公司表燈新設",
+    "eventContent": "臺南市仁德區污水下水道系統第二期工程主、次幹管第三標",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21886716997471",
-    "eventWgsy": "22.96102560294529",
+    "eventWgsx": "120.22183894539847",
+    "eventWgsy": "22.97064096475539",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:09:30+08:00",
+    "eventHappenTime": "2026-08-18T08:23:08+08:00",
     "atisUpdateTime": "2026-08-18T08:29:44+08:00"
 }
