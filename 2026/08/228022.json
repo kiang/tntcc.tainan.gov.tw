@@ -1,16 +1,16 @@
 {
-    "eventId": "228123",
+    "eventId": "228022",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "C250311設計課零資",
+    "eventContent": "埋設電信用戶引上管",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.13381120123712",
-    "eventWgsy": "23.060000814539503",
+    "eventWgsx": "120.18608625687216",
+    "eventWgsy": "23.040392611477138",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T11:02:54+08:00",
+    "eventHappenTime": "2026-08-18T14:27:18+08:00",
     "atisUpdateTime": "2026-08-18T14:44:18+08:00"
 }
