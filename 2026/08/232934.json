@@ -1,16 +1,16 @@
 {
-    "eventId": "233007",
+    "eventId": "232934",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年麻豆所用戶新(改)裝-案243台南市官田區公所",
+    "eventContent": "115年麻豆所用戶新(改)裝-案317台南市官田區公所",
     "eventTownName": "官田區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.3140077802599",
-    "eventWgsy": "23.199835168982656",
+    "eventWgsx": "120.29736308870835",
+    "eventWgsy": "23.208822829307493",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T15:38:40+08:00",
+    "eventHappenTime": "2026-08-18T18:12:31+08:00",
     "atisUpdateTime": "2026-08-18T18:29:17+08:00"
 }
