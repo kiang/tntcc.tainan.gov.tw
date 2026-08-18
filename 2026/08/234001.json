@@ -1,16 +1,16 @@
 {
-    "eventId": "230049",
+    "eventId": "234001",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "2260279清景麟地產有限公司表燈新設",
+    "eventContent": "銜接用戶管--臺南市東區區公所(林森多目標立體停車場)",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21886716997471",
-    "eventWgsy": "22.96102560294529",
+    "eventWgsx": "120.21757132376914",
+    "eventWgsy": "22.98249443396453",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:09:30+08:00",
+    "eventHappenTime": "2026-08-18T13:45:49+08:00",
     "atisUpdateTime": "2026-08-18T13:59:53+08:00"
 }
