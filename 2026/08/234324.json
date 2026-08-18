@@ -1,16 +1,16 @@
 {
-    "eventId": "231553",
+    "eventId": "234324",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "4260649府居建設有限公司新設",
+    "eventContent": "115年歸仁所特定工廠周邊設置消防栓工程",
     "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.28695830907377",
-    "eventWgsy": "22.969675572609585",
+    "eventWgsx": "120.29195959642432",
+    "eventWgsy": "22.981365249157275",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:57:53+08:00",
+    "eventHappenTime": "2026-08-18T14:22:33+08:00",
     "atisUpdateTime": "2026-08-18T14:29:10+08:00"
 }

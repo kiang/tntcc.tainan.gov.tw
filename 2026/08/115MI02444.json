@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI02444",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安定區",
+    "eventSource": "PWB",
+    "eventLocation": "745台灣臺南市安定區469P+RC",
+    "eventWgsx": "120.23601509283382",
+    "eventWgsy": "23.119650346275066",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-18T09:27:25+08:00",
+    "atisUpdateTime": "2026-08-18T14:29:10+08:00"
+}
