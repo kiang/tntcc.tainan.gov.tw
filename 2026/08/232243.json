@@ -1,16 +1,16 @@
 {
-    "eventId": "233257",
+    "eventId": "232243",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "白河區南94汰換管線工程",
+    "eventContent": "埋設電信配管(S2D521734)",
     "eventTownName": "白河區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.43040907885707",
-    "eventWgsy": "23.356446061170512",
+    "eventWgsx": "120.41456526727777",
+    "eventWgsy": "23.40743156706536",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:48:10+08:00",
+    "eventHappenTime": "2026-08-18T17:30:04+08:00",
     "atisUpdateTime": "2026-08-18T17:44:54+08:00"
 }
