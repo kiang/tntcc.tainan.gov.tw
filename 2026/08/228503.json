@@ -1,16 +1,16 @@
 {
-    "eventId": "234160",
+    "eventId": "228503",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "安南區安和路四段128巷新設管線工程",
+    "eventContent": "銜接用戶管--三鑫龍建設(林依靜)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21875978453949",
-    "eventWgsy": "23.05301309980297",
+    "eventWgsx": "120.1651864824847",
+    "eventWgsy": "23.05459654071745",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:03:27+08:00",
+    "eventHappenTime": "2026-08-18T10:08:28+08:00",
     "atisUpdateTime": "2026-08-18T10:29:34+08:00"
 }
