@@ -1,16 +1,16 @@
 {
-    "eventId": "230049",
+    "eventId": "233409",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "2260279清景麟地產有限公司表燈新設",
+    "eventContent": "埋設電信引上管",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21886716997471",
-    "eventWgsy": "22.96102560294529",
+    "eventWgsx": "120.22575640750352",
+    "eventWgsy": "22.983713608070747",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:09:30+08:00",
+    "eventHappenTime": "2026-08-18T09:02:06+08:00",
     "atisUpdateTime": "2026-08-18T09:15:00+08:00"
 }
