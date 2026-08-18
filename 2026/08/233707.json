@@ -1,16 +1,16 @@
 {
-    "eventId": "233409",
+    "eventId": "233707",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "埋設電信引上管",
-    "eventTownName": "東區",
+    "eventContent": "林永富給水",
+    "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22575640750352",
-    "eventWgsy": "22.983713608070747",
+    "eventWgsx": "120.25908040962076",
+    "eventWgsy": "22.94620973918793",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T09:02:06+08:00",
+    "eventHappenTime": "2026-08-18T11:33:56+08:00",
     "atisUpdateTime": "2026-08-18T11:44:14+08:00"
 }
