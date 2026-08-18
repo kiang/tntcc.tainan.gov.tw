@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00805",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "710台灣臺南市永康區永安路113之1號",
+    "eventWgsx": "120.24571909101469",
+    "eventWgsy": "23.044070699576526",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-18T08:51:53+08:00",
+    "atisUpdateTime": "2026-08-18T08:59:55+08:00"
+}

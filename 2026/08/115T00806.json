@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00806",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "709台灣臺南市安南區海東里海佃路二段與海東二街口",
+    "eventWgsx": "120.19013919768742",
+    "eventWgsy": "23.030646709222975",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-18T08:54:56+08:00",
+    "atisUpdateTime": "2026-08-18T08:59:55+08:00"
+}

@@ -1,16 +1,16 @@
 {
-    "eventId": "230837",
+    "eventId": "223602",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "(S2L554042)臺南三客網115年度電信零星積點發包工程S2L554043銅 S2L554044光",
+    "eventContent": "(S2L253077)臺南三客網114年度電信零星積點發包工程",
     "eventTownName": "七股區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.12992256456337",
-    "eventWgsy": "23.134688353691146",
+    "eventWgsx": "120.17713460769413",
+    "eventWgsy": "23.16540943869045",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T08:47:25+08:00",
+    "eventHappenTime": "2026-08-18T08:51:14+08:00",
     "atisUpdateTime": "2026-08-18T08:59:55+08:00"
 }
