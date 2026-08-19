@@ -1,16 +1,16 @@
 {
-    "eventId": "234475",
+    "eventId": "227981",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5260536交通部高速公路局第二新建工程分局第三工務所線路遷移",
+    "eventContent": "C250249興悅地產開發股份有公司新設",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2294591054983",
-    "eventWgsy": "23.08379782844638",
+    "eventWgsx": "120.24231606535663",
+    "eventWgsy": "23.093708293815627",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T08:59:50+08:00",
+    "eventHappenTime": "2026-08-19T11:27:25+08:00",
     "atisUpdateTime": "2026-08-19T11:44:52+08:00"
 }
