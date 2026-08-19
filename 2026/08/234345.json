@@ -1,16 +1,16 @@
 {
-    "eventId": "234134",
+    "eventId": "234345",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管--陳聖博",
+    "eventContent": "配合污水水道管線遷移",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22591969446388",
-    "eventWgsy": "22.974117832379875",
+    "eventWgsx": "120.23150210083034",
+    "eventWgsy": "22.963079076827515",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T09:00:11+08:00",
+    "eventHappenTime": "2026-08-19T09:09:35+08:00",
     "atisUpdateTime": "2026-08-19T09:29:34+08:00"
 }

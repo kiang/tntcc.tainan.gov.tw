@@ -1,16 +1,16 @@
 {
-    "eventId": "234258",
+    "eventId": "230756",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "7260059專成國際股份有限公司新設用電",
+    "eventContent": "雲嘉南快速公路交控設備改善工程",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21164415437356",
-    "eventWgsy": "22.981256030824735",
+    "eventWgsx": "120.19559834496887",
+    "eventWgsy": "22.935499296068873",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T08:35:53+08:00",
+    "eventHappenTime": "2026-08-19T09:11:27+08:00",
     "atisUpdateTime": "2026-08-19T09:29:34+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "228510",
+    "eventId": "233278",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期分支管網及用戶接管工程第10標",
+    "eventContent": "6260428臺南市仁德區公所用戶申請變壓器遷移",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23064100324281",
-    "eventWgsy": "22.958591385058476",
+    "eventWgsx": "120.21671560147473",
+    "eventWgsy": "22.94737046877661",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T07:29:59+08:00",
+    "eventHappenTime": "2026-08-19T09:07:27+08:00",
     "atisUpdateTime": "2026-08-19T09:29:34+08:00"
 }
