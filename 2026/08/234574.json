@@ -1,16 +1,16 @@
 {
-    "eventId": "232061",
+    "eventId": "234574",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5260130臺南市公共運輸處新設用電",
+    "eventContent": "115年新市所用戶新裝-李金燕",
     "eventTownName": "新化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.30705303900278",
-    "eventWgsy": "23.03875757804941",
+    "eventWgsx": "120.30886751656983",
+    "eventWgsy": "23.049429390601173",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T13:14:37+08:00",
+    "eventHappenTime": "2026-08-19T15:55:30+08:00",
     "atisUpdateTime": "2026-08-19T15:59:26+08:00"
 }
