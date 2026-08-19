@@ -1,16 +1,16 @@
 {
-    "eventId": "226989",
+    "eventId": "233265",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市永康區污水下水道系統第二期(PA分區)管線及用戶接管工程第一標",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要提升人手孔",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25168808950426",
-    "eventWgsy": "23.02076145427804",
+    "eventWgsx": "120.27440169732947",
+    "eventWgsy": "23.017559788904155",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T08:10:36+08:00",
+    "eventHappenTime": "2026-08-19T10:42:44+08:00",
     "atisUpdateTime": "2026-08-19T10:59:31+08:00"
 }

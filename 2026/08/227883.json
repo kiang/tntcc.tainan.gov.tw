@@ -1,16 +1,16 @@
 {
-    "eventId": "233119",
+    "eventId": "227883",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": " 5260389東台英建設有限公司新設(民眾緊急用電需求)",
+    "eventContent": "B250374邰安開發建設有限公司新設",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23121779747282",
-    "eventWgsy": "23.093216683580472",
+    "eventWgsx": "120.19633507207182",
+    "eventWgsy": "23.031813250779425",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T09:03:25+08:00",
+    "eventHappenTime": "2026-08-19T10:53:02+08:00",
     "atisUpdateTime": "2026-08-19T10:59:31+08:00"
 }
