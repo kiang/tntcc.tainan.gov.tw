@@ -1,0 +1,16 @@
+{
+    "eventId": "234440",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "中一食品水漆林廠供水管線工程",
+    "eventTownName": "六甲區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.34471397506879",
+    "eventWgsy": "23.246247485111056",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-19T09:43:51+08:00",
+    "atisUpdateTime": "2026-08-19T09:59:55+08:00"
+}
