@@ -1,16 +1,16 @@
 {
-    "eventId": "230049",
+    "eventId": "232219",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "2260279清景麟地產有限公司表燈新設",
+    "eventContent": "5260338台達電子工業股份有限公司汽車充電樁新設",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21886716997471",
-    "eventWgsy": "22.96102560294529",
+    "eventWgsx": "120.2368604479495",
+    "eventWgsy": "22.96690599655189",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T09:00:36+08:00",
+    "eventHappenTime": "2026-08-19T09:32:49+08:00",
     "atisUpdateTime": "2026-08-19T09:44:46+08:00"
 }

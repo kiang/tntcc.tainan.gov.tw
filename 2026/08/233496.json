@@ -1,16 +1,16 @@
 {
-    "eventId": "226036",
+    "eventId": "233496",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區太子路高速公路涵洞",
+    "eventContent": "配合水利局下水道第二期(永善二街,文化路共2處)",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24805398428319",
-    "eventWgsy": "22.99078432185029",
+    "eventWgsx": "120.2601574108764",
+    "eventWgsy": "23.016474404217583",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T03:22:00+08:00",
+    "eventHappenTime": "2026-08-19T09:29:26+08:00",
     "atisUpdateTime": "2026-08-19T09:44:46+08:00"
 }
