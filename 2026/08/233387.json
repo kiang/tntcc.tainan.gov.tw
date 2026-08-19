@@ -1,16 +1,16 @@
 {
-    "eventId": "233496",
+    "eventId": "233387",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合水利局下水道第二期(永善二街,文化路共2處)",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要提升人手孔",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2601574108764",
-    "eventWgsy": "23.016474404217583",
+    "eventWgsx": "120.26587639830517",
+    "eventWgsy": "23.008172003938398",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T09:29:26+08:00",
+    "eventHappenTime": "2026-08-19T11:19:40+08:00",
     "atisUpdateTime": "2026-08-19T11:29:44+08:00"
 }
