@@ -1,16 +1,16 @@
 {
-    "eventId": "234325",
+    "eventId": "232068",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所特定工廠周邊設置消防栓工程",
+    "eventContent": "5260185臺南市公共運輸處新設用電",
     "eventTownName": "新化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.297071420723",
-    "eventWgsy": "23.044082732361126",
+    "eventWgsx": "120.30558294084705",
+    "eventWgsy": "23.041809470806204",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T09:14:50+08:00",
+    "eventHappenTime": "2026-08-19T14:37:12+08:00",
     "atisUpdateTime": "2026-08-19T14:59:48+08:00"
 }

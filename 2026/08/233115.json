@@ -1,16 +1,16 @@
 {
-    "eventId": "233496",
+    "eventId": "233115",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合水利局下水道第二期(永善二街,文化路共2處)",
+    "eventContent": "永康清管站與專管區管線拆除及改管工作",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2601574108764",
-    "eventWgsy": "23.016474404217583",
+    "eventWgsx": "120.25399645555612",
+    "eventWgsy": "23.041105761597496",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T09:29:26+08:00",
+    "eventHappenTime": "2026-08-19T14:44:03+08:00",
     "atisUpdateTime": "2026-08-19T14:59:48+08:00"
 }
