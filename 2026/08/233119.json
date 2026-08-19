@@ -1,16 +1,16 @@
 {
-    "eventId": "234475",
+    "eventId": "233119",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5260536交通部高速公路局第二新建工程分局第三工務所線路遷移",
+    "eventContent": " 5260389東台英建設有限公司新設(民眾緊急用電需求)",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2294591054983",
-    "eventWgsy": "23.08379782844638",
+    "eventWgsx": "120.23121779747282",
+    "eventWgsy": "23.093216683580472",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T08:59:50+08:00",
+    "eventHappenTime": "2026-08-19T09:03:25+08:00",
     "atisUpdateTime": "2026-08-19T09:14:23+08:00"
 }

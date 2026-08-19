@@ -1,16 +1,16 @@
 {
-    "eventId": "232038",
+    "eventId": "234134",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "曾正宏給水",
-    "eventTownName": "仁德區",
+    "eventContent": "銜接用戶管--陳聖博",
+    "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25592559990955",
-    "eventWgsy": "22.9371315465891",
+    "eventWgsx": "120.22591969446388",
+    "eventWgsy": "22.974117832379875",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T08:40:26+08:00",
+    "eventHappenTime": "2026-08-19T09:00:11+08:00",
     "atisUpdateTime": "2026-08-19T09:14:23+08:00"
 }

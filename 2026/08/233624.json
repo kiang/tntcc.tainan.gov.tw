@@ -1,16 +1,16 @@
 {
-    "eventId": "231553",
+    "eventId": "233624",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "4260649府居建設有限公司新設",
+    "eventContent": "臺南都會區北外環道路第2期新建工程交通監控系統代辦工程(開口契約)",
     "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.28695830907377",
-    "eventWgsy": "22.969675572609585",
+    "eventWgsx": "120.2863057035655",
+    "eventWgsy": "22.922564299824295",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T08:44:48+08:00",
+    "eventHappenTime": "2026-08-19T09:00:42+08:00",
     "atisUpdateTime": "2026-08-19T09:14:23+08:00"
 }
