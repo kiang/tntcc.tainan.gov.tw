@@ -1,16 +1,16 @@
 {
-    "eventId": "234325",
+    "eventId": "234326",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "115年新市所特定工廠周邊設置消防栓工程",
     "eventTownName": "新化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.297071420723",
-    "eventWgsy": "23.044082732361126",
+    "eventWgsx": "120.32571726506464",
+    "eventWgsy": "23.048768968707662",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T09:14:50+08:00",
+    "eventHappenTime": "2026-08-19T13:44:56+08:00",
     "atisUpdateTime": "2026-08-19T13:59:19+08:00"
 }
