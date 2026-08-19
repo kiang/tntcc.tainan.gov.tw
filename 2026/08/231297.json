@@ -1,16 +1,16 @@
 {
-    "eventId": "234160",
+    "eventId": "231297",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "安南區安和路四段128巷新設管線工程",
+    "eventContent": "4260381源德建設有限公司新設用電",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21875978453949",
-    "eventWgsy": "23.05301309980297",
+    "eventWgsx": "120.21503830044804",
+    "eventWgsy": "23.055779232765616",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T08:13:02+08:00",
+    "eventHappenTime": "2026-08-19T13:28:31+08:00",
     "atisUpdateTime": "2026-08-19T13:44:07+08:00"
 }
