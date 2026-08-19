@@ -1,16 +1,16 @@
 {
-    "eventId": "234134",
+    "eventId": "233705",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管--陳聖博",
-    "eventTownName": "東區",
+    "eventContent": "埋設電信配管",
+    "eventTownName": "中西區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22591969446388",
-    "eventWgsy": "22.974117832379875",
+    "eventWgsx": "120.2020625449676",
+    "eventWgsy": "22.985089865323346",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T09:00:11+08:00",
+    "eventHappenTime": "2026-08-19T16:21:03+08:00",
     "atisUpdateTime": "2026-08-19T16:29:47+08:00"
 }
