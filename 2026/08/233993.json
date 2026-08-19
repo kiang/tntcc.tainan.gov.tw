@@ -1,16 +1,16 @@
 {
-    "eventId": "233044",
+    "eventId": "233993",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年永康所用戶用水設備新(改)裝工作勞務採購",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要提升人手孔",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24577433763507",
-    "eventWgsy": "23.04920371159052",
+    "eventWgsx": "120.25578191561432",
+    "eventWgsy": "23.028864675701897",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T08:08:35+08:00",
+    "eventHappenTime": "2026-08-19T14:32:09+08:00",
     "atisUpdateTime": "2026-08-19T14:44:39+08:00"
 }
