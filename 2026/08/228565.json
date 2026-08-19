@@ -1,16 +1,16 @@
 {
-    "eventId": "232219",
+    "eventId": "228565",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5260338台達電子工業股份有限公司汽車充電樁新設",
+    "eventContent": "1260135設計課(日盛升建設興業有限公司)零資",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2368604479495",
-    "eventWgsy": "22.96690599655189",
+    "eventWgsx": "120.24714884345781",
+    "eventWgsy": "22.98927349135206",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T09:32:49+08:00",
+    "eventHappenTime": "2026-08-19T13:21:32+08:00",
     "atisUpdateTime": "2026-08-19T13:29:57+08:00"
 }
