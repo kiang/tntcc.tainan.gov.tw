@@ -1,16 +1,16 @@
 {
-    "eventId": "234475",
+    "eventId": "232436",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5260536交通部高速公路局第二新建工程分局第三工務所線路遷移",
+    "eventContent": "115年新市所用戶新裝-萬善建設",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2294591054983",
-    "eventWgsy": "23.08379782844638",
+    "eventWgsx": "120.25569517661857",
+    "eventWgsy": "23.129016892448323",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T08:59:50+08:00",
+    "eventHappenTime": "2026-08-19T10:24:27+08:00",
     "atisUpdateTime": "2026-08-19T10:29:12+08:00"
 }
