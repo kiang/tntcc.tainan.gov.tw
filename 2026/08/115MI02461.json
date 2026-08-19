@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI02461",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "後壁區",
+    "eventSource": "PWB",
+    "eventLocation": "731台灣臺南市後壁區菁豐里前菁寮3之3號",
+    "eventWgsx": "120.3457590812695",
+    "eventWgsy": "23.3765274646832",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-19T10:45:12+08:00",
+    "atisUpdateTime": "2026-08-19T15:14:57+08:00"
+}
