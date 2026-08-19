@@ -1,0 +1,16 @@
+{
+    "eventId": "GX300021",
+    "eventType": "JAM",
+    "eventSubType": "HeavyJam",
+    "eventContent": "府連路 (五妃街至大同路) 發生重度壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.209763615457",
+    "eventWgsy": "22.982577991106364",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-19T17:46:35+08:00",
+    "atisUpdateTime": "2026-08-19T18:00:03+08:00"
+}

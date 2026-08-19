@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000137",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "中正北路(交流道-蔦松二街) 發生壅塞",
+    "eventTownName": "永康區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.25075379734179",
+    "eventWgsy": "23.041843452579318",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-19T17:46:35+08:00",
+    "atisUpdateTime": "2026-08-19T18:00:03+08:00"
+}

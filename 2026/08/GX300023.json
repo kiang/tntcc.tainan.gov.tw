@@ -1,0 +1,16 @@
+{
+    "eventId": "GX300023",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "府連路 (慶東街至大同路) 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.21530227360748",
+    "eventWgsy": "22.985162641720585",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-19T17:56:31+08:00",
+    "atisUpdateTime": "2026-08-19T18:00:03+08:00"
+}
