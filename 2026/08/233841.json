@@ -1,16 +1,16 @@
 {
-    "eventId": "228641",
+    "eventId": "233841",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年新市所用戶新裝-商捷建設",
+    "eventContent": "銜接用戶管(NFQ11K5D2D)",
     "eventTownName": "善化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.28000270052748",
-    "eventWgsy": "23.145981633839583",
+    "eventWgsx": "120.28197471397493",
+    "eventWgsy": "23.13462349230125",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T07:47:32+08:00",
+    "eventHappenTime": "2026-08-19T08:07:35+08:00",
     "atisUpdateTime": "2026-08-19T08:29:11+08:00"
 }
