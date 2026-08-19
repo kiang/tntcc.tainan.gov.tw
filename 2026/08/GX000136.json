@@ -1,8 +1,8 @@
 {
     "eventId": "GX000136",
     "eventType": "JAM",
-    "eventSubType": "Jam",
-    "eventContent": "中正北路(新行街-318巷) 發生壅塞",
+    "eventSubType": "HeavyJam",
+    "eventContent": "中正北路(新行街-318巷) 發生重度壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-19T16:41:25+08:00",
-    "atisUpdateTime": "2026-08-19T17:15:03+08:00"
+    "eventHappenTime": "2026-08-19T17:16:26+08:00",
+    "atisUpdateTime": "2026-08-19T17:29:38+08:00"
 }
