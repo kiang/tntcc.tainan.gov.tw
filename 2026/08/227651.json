@@ -1,16 +1,16 @@
 {
-    "eventId": "228124",
+    "eventId": "227651",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "C250311設計課零資",
+    "eventContent": "C250083瀚升建設開發有限公司新設",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.13401367733219",
-    "eventWgsy": "23.058631744526917",
+    "eventWgsx": "120.12836699567332",
+    "eventWgsy": "23.063544046598146",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-20T09:21:21+08:00",
+    "eventHappenTime": "2026-08-20T11:16:14+08:00",
     "atisUpdateTime": "2026-08-20T11:29:52+08:00"
 }
