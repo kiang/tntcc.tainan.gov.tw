@@ -1,16 +1,16 @@
 {
-    "eventId": "233873",
+    "eventId": "232603",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "新營區東興十街等汰換管線工程",
+    "eventContent": "114年-中華電信股份有公司台南營運處(甲管路6260011)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32373891741473",
-    "eventWgsy": "23.318826814197017",
+    "eventWgsx": "120.31553863303752",
+    "eventWgsy": "23.30369311640846",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-20T08:07:12+08:00",
+    "eventHappenTime": "2026-08-20T08:19:26+08:00",
     "atisUpdateTime": "2026-08-20T08:29:50+08:00"
 }
