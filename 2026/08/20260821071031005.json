@@ -1,16 +1,16 @@
 {
-    "eventId": "20260821063215005",
+    "eventId": "20260821071031005",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "麻豆區",
+    "eventTownName": "安南區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.25941934046477",
-    "eventWgsy": "23.17652739644267",
+    "eventWgsx": "120.22275213787405",
+    "eventWgsy": "23.069678704541964",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-21T06:32:50+08:00",
+    "eventHappenTime": "2026-08-21T07:10:44+08:00",
     "atisUpdateTime": "2026-08-21T07:14:42+08:00"
 }
