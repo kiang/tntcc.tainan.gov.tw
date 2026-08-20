@@ -1,8 +1,8 @@
 {
     "eventId": "GX000166",
     "eventType": "JAM",
-    "eventSubType": "Jam",
-    "eventContent": "東門路(自由路-東成街) 發生壅塞",
+    "eventSubType": "HeavyJam",
+    "eventContent": "東門路(自由路-東成街) 發生重度壅塞",
     "eventTownName": "仁德",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-20T17:36:27+08:00",
-    "atisUpdateTime": "2026-08-20T17:59:38+08:00"
+    "eventHappenTime": "2026-08-20T18:06:27+08:00",
+    "atisUpdateTime": "2026-08-20T18:14:48+08:00"
 }
