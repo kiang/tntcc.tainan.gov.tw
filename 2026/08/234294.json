@@ -1,16 +1,16 @@
 {
-    "eventId": "234273",
+    "eventId": "234294",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "115年新市所消防栓增設工程",
-    "eventTownName": "安定區",
+    "eventTownName": "善化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22985614956168",
-    "eventWgsy": "23.091521564370357",
+    "eventWgsx": "120.32111200438547",
+    "eventWgsy": "23.110600659729503",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-20T08:58:01+08:00",
+    "eventHappenTime": "2026-08-20T13:49:18+08:00",
     "atisUpdateTime": "2026-08-20T14:00:03+08:00"
 }

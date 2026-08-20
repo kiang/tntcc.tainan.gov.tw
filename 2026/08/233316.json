@@ -1,16 +1,16 @@
 {
-    "eventId": "210596",
+    "eventId": "233316",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期工程主、次幹管第三標",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要提升人手孔",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22748998115789",
-    "eventWgsy": "22.969675573771223",
+    "eventWgsx": "120.22844058855932",
+    "eventWgsy": "22.98605793565876",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-20T10:15:04+08:00",
+    "eventHappenTime": "2026-08-20T13:40:45+08:00",
     "atisUpdateTime": "2026-08-20T14:00:03+08:00"
 }
