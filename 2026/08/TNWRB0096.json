@@ -1,0 +1,16 @@
+{
+    "eventId": "TNWRB0096",
+    "eventType": "DISASTER",
+    "eventSubType": "",
+    "eventContent": "淹水超過 10.0 公分",
+    "eventTownName": "永康區",
+    "eventSource": "WRB_FLOODREALTIME",
+    "eventLocation": "永康區-自強路140巷18號前(編號137)",
+    "eventWgsx": "120.24906",
+    "eventWgsy": "23.024245",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-21T13:37:02+08:00",
+    "atisUpdateTime": "2026-08-21T13:44:19+08:00"
+}
