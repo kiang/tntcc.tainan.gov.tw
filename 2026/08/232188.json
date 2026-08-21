@@ -1,16 +1,16 @@
 {
-    "eventId": "233908",
+    "eventId": "232188",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南孝智161kV及22.8kV共同路徑電纜管路挖埋土木工程",
+    "eventContent": "114年度-財團法人台南市祭祀公業羅寓 羅昭彥(乙管路5260029)",
     "eventTownName": "學甲區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18644029177773",
-    "eventWgsy": "23.237054684938077",
+    "eventWgsx": "120.18425752594631",
+    "eventWgsy": "23.23414754192943",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-21T09:13:39+08:00",
+    "eventHappenTime": "2026-08-21T09:11:36+08:00",
     "atisUpdateTime": "2026-08-21T09:29:22+08:00"
 }
