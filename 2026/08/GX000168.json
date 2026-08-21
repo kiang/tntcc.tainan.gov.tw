@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000167",
+    "eventId": "GX000168",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "中華東路(小東路-東門路) 發生壅塞",
+    "eventContent": "中華東路(東門路-小東路) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.23458596804663",
-    "eventWgsy": "22.998286347758132",
+    "eventWgsx": "120.2295955389477",
+    "eventWgsy": "22.981135808543797",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-21T15:50:25+08:00",
+    "eventHappenTime": "2026-08-21T18:01:25+08:00",
     "atisUpdateTime": "2026-08-21T18:15:00+08:00"
 }
