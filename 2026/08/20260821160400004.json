@@ -1,0 +1,16 @@
+{
+    "eventId": "20260821160400004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "商店(量販店)",
+    "eventTownName": "新化區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.30811673652968",
+    "eventWgsy": "23.03583927426776",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-21T16:05:02+08:00",
+    "atisUpdateTime": "2026-08-21T16:14:36+08:00"
+}

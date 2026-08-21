@@ -1,16 +1,16 @@
 {
-    "eventId": "20260821155823005",
+    "eventId": "20260821160958005",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "新營區",
+    "eventTownName": "鹽水區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.31344575260978",
-    "eventWgsy": "23.301247446652887",
+    "eventWgsx": "120.26920480193256",
+    "eventWgsy": "23.312822114139337",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-21T15:59:05+08:00",
+    "eventHappenTime": "2026-08-21T16:10:24+08:00",
     "atisUpdateTime": "2026-08-21T16:14:36+08:00"
 }
