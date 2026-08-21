@@ -1,16 +1,16 @@
 {
-    "eventId": "234327",
+    "eventId": "233421",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所特定工廠周邊設置消防栓工程",
+    "eventContent": "2260411亮泉工業有限公司新增設",
     "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.31891328489223",
-    "eventWgsy": "23.09676550852882",
+    "eventWgsx": "120.32592316464356",
+    "eventWgsy": "23.082495323557872",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-21T09:03:44+08:00",
+    "eventHappenTime": "2026-08-21T10:16:04+08:00",
     "atisUpdateTime": "2026-08-21T10:29:41+08:00"
 }
