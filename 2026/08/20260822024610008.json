@@ -1,16 +1,16 @@
 {
-    "eventId": "20260822011622002",
+    "eventId": "20260822024610008",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "誤(謊)報",
-    "eventTownName": "仁德區",
+    "eventContent": "其他",
+    "eventTownName": "南區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.26871128232109",
-    "eventWgsy": "22.969515821539517",
+    "eventWgsx": "120.18673709474923",
+    "eventWgsy": "22.93613432204286",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-22T01:19:00+08:00",
+    "eventHappenTime": "2026-08-22T02:47:17+08:00",
     "atisUpdateTime": "2026-08-22T03:14:07+08:00"
 }
