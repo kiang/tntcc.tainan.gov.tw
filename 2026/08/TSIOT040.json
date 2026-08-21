@@ -1,0 +1,16 @@
+{
+    "eventId": "TSIOT040",
+    "eventType": "DISASTER",
+    "eventSubType": "",
+    "eventContent": "淹水超過 15.0 公分",
+    "eventTownName": "中西區",
+    "eventSource": "WRB_FLOODREALTIME",
+    "eventLocation": "中西區-臨安路跟民權路路口(編號273)",
+    "eventWgsx": "120.189725",
+    "eventWgsy": "22.998455",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-22T06:25:00+08:00",
+    "atisUpdateTime": "2026-08-22T06:29:22+08:00"
+}
