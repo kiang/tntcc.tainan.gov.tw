@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWG031",
+    "eventId": "TSIOT039",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
     "eventTownName": "仁德區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "仁德區-中山路640巷2號前(編號114)",
-    "eventWgsx": "120.250249",
-    "eventWgsy": "22.97221",
+    "eventLocation": "仁德區-新田路與民安路二段97巷巷口(編號272)",
+    "eventWgsx": "120.2637",
+    "eventWgsy": "22.9539",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-22T09:25:03+08:00",
+    "eventHappenTime": "2026-08-22T09:20:00+08:00",
     "atisUpdateTime": "2026-08-22T09:29:36+08:00"
 }
