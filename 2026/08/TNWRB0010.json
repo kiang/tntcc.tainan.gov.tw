@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWG031",
+    "eventId": "TNWRB0010",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "仁德區",
+    "eventTownName": "佳里區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "仁德區-中山路640巷2號前(編號114)",
-    "eventWgsx": "120.250249",
-    "eventWgsy": "22.97221",
+    "eventLocation": "佳里區-佳里興麻新路二段574號旁(編號311)",
+    "eventWgsx": "120.193885",
+    "eventWgsy": "23.188633",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-22T11:25:03+08:00",
+    "eventHappenTime": "2026-08-22T11:24:00+08:00",
     "atisUpdateTime": "2026-08-22T11:29:47+08:00"
 }
