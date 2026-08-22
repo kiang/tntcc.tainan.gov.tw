@@ -1,8 +1,8 @@
 {
     "eventId": "GX300016",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "裕義路 (裕英路至高速一街二段) 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "裕義路 (裕英路至高速一街二段) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-22T13:31:25+08:00",
-    "atisUpdateTime": "2026-08-22T13:44:54+08:00"
+    "eventHappenTime": "2026-08-22T13:46:29+08:00",
+    "atisUpdateTime": "2026-08-22T14:00:00+08:00"
 }
