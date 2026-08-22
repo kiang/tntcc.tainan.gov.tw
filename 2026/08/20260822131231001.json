@@ -1,16 +1,16 @@
 {
-    "eventId": "20260822081213602",
+    "eventId": "20260822131231001",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "一般(集合)住宅",
-    "eventTownName": "安南區",
+    "eventContent": "其他",
+    "eventTownName": "東區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.14671810283495",
-    "eventWgsy": "23.046452472371893",
+    "eventWgsx": "120.22802012658589",
+    "eventWgsy": "22.991393621726935",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-22T08:14:18+08:00",
+    "eventHappenTime": "2026-08-22T13:13:20+08:00",
     "atisUpdateTime": "2026-08-22T13:14:51+08:00"
 }
