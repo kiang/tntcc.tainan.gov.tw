@@ -1,16 +1,16 @@
 {
-    "eventId": "TSIOT039",
+    "eventId": "TNIOT078",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "仁德區",
+    "eventTownName": "新市區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "仁德區-新田路與民安路二段97巷巷口(編號272)",
-    "eventWgsx": "120.2637",
-    "eventWgsy": "22.9539",
+    "eventLocation": "新市區-長泰教養院前(編號78)",
+    "eventWgsx": "120.291294",
+    "eventWgsy": "23.056533",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-22T11:05:00+08:00",
+    "eventHappenTime": "2026-08-22T11:10:00+08:00",
     "atisUpdateTime": "2026-08-22T11:14:46+08:00"
 }
