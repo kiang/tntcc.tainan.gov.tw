@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWRB0043",
+    "eventId": "TNWG029",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "東區",
+    "eventTownName": "仁德區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "東區-虎尾寮水資源回收中心前(編號33)",
-    "eventWgsx": "120.248705",
-    "eventWgsy": "22.981969",
+    "eventLocation": "仁德區-中山路與中正二路口(編號112)",
+    "eventWgsx": "120.251595",
+    "eventWgsy": "22.971735",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-22T09:05:00+08:00",
+    "eventHappenTime": "2026-08-22T09:07:03+08:00",
     "atisUpdateTime": "2026-08-22T09:14:36+08:00"
 }
