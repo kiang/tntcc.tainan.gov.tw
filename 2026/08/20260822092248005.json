@@ -6,11 +6,11 @@
     "eventTownName": "新營區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.28779358893891",
-    "eventWgsy": "23.27990628346427",
+    "eventWgsx": "120.2700427005547",
+    "eventWgsy": "23.272709177284025",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-22T09:23:40+08:00",
-    "atisUpdateTime": "2026-08-22T09:44:35+08:00"
+    "atisUpdateTime": "2026-08-22T09:59:35+08:00"
 }
