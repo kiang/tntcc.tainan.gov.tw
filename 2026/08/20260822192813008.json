@@ -1,16 +1,16 @@
 {
-    "eventId": "20260822131231001",
+    "eventId": "20260822192813008",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "誤(謊)報",
-    "eventTownName": "東區",
+    "eventTownName": "安平區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.22802012658589",
-    "eventWgsy": "22.991393621726935",
+    "eventWgsx": "120.17803711343944",
+    "eventWgsy": "22.993669171394814",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-22T13:13:20+08:00",
+    "eventHappenTime": "2026-08-22T19:28:40+08:00",
     "atisUpdateTime": "2026-08-22T19:44:29+08:00"
 }
