@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": null,
+    "eventTownName": "新市區",
     "eventSource": "WRB_FLOODREALTIME",
     "eventLocation": "新市區-長泰教養院前(編號78)",
     "eventWgsx": "120.291294",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-22T14:40:00+08:00",
-    "atisUpdateTime": "2026-08-22T14:44:04+08:00"
+    "eventHappenTime": "2026-08-22T14:55:00+08:00",
+    "atisUpdateTime": "2026-08-22T14:59:05+08:00"
 }
