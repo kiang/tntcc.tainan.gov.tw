@@ -6,11 +6,11 @@
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.2410454093617",
-    "eventWgsy": "22.990388108302202",
+    "eventWgsx": "120.24059748045622",
+    "eventWgsy": "22.992193053805522",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-18T17:36:27+08:00",
-    "atisUpdateTime": "2026-08-18T17:44:41+08:00"
+    "eventHappenTime": "2026-08-22T10:01:25+08:00",
+    "atisUpdateTime": "2026-08-22T10:14:56+08:00"
 }
