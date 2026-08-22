@@ -2,7 +2,7 @@
     "eventId": "20260822131231001",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "其他",
+    "eventContent": "誤(謊)報",
     "eventTownName": "東區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-22T13:13:20+08:00",
-    "atisUpdateTime": "2026-08-22T13:14:51+08:00"
+    "atisUpdateTime": "2026-08-22T13:29:54+08:00"
 }
