@@ -1,16 +1,16 @@
 {
-    "eventId": "TSIOT041",
+    "eventId": "TSIOT055",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "安南區",
+    "eventTownName": "新營區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "安南區-本原街一段195巷2號前(編號274)",
-    "eventWgsx": "120.197861",
-    "eventWgsy": "23.051389",
+    "eventLocation": "新營區-開元路地下道(編號288)",
+    "eventWgsx": "120.3255",
+    "eventWgsy": "23.311444",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T01:55:00+08:00",
+    "eventHappenTime": "2026-08-24T01:50:00+08:00",
     "atisUpdateTime": "2026-08-24T01:59:16+08:00"
 }
