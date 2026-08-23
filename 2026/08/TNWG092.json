@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWRB0079",
+    "eventId": "TNWG092",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 15.0 公分",
-    "eventTownName": "永康區",
+    "eventTownName": "官田區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "永康區-永明街與中山北路264巷165弄路口(編號342)",
-    "eventWgsx": "120.265452",
-    "eventWgsy": "23.024592",
+    "eventLocation": "官田區-市道171乙線1K處(編號175)",
+    "eventWgsx": "120.304734",
+    "eventWgsy": "23.180031",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T23:23:02+08:00",
+    "eventHappenTime": "2026-08-23T23:26:03+08:00",
     "atisUpdateTime": "2026-08-23T23:30:01+08:00"
 }
