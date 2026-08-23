@@ -1,16 +1,16 @@
 {
-    "eventId": "TSIOT063",
+    "eventId": "TNWRB0091",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "永康區",
+    "eventTownName": "安南區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "永康區-中正路高速公路涵洞(編號296)",
-    "eventWgsx": "120.249658",
-    "eventWgsy": "23.031308",
+    "eventLocation": "安南區-安中路一段354巷15號旁(編號20)",
+    "eventWgsx": "120.204516",
+    "eventWgsy": "23.038534",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T22:35:00+08:00",
+    "eventHappenTime": "2026-08-23T22:37:02+08:00",
     "atisUpdateTime": "2026-08-23T22:44:58+08:00"
 }

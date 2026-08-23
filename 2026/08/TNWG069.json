@@ -1,0 +1,16 @@
+{
+    "eventId": "TNWG069",
+    "eventType": "DISASTER",
+    "eventSubType": "",
+    "eventContent": "淹水超過 15.0 公分",
+    "eventTownName": "安南區",
+    "eventSource": "WRB_FLOODREALTIME",
+    "eventLocation": "安南區-長溪路一段168巷與342巷巷口(編號152)",
+    "eventWgsx": "120.206817",
+    "eventWgsy": "23.0392845",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-23T22:37:03+08:00",
+    "atisUpdateTime": "2026-08-23T22:44:58+08:00"
+}
