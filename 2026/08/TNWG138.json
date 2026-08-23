@@ -1,16 +1,16 @@
 {
-    "eventId": "TSIOT008",
+    "eventId": "TNWG138",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 20.0 公分",
-    "eventTownName": "安南區",
+    "eventTownName": "新市區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "安南區-安中路一段與安中路一段557巷口(編號363)",
-    "eventWgsx": "120.19978",
-    "eventWgsy": "23.04053",
+    "eventLocation": "新市區-啟德重機前巷道(編號221)",
+    "eventWgsx": "120.258197",
+    "eventWgsy": "23.087482",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T23:10:00+08:00",
+    "eventHappenTime": "2026-08-23T23:06:03+08:00",
     "atisUpdateTime": "2026-08-23T23:15:00+08:00"
 }

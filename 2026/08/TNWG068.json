@@ -1,16 +1,16 @@
 {
-    "eventId": "TSIOT002",
+    "eventId": "TNWG068",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 15.0 公分",
-    "eventTownName": "仁德區",
+    "eventTownName": "安定區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "仁德區-一甲里太乙三街92號(編號235)",
-    "eventWgsx": "120.251883",
-    "eventWgsy": "22.978547",
+    "eventLocation": "安定區-南133與南134交叉路口(編號151)",
+    "eventWgsx": "120.2347183",
+    "eventWgsy": "23.0903121",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T23:10:00+08:00",
+    "eventHappenTime": "2026-08-23T23:07:18+08:00",
     "atisUpdateTime": "2026-08-23T23:15:00+08:00"
 }
