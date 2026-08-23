@@ -1,16 +1,16 @@
 {
-    "eventId": "TSIOT016",
+    "eventId": "TNWRB0077",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 15.0 公分",
-    "eventTownName": "仁德區",
+    "eventTownName": "安南區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "仁德區-新田里-263992路燈旁(編號249)",
-    "eventWgsx": "120.255894",
-    "eventWgsy": "22.954572",
+    "eventLocation": "安南區-農場寮神農宮(編號340)",
+    "eventWgsx": "120.144992",
+    "eventWgsy": "23.060005",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T01:20:00+08:00",
+    "eventHappenTime": "2026-08-24T01:24:02+08:00",
     "atisUpdateTime": "2026-08-24T01:29:14+08:00"
 }

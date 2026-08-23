@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWG118",
+    "eventId": "TNIOT076",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
     "eventTownName": "麻豆區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "麻豆區-埤頭里(小埤)高速公路涵洞機車便道(北側)(編號201)",
-    "eventWgsx": "120.236126",
-    "eventWgsy": "23.184854",
+    "eventLocation": "麻豆區-北勢南57涵洞(編號76)",
+    "eventWgsx": "120.237627",
+    "eventWgsy": "23.213855",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T01:24:03+08:00",
+    "eventHappenTime": "2026-08-24T01:30:00+08:00",
     "atisUpdateTime": "2026-08-24T01:29:14+08:00"
 }
