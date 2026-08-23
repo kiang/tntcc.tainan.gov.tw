@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWG029",
+    "eventId": "TNWRB0095",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "仁德區",
+    "eventTownName": "永康區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "仁德區-中山路與中正二路口(編號112)",
-    "eventWgsx": "120.251595",
-    "eventWgsy": "22.971735",
+    "eventLocation": "永康區-龍國街與龍潭街口(編號353)",
+    "eventWgsx": "120.266256",
+    "eventWgsy": "23.031874",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T23:39:03+08:00",
+    "eventHappenTime": "2026-08-23T23:39:05+08:00",
     "atisUpdateTime": "2026-08-23T23:44:03+08:00"
 }

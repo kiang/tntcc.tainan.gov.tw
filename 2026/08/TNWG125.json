@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWG070",
+    "eventId": "TNWG125",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 20.0 公分",
-    "eventTownName": "安南區",
+    "eventTownName": "善化區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "安南區-海佃路二段與海佃路二段461巷巷口(編號153)",
-    "eventWgsx": "120.1873643",
-    "eventWgsy": "23.0414612",
+    "eventLocation": "善化區-福隆科技旁(編號208)",
+    "eventWgsx": "120.276105",
+    "eventWgsy": "23.155705",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T23:30:03+08:00",
+    "eventHappenTime": "2026-08-23T23:38:03+08:00",
     "atisUpdateTime": "2026-08-23T23:44:03+08:00"
 }
