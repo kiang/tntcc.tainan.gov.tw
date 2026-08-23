@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWRB0035",
+    "eventId": "TNWRB0044",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "左鎮區",
+    "eventTownName": "北區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "左鎮區-三角潭橋(編號336)(內控封閉)",
-    "eventWgsx": "120.431626",
-    "eventWgsy": "23.042949",
+    "eventLocation": "北區-文賢路1122巷34弄29號旁(編號358)",
+    "eventWgsx": "120.194532",
+    "eventWgsy": "23.015684",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T22:20:00+08:00",
+    "eventHappenTime": "2026-08-23T22:24:00+08:00",
     "atisUpdateTime": "2026-08-23T22:29:58+08:00"
 }
