@@ -1,16 +1,16 @@
 {
-    "eventId": "TSIOT049",
+    "eventId": "TNIOT075",
     "eventType": "DISASTER",
     "eventSubType": "",
-    "eventContent": "淹水超過 10.0 公分",
+    "eventContent": "淹水超過 20.0 公分",
     "eventTownName": "七股區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "七股區-三股里32-9對面(編號282)",
-    "eventWgsx": "120.11427",
-    "eventWgsy": "23.098891",
+    "eventLocation": "七股區-樹林社區活動中心(編號75)",
+    "eventWgsx": "120.156717",
+    "eventWgsy": "23.114161",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T05:35:00+08:00",
+    "eventHappenTime": "2026-08-24T05:50:00+08:00",
     "atisUpdateTime": "2026-08-24T05:44:12+08:00"
 }
