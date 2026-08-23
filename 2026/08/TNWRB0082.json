@@ -1,16 +1,16 @@
 {
-    "eventId": "TSIOT071",
+    "eventId": "TNWRB0082",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "永康區",
+    "eventTownName": "新化區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "永康區-三民里國道一號高速公路涵洞(編號304)",
-    "eventWgsx": "120.252853",
-    "eventWgsy": "23.048994",
+    "eventLocation": "永康區-王行東路(編號345)",
+    "eventWgsx": "120.283111",
+    "eventWgsy": "23.042083",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T09:40:00+08:00",
+    "eventHappenTime": "2026-08-23T09:37:02+08:00",
     "atisUpdateTime": "2026-08-23T09:44:15+08:00"
 }

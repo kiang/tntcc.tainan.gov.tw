@@ -1,8 +1,8 @@
 {
     "eventId": "G000713",
     "eventType": "JAM",
-    "eventSubType": "Jam",
-    "eventContent": "國1 仁德系統至永康(北向) 發生壅塞",
+    "eventSubType": "HeavyJam",
+    "eventContent": "國1 仁德系統至永康(北向) 發生重度壅塞",
     "eventTownName": "仁德區",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-21T15:30:25+08:00",
-    "atisUpdateTime": "2026-08-21T15:45:00+08:00"
+    "eventHappenTime": "2026-08-23T09:31:25+08:00",
+    "atisUpdateTime": "2026-08-23T09:44:36+08:00"
 }
