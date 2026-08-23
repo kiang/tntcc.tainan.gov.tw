@@ -1,16 +1,16 @@
 {
-    "eventId": "TSIOT055",
+    "eventId": "TNWRB0029",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "新營區",
+    "eventTownName": "學甲區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "新營區-開元路地下道(編號288)",
-    "eventWgsx": "120.3255",
-    "eventWgsy": "23.311444",
+    "eventLocation": "學甲區-豐和里慈興宮廣場(編號355)",
+    "eventWgsx": "120.199753",
+    "eventWgsy": "23.21673",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T03:55:00+08:00",
+    "eventHappenTime": "2026-08-24T04:07:00+08:00",
     "atisUpdateTime": "2026-08-24T04:15:03+08:00"
 }
