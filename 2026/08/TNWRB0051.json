@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWG037",
+    "eventId": "TNWRB0051",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 15.0 公分",
-    "eventTownName": "北門區",
+    "eventTownName": "官田區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "北門區-西埔內西興宮旁(編號120)",
-    "eventWgsx": "120.139603",
-    "eventWgsy": "23.265641",
+    "eventLocation": "官田區-南120湧泉寺旁(編號174)",
+    "eventWgsx": "120.3513851",
+    "eventWgsy": "23.18439173",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T07:31:49+08:00",
+    "eventHappenTime": "2026-08-24T07:35:00+08:00",
     "atisUpdateTime": "2026-08-24T07:44:27+08:00"
 }

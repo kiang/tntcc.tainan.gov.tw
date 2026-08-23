@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWG037",
+    "eventId": "TSIOT025",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 15.0 公分",
-    "eventTownName": "北門區",
+    "eventTownName": "下營區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "北門區-西埔內西興宮旁(編號120)",
-    "eventWgsx": "120.139603",
-    "eventWgsy": "23.265641",
+    "eventLocation": "下營區-大吉里南56-1線(與仁里街438巷)交叉路口(編號258)",
+    "eventWgsx": "120.246586",
+    "eventWgsy": "23.215283",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T07:31:49+08:00",
+    "eventHappenTime": "2026-08-24T07:35:00+08:00",
     "atisUpdateTime": "2026-08-24T07:44:27+08:00"
 }
