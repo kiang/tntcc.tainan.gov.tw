@@ -1,16 +1,16 @@
 {
-    "eventId": "TSIOT040",
+    "eventId": "TNWG077",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 15.0 公分",
-    "eventTownName": "中西區",
+    "eventTownName": "安南區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "中西區-臨安路跟民權路路口(編號273)",
-    "eventWgsx": "120.189725",
-    "eventWgsy": "22.998455",
+    "eventLocation": "安南區-長溪路一段瀛海中學(編號160)",
+    "eventWgsx": "120.211405",
+    "eventWgsy": "23.034606",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T22:55:00+08:00",
+    "eventHappenTime": "2026-08-23T22:54:03+08:00",
     "atisUpdateTime": "2026-08-23T22:59:59+08:00"
 }

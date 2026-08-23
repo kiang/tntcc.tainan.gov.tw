@@ -1,16 +1,16 @@
 {
-    "eventId": "TSIOT006",
+    "eventId": "TNWG011",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 20.0 公分",
-    "eventTownName": "永康區",
+    "eventTownName": "大內區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "永康區-中正南路316號(編號239)",
-    "eventWgsx": "120.2267",
-    "eventWgsy": "23.031347",
+    "eventLocation": "大內區-沉砂池岔路口(編號94)",
+    "eventWgsx": "120.35866",
+    "eventWgsy": "23.123869",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T22:50:00+08:00",
+    "eventHappenTime": "2026-08-23T22:55:03+08:00",
     "atisUpdateTime": "2026-08-23T22:59:59+08:00"
 }
