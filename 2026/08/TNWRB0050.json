@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWRB0080",
+    "eventId": "TNWRB0050",
     "eventType": "DISASTER",
     "eventSubType": "",
-    "eventContent": "淹水超過 15.0 公分",
+    "eventContent": "淹水超過 20.0 公分",
     "eventTownName": "安南區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "安南區-三塊厝大慈宮前(編號343)",
-    "eventWgsx": "120.21127",
-    "eventWgsy": "23.050001",
+    "eventLocation": "安南區-本原街一段250巷(編號156)",
+    "eventWgsx": "120.197907",
+    "eventWgsy": "23.055217",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T01:37:02+08:00",
+    "eventHappenTime": "2026-08-24T01:40:00+08:00",
     "atisUpdateTime": "2026-08-24T01:44:15+08:00"
 }
