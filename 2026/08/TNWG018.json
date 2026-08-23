@@ -1,0 +1,16 @@
+{
+    "eventId": "TNWG018",
+    "eventType": "DISASTER",
+    "eventSubType": "",
+    "eventContent": "淹水超過 15.0 公分",
+    "eventTownName": "中西區",
+    "eventSource": "WRB_FLOODREALTIME",
+    "eventLocation": "中西區-六合境清水寺(編號101)",
+    "eventWgsx": "120.20618",
+    "eventWgsy": "22.99172",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-23T14:38:45+08:00",
+    "atisUpdateTime": "2026-08-23T14:44:32+08:00"
+}

@@ -1,16 +1,16 @@
 {
-    "eventId": "TNWRB0035",
+    "eventId": "TSIOT070",
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "左鎮區",
+    "eventTownName": "安南區",
     "eventSource": "WRB_FLOODREALTIME",
-    "eventLocation": "左鎮區-三角潭橋(編號336)(內控封閉)",
-    "eventWgsx": "120.431626",
-    "eventWgsy": "23.042949",
+    "eventLocation": "安南區-安中路一段279號前(編號303)",
+    "eventWgsx": "120.2053",
+    "eventWgsy": "23.037211",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T14:35:00+08:00",
+    "eventHappenTime": "2026-08-23T14:38:00+08:00",
     "atisUpdateTime": "2026-08-23T14:44:32+08:00"
 }
