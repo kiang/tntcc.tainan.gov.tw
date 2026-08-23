@@ -1,16 +1,16 @@
 {
-    "eventId": "GX300021",
+    "eventId": "GX00096",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "府連路 (五妃街至大同路) 發生壅塞",
+    "eventContent": "南科聯絡道 新港社大道至中正北路(西向) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.209763615457",
-    "eventWgsy": "22.982577991106364",
+    "eventWgsx": "120.27983175375975",
+    "eventWgsy": "23.067907143794578",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T07:01:25+08:00",
+    "eventHappenTime": "2026-08-24T07:16:28+08:00",
     "atisUpdateTime": "2026-08-24T07:29:58+08:00"
 }
