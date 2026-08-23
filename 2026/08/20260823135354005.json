@@ -1,16 +1,16 @@
 {
-    "eventId": "20260823121607019",
+    "eventId": "20260823135354005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "誤(謊)報",
-    "eventTownName": "永康區",
+    "eventContent": "其他",
+    "eventTownName": "中西區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.23717908633058",
-    "eventWgsy": "23.001143352910372",
+    "eventWgsx": "120.18860811259043",
+    "eventWgsy": "22.999080687707522",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-23T12:16:34+08:00",
+    "eventHappenTime": "2026-08-23T13:54:28+08:00",
     "atisUpdateTime": "2026-08-23T13:59:30+08:00"
 }
