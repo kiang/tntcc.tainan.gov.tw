@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "學甲區",
+    "eventTownName": null,
     "eventSource": "WRB_FLOODREALTIME",
     "eventLocation": "學甲區-豐和里慈興宮廣場(編號355)",
     "eventWgsx": "120.199753",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T11:50:00+08:00",
-    "atisUpdateTime": "2026-08-24T11:59:52+08:00"
+    "eventHappenTime": "2026-08-24T12:05:00+08:00",
+    "atisUpdateTime": "2026-08-24T12:14:52+08:00"
 }

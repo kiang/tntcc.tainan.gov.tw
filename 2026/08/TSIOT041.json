@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": "安南區",
+    "eventTownName": null,
     "eventSource": "WRB_FLOODREALTIME",
     "eventLocation": "安南區-本原街一段195巷2號前(編號274)",
     "eventWgsx": "120.197861",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T11:55:00+08:00",
-    "atisUpdateTime": "2026-08-24T11:59:52+08:00"
+    "eventHappenTime": "2026-08-24T12:10:00+08:00",
+    "atisUpdateTime": "2026-08-24T12:14:52+08:00"
 }
