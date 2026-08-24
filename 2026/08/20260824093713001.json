@@ -2,7 +2,7 @@
     "eventId": "20260824093713001",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "商店(量販店)",
+    "eventContent": "其他",
     "eventTownName": "永康區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-24T09:38:07+08:00",
-    "atisUpdateTime": "2026-08-24T09:44:18+08:00"
+    "atisUpdateTime": "2026-08-24T09:59:19+08:00"
 }
