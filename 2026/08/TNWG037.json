@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 15.0 公分",
-    "eventTownName": null,
+    "eventTownName": "北門區",
     "eventSource": "WRB_FLOODREALTIME",
     "eventLocation": "北門區-西埔內西興宮旁(編號120)",
     "eventWgsx": "120.139603",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-24T12:02:03+08:00",
-    "atisUpdateTime": "2026-08-24T12:14:52+08:00"
+    "atisUpdateTime": "2026-08-24T12:29:53+08:00"
 }

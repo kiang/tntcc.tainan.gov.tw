@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 15.0 公分",
-    "eventTownName": null,
+    "eventTownName": "下營區",
     "eventSource": "WRB_FLOODREALTIME",
     "eventLocation": "下營區-大吉里南174線14.4公里處(編號257)",
     "eventWgsx": "120.2292288",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T12:05:00+08:00",
-    "atisUpdateTime": "2026-08-24T12:14:52+08:00"
+    "eventHappenTime": "2026-08-24T12:20:00+08:00",
+    "atisUpdateTime": "2026-08-24T12:29:53+08:00"
 }

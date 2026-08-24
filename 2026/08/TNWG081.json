@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 15.0 公分",
-    "eventTownName": null,
+    "eventTownName": "安南區",
     "eventSource": "WRB_FLOODREALTIME",
     "eventLocation": "安南區-長和路一段安南醫院前(編號164)",
     "eventWgsx": "120.22366",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T12:10:03+08:00",
-    "atisUpdateTime": "2026-08-24T12:14:52+08:00"
+    "eventHappenTime": "2026-08-24T12:25:16+08:00",
+    "atisUpdateTime": "2026-08-24T12:29:53+08:00"
 }

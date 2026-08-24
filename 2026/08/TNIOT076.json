@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": null,
+    "eventTownName": "麻豆區",
     "eventSource": "WRB_FLOODREALTIME",
     "eventLocation": "麻豆區-北勢南57涵洞(編號76)",
     "eventWgsx": "120.237627",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T12:15:00+08:00",
-    "atisUpdateTime": "2026-08-24T12:14:52+08:00"
+    "eventHappenTime": "2026-08-24T12:30:00+08:00",
+    "atisUpdateTime": "2026-08-24T12:29:53+08:00"
 }

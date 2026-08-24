@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 20.0 公分",
-    "eventTownName": null,
+    "eventTownName": "善化區",
     "eventSource": "WRB_FLOODREALTIME",
     "eventLocation": "善化區-福隆科技旁(編號208)",
     "eventWgsx": "120.276105",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T12:08:03+08:00",
-    "atisUpdateTime": "2026-08-24T12:14:52+08:00"
+    "eventHappenTime": "2026-08-24T12:23:03+08:00",
+    "atisUpdateTime": "2026-08-24T12:29:53+08:00"
 }
