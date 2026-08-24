@@ -1,16 +1,16 @@
 {
-    "eventId": "20260824174009001",
+    "eventId": "20260824200252019",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "誤(謊)報",
-    "eventTownName": "北區",
+    "eventContent": "商店(量販店)",
+    "eventTownName": "永康區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.21677702240434",
-    "eventWgsy": "23.00625949497554",
+    "eventWgsx": "120.22630460538191",
+    "eventWgsy": "23.01785363340729",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-24T17:41:29+08:00",
+    "eventHappenTime": "2026-08-24T20:03:23+08:00",
     "atisUpdateTime": "2026-08-24T20:14:54+08:00"
 }
