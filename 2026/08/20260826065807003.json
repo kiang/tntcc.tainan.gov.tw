@@ -1,16 +1,16 @@
 {
-    "eventId": "20260826061937008",
+    "eventId": "20260826065807003",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "六甲區",
+    "eventTownName": "歸仁區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.31489984307701",
-    "eventWgsy": "23.235699935838852",
+    "eventWgsx": "120.27430355542168",
+    "eventWgsy": "22.920980991488026",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-26T06:20:06+08:00",
+    "eventHappenTime": "2026-08-26T06:58:40+08:00",
     "atisUpdateTime": "2026-08-26T06:59:33+08:00"
 }
