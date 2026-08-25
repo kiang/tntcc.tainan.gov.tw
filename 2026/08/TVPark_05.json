@@ -1,16 +1,16 @@
 {
-    "eventId": "GX300023",
+    "eventId": "TVPark_05",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "府連路 (慶東街至大同路) 發生壅塞",
+    "eventContent": "樹谷大道快車道 (看西路至南134) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.21530227360748",
-    "eventWgsy": "22.985162641720585",
+    "eventWgsx": "120.26119948278182",
+    "eventWgsy": "23.0919144150925",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-25T18:26:29+08:00",
+    "eventHappenTime": "2026-08-25T18:56:26+08:00",
     "atisUpdateTime": "2026-08-25T18:59:57+08:00"
 }
