@@ -1,0 +1,16 @@
+{
+    "eventId": "20260826023901004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "工廠及倉庫(含石化工業設備設施)",
+    "eventTownName": "仁德區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.25251381083832",
+    "eventWgsy": "22.95725097837651",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-26T02:40:04+08:00",
+    "atisUpdateTime": "2026-08-26T02:44:37+08:00"
+}
