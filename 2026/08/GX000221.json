@@ -1,8 +1,8 @@
 {
     "eventId": "GX000221",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "北門-林森(西向) 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "北門-林森(西向) 發生壅塞",
     "eventTownName": "",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-25T10:30:25+08:00",
-    "atisUpdateTime": "2026-08-25T10:44:40+08:00"
+    "eventHappenTime": "2026-08-25T11:00:25+08:00",
+    "atisUpdateTime": "2026-08-25T11:14:48+08:00"
 }
