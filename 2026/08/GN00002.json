@@ -1,8 +1,8 @@
 {
     "eventId": "GN00002",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "北外環 台江大道與河堤路口至長和路一段  發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "北外環 台江大道與河堤路口至長和路一段  發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-25T07:50:25+08:00",
-    "atisUpdateTime": "2026-08-25T07:59:54+08:00"
+    "eventHappenTime": "2026-08-25T08:00:25+08:00",
+    "atisUpdateTime": "2026-08-25T08:15:02+08:00"
 }
