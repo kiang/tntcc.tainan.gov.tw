@@ -1,16 +1,16 @@
 {
-    "eventId": "20260825121906005",
+    "eventId": "20260825194601004",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "其他",
-    "eventTownName": "新化區",
+    "eventTownName": "關廟區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.31629984287244",
-    "eventWgsy": "23.038199959276817",
+    "eventWgsx": "120.3335729069211",
+    "eventWgsy": "22.95319150243295",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-25T12:19:44+08:00",
+    "eventHappenTime": "2026-08-25T19:47:18+08:00",
     "atisUpdateTime": "2026-08-25T20:00:00+08:00"
 }
