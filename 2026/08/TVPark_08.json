@@ -1,16 +1,16 @@
 {
-    "eventId": "G000605",
+    "eventId": "TVPark_08",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "中華西路 永華路至觀海橋北側(北向) 發生壅塞",
+    "eventContent": "樹谷聯絡道 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.18703744146153",
-    "eventWgsy": "22.98919315359683",
+    "eventWgsx": "120.26094521328",
+    "eventWgsy": "23.08732101378372",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-25T15:46:26+08:00",
+    "eventHappenTime": "2026-08-25T16:31:25+08:00",
     "atisUpdateTime": "2026-08-25T16:44:51+08:00"
 }
