@@ -2,7 +2,7 @@
     "eventId": "20260825205951005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "一般(集合)住宅",
+    "eventContent": "機關、學校(軍公教辦公廳舍、宿舍)",
     "eventTownName": "新營區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-25T21:00:43+08:00",
-    "atisUpdateTime": "2026-08-25T21:14:06+08:00"
+    "atisUpdateTime": "2026-08-25T21:29:08+08:00"
 }
