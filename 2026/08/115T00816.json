@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00816",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "瓦斯漏氣",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "700台灣臺南市中西區信義街65號",
+    "eventWgsx": "120.19518009680415",
+    "eventWgsy": "23.000373730569297",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-26T08:28:22+08:00",
+    "atisUpdateTime": "2026-08-26T08:44:44+08:00"
+}
