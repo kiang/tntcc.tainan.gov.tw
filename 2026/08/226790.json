@@ -1,16 +1,16 @@
 {
-    "eventId": "225268",
+    "eventId": "226790",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "9250253力慶建設開發有限公司表燈新設",
+    "eventContent": "B250074臺南市政府交通局新設",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.12735592881182",
-    "eventWgsy": "23.065351704553255",
+    "eventWgsx": "120.1802724582836",
+    "eventWgsy": "23.049686484746143",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-26T13:26:07+08:00",
+    "eventHappenTime": "2026-08-26T13:07:27+08:00",
     "atisUpdateTime": "2026-08-26T13:29:31+08:00"
 }
