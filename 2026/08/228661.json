@@ -1,16 +1,16 @@
 {
-    "eventId": "228740",
+    "eventId": "228661",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "1260022佳里區公所申請遷移工程",
+    "eventContent": "C250256公園伯爵建設有限公司新增設",
     "eventTownName": "佳里區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17479457961872",
-    "eventWgsy": "23.16368514357738",
+    "eventWgsx": "120.17584429993985",
+    "eventWgsy": "23.15175847094305",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-26T10:13:18+08:00",
+    "eventHappenTime": "2026-08-26T15:23:26+08:00",
     "atisUpdateTime": "2026-08-26T15:29:55+08:00"
 }
