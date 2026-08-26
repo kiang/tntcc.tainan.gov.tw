@@ -1,16 +1,16 @@
 {
-    "eventId": "228740",
+    "eventId": "232706",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "1260022佳里區公所申請遷移工程",
+    "eventContent": "115年佳里所用戶用水設備新(改)裝工作勞務採購(開口契約)",
     "eventTownName": "佳里區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17479457961872",
-    "eventWgsy": "23.16368514357738",
+    "eventWgsx": "120.15351883221157",
+    "eventWgsy": "23.169396399565457",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-26T10:13:18+08:00",
+    "eventHappenTime": "2026-08-26T15:45:20+08:00",
     "atisUpdateTime": "2026-08-26T16:00:03+08:00"
 }
