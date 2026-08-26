@@ -1,16 +1,16 @@
 {
-    "eventId": "20260826122231003",
+    "eventId": "20260826175122019",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "一般(集合)住宅",
-    "eventTownName": "新市區",
+    "eventTownName": "新營區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.31658798575162",
-    "eventWgsy": "23.089310058881168",
+    "eventWgsx": "120.30714198548004",
+    "eventWgsy": "23.308230296925377",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-26T12:23:45+08:00",
+    "eventHappenTime": "2026-08-26T17:52:04+08:00",
     "atisUpdateTime": "2026-08-26T17:59:27+08:00"
 }
