@@ -2,7 +2,7 @@
     "eventId": "20260827042405003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "雜草(含廢棄物、墓地)",
+    "eventContent": "臨時屋(含工寮、樣品屋、雞舍等無門牌之建築物)",
     "eventTownName": "佳里區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-27T04:24:45+08:00",
-    "atisUpdateTime": "2026-08-27T04:29:56+08:00"
+    "atisUpdateTime": "2026-08-27T04:44:57+08:00"
 }
