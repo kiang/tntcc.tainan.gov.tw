@@ -1,16 +1,16 @@
 {
-    "eventId": "20260826185857003",
+    "eventId": "20260826194913005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "一般(集合)住宅",
+    "eventContent": "臨時屋(含工寮、樣品屋、雞舍等無門牌之建築物)",
     "eventTownName": "南區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.21521719919178",
-    "eventWgsy": "22.968656423578274",
+    "eventWgsx": "120.1916952104366",
+    "eventWgsy": "22.927634404077196",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-26T18:59:58+08:00",
+    "eventHappenTime": "2026-08-26T19:50:49+08:00",
     "atisUpdateTime": "2026-08-26T19:59:40+08:00"
 }
