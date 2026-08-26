@@ -1,16 +1,16 @@
 {
-    "eventId": "20260826121541003",
+    "eventId": "20260826171235003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "一般(集合)住宅",
-    "eventTownName": "柳營區",
+    "eventTownName": "新市區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.3311257319572",
-    "eventWgsy": "23.290670486441833",
+    "eventWgsx": "120.29224708411598",
+    "eventWgsy": "23.073207352307755",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-26T12:16:33+08:00",
+    "eventHappenTime": "2026-08-26T17:12:55+08:00",
     "atisUpdateTime": "2026-08-26T17:29:22+08:00"
 }
