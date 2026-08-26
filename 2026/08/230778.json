@@ -1,16 +1,16 @@
 {
-    "eventId": "233409",
+    "eventId": "230778",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "埋設電信引上管",
-    "eventTownName": "東區",
+    "eventContent": "蘇淑君給水",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22575640750352",
-    "eventWgsy": "22.983713608070747",
+    "eventWgsx": "120.17093370479724",
+    "eventWgsy": "23.070629251120263",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-26T10:33:08+08:00",
+    "eventHappenTime": "2026-08-26T16:50:31+08:00",
     "atisUpdateTime": "2026-08-26T16:59:19+08:00"
 }
