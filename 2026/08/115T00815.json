@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00815",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "702台灣臺南市南區新興里西門路一段403號",
+    "eventWgsx": "120.19761109632894",
+    "eventWgsy": "22.979997644940124",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-26T07:59:55+08:00",
+    "atisUpdateTime": "2026-08-26T08:14:41+08:00"
+}
