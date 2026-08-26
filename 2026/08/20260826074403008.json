@@ -1,16 +1,16 @@
 {
-    "eventId": "20260826072444004",
+    "eventId": "20260826074403008",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "安南區",
+    "eventTownName": "關廟區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.22509764125603",
-    "eventWgsy": "23.050069188424267",
+    "eventWgsx": "120.32176727707801",
+    "eventWgsy": "22.973147267524368",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-26T07:25:50+08:00",
+    "eventHappenTime": "2026-08-26T07:44:59+08:00",
     "atisUpdateTime": "2026-08-26T07:59:36+08:00"
 }

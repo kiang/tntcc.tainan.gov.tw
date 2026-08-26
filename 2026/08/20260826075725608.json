@@ -1,0 +1,16 @@
+{
+    "eventId": "20260826075725608",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "機關、學校(軍公教辦公廳舍、宿舍)",
+    "eventTownName": "安南區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.12655640153696",
+    "eventWgsy": "23.06032310400072",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-26T07:59:13+08:00",
+    "atisUpdateTime": "2026-08-26T07:59:36+08:00"
+}
