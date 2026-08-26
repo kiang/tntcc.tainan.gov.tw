@@ -1,0 +1,16 @@
+{
+    "eventId": "20260827055853001",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "鹽水區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.26861192180571",
+    "eventWgsy": "23.323450206598956",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-27T06:00:05+08:00",
+    "atisUpdateTime": "2026-08-27T06:14:05+08:00"
+}
