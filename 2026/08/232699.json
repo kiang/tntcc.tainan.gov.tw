@@ -1,16 +1,16 @@
 {
-    "eventId": "233634",
+    "eventId": "232699",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "(S2L554003)臺南三客網115年度電信零星積點發包工程S2L554004銅 S2L554005光",
+    "eventContent": "115年佳里所用戶用水設備新(改)裝工作勞務採購(開口契約)",
     "eventTownName": "七股區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16663329815728",
-    "eventWgsy": "23.104600273960024",
+    "eventWgsx": "120.10669870746361",
+    "eventWgsy": "23.12397947780047",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-26T09:30:41+08:00",
+    "eventHappenTime": "2026-08-26T14:20:46+08:00",
     "atisUpdateTime": "2026-08-26T14:29:43+08:00"
 }
