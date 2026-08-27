@@ -1,8 +1,8 @@
 {
     "eventId": "GX000153",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "國1仁德南向出口 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "國1仁德南向出口 發生壅塞",
     "eventTownName": "仁德區",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T16:55:25+08:00",
-    "atisUpdateTime": "2026-08-27T19:44:58+08:00"
+    "eventHappenTime": "2026-08-27T19:50:25+08:00",
+    "atisUpdateTime": "2026-08-27T20:00:04+08:00"
 }
