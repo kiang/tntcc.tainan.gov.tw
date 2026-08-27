@@ -1,16 +1,16 @@
 {
-    "eventId": "234369",
+    "eventId": "231576",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "埋設配管(S2L556173)",
-    "eventTownName": "新營區",
+    "eventContent": "玉井區民權路141號",
+    "eventTownName": "玉井區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29808747901387",
-    "eventWgsy": "23.305893246480096",
+    "eventWgsx": "120.4583946976693",
+    "eventWgsy": "23.121866712109085",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T09:23:17+08:00",
+    "eventHappenTime": "2026-08-27T13:06:22+08:00",
     "atisUpdateTime": "2026-08-27T13:14:44+08:00"
 }
