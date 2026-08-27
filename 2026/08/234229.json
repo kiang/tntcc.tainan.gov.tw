@@ -1,0 +1,16 @@
+{
+    "eventId": "234229",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "郭文淵給水",
+    "eventTownName": "歸仁區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.3010798729795",
+    "eventWgsy": "22.977105439897187",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-27T08:23:58+08:00",
+    "atisUpdateTime": "2026-08-27T08:44:25+08:00"
+}
