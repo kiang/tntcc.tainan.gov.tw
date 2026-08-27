@@ -1,16 +1,16 @@
 {
-    "eventId": "226870",
+    "eventId": "222651",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期分支管網及用戶接管工程第10標",
+    "eventContent": "4250820吳誌翔新增設",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22995078319842",
-    "eventWgsy": "22.958924653631463",
+    "eventWgsx": "120.25385732981368",
+    "eventWgsy": "22.95403618581115",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T08:33:05+08:00",
+    "eventHappenTime": "2026-08-27T13:12:41+08:00",
     "atisUpdateTime": "2026-08-27T13:29:48+08:00"
 }
