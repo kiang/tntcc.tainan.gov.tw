@@ -1,16 +1,16 @@
 {
-    "eventId": "233845",
+    "eventId": "233405",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
-    "eventTownName": "東區",
+    "eventContent": "陳裕泉給水",
+    "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21232509189362",
-    "eventWgsy": "22.997598536199853",
+    "eventWgsx": "120.27916977195471",
+    "eventWgsy": "22.96198389245524",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T08:20:33+08:00",
+    "eventHappenTime": "2026-08-27T11:18:41+08:00",
     "atisUpdateTime": "2026-08-27T11:30:05+08:00"
 }
