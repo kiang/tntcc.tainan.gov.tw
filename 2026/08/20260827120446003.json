@@ -2,7 +2,7 @@
     "eventId": "20260827120446003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "一般(集合)住宅",
+    "eventContent": "誤(謊)報",
     "eventTownName": "佳里區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-27T12:05:41+08:00",
-    "atisUpdateTime": "2026-08-27T12:14:34+08:00"
+    "atisUpdateTime": "2026-08-27T12:29:35+08:00"
 }
