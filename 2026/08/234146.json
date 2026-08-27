@@ -1,0 +1,16 @@
+{
+    "eventId": "234146",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "114年-台電-設計課(甲管路6260143.7260244)",
+    "eventTownName": "官田區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.32614716742644",
+    "eventWgsy": "23.215872966184463",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-27T08:46:18+08:00",
+    "atisUpdateTime": "2026-08-27T08:59:28+08:00"
+}
