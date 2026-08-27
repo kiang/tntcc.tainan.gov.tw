@@ -1,16 +1,16 @@
 {
-    "eventId": "234550",
+    "eventId": "233967",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管",
+    "eventContent": "114年永康所用戶用水設備新(改)裝工作勞務採購",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.228607810479",
-    "eventWgsy": "23.029350264576006",
+    "eventWgsx": "120.2375172309557",
+    "eventWgsy": "23.036702874943916",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T14:57:58+08:00",
+    "eventHappenTime": "2026-08-27T16:13:13+08:00",
     "atisUpdateTime": "2026-08-27T16:29:44+08:00"
 }
