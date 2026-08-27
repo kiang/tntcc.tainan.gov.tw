@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00821",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "新營區",
+    "eventSource": "PWB",
+    "eventLocation": "730台灣臺南市新營區明清三街29巷46號",
+    "eventWgsx": "120.29794208672539",
+    "eventWgsy": "23.30995051180441",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-27T07:57:00+08:00",
+    "atisUpdateTime": "2026-08-27T08:14:21+08:00"
+}
