@@ -1,16 +1,16 @@
 {
-    "eventId": "226870",
+    "eventId": "233100",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期分支管網及用戶接管工程第10標",
+    "eventContent": "6260243皇龍開發股份有限公司表燈新設",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22995078319842",
-    "eventWgsy": "22.958924653631463",
+    "eventWgsx": "120.23789734485572",
+    "eventWgsy": "22.97380457963212",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T08:33:05+08:00",
+    "eventHappenTime": "2026-08-27T09:30:20+08:00",
     "atisUpdateTime": "2026-08-27T09:44:37+08:00"
 }
