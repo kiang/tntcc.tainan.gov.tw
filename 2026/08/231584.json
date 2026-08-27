@@ -1,16 +1,16 @@
 {
-    "eventId": "231236",
+    "eventId": "231584",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "南科臺南園區擴建及聯外預埋管路工程",
-    "eventTownName": "善化區",
+    "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25883247023759",
-    "eventWgsy": "23.106855751273983",
+    "eventWgsx": "120.26488384124785",
+    "eventWgsy": "23.08986435672114",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T08:46:50+08:00",
+    "eventHappenTime": "2026-08-27T09:51:22+08:00",
     "atisUpdateTime": "2026-08-27T09:59:41+08:00"
 }

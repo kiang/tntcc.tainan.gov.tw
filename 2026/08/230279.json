@@ -1,16 +1,16 @@
 {
-    "eventId": "233100",
+    "eventId": "230279",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "6260243皇龍開發股份有限公司表燈新設",
+    "eventContent": "3260203臺南市公共運輸處新設用電",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23789734485572",
-    "eventWgsy": "22.97380457963212",
+    "eventWgsx": "120.21674687897848",
+    "eventWgsy": "22.948285100064254",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T09:30:20+08:00",
+    "eventHappenTime": "2026-08-27T09:41:44+08:00",
     "atisUpdateTime": "2026-08-27T09:59:41+08:00"
 }
