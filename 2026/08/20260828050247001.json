@@ -2,15 +2,15 @@
     "eventId": "20260828050247001",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "其他",
+    "eventContent": "臨時屋(含工寮、樣品屋、雞舍等無門牌之建築物)",
     "eventTownName": "歸仁區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.29259757343154",
-    "eventWgsy": "22.91354866836173",
+    "eventWgsx": "120.28482257365611",
+    "eventWgsy": "22.913390287876716",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-28T05:07:37+08:00",
-    "atisUpdateTime": "2026-08-28T05:14:51+08:00"
+    "atisUpdateTime": "2026-08-28T05:29:52+08:00"
 }
