@@ -1,16 +1,16 @@
 {
-    "eventId": "228125",
+    "eventId": "232083",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "C250311設計課零資",
+    "eventContent": "4260038金展盛開發有限公司臨時用電",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.13456427394529",
-    "eventWgsy": "23.057895831163304",
+    "eventWgsx": "120.20105937811604",
+    "eventWgsy": "23.037490348163306",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T11:27:06+08:00",
+    "eventHappenTime": "2026-08-27T16:04:59+08:00",
     "atisUpdateTime": "2026-08-27T16:14:40+08:00"
 }

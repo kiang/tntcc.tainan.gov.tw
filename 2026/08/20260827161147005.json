@@ -1,16 +1,16 @@
 {
-    "eventId": "20260827153336001",
+    "eventId": "20260827161147005",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "安南區",
+    "eventTownName": "中西區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.1945386364968",
-    "eventWgsy": "23.06858844368247",
+    "eventWgsx": "120.20668081491065",
+    "eventWgsy": "22.987811366494203",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T15:34:50+08:00",
+    "eventHappenTime": "2026-08-27T16:12:12+08:00",
     "atisUpdateTime": "2026-08-27T16:14:51+08:00"
 }
