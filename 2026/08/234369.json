@@ -1,16 +1,16 @@
 {
-    "eventId": "233181",
+    "eventId": "234369",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "A250448涂永隆表燈新設",
-    "eventTownName": "東區",
+    "eventContent": "埋設配管(S2L556173)",
+    "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24082069136253",
-    "eventWgsy": "22.986273252505914",
+    "eventWgsx": "120.29808747901387",
+    "eventWgsy": "23.305893246480096",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T09:05:56+08:00",
+    "eventHappenTime": "2026-08-27T09:23:17+08:00",
     "atisUpdateTime": "2026-08-27T09:29:34+08:00"
 }
