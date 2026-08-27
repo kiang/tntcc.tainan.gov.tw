@@ -1,16 +1,16 @@
 {
-    "eventId": "218657",
+    "eventId": "233837",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期分支管網及用戶接管工程第10標",
+    "eventContent": "7260433永盛精密鈑金有限公司表燈新設",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22194217047205",
-    "eventWgsy": "22.961969408465908",
+    "eventWgsx": "120.25439952102708",
+    "eventWgsy": "22.988499932507832",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-27T08:33:13+08:00",
+    "eventHappenTime": "2026-08-27T11:27:20+08:00",
     "atisUpdateTime": "2026-08-27T11:44:12+08:00"
 }
