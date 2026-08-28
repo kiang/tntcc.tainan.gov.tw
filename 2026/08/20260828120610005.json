@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "一般(集合)住宅",
-    "eventTownName": "大內區",
+    "eventTownName": null,
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
     "eventWgsx": "120.35371815934934",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-28T12:07:24+08:00",
-    "atisUpdateTime": "2026-08-28T19:45:00+08:00"
+    "atisUpdateTime": "2026-08-28T20:00:01+08:00"
 }
