@@ -1,16 +1,16 @@
 {
-    "eventId": "232802",
+    "eventId": "232800",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "臺南市新化區太平里民生路314巷67之70號等供水延管工程",
     "eventTownName": "新化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.30747225080259",
-    "eventWgsy": "23.04994946315757",
+    "eventWgsx": "120.31098305038087",
+    "eventWgsy": "23.048521736837557",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T14:55:09+08:00",
+    "eventHappenTime": "2026-08-28T14:56:38+08:00",
     "atisUpdateTime": "2026-08-28T15:14:49+08:00"
 }

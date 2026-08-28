@@ -1,16 +1,16 @@
 {
-    "eventId": "232802",
+    "eventId": "233984",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市新化區太平里民生路314巷67之70號等供水延管工程",
+    "eventContent": "新化大德路大新路與善化民族路民權路等汰換管線工程",
     "eventTownName": "新化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.30747225080259",
-    "eventWgsy": "23.04994946315757",
+    "eventWgsx": "120.29532303262297",
+    "eventWgsy": "23.041594138138144",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T14:55:09+08:00",
+    "eventHappenTime": "2026-08-28T14:57:59+08:00",
     "atisUpdateTime": "2026-08-28T15:14:49+08:00"
 }
