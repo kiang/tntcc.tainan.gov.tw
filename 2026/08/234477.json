@@ -1,16 +1,16 @@
 {
-    "eventId": "221930",
+    "eventId": "234477",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "台南市永康區中華路10巷2號(R00121-8)",
+    "eventContent": "114年永康所用戶用水設備新(改)裝工作勞務採購",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.3733439014485",
-    "eventWgsy": "23.38610499592746",
+    "eventWgsx": "120.26896487321353",
+    "eventWgsy": "23.005887081396597",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T08:34:21+08:00",
+    "eventHappenTime": "2026-08-28T10:45:58+08:00",
     "atisUpdateTime": "2026-08-28T10:59:11+08:00"
 }

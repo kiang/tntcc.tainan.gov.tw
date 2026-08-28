@@ -1,16 +1,16 @@
 {
-    "eventId": "221930",
+    "eventId": "231690",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "台南市永康區中華路10巷2號(R00121-8)",
+    "eventContent": "銜接用戶管(NFQ11K5D2D)及手孔提升",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.3733439014485",
-    "eventWgsy": "23.38610499592746",
+    "eventWgsx": "120.23014224378288",
+    "eventWgsy": "23.013814028204386",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T08:34:21+08:00",
+    "eventHappenTime": "2026-08-28T10:38:58+08:00",
     "atisUpdateTime": "2026-08-28T10:59:11+08:00"
 }
