@@ -1,16 +1,16 @@
 {
-    "eventId": "231328",
+    "eventId": "234381",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "埋設電信配管",
+    "eventContent": "北區公園路與公園路321巷--路口監控接管工程(編號89)",
     "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19765357346064",
-    "eventWgsy": "23.00147954059799",
+    "eventWgsx": "120.21039505273109",
+    "eventWgsy": "23.00396439155561",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T08:43:30+08:00",
+    "eventHappenTime": "2026-08-28T08:58:10+08:00",
     "atisUpdateTime": "2026-08-28T09:14:38+08:00"
 }
