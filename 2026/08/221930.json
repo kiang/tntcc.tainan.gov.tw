@@ -1,0 +1,16 @@
+{
+    "eventId": "221930",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "台南市永康區中華路10巷2號(R00121-8)",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.3733439014485",
+    "eventWgsy": "23.38610499592746",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-28T08:34:21+08:00",
+    "atisUpdateTime": "2026-08-28T08:44:30+08:00"
+}
