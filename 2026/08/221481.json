@@ -1,16 +1,16 @@
 {
-    "eventId": "234667",
+    "eventId": "221481",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管",
-    "eventTownName": "永康區",
+    "eventContent": "5250146陳偉庭表燈新設",
+    "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2396378440288",
-    "eventWgsy": "23.042392521372232",
+    "eventWgsx": "120.23623146500341",
+    "eventWgsy": "22.96424317097224",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T13:33:28+08:00",
+    "eventHappenTime": "2026-08-28T14:56:14+08:00",
     "atisUpdateTime": "2026-08-28T14:59:44+08:00"
 }
