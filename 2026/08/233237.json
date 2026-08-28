@@ -1,16 +1,16 @@
 {
-    "eventId": "234477",
+    "eventId": "233237",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年永康所用戶用水設備新(改)裝工作勞務採購",
+    "eventContent": "配合警察局路口監控箱埋設電信配管及提升手孔",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26896487321353",
-    "eventWgsy": "23.005887081396597",
+    "eventWgsx": "120.2595010602006",
+    "eventWgsy": "23.00080581509833",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T10:45:58+08:00",
+    "eventHappenTime": "2026-08-28T11:32:25+08:00",
     "atisUpdateTime": "2026-08-28T11:44:28+08:00"
 }
