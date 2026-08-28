@@ -1,16 +1,16 @@
 {
-    "eventId": "GX300020",
+    "eventId": "TVPark_06",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "開山路 (樹林街至大同路) 發生壅塞",
+    "eventContent": "樹谷大道慢車道 (看西路至南134) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.20989653801136",
-    "eventWgsy": "22.98617349928279",
+    "eventWgsx": "120.2610551335683",
+    "eventWgsy": "23.092184527479052",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T10:16:33+08:00",
+    "eventHappenTime": "2026-08-28T11:01:25+08:00",
     "atisUpdateTime": "2026-08-28T11:14:51+08:00"
 }
