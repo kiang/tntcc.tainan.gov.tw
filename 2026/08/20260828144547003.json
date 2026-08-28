@@ -3,7 +3,7 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": null,
+    "eventTownName": "北區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
     "eventWgsx": "120.21087616437535",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-28T14:46:25+08:00",
-    "atisUpdateTime": "2026-08-28T15:29:41+08:00"
+    "atisUpdateTime": "2026-08-28T15:44:42+08:00"
 }
