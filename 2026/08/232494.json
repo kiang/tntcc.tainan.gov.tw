@@ -1,16 +1,16 @@
 {
-    "eventId": "234074",
+    "eventId": "232494",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "?文賢1戶",
+    "eventContent": "5260184泰嘉開發建設股份有限公司新增設",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21846448011634",
-    "eventWgsy": "23.061560194766713",
+    "eventWgsx": "120.17691401054107",
+    "eventWgsy": "23.020524490643776",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T09:11:15+08:00",
+    "eventHappenTime": "2026-08-28T09:29:35+08:00",
     "atisUpdateTime": "2026-08-28T09:44:47+08:00"
 }
