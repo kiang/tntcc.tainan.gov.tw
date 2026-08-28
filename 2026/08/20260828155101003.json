@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "善化區",
+    "eventTownName": null,
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
     "eventWgsx": "120.26630497416262",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-28T15:51:55+08:00",
-    "atisUpdateTime": "2026-08-28T15:59:44+08:00"
+    "atisUpdateTime": "2026-08-28T16:14:45+08:00"
 }
