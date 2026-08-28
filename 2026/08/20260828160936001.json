@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "汽機車",
-    "eventTownName": null,
+    "eventTownName": "仁德區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
     "eventWgsx": "120.24979985898636",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-28T16:14:54+08:00",
-    "atisUpdateTime": "2026-08-28T19:29:59+08:00"
+    "atisUpdateTime": "2026-08-28T19:45:00+08:00"
 }
