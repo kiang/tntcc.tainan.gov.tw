@@ -1,16 +1,16 @@
 {
-    "eventId": "234232",
+    "eventId": "233518",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "王有道給水",
-    "eventTownName": "仁德區",
+    "eventContent": "埋設電信引進管",
+    "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25618261153555",
-    "eventWgsy": "22.942440453842593",
+    "eventWgsx": "120.20498831492401",
+    "eventWgsy": "23.009481588717787",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T08:09:30+08:00",
+    "eventHappenTime": "2026-08-28T11:20:05+08:00",
     "atisUpdateTime": "2026-08-28T11:29:23+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "234494",
+    "eventId": "234076",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "銜接用戶管(NFQ11K5D2D)",
-    "eventTownName": "善化區",
+    "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.30030681064106",
-    "eventWgsy": "23.152712295392327",
+    "eventWgsx": "120.32550815153546",
+    "eventWgsy": "23.07677026119273",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T08:08:49+08:00",
+    "eventHappenTime": "2026-08-28T11:25:51+08:00",
     "atisUpdateTime": "2026-08-28T11:29:23+08:00"
 }
