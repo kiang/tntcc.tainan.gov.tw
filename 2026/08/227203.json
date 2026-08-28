@@ -1,16 +1,16 @@
 {
-    "eventId": "234238",
+    "eventId": "227203",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "陳炳宏給水",
-    "eventTownName": "仁德區",
+    "eventContent": "B250575吳淑惠表燈新設",
+    "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24867619154827",
-    "eventWgsy": "22.955099589567197",
+    "eventWgsx": "120.20006903083677",
+    "eventWgsy": "23.017334244843788",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T13:13:16+08:00",
+    "eventHappenTime": "2026-08-28T16:31:15+08:00",
     "atisUpdateTime": "2026-08-28T16:44:29+08:00"
 }
