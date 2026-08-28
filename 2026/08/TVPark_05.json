@@ -1,8 +1,8 @@
 {
     "eventId": "TVPark_05",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "樹谷大道快車道 (看西路至南134) 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "樹谷大道快車道 (看西路至南134) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T17:51:25+08:00",
-    "atisUpdateTime": "2026-08-28T18:00:00+08:00"
+    "eventHappenTime": "2026-08-28T18:11:25+08:00",
+    "atisUpdateTime": "2026-08-28T18:14:38+08:00"
 }
