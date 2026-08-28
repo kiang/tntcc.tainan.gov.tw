@@ -1,8 +1,8 @@
 {
     "eventId": "GX000159",
     "eventType": "JAM",
-    "eventSubType": "Jam",
-    "eventContent": "國1永康南下入口(自北區) 發生壅塞",
+    "eventSubType": "HeavyJam",
+    "eventContent": "國1永康南下入口(自北區) 發生重度壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T16:16:29+08:00",
-    "atisUpdateTime": "2026-08-28T16:44:49+08:00"
+    "eventHappenTime": "2026-08-28T16:51:25+08:00",
+    "atisUpdateTime": "2026-08-28T16:59:58+08:00"
 }

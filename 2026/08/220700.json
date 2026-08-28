@@ -1,16 +1,16 @@
 {
-    "eventId": "221338",
+    "eventId": "220700",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "貝律建設給水",
+    "eventContent": "配合六塊寮排水新闢道路電信管線預埋工程(一)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20416725312492",
-    "eventWgsy": "23.03946999177431",
+    "eventWgsx": "120.21194254638473",
+    "eventWgsy": "23.040949564041124",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T16:29:30+08:00",
+    "eventHappenTime": "2026-08-28T16:45:15+08:00",
     "atisUpdateTime": "2026-08-28T16:59:36+08:00"
 }
