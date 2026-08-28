@@ -1,16 +1,16 @@
 {
-    "eventId": "224505",
+    "eventId": "234217",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南海水淡化廠輸水管線統包工程(第一期)  ",
+    "eventContent": "115年佳里所用戶用水設備新(改)裝工作勞務採購(開口契約)",
     "eventTownName": "將軍區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.11597169626602",
-    "eventWgsy": "23.19066618474531",
+    "eventWgsx": "120.16499145130707",
+    "eventWgsy": "23.219883551144232",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T08:11:00+08:00",
+    "eventHappenTime": "2026-08-28T13:54:51+08:00",
     "atisUpdateTime": "2026-08-28T13:59:23+08:00"
 }
