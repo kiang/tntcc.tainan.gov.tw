@@ -3,7 +3,7 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": null,
+    "eventTownName": "新市區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
     "eventWgsx": "120.26122982551487",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-29T06:34:13+08:00",
-    "atisUpdateTime": "2026-08-29T06:59:06+08:00"
+    "atisUpdateTime": "2026-08-29T07:14:07+08:00"
 }
