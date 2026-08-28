@@ -1,16 +1,16 @@
 {
-    "eventId": "234074",
+    "eventId": "233524",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "?文賢1戶",
-    "eventTownName": "安南區",
+    "eventContent": "銜接用戶管",
+    "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21846448011634",
-    "eventWgsy": "23.061560194766713",
+    "eventWgsx": "120.23583659893836",
+    "eventWgsy": "23.020407217204184",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-28T09:11:15+08:00",
+    "eventHappenTime": "2026-08-28T12:24:03+08:00",
     "atisUpdateTime": "2026-08-28T12:29:49+08:00"
 }
