@@ -1,8 +1,8 @@
 {
     "eventId": "GX300002",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "裕農路 (裕農三街至健東路) 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "裕農路 (裕農三街至健東路) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-29T11:16:27+08:00",
-    "atisUpdateTime": "2026-08-29T11:44:34+08:00"
+    "eventHappenTime": "2026-08-29T11:46:27+08:00",
+    "atisUpdateTime": "2026-08-29T11:59:47+08:00"
 }
