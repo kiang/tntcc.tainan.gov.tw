@@ -1,0 +1,16 @@
+{
+    "eventId": "20260830020044003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "山上區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.33285969172599",
+    "eventWgsy": "23.123471892502007",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-30T02:01:20+08:00",
+    "atisUpdateTime": "2026-08-30T02:14:54+08:00"
+}
