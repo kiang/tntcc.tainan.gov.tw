@@ -1,16 +1,16 @@
 {
-    "eventId": "20260829192943008",
+    "eventId": "20260829194559003",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "新化區",
+    "eventTownName": "東區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.30366013159536",
-    "eventWgsy": "23.03786949209705",
+    "eventWgsx": "120.23817330094896",
+    "eventWgsy": "22.995648992284934",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-29T19:30:08+08:00",
+    "eventHappenTime": "2026-08-29T19:46:57+08:00",
     "atisUpdateTime": "2026-08-29T19:59:14+08:00"
 }
