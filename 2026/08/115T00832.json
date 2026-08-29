@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00832",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": null,
+    "eventWgsx": "120.2134160945048",
+    "eventWgsy": "22.991421736829288",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-29T08:01:22+08:00",
+    "atisUpdateTime": "2026-08-29T08:14:39+08:00"
+}
