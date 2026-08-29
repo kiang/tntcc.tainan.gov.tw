@@ -1,16 +1,16 @@
 {
-    "eventId": "232494",
+    "eventId": "227850",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5260184泰嘉開發建設股份有限公司新增設",
+    "eventContent": "C250257台灣電能發展股份有限公司(太陽光電)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17691401054107",
-    "eventWgsy": "23.020524490643776",
+    "eventWgsx": "120.15693858604398",
+    "eventWgsy": "23.039493603281684",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-29T09:02:39+08:00",
+    "eventHappenTime": "2026-08-29T13:13:13+08:00",
     "atisUpdateTime": "2026-08-29T13:29:47+08:00"
 }
