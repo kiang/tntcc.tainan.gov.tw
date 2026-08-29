@@ -1,16 +1,16 @@
 {
-    "eventId": "210615",
+    "eventId": "230811",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期工程主、次幹管第三標",
+    "eventContent": "3260377莊秉翰線路遷移工程",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2275051046898",
-    "eventWgsy": "22.970661224256347",
+    "eventWgsx": "120.23655470724",
+    "eventWgsy": "22.97991184623332",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-29T11:11:34+08:00",
+    "eventHappenTime": "2026-08-29T13:43:11+08:00",
     "atisUpdateTime": "2026-08-29T13:59:55+08:00"
 }
