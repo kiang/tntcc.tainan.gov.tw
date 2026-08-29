@@ -3,7 +3,7 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "安平區",
+    "eventTownName": null,
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
     "eventWgsx": "120.17814378096469",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-29T11:03:13+08:00",
-    "atisUpdateTime": "2026-08-29T11:29:26+08:00"
+    "atisUpdateTime": "2026-08-29T11:44:29+08:00"
 }
