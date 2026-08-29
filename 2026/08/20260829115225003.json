@@ -3,7 +3,7 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": null,
+    "eventTownName": "永康區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
     "eventWgsx": "120.23052986590709",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-29T11:53:05+08:00",
-    "atisUpdateTime": "2026-08-29T12:14:30+08:00"
+    "atisUpdateTime": "2026-08-29T12:29:31+08:00"
 }
