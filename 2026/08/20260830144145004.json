@@ -3,14 +3,14 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": null,
+    "eventTownName": "白河區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.42087825600252",
-    "eventWgsy": "23.35767847067346",
+    "eventWgsx": "120.42129745006869",
+    "eventWgsy": "23.35810995940675",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-30T14:42:17+08:00",
-    "atisUpdateTime": "2026-08-30T14:44:52+08:00"
+    "atisUpdateTime": "2026-08-30T14:59:54+08:00"
 }
