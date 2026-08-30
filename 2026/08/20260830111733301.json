@@ -3,7 +3,7 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "學甲區",
+    "eventTownName": null,
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
     "eventWgsx": "120.18354272969844",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-08-30T11:18:46+08:00",
-    "atisUpdateTime": "2026-08-30T11:44:34+08:00"
+    "atisUpdateTime": "2026-08-30T11:59:35+08:00"
 }
