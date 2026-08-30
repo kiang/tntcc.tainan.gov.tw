@@ -1,0 +1,16 @@
+{
+    "eventId": "230769",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "林太平給水",
+    "eventTownName": "仁德區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.25695622208681",
+    "eventWgsy": "22.938651140038996",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-30T18:56:05+08:00",
+    "atisUpdateTime": "2026-08-30T18:59:05+08:00"
+}
