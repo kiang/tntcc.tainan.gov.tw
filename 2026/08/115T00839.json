@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00839",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "臺南市中西區公園路74號",
+    "eventWgsx": "120.20607009543892",
+    "eventWgsy": "22.99602773360206",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-31T09:49:27+08:00",
+    "atisUpdateTime": "2026-08-31T09:59:25+08:00"
+}
