@@ -1,8 +1,8 @@
 {
     "eventId": "GX000165",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "自由路(東成街口站-自由路三段站) 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "自由路(東成街口站-自由路三段站) 發生壅塞",
     "eventTownName": "仁德區",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-31T07:41:25+08:00",
-    "atisUpdateTime": "2026-08-31T08:00:01+08:00"
+    "eventHappenTime": "2026-08-31T08:11:25+08:00",
+    "atisUpdateTime": "2026-08-31T08:14:39+08:00"
 }

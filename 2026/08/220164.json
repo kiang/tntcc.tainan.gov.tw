@@ -1,16 +1,16 @@
 {
-    "eventId": "217362",
+    "eventId": "220164",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "113年人、手孔維護工作",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32910081471722",
-    "eventWgsy": "23.317169208933652",
+    "eventWgsx": "120.32253936423265",
+    "eventWgsy": "23.3080992832844",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-31T07:39:27+08:00",
+    "eventHappenTime": "2026-08-31T08:00:25+08:00",
     "atisUpdateTime": "2026-08-31T08:14:12+08:00"
 }
