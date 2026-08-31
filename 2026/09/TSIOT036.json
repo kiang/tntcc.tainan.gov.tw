@@ -1,0 +1,16 @@
+{
+    "eventId": "TSIOT036",
+    "eventType": "DISASTER",
+    "eventSubType": "",
+    "eventContent": "淹水超過 10.0 公分",
+    "eventTownName": "仁德區",
+    "eventSource": "WRB_FLOODREALTIME",
+    "eventLocation": "仁德區-保安路一段56巷口(編號269)",
+    "eventWgsx": "120.2254",
+    "eventWgsy": "22.9244",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T01:53:00+08:00",
+    "atisUpdateTime": "2026-09-01T01:59:24+08:00"
+}
