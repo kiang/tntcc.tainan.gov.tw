@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00838",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市東區崇德里崇德路550巷19號前",
+    "eventWgsx": "120.22688699270815",
+    "eventWgsy": "22.97269884999922",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-08-31T08:58:37+08:00",
+    "atisUpdateTime": "2026-08-31T09:29:20+08:00"
+}

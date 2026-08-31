@@ -1,16 +1,16 @@
 {
-    "eventId": "GN00004",
+    "eventId": "GX00064",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "北外環 北外環車道至北外環路口 發生壅塞",
+    "eventContent": "台86線東向\/E1 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.25044459526453",
-    "eventWgsy": "23.06044341671396",
+    "eventWgsx": "120.31948995567565",
+    "eventWgsy": "22.975449365059514",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-31T09:21:25+08:00",
+    "eventHappenTime": "2026-08-31T09:16:29+08:00",
     "atisUpdateTime": "2026-08-31T09:29:49+08:00"
 }
