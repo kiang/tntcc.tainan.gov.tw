@@ -1,0 +1,16 @@
+{
+    "eventId": "GX00079-2",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "健康\/文平路口-健康路-林森路-東門路-國1-仁德系統交流道 發生壅塞",
+    "eventTownName": "安平區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.17768082490406",
+    "eventWgsy": "22.983009889193763",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T07:00:25+08:00",
+    "atisUpdateTime": "2026-09-01T07:14:49+08:00"
+}

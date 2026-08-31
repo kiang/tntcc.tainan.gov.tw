@@ -1,0 +1,16 @@
+{
+    "eventId": "GN00008",
+    "eventType": "JAM",
+    "eventSubType": "HeavyJam",
+    "eventContent": "永康東抽水站至永安路 河堤道路口 發生重度壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.22869600673467",
+    "eventWgsy": "23.04373011822414",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T07:00:25+08:00",
+    "atisUpdateTime": "2026-09-01T07:14:49+08:00"
+}

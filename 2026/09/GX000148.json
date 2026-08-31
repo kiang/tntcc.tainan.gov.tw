@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000148",
+    "eventType": "JAM",
+    "eventSubType": "HeavyJam",
+    "eventContent": "中山路(文華路-中正路) 發生重度壅塞",
+    "eventTownName": "永康區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.24425410013706",
+    "eventWgsy": "22.973644529118594",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T07:10:25+08:00",
+    "atisUpdateTime": "2026-09-01T07:14:49+08:00"
+}
