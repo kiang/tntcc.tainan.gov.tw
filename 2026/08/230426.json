@@ -1,16 +1,16 @@
 {
-    "eventId": "233100",
+    "eventId": "230426",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "6260243皇龍開發股份有限公司表燈新設",
+    "eventContent": "3260376升暘建設股份有限公司低壓新設",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23789734485572",
-    "eventWgsy": "22.97380457963212",
+    "eventWgsx": "120.25478918363608",
+    "eventWgsy": "22.949750789142207",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-31T09:02:17+08:00",
+    "eventHappenTime": "2026-08-31T10:22:50+08:00",
     "atisUpdateTime": "2026-08-31T10:29:31+08:00"
 }
