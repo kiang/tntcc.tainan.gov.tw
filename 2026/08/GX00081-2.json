@@ -1,8 +1,8 @@
 {
     "eventId": "GX00081-2",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "健康\/文平路口-健康路-中華西路-中華北路-大港觀海橋南端 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "健康\/文平路口-健康路-中華西路-中華北路-大港觀海橋南端 發生壅塞",
     "eventTownName": "安平區",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-31T17:46:26+08:00",
-    "atisUpdateTime": "2026-08-31T17:59:53+08:00"
+    "eventHappenTime": "2026-08-31T18:01:25+08:00",
+    "atisUpdateTime": "2026-08-31T18:15:00+08:00"
 }
