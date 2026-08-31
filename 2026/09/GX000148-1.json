@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000149",
+    "eventId": "GX000148-1",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "自由路(東門路338巷-東門路) 發生壅塞",
+    "eventContent": "中山路(中山路606巷-奧迪公司前) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.2375633406331",
-    "eventWgsy": "22.97182627468661",
+    "eventWgsx": "120.25136713933371",
+    "eventWgsy": "22.971680489588312",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T07:25:25+08:00",
+    "eventHappenTime": "2026-09-01T07:30:25+08:00",
     "atisUpdateTime": "2026-09-01T07:45:03+08:00"
 }
