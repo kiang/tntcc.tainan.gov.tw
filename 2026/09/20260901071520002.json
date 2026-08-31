@@ -1,0 +1,16 @@
+{
+    "eventId": "20260901071520002",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "工廠及倉庫(含石化工業設備設施)",
+    "eventTownName": "歸仁區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.27617427224007",
+    "eventWgsy": "22.990631044953833",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T07:16:29+08:00",
+    "atisUpdateTime": "2026-09-01T07:30:03+08:00"
+}

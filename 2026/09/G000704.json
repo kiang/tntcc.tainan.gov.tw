@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000146",
+    "eventId": "G000704",
     "eventType": "JAM",
     "eventSubType": "HeavyJam",
-    "eventContent": "東門路(文化路-自由路) 發生重度壅塞",
+    "eventContent": "高速公路側車道 太子路至復興路(北向) 發生重度壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.23350825697564",
-    "eventWgsy": "22.978003804736186",
+    "eventWgsx": "120.24853583482513",
+    "eventWgsy": "22.99074387399881",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T07:10:25+08:00",
+    "eventHappenTime": "2026-09-01T07:15:25+08:00",
     "atisUpdateTime": "2026-09-01T07:29:56+08:00"
 }

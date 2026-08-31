@@ -1,16 +1,16 @@
 {
-    "eventId": "TVPark_05",
+    "eventId": "GX300014",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "樹谷大道快車道 (看西路至南134) 發生壅塞",
+    "eventContent": "太子路(長興五街至太子四街) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.26119948278182",
-    "eventWgsy": "23.0919144150925",
+    "eventWgsx": "120.25280667775174",
+    "eventWgsy": "22.99154337345745",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T07:05:25+08:00",
+    "eventHappenTime": "2026-09-01T07:25:25+08:00",
     "atisUpdateTime": "2026-09-01T07:29:56+08:00"
 }
