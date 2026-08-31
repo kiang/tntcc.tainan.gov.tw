@@ -1,0 +1,16 @@
+{
+    "eventId": "TVPark_08",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "樹谷聯絡道 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.26094521328",
+    "eventWgsy": "23.08732101378372",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T03:40:25+08:00",
+    "atisUpdateTime": "2026-09-01T03:44:43+08:00"
+}
