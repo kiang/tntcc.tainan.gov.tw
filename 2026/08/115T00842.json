@@ -1,16 +1,16 @@
 {
-    "eventId": "115T00840",
+    "eventId": "115T00842",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": null,
     "eventTownName": "安南區",
     "eventSource": "PWB",
-    "eventLocation": "709台灣臺南市安南區佃西里安佃十一街82號",
-    "eventWgsx": "120.17169260024531",
-    "eventWgsy": "23.06364278599722",
+    "eventLocation": "709台灣臺南市安南區海南里府安路七段48巷14號",
+    "eventWgsx": "120.18017809875126",
+    "eventWgsy": "23.01334592146219",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-31T10:31:16+08:00",
+    "eventHappenTime": "2026-08-31T13:41:54+08:00",
     "atisUpdateTime": "2026-08-31T13:59:30+08:00"
 }
