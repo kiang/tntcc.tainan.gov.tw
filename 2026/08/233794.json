@@ -1,16 +1,16 @@
 {
-    "eventId": "233931",
+    "eventId": "233794",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南孝智161kV及22.8kV共同路徑電纜管路挖埋土木工程",
+    "eventContent": "臺南學甲麻豆漁電共生太陽光電發電廠道路挖掘埋設管線工程",
     "eventTownName": "學甲區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18866214356261",
-    "eventWgsy": "23.227309383993344",
+    "eventWgsx": "120.21924525477596",
+    "eventWgsy": "23.230949496695576",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-31T09:36:34+08:00",
+    "eventHappenTime": "2026-08-31T11:53:42+08:00",
     "atisUpdateTime": "2026-08-31T11:59:53+08:00"
 }
