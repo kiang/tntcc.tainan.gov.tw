@@ -1,16 +1,16 @@
 {
-    "eventId": "227622",
+    "eventId": "218162",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "C250066泓達建設開發股份有限公司新增設",
+    "eventContent": "2250027林炘宓新設自用停車場用電",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19858828589425",
-    "eventWgsy": "23.025784449551153",
+    "eventWgsx": "120.19674189216894",
+    "eventWgsy": "23.031535472902135",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-08-31T13:01:19+08:00",
+    "eventHappenTime": "2026-08-31T13:15:21+08:00",
     "atisUpdateTime": "2026-08-31T13:29:20+08:00"
 }
