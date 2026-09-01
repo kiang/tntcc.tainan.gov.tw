@@ -1,16 +1,16 @@
 {
-    "eventId": "GN00007",
+    "eventId": "GX300004",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "長和路一段 永安橋北向車道起點至北外環匝道口 發生壅塞",
+    "eventContent": "裕忠路 (裕忠路65號至裕農路) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24013218308282",
-    "eventWgsy": "23.050709873602376",
+    "eventWgsx": "120.24177024845652",
+    "eventWgsy": "22.986869442407137",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T07:50:25+08:00",
+    "eventHappenTime": "2026-09-01T08:00:25+08:00",
     "atisUpdateTime": "2026-09-01T08:14:50+08:00"
 }
