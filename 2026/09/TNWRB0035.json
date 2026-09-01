@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "",
     "eventContent": "淹水超過 10.0 公分",
-    "eventTownName": null,
+    "eventTownName": "左鎮區",
     "eventSource": "WRB_FLOODREALTIME",
     "eventLocation": "左鎮區-三角潭橋(編號336)(內控封閉)",
     "eventWgsx": "120.431626",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T12:20:00+08:00",
-    "atisUpdateTime": "2026-09-01T12:29:20+08:00"
+    "eventHappenTime": "2026-09-01T12:35:00+08:00",
+    "atisUpdateTime": "2026-09-01T12:44:22+08:00"
 }
