@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00843",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "中西區觀亭街79號",
+    "eventWgsx": "120.20600309546244",
+    "eventWgsy": "22.99779873235253",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T09:34:19+08:00",
+    "atisUpdateTime": "2026-09-01T09:44:38+08:00"
+}
