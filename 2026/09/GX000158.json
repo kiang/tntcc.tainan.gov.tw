@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000161",
+    "eventId": "GX000158",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "中正南路(正南三路-正南一街) 發生壅塞",
+    "eventContent": "國1永康南下入口(自永康) 發生壅塞",
     "eventTownName": "永康",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.23022409302729",
-    "eventWgsy": "23.03522999306676",
+    "eventWgsx": "120.2508211118012",
+    "eventWgsy": "23.042035875039595",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T16:56:03+08:00",
+    "eventHappenTime": "2026-09-01T17:06:03+08:00",
     "atisUpdateTime": "2026-09-01T17:14:58+08:00"
 }
