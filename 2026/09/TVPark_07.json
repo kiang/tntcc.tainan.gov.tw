@@ -1,16 +1,16 @@
 {
-    "eventId": "GN00007",
+    "eventId": "TVPark_07",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "長和路一段 永安橋北向車道起點至北外環匝道口 發生壅塞",
+    "eventContent": "南134 (堤塘港路至樹谷大道) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24013218308282",
-    "eventWgsy": "23.050709873602376",
+    "eventWgsx": "120.26492202434677",
+    "eventWgsy": "23.089728099583937",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T17:26:03+08:00",
+    "eventHappenTime": "2026-09-01T17:16:04+08:00",
     "atisUpdateTime": "2026-09-01T17:29:35+08:00"
 }
