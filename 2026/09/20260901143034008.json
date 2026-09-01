@@ -1,5 +1,5 @@
 {
-    "eventId": "20260901140840008",
+    "eventId": "20260901143034008",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T14:44:39+08:00",
+    "eventHappenTime": "2026-09-01T14:31:23+08:00",
     "atisUpdateTime": "2026-09-01T14:44:39+08:00"
 }
