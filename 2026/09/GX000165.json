@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000165",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "自由路(東成街口站-自由路三段站) 發生壅塞",
+    "eventTownName": "仁德區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.23759101481929",
+    "eventWgsy": "22.97955435110867",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T07:55:25+08:00",
+    "atisUpdateTime": "2026-09-01T07:59:42+08:00"
+}

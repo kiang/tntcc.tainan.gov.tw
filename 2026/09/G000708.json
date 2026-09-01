@@ -1,0 +1,16 @@
+{
+    "eventId": "G000708",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "中山南路 中華路至永大路(東向) 發生壅塞",
+    "eventTownName": "永康區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.23086396112603",
+    "eventWgsy": "23.013415936196424",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T07:45:25+08:00",
+    "atisUpdateTime": "2026-09-01T07:59:42+08:00"
+}

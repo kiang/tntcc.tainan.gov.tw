@@ -1,0 +1,16 @@
+{
+    "eventId": "G000509",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "平豐路 健康路至安北路(北向) 發生壅塞",
+    "eventTownName": "安平區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.16457725699058",
+    "eventWgsy": "22.98509393581105",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T07:45:25+08:00",
+    "atisUpdateTime": "2026-09-01T07:59:42+08:00"
+}

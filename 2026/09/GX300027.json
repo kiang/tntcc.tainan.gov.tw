@@ -1,0 +1,16 @@
+{
+    "eventId": "GX300027",
+    "eventType": "JAM",
+    "eventSubType": "HeavyJam",
+    "eventContent": "府連路 (慶東街至府連路175巷) 發生重度壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.21529424536698",
+    "eventWgsy": "22.985160775817924",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T07:50:25+08:00",
+    "atisUpdateTime": "2026-09-01T07:59:42+08:00"
+}

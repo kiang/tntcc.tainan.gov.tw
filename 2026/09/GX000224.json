@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000224",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "中華東-裕永(忠孝) (東向) 發生壅塞",
+    "eventTownName": "",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.23334706407694",
+    "eventWgsy": "22.998439239086306",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T07:45:25+08:00",
+    "atisUpdateTime": "2026-09-01T07:59:42+08:00"
+}

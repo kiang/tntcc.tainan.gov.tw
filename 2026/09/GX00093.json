@@ -1,0 +1,16 @@
+{
+    "eventId": "GX00093",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "新港社大道 中正北路至環西路(北向) 發生壅塞",
+    "eventTownName": "永康區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.28166110005415",
+    "eventWgsy": "23.06274930065592",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T07:45:25+08:00",
+    "atisUpdateTime": "2026-09-01T07:59:42+08:00"
+}
