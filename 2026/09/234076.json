@@ -1,0 +1,16 @@
+{
+    "eventId": "234076",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "銜接用戶管(NFQ11K5D2D)",
+    "eventTownName": "新市區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.32550815153546",
+    "eventWgsy": "23.07677026119273",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T11:34:26+08:00",
+    "atisUpdateTime": "2026-09-01T11:45:01+08:00"
+}
