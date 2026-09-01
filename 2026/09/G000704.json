@@ -1,8 +1,8 @@
 {
     "eventId": "G000704",
     "eventType": "JAM",
-    "eventSubType": "Jam",
-    "eventContent": "高速公路側車道 太子路至復興路(北向) 發生壅塞",
+    "eventSubType": "HeavyJam",
+    "eventContent": "高速公路側車道 太子路至復興路(北向) 發生重度壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-02T07:01:03+08:00",
-    "atisUpdateTime": "2026-09-02T07:14:39+08:00"
+    "eventHappenTime": "2026-09-02T07:16:03+08:00",
+    "atisUpdateTime": "2026-09-02T07:29:46+08:00"
 }
