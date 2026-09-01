@@ -1,16 +1,16 @@
 {
-    "eventId": "227622",
+    "eventId": "232083",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "C250066泓達建設開發股份有限公司新增設",
+    "eventContent": "4260038金展盛開發有限公司臨時用電",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19858828589425",
-    "eventWgsy": "23.025784449551153",
+    "eventWgsx": "120.20105937811604",
+    "eventWgsy": "23.037490348163306",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T09:28:05+08:00",
+    "eventHappenTime": "2026-09-01T10:00:20+08:00",
     "atisUpdateTime": "2026-09-01T10:14:43+08:00"
 }
