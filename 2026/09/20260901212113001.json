@@ -1,16 +1,16 @@
 {
-    "eventId": "20260901204304001",
+    "eventId": "20260901212113001",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "柳營區",
+    "eventTownName": "仁德區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.37947304192457",
-    "eventWgsy": "23.2669820775884",
+    "eventWgsx": "120.2341182652553",
+    "eventWgsy": "22.919932927077802",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T20:44:39+08:00",
+    "eventHappenTime": "2026-09-01T21:21:33+08:00",
     "atisUpdateTime": "2026-09-01T21:29:18+08:00"
 }
