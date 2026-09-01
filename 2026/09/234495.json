@@ -1,0 +1,16 @@
+{
+    "eventId": "234495",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "配合水利局汙水箱涵遷移電信管道及提升人手孔",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.25674404762702",
+    "eventWgsy": "23.015545007660105",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-01T13:33:44+08:00",
+    "atisUpdateTime": "2026-09-01T13:44:26+08:00"
+}
