@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000137-1",
+    "eventId": "GX000159",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "高架路段(永大路-蔦松二街) 發生壅塞",
+    "eventContent": "國1永康南下入口(自北區) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.25809712749923",
-    "eventWgsy": "23.040195119783505",
+    "eventWgsx": "120.25021731531487",
+    "eventWgsy": "23.041759595476858",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T07:00:25+08:00",
+    "eventHappenTime": "2026-09-01T08:26:27+08:00",
     "atisUpdateTime": "2026-09-01T08:29:57+08:00"
 }

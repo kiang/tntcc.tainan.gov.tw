@@ -1,16 +1,16 @@
 {
-    "eventId": "GX00096-1",
+    "eventId": "GX000167",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "南科聯絡道 中正北路至新港社大道(東向) 發生壅塞",
+    "eventContent": "中華東路(小東路-東門路) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.2736597392099",
-    "eventWgsy": "23.05577745349403",
+    "eventWgsx": "120.23458596804663",
+    "eventWgsy": "22.998286347758132",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-01T07:15:25+08:00",
+    "eventHappenTime": "2026-09-01T08:21:25+08:00",
     "atisUpdateTime": "2026-09-01T08:29:57+08:00"
 }
