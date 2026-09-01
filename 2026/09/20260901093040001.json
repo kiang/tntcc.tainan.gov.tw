@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "誤(謊)報",
-    "eventTownName": "東區",
+    "eventTownName": null,
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
     "eventWgsx": "120.23269716819894",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-09-01T09:31:15+08:00",
-    "atisUpdateTime": "2026-09-01T10:59:20+08:00"
+    "atisUpdateTime": "2026-09-01T11:14:21+08:00"
 }
