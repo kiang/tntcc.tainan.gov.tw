@@ -1,16 +1,16 @@
 {
-    "eventId": "222852",
+    "eventId": "232597",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "6250482王國忠表燈新設",
+    "eventContent": "6260005涵瑜水產王雨涵新增設",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16549924082521",
-    "eventWgsy": "22.98733003564631",
+    "eventWgsx": "120.17960855877817",
+    "eventWgsy": "22.991246462546528",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-02T09:30:10+08:00",
+    "eventHappenTime": "2026-09-02T13:40:39+08:00",
     "atisUpdateTime": "2026-09-02T13:44:10+08:00"
 }
