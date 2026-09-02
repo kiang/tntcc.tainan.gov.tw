@@ -1,16 +1,16 @@
 {
-    "eventId": "GX300012",
+    "eventId": "GX00065-W1",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "裕義路 (裕英路至裕義路口右轉車道) 發生壅塞",
+    "eventContent": "台86線西向\/W1 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24788195651222",
-    "eventWgsy": "22.98703157915898",
+    "eventWgsx": "120.32239609325411",
+    "eventWgsy": "22.976631195199207",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-02T16:06:03+08:00",
+    "eventHappenTime": "2026-09-02T17:26:03+08:00",
     "atisUpdateTime": "2026-09-02T17:29:37+08:00"
 }
