@@ -1,16 +1,16 @@
 {
-    "eventId": "221282",
+    "eventId": "235004",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "B230089周甘霖新設用電",
+    "eventContent": "光華街229巷28弄11號無水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23399284510461",
-    "eventWgsy": "22.987467429363555",
+    "eventWgsx": "120.21392535311686",
+    "eventWgsy": "22.985984209495786",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-02T09:18:53+08:00",
+    "eventHappenTime": "2026-09-02T10:33:41+08:00",
     "atisUpdateTime": "2026-09-02T10:44:32+08:00"
 }
