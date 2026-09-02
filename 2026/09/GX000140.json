@@ -1,8 +1,8 @@
 {
     "eventId": "GX000140",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "竹林街(竹林街24巷-中正北路) 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "竹林街(竹林街24巷-中正北路) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-02T17:11:03+08:00",
-    "atisUpdateTime": "2026-09-02T17:29:37+08:00"
+    "eventHappenTime": "2026-09-02T17:41:03+08:00",
+    "atisUpdateTime": "2026-09-02T17:44:51+08:00"
 }
