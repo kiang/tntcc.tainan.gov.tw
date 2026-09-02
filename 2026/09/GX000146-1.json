@@ -1,16 +1,16 @@
 {
-    "eventId": "G000717",
+    "eventId": "GX000146-1",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "中正南北路 永康交流道至中華路(西向) 發生壅塞",
+    "eventContent": "東門路(文華路-自由路) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.25115035233196",
-    "eventWgsy": "23.042023907913673",
+    "eventWgsx": "120.24298925332229",
+    "eventWgsy": "22.974158925719905",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-02T17:11:03+08:00",
+    "eventHappenTime": "2026-09-02T18:26:03+08:00",
     "atisUpdateTime": "2026-09-02T18:29:53+08:00"
 }

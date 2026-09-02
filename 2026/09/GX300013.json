@@ -1,8 +1,8 @@
 {
     "eventId": "GX300013",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "高速一街 (裕德二街至太子路) 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "高速一街 (裕德二街至太子路) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-02T17:26:03+08:00",
-    "atisUpdateTime": "2026-09-02T18:14:43+08:00"
+    "eventHappenTime": "2026-09-02T18:21:03+08:00",
+    "atisUpdateTime": "2026-09-02T18:29:53+08:00"
 }
