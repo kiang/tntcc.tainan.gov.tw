@@ -1,0 +1,16 @@
+{
+    "eventId": "TNWG003",
+    "eventType": "DISASTER",
+    "eventSubType": "",
+    "eventContent": "淹水超過 10.0 公分",
+    "eventTownName": "七股區",
+    "eventSource": "WRB_FLOODREALTIME",
+    "eventLocation": "七股區-南176線84號前(編號86)",
+    "eventWgsx": "120.150304",
+    "eventWgsy": "23.149089",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-02T16:53:13+08:00",
+    "atisUpdateTime": "2026-09-02T16:59:52+08:00"
+}
