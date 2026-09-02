@@ -1,16 +1,16 @@
 {
-    "eventId": "20260902094456004",
+    "eventId": "20260902132317002",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "其他",
-    "eventTownName": "七股區",
+    "eventContent": "汽機車",
+    "eventTownName": "善化區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.10057674151399",
-    "eventWgsy": "23.125156243977194",
+    "eventWgsx": "120.33569606898132",
+    "eventWgsy": "23.142751103576142",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-02T09:47:01+08:00",
+    "eventHappenTime": "2026-09-02T13:24:19+08:00",
     "atisUpdateTime": "2026-09-02T13:29:44+08:00"
 }
