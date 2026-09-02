@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000136-1",
+    "eventId": "G000714",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "中正北路(北出交流道-永安路) 發生壅塞",
+    "eventContent": "國1 永康至仁德系統(南向) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.25208986868459",
-    "eventWgsy": "23.042048738948584",
+    "eventWgsx": "120.25128310885498",
+    "eventWgsy": "23.041688303357336",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-02T14:01:03+08:00",
+    "eventHappenTime": "2026-09-02T14:31:03+08:00",
     "atisUpdateTime": "2026-09-02T14:44:51+08:00"
 }
