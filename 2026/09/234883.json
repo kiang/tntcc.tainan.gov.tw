@@ -1,16 +1,16 @@
 {
-    "eventId": "234500",
+    "eventId": "234883",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合警察局路口監控箱埋設電信配管",
+    "eventContent": "銜接用戶管 ",
     "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.27766159066383",
-    "eventWgsy": "22.929524084903075",
+    "eventWgsx": "120.28698021290823",
+    "eventWgsy": "22.969700054774158",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-03T10:13:58+08:00",
+    "eventHappenTime": "2026-09-03T11:03:33+08:00",
     "atisUpdateTime": "2026-09-03T11:14:32+08:00"
 }
