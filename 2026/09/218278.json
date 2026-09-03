@@ -1,16 +1,16 @@
 {
-    "eventId": "229231",
+    "eventId": "218278",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年度-翔鋐建設有限公司(乙管路2260021)",
+    "eventContent": "113年人、手孔維護工作",
     "eventTownName": "下營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26540995330815",
-    "eventWgsy": "23.2333251818311",
+    "eventWgsx": "120.28454599420039",
+    "eventWgsy": "23.226048462499367",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-03T11:41:44+08:00",
+    "eventHappenTime": "2026-09-03T12:31:20+08:00",
     "atisUpdateTime": "2026-09-03T12:44:06+08:00"
 }
