@@ -1,16 +1,16 @@
 {
-    "eventId": "232718",
+    "eventId": "234358",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年度臺南市污水孔蓋防滑係數改善工程（開口合約）",
+    "eventContent": "埋設電力桿引上管",
     "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2114310932695",
-    "eventWgsy": "23.020389019244803",
+    "eventWgsx": "120.21847596696817",
+    "eventWgsy": "23.01374348773668",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-03T08:00:29+08:00",
+    "eventHappenTime": "2026-09-03T09:14:45+08:00",
     "atisUpdateTime": "2026-09-03T09:29:51+08:00"
 }
