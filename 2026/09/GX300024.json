@@ -1,8 +1,8 @@
 {
     "eventId": "GX300024",
     "eventType": "JAM",
-    "eventSubType": "Jam",
-    "eventContent": "大同路一段 (府東街至開山路) 發生壅塞",
+    "eventSubType": "HeavyJam",
+    "eventContent": "大同路一段 (府東街至開山路) 發生重度壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-03T10:02:03+08:00",
-    "atisUpdateTime": "2026-09-03T11:44:45+08:00"
+    "eventHappenTime": "2026-09-03T11:47:03+08:00",
+    "atisUpdateTime": "2026-09-03T11:59:54+08:00"
 }
