@@ -1,16 +1,16 @@
 {
-    "eventId": "234184",
+    "eventId": "227387",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合警察局路口監控箱埋設電信配管及手孔提升",
+    "eventContent": "許芳瑜1戶",
     "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22437299774633",
-    "eventWgsy": "23.002670707461004",
+    "eventWgsx": "120.20308114180594",
+    "eventWgsy": "23.007714130615664",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-03T08:08:48+08:00",
+    "eventHappenTime": "2026-09-03T09:05:45+08:00",
     "atisUpdateTime": "2026-09-03T09:14:48+08:00"
 }

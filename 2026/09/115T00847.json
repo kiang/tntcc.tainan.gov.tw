@@ -1,16 +1,16 @@
 {
-    "eventId": "233807",
+    "eventId": "115T00847",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "埋設電信引上管",
+    "eventContent": "漏水",
     "eventTownName": "中西區",
     "eventSource": "PWB",
-    "eventLocation": "",
-    "eventWgsx": "120.19260781049366",
-    "eventWgsy": "22.99042246851836",
+    "eventLocation": "中西區中山路199號",
+    "eventWgsx": "120.21106609483466",
+    "eventWgsy": "22.996509733246267",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-03T08:40:08+08:00",
+    "eventHappenTime": "2026-09-03T08:58:43+08:00",
     "atisUpdateTime": "2026-09-03T09:14:48+08:00"
 }
