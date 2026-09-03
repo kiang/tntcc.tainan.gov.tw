@@ -1,16 +1,16 @@
 {
-    "eventId": "222852",
+    "eventId": "233353",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "6250482王國忠表燈新設",
+    "eventContent": "銜接用戶管--漢川建設(李英儒)",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16549924082521",
-    "eventWgsy": "22.98733003564631",
+    "eventWgsx": "120.18416965070152",
+    "eventWgsy": "22.993864128773858",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-03T09:44:54+08:00",
+    "eventHappenTime": "2026-09-03T11:18:58+08:00",
     "atisUpdateTime": "2026-09-03T11:29:37+08:00"
 }
