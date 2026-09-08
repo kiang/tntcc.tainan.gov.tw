@@ -1,16 +1,16 @@
 {
-    "eventId": "234728",
+    "eventId": "233811",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年佳里所用戶用水設備新(改)裝工作勞務採購(開口契約)",
+    "eventContent": "114年人、手孔維護工作",
     "eventTownName": "學甲區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17279857127421",
-    "eventWgsy": "23.25586268439874",
+    "eventWgsx": "120.18916415071573",
+    "eventWgsy": "23.240935119239925",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T14:24:40+08:00",
+    "eventHappenTime": "2026-09-08T15:14:12+08:00",
     "atisUpdateTime": "2026-09-08T15:29:09+08:00"
 }
