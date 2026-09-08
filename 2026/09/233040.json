@@ -1,16 +1,16 @@
 {
-    "eventId": "208480",
+    "eventId": "233040",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市永康區污水下水道系統第二期(PA分區)管線及用戶接管工程第一標",
+    "eventContent": "配合永康區污水下水道第二期(PA分區)第二標代辦管遷工程(二)-8",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25304625489734",
-    "eventWgsy": "23.01521479675877",
+    "eventWgsx": "120.25786072267493",
+    "eventWgsy": "23.01114568768097",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T08:49:49+08:00",
+    "eventHappenTime": "2026-09-08T10:49:52+08:00",
     "atisUpdateTime": "2026-09-08T10:59:13+08:00"
 }
