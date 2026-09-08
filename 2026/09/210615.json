@@ -1,16 +1,16 @@
 {
-    "eventId": "221282",
+    "eventId": "210615",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "B230089周甘霖新設用電",
+    "eventContent": "臺南市仁德區污水下水道系統第二期工程主、次幹管第三標",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23399284510461",
-    "eventWgsy": "22.987467429363555",
+    "eventWgsx": "120.2275051046898",
+    "eventWgsy": "22.970661224256347",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T09:02:29+08:00",
+    "eventHappenTime": "2026-09-08T11:19:56+08:00",
     "atisUpdateTime": "2026-09-08T11:29:25+08:00"
 }
