@@ -1,16 +1,16 @@
 {
-    "eventId": "210194",
+    "eventId": "233201",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期工程主、次幹管第三標",
+    "eventContent": "東區大同路二段與中華東路三段--路口監控接管工程(編號60)",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.225796553329",
-    "eventWgsy": "22.96676131514311",
+    "eventWgsx": "120.214985856698",
+    "eventWgsy": "22.971713876249822",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T11:20:09+08:00",
+    "eventHappenTime": "2026-09-08T13:42:32+08:00",
     "atisUpdateTime": "2026-09-08T13:44:26+08:00"
 }
