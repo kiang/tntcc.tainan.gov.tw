@@ -1,16 +1,16 @@
 {
-    "eventId": "234502",
+    "eventId": "224550",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "新營區台一線290K+200等汰換管線工程(自行車道)",
+    "eventContent": "修配管(S2D410206-S2L458190)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.33742843283702",
-    "eventWgsy": "23.322400117019292",
+    "eventWgsx": "120.32619282363125",
+    "eventWgsy": "23.318913333187627",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T08:41:27+08:00",
+    "eventHappenTime": "2026-09-08T08:45:30+08:00",
     "atisUpdateTime": "2026-09-08T08:59:33+08:00"
 }
