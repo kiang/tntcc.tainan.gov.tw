@@ -1,16 +1,16 @@
 {
-    "eventId": "234830",
+    "eventId": "234098",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要修配管",
     "eventTownName": "關廟區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.35151813725558",
-    "eventWgsy": "22.90036311166143",
+    "eventWgsx": "120.3534694001671",
+    "eventWgsy": "22.972301723390967",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T11:01:31+08:00",
+    "eventHappenTime": "2026-09-08T14:51:37+08:00",
     "atisUpdateTime": "2026-09-08T15:00:01+08:00"
 }
