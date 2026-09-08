@@ -1,16 +1,16 @@
 {
-    "eventId": "115T00864",
+    "eventId": "115T00866",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "漏水",
     "eventTownName": "北區",
     "eventSource": "PWB",
-    "eventLocation": "北區北成路128巷47號",
-    "eventWgsx": "120.20957209522615",
-    "eventWgsy": "23.020723716164298",
+    "eventLocation": "國立成功大學醫學院附設醫院 704台灣臺南市北區勝利路357之1號",
+    "eventWgsx": "120.21843609397702",
+    "eventWgsy": "23.00111672997232",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T11:56:24+08:00",
+    "eventHappenTime": "2026-09-08T18:06:32+08:00",
     "atisUpdateTime": "2026-09-08T18:14:59+08:00"
 }
