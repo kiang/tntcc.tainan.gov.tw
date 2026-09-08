@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI02628",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "700台灣臺南市中西區和緯路五段363號",
+    "eventWgsx": "120.17751709900207",
+    "eventWgsy": "23.005059727317647",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-08T10:44:42+08:00",
+    "atisUpdateTime": "2026-09-08T15:59:17+08:00"
+}

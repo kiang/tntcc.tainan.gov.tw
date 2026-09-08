@@ -1,16 +1,16 @@
 {
-    "eventId": "233199",
+    "eventId": "232665",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "東區崇明路與崇明十四街--路口監控接管工程(編號65)",
+    "eventContent": "配合汙水井(C01-06-07)遷移電信配管",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22495317474211",
-    "eventWgsy": "22.972598326225853",
+    "eventWgsx": "120.22991756741744",
+    "eventWgsy": "22.970201744724726",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T14:54:32+08:00",
+    "eventHappenTime": "2026-09-08T15:49:39+08:00",
     "atisUpdateTime": "2026-09-08T15:59:17+08:00"
 }
