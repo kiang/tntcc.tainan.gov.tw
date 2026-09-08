@@ -1,16 +1,16 @@
 {
-    "eventId": "230058",
+    "eventId": "231038",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "沈中衡給水",
-    "eventTownName": "南區",
+    "eventContent": "銜接用戶管--黃淑華",
+    "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20370350764415",
-    "eventWgsy": "22.977652322209387",
+    "eventWgsx": "120.25207609846876",
+    "eventWgsy": "22.90447758432895",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T08:16:45+08:00",
+    "eventHappenTime": "2026-09-08T09:24:05+08:00",
     "atisUpdateTime": "2026-09-08T09:44:48+08:00"
 }
