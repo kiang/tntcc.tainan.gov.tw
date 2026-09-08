@@ -1,16 +1,16 @@
 {
-    "eventId": "211135",
+    "eventId": "233199",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期工程主、次幹管第三標",
+    "eventContent": "東區崇明路與崇明十四街--路口監控接管工程(編號65)",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22183894539847",
-    "eventWgsy": "22.97064096475539",
+    "eventWgsx": "120.22495317474211",
+    "eventWgsy": "22.972598326225853",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T11:20:17+08:00",
+    "eventHappenTime": "2026-09-08T14:54:32+08:00",
     "atisUpdateTime": "2026-09-08T15:14:04+08:00"
 }
