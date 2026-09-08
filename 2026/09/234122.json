@@ -1,0 +1,16 @@
+{
+    "eventId": "234122",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "7260138善化區公所遷移工程",
+    "eventTownName": "善化區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.32692069583463",
+    "eventWgsy": "23.12885421233753",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-08T07:49:55+08:00",
+    "atisUpdateTime": "2026-09-08T08:44:29+08:00"
+}

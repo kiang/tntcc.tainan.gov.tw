@@ -1,0 +1,16 @@
+{
+    "eventId": "233115",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "永康清管站與專管區管線拆除及改管工作",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.25399645555612",
+    "eventWgsy": "23.041105761597496",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-08T08:30:50+08:00",
+    "atisUpdateTime": "2026-09-08T08:44:29+08:00"
+}

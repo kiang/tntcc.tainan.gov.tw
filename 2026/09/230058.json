@@ -1,0 +1,16 @@
+{
+    "eventId": "230058",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "沈中衡給水",
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.20370350764415",
+    "eventWgsy": "22.977652322209387",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-08T08:16:45+08:00",
+    "atisUpdateTime": "2026-09-08T08:44:29+08:00"
+}

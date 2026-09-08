@@ -1,0 +1,16 @@
+{
+    "eventId": "234383",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "德興路146號無水搶修",
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.1924722415587",
+    "eventWgsy": "22.962933770742545",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-08T07:56:06+08:00",
+    "atisUpdateTime": "2026-09-08T08:44:29+08:00"
+}

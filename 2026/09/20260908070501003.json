@@ -2,15 +2,15 @@
     "eventId": "20260908070501003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "一般(集合)住宅",
+    "eventContent": "誤(謊)報",
     "eventTownName": "西港區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.18408766352098",
-    "eventWgsy": "23.126608629990443",
+    "eventWgsx": "120.1841997944166",
+    "eventWgsy": "23.12859998653034",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-09-08T07:06:47+08:00",
-    "atisUpdateTime": "2026-09-08T07:29:17+08:00"
+    "atisUpdateTime": "2026-09-08T08:44:31+08:00"
 }
