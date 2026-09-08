@@ -1,16 +1,16 @@
 {
-    "eventId": "224550",
+    "eventId": "230556",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "修配管(S2D410206-S2L458190)",
+    "eventContent": "114年-台南市政府工務局(甲管路2260130)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32619282363125",
-    "eventWgsy": "23.318913333187627",
+    "eventWgsx": "120.31098261846284",
+    "eventWgsy": "23.31975790117092",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T08:45:30+08:00",
+    "eventHappenTime": "2026-09-08T08:55:23+08:00",
     "atisUpdateTime": "2026-09-08T09:14:37+08:00"
 }

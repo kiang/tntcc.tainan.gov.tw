@@ -1,16 +1,16 @@
 {
-    "eventId": "230058",
+    "eventId": "232170",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "沈中衡給水",
+    "eventContent": "5260283穩鼎建設有限公司自用停車場新增設",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20370350764415",
-    "eventWgsy": "22.977652322209387",
+    "eventWgsx": "120.19632267549301",
+    "eventWgsy": "22.966022737065845",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T08:16:45+08:00",
+    "eventHappenTime": "2026-09-08T09:07:21+08:00",
     "atisUpdateTime": "2026-09-08T09:14:37+08:00"
 }
