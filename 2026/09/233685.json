@@ -1,16 +1,16 @@
 {
-    "eventId": "224550",
+    "eventId": "233685",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "修配管(S2D410206-S2L458190)",
+    "eventContent": "孔蓋提升及修配管(S2D510239-S2L558212)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32619282363125",
-    "eventWgsy": "23.318913333187627",
+    "eventWgsx": "120.30759893988417",
+    "eventWgsy": "23.331931048458507",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T08:45:30+08:00",
+    "eventHappenTime": "2026-09-08T11:39:57+08:00",
     "atisUpdateTime": "2026-09-08T11:44:31+08:00"
 }
