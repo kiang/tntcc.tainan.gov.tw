@@ -1,16 +1,16 @@
 {
-    "eventId": "20260908175726001",
+    "eventId": "20260908181556001",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "麻豆區",
+    "eventTownName": "善化區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.24607995402377",
-    "eventWgsy": "23.18461013248726",
+    "eventWgsx": "120.28818744839585",
+    "eventWgsy": "23.13988095734083",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T17:58:42+08:00",
+    "eventHappenTime": "2026-09-08T18:17:34+08:00",
     "atisUpdateTime": "2026-09-08T18:29:23+08:00"
 }
