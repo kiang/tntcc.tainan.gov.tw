@@ -1,16 +1,16 @@
 {
-    "eventId": "235134",
+    "eventId": "226348",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合市府路平-安南區怡安路二段(長溪路~安中路)人手孔下地",
+    "eventContent": "國精化學台19線本管工程",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20158258581215",
-    "eventWgsy": "23.043353979358745",
+    "eventWgsx": "120.21476002983029",
+    "eventWgsy": "23.07213725650723",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T09:10:03+08:00",
+    "eventHappenTime": "2026-09-08T09:20:07+08:00",
     "atisUpdateTime": "2026-09-08T09:29:42+08:00"
 }
