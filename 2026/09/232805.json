@@ -1,16 +1,16 @@
 {
-    "eventId": "228458",
+    "eventId": "232805",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期分支管網及用戶接管工程第10標",
+    "eventContent": "銜接用戶管--蔡育展",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23130344056966",
-    "eventWgsy": "22.957660431116683",
+    "eventWgsx": "120.21630328004788",
+    "eventWgsy": "22.917872304475736",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-08T07:40:12+08:00",
+    "eventHappenTime": "2026-09-08T16:13:12+08:00",
     "atisUpdateTime": "2026-09-08T16:14:22+08:00"
 }
