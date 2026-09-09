@@ -1,0 +1,16 @@
+{
+    "eventId": "234023",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "將軍~南淡線路土建工程",
+    "eventTownName": "將軍區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.11199916406954",
+    "eventWgsy": "23.19091935117773",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-09T09:44:38+08:00",
+    "atisUpdateTime": "2026-09-09T09:59:13+08:00"
+}
