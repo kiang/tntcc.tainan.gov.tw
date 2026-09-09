@@ -1,16 +1,16 @@
 {
-    "eventId": "229008",
+    "eventId": "221467",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "1260418龍騰建設股份有限公司新增設",
+    "eventContent": "臺南市安平污水下水道系統大同分區分支管網及用戶接管工程第三標",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.1829329280155",
-    "eventWgsy": "22.99633800586736",
+    "eventWgsx": "120.16055369339617",
+    "eventWgsy": "22.991016013466925",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-09T09:00:28+08:00",
+    "eventHappenTime": "2026-09-09T10:13:27+08:00",
     "atisUpdateTime": "2026-09-09T10:14:19+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "229008",
+    "eventId": "228012",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "1260418龍騰建設股份有限公司新增設",
+    "eventContent": "C250467富寓建設有限公司新設",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.1829329280155",
-    "eventWgsy": "22.99633800586736",
+    "eventWgsx": "120.1796835260482",
+    "eventWgsy": "22.991690555773644",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-09T09:00:28+08:00",
+    "eventHappenTime": "2026-09-09T10:01:06+08:00",
     "atisUpdateTime": "2026-09-09T10:14:19+08:00"
 }
