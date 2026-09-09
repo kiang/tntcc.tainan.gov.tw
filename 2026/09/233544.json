@@ -1,16 +1,16 @@
 {
-    "eventId": "230631",
+    "eventId": "233544",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-洪國保(甲管路2260141)",
+    "eventContent": "修引上(S2D505527-S2L459008)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.31932423123317",
-    "eventWgsy": "23.328287090872543",
+    "eventWgsx": "120.27786018543527",
+    "eventWgsy": "23.264120754388543",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-09T07:57:32+08:00",
+    "eventHappenTime": "2026-09-09T13:29:53+08:00",
     "atisUpdateTime": "2026-09-09T13:44:49+08:00"
 }

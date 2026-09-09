@@ -1,16 +1,16 @@
 {
-    "eventId": "229008",
+    "eventId": "232772",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "1260418龍騰建設股份有限公司新增設",
+    "eventContent": "銜接用戶管--寶隆建設(蔡基隆)",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.1829329280155",
-    "eventWgsy": "22.99633800586736",
+    "eventWgsx": "120.16108844782939",
+    "eventWgsy": "22.992732167301956",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-09T09:00:28+08:00",
+    "eventHappenTime": "2026-09-09T13:41:44+08:00",
     "atisUpdateTime": "2026-09-09T13:44:49+08:00"
 }
