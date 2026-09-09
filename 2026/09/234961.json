@@ -1,16 +1,16 @@
 {
-    "eventId": "232110",
+    "eventId": "234961",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "大成長城-1戶",
-    "eventTownName": "歸仁區",
+    "eventContent": "緊急工程",
+    "eventTownName": "中西區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29054818151825",
-    "eventWgsy": "22.932549104376314",
+    "eventWgsx": "120.19516020656052",
+    "eventWgsy": "23.00036118846309",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-09T09:01:02+08:00",
+    "eventHappenTime": "2026-09-09T17:16:39+08:00",
     "atisUpdateTime": "2026-09-09T17:29:50+08:00"
 }
