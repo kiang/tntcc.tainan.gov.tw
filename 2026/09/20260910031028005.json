@@ -1,0 +1,16 @@
+{
+    "eventId": "20260910031028005",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "一般(集合)住宅",
+    "eventTownName": "新化區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.33859992556847",
+    "eventWgsy": "23.061299990862697",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-10T03:12:46+08:00",
+    "atisUpdateTime": "2026-09-10T03:14:13+08:00"
+}
