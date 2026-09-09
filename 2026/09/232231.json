@@ -1,16 +1,16 @@
 {
-    "eventId": "229696",
+    "eventId": "232231",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "劉家均給水",
+    "eventContent": "銜接用戶管--陳炳臣",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22727363180822",
-    "eventWgsy": "23.062955706662976",
+    "eventWgsx": "120.18192987141511",
+    "eventWgsy": "23.05118243337837",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-09T07:56:19+08:00",
+    "eventHappenTime": "2026-09-09T09:06:31+08:00",
     "atisUpdateTime": "2026-09-09T09:14:58+08:00"
 }
