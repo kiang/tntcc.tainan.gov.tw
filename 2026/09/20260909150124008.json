@@ -1,0 +1,16 @@
+{
+    "eventId": "20260909150124008",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "安定區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.24530717452063",
+    "eventWgsy": "23.079742004867978",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-09T15:02:47+08:00",
+    "atisUpdateTime": "2026-09-09T15:14:16+08:00"
+}

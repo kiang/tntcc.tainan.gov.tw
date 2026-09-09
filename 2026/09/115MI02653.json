@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI02653",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "後壁區",
+    "eventSource": "PWB",
+    "eventLocation": "731台灣臺南市後壁區新嘉里白沙屯174號之1號",
+    "eventWgsx": "120.31051388563618",
+    "eventWgsy": "23.37152706831832",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-09T11:21:18+08:00",
+    "atisUpdateTime": "2026-09-09T15:14:27+08:00"
+}
