@@ -1,16 +1,16 @@
 {
-    "eventId": "232496",
+    "eventId": "235047",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5260268臺南市政府工務局(中華東路人行道改善工程配合遷移)",
+    "eventContent": "配合市府路平-中華東路(崇善路~東門路)人手孔下地",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22972745507849",
-    "eventWgsy": "22.9812721427602",
+    "eventWgsx": "120.22902783064808",
+    "eventWgsy": "22.98081817479546",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-09T08:55:45+08:00",
+    "eventHappenTime": "2026-09-09T09:31:01+08:00",
     "atisUpdateTime": "2026-09-09T09:44:07+08:00"
 }
