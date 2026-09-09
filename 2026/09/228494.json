@@ -1,16 +1,16 @@
 {
-    "eventId": "233025",
+    "eventId": "228494",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合永康區污水下水道第二期(PA分區)第二標代辦管遷工程(二)-4",
+    "eventContent": "B250245楊勝龍申請手孔提升",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25872354773196",
-    "eventWgsy": "23.011305321836502",
+    "eventWgsx": "120.26096256002253",
+    "eventWgsy": "23.023698565162725",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-09T08:08:05+08:00",
+    "eventHappenTime": "2026-09-09T14:15:16+08:00",
     "atisUpdateTime": "2026-09-09T14:29:08+08:00"
 }

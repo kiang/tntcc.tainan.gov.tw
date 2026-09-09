@@ -1,16 +1,16 @@
 {
-    "eventId": "20260909134716001",
+    "eventId": "20260909142446019",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "一般(集合)住宅",
-    "eventTownName": "仁德區",
+    "eventContent": "汽機車",
+    "eventTownName": "中西區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.25146118509375",
-    "eventWgsy": "22.972778518619137",
+    "eventWgsx": "120.20008470316887",
+    "eventWgsy": "22.98635999273638",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-09T13:47:29+08:00",
+    "eventHappenTime": "2026-09-09T14:26:02+08:00",
     "atisUpdateTime": "2026-09-09T14:29:13+08:00"
 }
