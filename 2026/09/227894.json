@@ -1,16 +1,16 @@
 {
-    "eventId": "232039",
+    "eventId": "227894",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5260160林明欽表燈新設",
+    "eventContent": "C250133傑銳有限公司高壓新設",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18092486867666",
-    "eventWgsy": "22.991447936478433",
+    "eventWgsx": "120.16302065910631",
+    "eventWgsy": "22.9871566053498",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-09T09:00:35+08:00",
+    "eventHappenTime": "2026-09-09T13:00:23+08:00",
     "atisUpdateTime": "2026-09-09T13:14:34+08:00"
 }
