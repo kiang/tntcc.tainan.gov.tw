@@ -1,16 +1,16 @@
 {
-    "eventId": "234135",
+    "eventId": "233719",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南孝智161kV及22.8kV共同路徑電纜管路挖埋土木工程171線9k+400(7K+400)",
+    "eventContent": "115年佳里所用戶用水設備新(改)裝工作勞務採購(開口契約)",
     "eventTownName": "學甲區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19054301212047",
-    "eventWgsy": "23.2256521127401",
+    "eventWgsx": "120.18514429476957",
+    "eventWgsy": "23.230280119508507",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-09T10:00:54+08:00",
+    "eventHappenTime": "2026-09-09T16:48:32+08:00",
     "atisUpdateTime": "2026-09-09T16:59:30+08:00"
 }
