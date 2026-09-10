@@ -1,16 +1,16 @@
 {
-    "eventId": "234651",
+    "eventId": "233530",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合汙水井(H2320)(H2321)(H2322)(H2323)遷移電信配管",
+    "eventContent": "銜接用戶管",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22515473356883",
-    "eventWgsy": "22.96141608327344",
+    "eventWgsx": "120.25466244546878",
+    "eventWgsy": "22.94984570419035",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-10T10:17:53+08:00",
+    "eventHappenTime": "2026-09-10T13:18:22+08:00",
     "atisUpdateTime": "2026-09-10T13:29:48+08:00"
 }
