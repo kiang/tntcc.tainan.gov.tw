@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00874",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "新營區",
+    "eventSource": "PWB",
+    "eventLocation": "730台灣臺南市新營區公正街112號",
+    "eventWgsx": "120.31713108438905",
+    "eventWgsy": "23.31655250708711",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-10T08:22:13+08:00",
+    "atisUpdateTime": "2026-09-10T08:29:40+08:00"
+}
