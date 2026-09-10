@@ -1,16 +1,16 @@
 {
-    "eventId": "233530",
+    "eventId": "234066",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管",
-    "eventTownName": "仁德區",
+    "eventContent": "聿川建設給水",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25466244546878",
-    "eventWgsy": "22.94984570419035",
+    "eventWgsx": "120.18542942581156",
+    "eventWgsy": "23.020258231014722",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-10T13:18:22+08:00",
+    "eventHappenTime": "2026-09-10T13:52:44+08:00",
     "atisUpdateTime": "2026-09-10T14:00:04+08:00"
 }
