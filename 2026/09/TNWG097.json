@@ -1,0 +1,16 @@
+{
+    "eventId": "TNWG097",
+    "eventType": "DISASTER",
+    "eventSubType": "",
+    "eventContent": "淹水超過 20.0 公分",
+    "eventTownName": "南區",
+    "eventSource": "WRB_FLOODREALTIME",
+    "eventLocation": "南區-灣裡路88巷93弄(編號180)",
+    "eventWgsx": "120.180313",
+    "eventWgsy": "22.928984",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-10T23:27:05+08:00",
+    "atisUpdateTime": "2026-09-10T23:44:57+08:00"
+}
