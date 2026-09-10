@@ -1,16 +1,16 @@
 {
-    "eventId": "233530",
+    "eventId": "234894",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管",
-    "eventTownName": "仁德區",
+    "eventContent": "1",
+    "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25466244546878",
-    "eventWgsy": "22.94984570419035",
+    "eventWgsx": "120.18258448747868",
+    "eventWgsy": "22.995295708668596",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-10T13:18:22+08:00",
+    "eventHappenTime": "2026-09-10T15:56:05+08:00",
     "atisUpdateTime": "2026-09-10T16:14:05+08:00"
 }

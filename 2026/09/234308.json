@@ -1,16 +1,16 @@
 {
-    "eventId": "233530",
+    "eventId": "234308",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管",
+    "eventContent": "115年歸仁所特定工廠周邊設置消防栓工程",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25466244546878",
-    "eventWgsy": "22.94984570419035",
+    "eventWgsx": "120.25834887936959",
+    "eventWgsy": "22.907265573280284",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-10T13:18:22+08:00",
+    "eventHappenTime": "2026-09-10T16:04:52+08:00",
     "atisUpdateTime": "2026-09-10T16:14:05+08:00"
 }
