@@ -1,16 +1,16 @@
 {
-    "eventId": "20260910123545003",
+    "eventId": "20260910151633003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "誤(謊)報",
-    "eventTownName": "安平區",
+    "eventContent": "一般(集合)住宅",
+    "eventTownName": "新營區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.16139796483866",
-    "eventWgsy": "22.98964340955564",
+    "eventWgsx": "120.30897867504252",
+    "eventWgsy": "23.310420485594097",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-10T12:36:54+08:00",
+    "eventHappenTime": "2026-09-10T15:17:50+08:00",
     "atisUpdateTime": "2026-09-10T15:29:24+08:00"
 }

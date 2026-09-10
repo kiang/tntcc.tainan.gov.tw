@@ -1,16 +1,16 @@
 {
-    "eventId": "115MI02682",
+    "eventId": "115MI02678",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": null,
     "eventTownName": "安平區",
     "eventSource": "PWB",
-    "eventLocation": "臺南市安平國小 708台灣臺南市安平區華平路549號",
-    "eventWgsx": "120.17547109915296",
-    "eventWgsy": "22.994055735088917",
+    "eventLocation": "708台灣臺南市安平區永華路二段428號",
+    "eventWgsx": "120.17821709878358",
+    "eventWgsy": "22.99025573776191",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-10T13:13:04+08:00",
+    "eventHappenTime": "2026-09-10T10:17:43+08:00",
     "atisUpdateTime": "2026-09-10T15:29:50+08:00"
 }
