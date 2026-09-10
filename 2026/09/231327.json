@@ -1,16 +1,16 @@
 {
-    "eventId": "234496",
+    "eventId": "231327",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
+    "eventContent": "4260534台達電子工業股份有限公司",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17795519893073",
-    "eventWgsy": "22.999110093117743",
+    "eventWgsx": "120.18548092352201",
+    "eventWgsy": "22.99699271039486",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-10T08:30:22+08:00",
+    "eventHappenTime": "2026-09-10T09:12:08+08:00",
     "atisUpdateTime": "2026-09-10T09:15:00+08:00"
 }
