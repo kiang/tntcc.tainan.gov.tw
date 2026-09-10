@@ -1,16 +1,16 @@
 {
-    "eventId": "234839",
+    "eventId": "234037",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合國家寬頻網路建設—佈放光纖網路增配管",
+    "eventContent": "7260497設計課零資",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25836891263435",
-    "eventWgsy": "23.017232231255864",
+    "eventWgsx": "120.2575656287247",
+    "eventWgsy": "23.000855398406028",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-10T08:06:08+08:00",
+    "eventHappenTime": "2026-09-10T15:40:24+08:00",
     "atisUpdateTime": "2026-09-10T15:44:55+08:00"
 }
