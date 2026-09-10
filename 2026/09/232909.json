@@ -1,16 +1,16 @@
 {
-    "eventId": "233668",
+    "eventId": "232909",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所用戶新裝-周昱吟",
+    "eventContent": "115年新市所用戶新裝-鄭文婷",
     "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.31368679612278",
-    "eventWgsy": "23.079033792179246",
+    "eventWgsx": "120.29336337913226",
+    "eventWgsy": "23.07864302032237",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-10T11:02:08+08:00",
+    "eventHappenTime": "2026-09-10T14:47:24+08:00",
     "atisUpdateTime": "2026-09-10T14:59:34+08:00"
 }
