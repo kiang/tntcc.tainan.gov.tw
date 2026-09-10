@@ -1,16 +1,16 @@
 {
-    "eventId": "221668",
+    "eventId": "230981",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5250295竇大衛新設用電",
+    "eventContent": "4260209德妮種萌樂有限公司新增設",
     "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19386343865627",
-    "eventWgsy": "23.008131236497228",
+    "eventWgsx": "120.19642552721197",
+    "eventWgsy": "23.01916908532785",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-10T10:05:57+08:00",
+    "eventHappenTime": "2026-09-10T11:31:17+08:00",
     "atisUpdateTime": "2026-09-10T11:45:01+08:00"
 }
