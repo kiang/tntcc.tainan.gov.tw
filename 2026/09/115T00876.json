@@ -1,16 +1,16 @@
 {
-    "eventId": "233658",
+    "eventId": "115T00876",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
+    "eventContent": "漏水",
     "eventTownName": "中西區",
     "eventSource": "PWB",
-    "eventLocation": "",
-    "eventWgsx": "120.19055602376929",
-    "eventWgsy": "22.98942584636641",
+    "eventLocation": "中西區民族路二段55號",
+    "eventWgsx": "120.21006509493851",
+    "eventWgsy": "22.99442673471928",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-10T08:29:08+08:00",
+    "eventHappenTime": "2026-09-10T09:14:21+08:00",
     "atisUpdateTime": "2026-09-10T09:29:06+08:00"
 }
