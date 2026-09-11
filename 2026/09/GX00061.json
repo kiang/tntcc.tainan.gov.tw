@@ -1,16 +1,16 @@
 {
-    "eventId": "GN00003",
+    "eventId": "GX00061",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "北外環 長和路一段222巷100弄口至北外環路口 發生壅塞",
+    "eventContent": "台19甲線南向\/S1 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24132560083837",
-    "eventWgsy": "23.055965615658064",
+    "eventWgsx": "120.3131221007865",
+    "eventWgsy": "22.979707996830793",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-11T16:15:54+08:00",
+    "eventHappenTime": "2026-09-11T17:26:54+08:00",
     "atisUpdateTime": "2026-09-11T17:30:01+08:00"
 }
