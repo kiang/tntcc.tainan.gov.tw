@@ -6,11 +6,11 @@
     "eventTownName": "西港區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.20511676384805",
-    "eventWgsy": "23.122856362735646",
+    "eventWgsx": "120.20499936162011",
+    "eventWgsy": "23.122828386518773",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-09-11T08:40:46+08:00",
-    "atisUpdateTime": "2026-09-11T08:44:19+08:00"
+    "atisUpdateTime": "2026-09-11T08:59:20+08:00"
 }
