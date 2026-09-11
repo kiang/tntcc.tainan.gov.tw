@@ -1,16 +1,16 @@
 {
-    "eventId": "210596",
+    "eventId": "232497",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期工程主、次幹管第三標",
+    "eventContent": "5260268臺南市政府工務局(中華東路人行道改善工程配合遷移)",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22748998115789",
-    "eventWgsy": "22.969675573771223",
+    "eventWgsx": "120.23175885406431",
+    "eventWgsy": "22.983624294860814",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-11T10:12:41+08:00",
+    "eventHappenTime": "2026-09-11T13:26:30+08:00",
     "atisUpdateTime": "2026-09-11T13:44:04+08:00"
 }
