@@ -1,16 +1,16 @@
 {
-    "eventId": "20260911074604019",
+    "eventId": "20260911084000001",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "一般(集合)住宅",
-    "eventTownName": "永康區",
+    "eventTownName": "西港區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.25258658751801",
-    "eventWgsy": "23.024285322789975",
+    "eventWgsx": "120.20511676384805",
+    "eventWgsy": "23.122856362735646",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-11T07:46:53+08:00",
+    "eventHappenTime": "2026-09-11T08:40:46+08:00",
     "atisUpdateTime": "2026-09-11T08:44:19+08:00"
 }
