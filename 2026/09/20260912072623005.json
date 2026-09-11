@@ -1,16 +1,16 @@
 {
-    "eventId": "20260912063502018",
+    "eventId": "20260912072623005",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "麻豆區",
+    "eventTownName": "玉井區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.24116999109165",
-    "eventWgsy": "23.1825453177022",
+    "eventWgsx": "120.45880118407443",
+    "eventWgsy": "23.119423100524326",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-12T06:35:28+08:00",
+    "eventHappenTime": "2026-09-12T07:26:44+08:00",
     "atisUpdateTime": "2026-09-12T07:30:00+08:00"
 }
