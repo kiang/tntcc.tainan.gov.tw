@@ -1,16 +1,16 @@
 {
-    "eventId": "232110",
+    "eventId": "222986",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "大成長城-1戶",
-    "eventTownName": "歸仁區",
+    "eventContent": "6250650李昱賢表燈新設",
+    "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29054818151825",
-    "eventWgsy": "22.932549104376314",
+    "eventWgsx": "120.20586861706768",
+    "eventWgsy": "23.018286071115412",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-11T09:03:01+08:00",
+    "eventHappenTime": "2026-09-11T09:07:07+08:00",
     "atisUpdateTime": "2026-09-11T09:14:51+08:00"
 }
