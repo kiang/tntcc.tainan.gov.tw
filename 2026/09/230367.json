@@ -1,16 +1,16 @@
 {
-    "eventId": "226348",
+    "eventId": "230367",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "國精化學台19線本管工程",
+    "eventContent": "3260517林尚慶新設用電",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21476002983029",
-    "eventWgsy": "23.07213725650723",
+    "eventWgsx": "120.18344814124657",
+    "eventWgsy": "23.050413366904902",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-11T09:21:19+08:00",
+    "eventHappenTime": "2026-09-11T14:10:21+08:00",
     "atisUpdateTime": "2026-09-11T14:14:25+08:00"
 }
