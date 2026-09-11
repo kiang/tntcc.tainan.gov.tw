@@ -1,16 +1,16 @@
 {
-    "eventId": "115MI02689",
+    "eventId": "115MI02703",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": null,
     "eventTownName": "新營區",
     "eventSource": "PWB",
-    "eventLocation": "730台灣臺南市新營區嘉芳里復興路756號",
-    "eventWgsx": "120.28701858807364",
-    "eventWgsy": "23.308511912853298",
+    "eventLocation": "730台灣臺南市新營區嘉芳里復興路984號",
+    "eventWgsx": "120.28054748889149",
+    "eventWgsy": "23.310018511810437",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-11T09:18:53+08:00",
+    "eventHappenTime": "2026-09-11T13:29:30+08:00",
     "atisUpdateTime": "2026-09-11T15:59:18+08:00"
 }
