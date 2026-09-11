@@ -1,16 +1,16 @@
 {
-    "eventId": "232110",
+    "eventId": "231535",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "大成長城-1戶",
-    "eventTownName": "歸仁區",
+    "eventContent": "張品蓁給水",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29054818151825",
-    "eventWgsy": "22.932549104376314",
+    "eventWgsx": "120.18552640331224",
+    "eventWgsy": "23.01893482222079",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-11T09:03:01+08:00",
+    "eventHappenTime": "2026-09-11T17:36:55+08:00",
     "atisUpdateTime": "2026-09-11T17:44:15+08:00"
 }
