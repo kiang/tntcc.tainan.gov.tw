@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI02685",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "新營區",
+    "eventSource": "PWB",
+    "eventLocation": "730台灣臺南市新營區大宏里中正路32號",
+    "eventWgsx": "120.31649318442342",
+    "eventWgsy": "23.310660711246268",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-11T08:21:15+08:00",
+    "atisUpdateTime": "2026-09-11T11:14:07+08:00"
+}
