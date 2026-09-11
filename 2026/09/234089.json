@@ -1,0 +1,16 @@
+{
+    "eventId": "234089",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "人手孔提升(幹纜漏氣檢修)",
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.21496059598957",
+    "eventWgsy": "22.97224326920095",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-11T08:03:05+08:00",
+    "atisUpdateTime": "2026-09-11T08:14:23+08:00"
+}
