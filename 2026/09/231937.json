@@ -1,16 +1,16 @@
 {
-    "eventId": "234992",
+    "eventId": "231937",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所用戶新裝-謝世昌",
+    "eventContent": "115年新市所用戶新裝-豐榮建設",
     "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32527597583864",
-    "eventWgsy": "23.076750750019418",
+    "eventWgsx": "120.31203724433223",
+    "eventWgsy": "23.10116583350494",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-11T10:59:50+08:00",
+    "eventHappenTime": "2026-09-11T16:23:57+08:00",
     "atisUpdateTime": "2026-09-11T16:44:39+08:00"
 }
