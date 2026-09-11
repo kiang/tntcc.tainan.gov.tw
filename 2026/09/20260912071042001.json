@@ -1,16 +1,16 @@
 {
-    "eventId": "20260912063502018",
+    "eventId": "20260912071042001",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "麻豆區",
+    "eventTownName": "六甲區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.24116999109165",
-    "eventWgsy": "23.1825453177022",
+    "eventWgsx": "120.46758357090985",
+    "eventWgsy": "23.220915848869968",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-12T06:35:28+08:00",
+    "eventHappenTime": "2026-09-12T07:11:55+08:00",
     "atisUpdateTime": "2026-09-12T07:15:00+08:00"
 }
