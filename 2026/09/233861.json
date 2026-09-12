@@ -1,16 +1,16 @@
 {
-    "eventId": "232535",
+    "eventId": "233861",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-富程國際建設有限公司 楊世璿(甲管路3260058)",
+    "eventContent": "新營區東興十街等汰換管線工程",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.30854245689913",
-    "eventWgsy": "23.31347839879545",
+    "eventWgsx": "120.32824584031921",
+    "eventWgsy": "23.318725113274837",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-12T08:30:15+08:00",
+    "eventHappenTime": "2026-09-12T13:26:35+08:00",
     "atisUpdateTime": "2026-09-12T13:44:34+08:00"
 }
