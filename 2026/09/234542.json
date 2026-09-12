@@ -1,16 +1,16 @@
 {
-    "eventId": "234608",
+    "eventId": "234542",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "川御建設銜管",
+    "eventContent": "銜接用戶管--王寶惠",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18061185549871",
-    "eventWgsy": "23.013850717353325",
+    "eventWgsx": "120.18355202830992",
+    "eventWgsy": "23.025148277260428",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-12T11:33:21+08:00",
+    "eventHappenTime": "2026-09-12T14:24:01+08:00",
     "atisUpdateTime": "2026-09-12T14:44:55+08:00"
 }
