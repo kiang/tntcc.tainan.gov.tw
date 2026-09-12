@@ -1,16 +1,16 @@
 {
-    "eventId": "234964",
+    "eventId": "234638",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "建物引進(S2L555118-S2L555120)",
+    "eventContent": "後壁區青豐里崁頂13-5號~13-25號(S2L555222-S2L555224)",
     "eventTownName": "後壁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.33662912582193",
-    "eventWgsy": "23.380794202347186",
+    "eventWgsx": "120.34208682932024",
+    "eventWgsy": "23.381432531498803",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-12T08:07:42+08:00",
+    "eventHappenTime": "2026-09-12T11:28:53+08:00",
     "atisUpdateTime": "2026-09-12T11:44:52+08:00"
 }

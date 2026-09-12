@@ -1,16 +1,16 @@
 {
-    "eventId": "234471",
+    "eventId": "234608",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市第一三三期新寮(三)自辦市地重劃工程",
+    "eventContent": "川御建設銜管",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20135076649264",
-    "eventWgsy": "23.05796646380873",
+    "eventWgsx": "120.18061185549871",
+    "eventWgsy": "23.013850717353325",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-12T09:52:28+08:00",
+    "eventHappenTime": "2026-09-12T11:33:21+08:00",
     "atisUpdateTime": "2026-09-12T11:44:52+08:00"
 }
