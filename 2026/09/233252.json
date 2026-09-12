@@ -1,16 +1,16 @@
 {
-    "eventId": "230058",
+    "eventId": "233252",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "沈中衡給水",
+    "eventContent": "南區中華西路一段與健康路二段南側--路口監控接管工程(編號104-2)",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20370350764415",
-    "eventWgsy": "22.977652322209387",
+    "eventWgsx": "120.18582711408433",
+    "eventWgsy": "22.98192200283967",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-12T08:03:47+08:00",
+    "eventHappenTime": "2026-09-12T09:24:18+08:00",
     "atisUpdateTime": "2026-09-12T09:44:28+08:00"
 }
