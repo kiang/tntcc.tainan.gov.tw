@@ -1,0 +1,16 @@
+{
+    "eventId": "234964",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "建物引進(S2L555118-S2L555120)",
+    "eventTownName": "後壁區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.33662912582193",
+    "eventWgsy": "23.380794202347186",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-12T08:07:42+08:00",
+    "atisUpdateTime": "2026-09-12T08:14:13+08:00"
+}
