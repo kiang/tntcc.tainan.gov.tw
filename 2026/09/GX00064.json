@@ -1,16 +1,16 @@
 {
-    "eventId": "GX300018",
+    "eventId": "GX00064",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "大發路 (大發路282號至太子路) 發生壅塞",
+    "eventContent": "台86線東向\/E1 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.25153027203373",
-    "eventWgsy": "22.98880307777765",
+    "eventWgsx": "120.31948995567565",
+    "eventWgsy": "22.975449365059514",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T07:06:54+08:00",
+    "eventHappenTime": "2026-09-14T07:11:54+08:00",
     "atisUpdateTime": "2026-09-14T07:15:01+08:00"
 }
