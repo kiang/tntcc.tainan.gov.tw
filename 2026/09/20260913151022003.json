@@ -1,16 +1,16 @@
 {
-    "eventId": "20260913071924004",
+    "eventId": "20260913151022003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "安南區",
+    "eventTownName": "東山區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.15965640137058",
-    "eventWgsy": "23.04132736982989",
+    "eventWgsx": "120.39229985174018",
+    "eventWgsy": "23.318499937543244",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-13T07:20:59+08:00",
+    "eventHappenTime": "2026-09-13T15:11:18+08:00",
     "atisUpdateTime": "2026-09-13T15:14:51+08:00"
 }
