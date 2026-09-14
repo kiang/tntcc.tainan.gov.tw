@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00888",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "708台灣臺南市安平區王城里安平路806號",
+    "eventWgsx": "120.1599617011026",
+    "eventWgsy": "22.999995430945575",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-14T09:24:37+08:00",
+    "atisUpdateTime": "2026-09-14T09:44:42+08:00"
+}
