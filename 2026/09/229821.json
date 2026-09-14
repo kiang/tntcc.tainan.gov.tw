@@ -1,16 +1,16 @@
 {
-    "eventId": "233050",
+    "eventId": "229821",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合永康區污水下水道第二期(PA分區)第二標代辦管遷工程(二)-13",
+    "eventContent": "李聖偉-天然氣管線埋設工程。",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2595792341249",
-    "eventWgsy": "23.007688520702523",
+    "eventWgsx": "120.25985912631286",
+    "eventWgsy": "23.01332055132429",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T08:58:54+08:00",
+    "eventHappenTime": "2026-09-14T10:53:52+08:00",
     "atisUpdateTime": "2026-09-14T11:14:21+08:00"
 }
