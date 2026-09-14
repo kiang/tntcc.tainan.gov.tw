@@ -1,16 +1,16 @@
 {
-    "eventId": "227952",
+    "eventId": "233872",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "C250074黃美女新設用電",
-    "eventTownName": "南區",
+    "eventContent": "銜接用戶管--蔡文淵",
+    "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18998767605227",
-    "eventWgsy": "22.96590175862062",
+    "eventWgsx": "120.20335773819811",
+    "eventWgsy": "23.008199048075067",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T09:09:45+08:00",
+    "eventHappenTime": "2026-09-14T11:43:45+08:00",
     "atisUpdateTime": "2026-09-14T11:59:36+08:00"
 }
