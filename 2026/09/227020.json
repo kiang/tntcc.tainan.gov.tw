@@ -1,0 +1,16 @@
+{
+    "eventId": "227020",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "修配管(S2D410296-S2L455317) ",
+    "eventTownName": "後壁區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.37969492391466",
+    "eventWgsy": "23.3846030655596",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-14T09:19:08+08:00",
+    "atisUpdateTime": "2026-09-14T09:29:35+08:00"
+}

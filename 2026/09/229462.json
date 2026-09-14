@@ -1,16 +1,16 @@
 {
-    "eventId": "232110",
+    "eventId": "229462",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "大成長城-1戶",
-    "eventTownName": "歸仁區",
+    "eventContent": "1260632設計課零資",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29054818151825",
-    "eventWgsy": "22.932549104376314",
+    "eventWgsx": "120.18524027375315",
+    "eventWgsy": "23.048334617727978",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T09:00:06+08:00",
+    "eventHappenTime": "2026-09-14T09:13:44+08:00",
     "atisUpdateTime": "2026-09-14T09:29:35+08:00"
 }
