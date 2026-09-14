@@ -1,16 +1,16 @@
 {
-    "eventId": "234709",
+    "eventId": "234201",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管",
-    "eventTownName": "永康區",
+    "eventContent": "巨武建設給水",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26262586191253",
-    "eventWgsy": "23.017544895343374",
+    "eventWgsx": "120.18683819250415",
+    "eventWgsy": "23.05836691108938",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T11:27:27+08:00",
+    "eventHappenTime": "2026-09-14T17:39:38+08:00",
     "atisUpdateTime": "2026-09-14T17:44:58+08:00"
 }
