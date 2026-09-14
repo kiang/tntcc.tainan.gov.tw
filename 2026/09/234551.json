@@ -1,16 +1,16 @@
 {
-    "eventId": "234400",
+    "eventId": "234551",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年歸仁所消防栓增設工程",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要提升人手孔",
     "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.28894971407594",
-    "eventWgsy": "23.010492319521045",
+    "eventWgsx": "120.2953416995757",
+    "eventWgsy": "22.922789878659643",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T08:40:54+08:00",
+    "eventHappenTime": "2026-09-14T14:31:50+08:00",
     "atisUpdateTime": "2026-09-14T14:44:50+08:00"
 }
