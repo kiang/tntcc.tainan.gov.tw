@@ -1,16 +1,16 @@
 {
-    "eventId": "232535",
+    "eventId": "230712",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-富程國際建設有限公司 楊世璿(甲管路3260058)",
+    "eventContent": "114年-謝適聰(甲管路3260026)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.30854245689913",
-    "eventWgsy": "23.31347839879545",
+    "eventWgsx": "120.3051254385198",
+    "eventWgsy": "23.30960488697719",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T07:54:14+08:00",
+    "eventHappenTime": "2026-09-14T08:16:14+08:00",
     "atisUpdateTime": "2026-09-14T08:29:23+08:00"
 }
