@@ -1,0 +1,16 @@
+{
+    "eventId": "234455",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "7260660佳里服務所零資工程",
+    "eventTownName": "佳里區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.16641894782884",
+    "eventWgsy": "23.165390300142693",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-14T11:35:25+08:00",
+    "atisUpdateTime": "2026-09-14T11:44:30+08:00"
+}
