@@ -1,16 +1,16 @@
 {
-    "eventId": "232110",
+    "eventId": "233512",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "大成長城-1戶",
-    "eventTownName": "歸仁區",
+    "eventContent": "漏水搶修",
+    "eventTownName": "中西區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29054818151825",
-    "eventWgsy": "22.932549104376314",
+    "eventWgsx": "120.20671084400817",
+    "eventWgsy": "22.996442479313508",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T09:00:06+08:00",
+    "eventHappenTime": "2026-09-14T15:27:55+08:00",
     "atisUpdateTime": "2026-09-14T15:44:14+08:00"
 }

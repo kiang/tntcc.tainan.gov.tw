@@ -1,16 +1,16 @@
 {
-    "eventId": "232110",
+    "eventId": "235037",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "大成長城-1戶",
-    "eventTownName": "歸仁區",
+    "eventContent": "埋設電桿引上管",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29054818151825",
-    "eventWgsy": "22.932549104376314",
+    "eventWgsx": "120.19354127069462",
+    "eventWgsy": "23.045002835279362",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T09:00:06+08:00",
+    "eventHappenTime": "2026-09-14T15:38:52+08:00",
     "atisUpdateTime": "2026-09-14T15:44:14+08:00"
 }
