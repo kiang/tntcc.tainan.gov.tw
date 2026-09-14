@@ -1,16 +1,16 @@
 {
-    "eventId": "232110",
+    "eventId": "234670",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "大成長城-1戶",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要提升人手孔",
     "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29054818151825",
-    "eventWgsy": "22.932549104376314",
+    "eventWgsx": "120.29380766096871",
+    "eventWgsy": "22.92593083805255",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T09:00:06+08:00",
+    "eventHappenTime": "2026-09-14T14:10:22+08:00",
     "atisUpdateTime": "2026-09-14T14:14:37+08:00"
 }

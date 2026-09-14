@@ -1,16 +1,16 @@
 {
-    "eventId": "233832",
+    "eventId": "234621",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "7260418設計課零資",
+    "eventContent": "115年新市所用戶新裝-田鼎營造",
     "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29507584168292",
-    "eventWgsy": "23.08551049895524",
+    "eventWgsx": "120.26721366065583",
+    "eventWgsy": "23.09017305775396",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T09:43:17+08:00",
+    "eventHappenTime": "2026-09-14T13:59:19+08:00",
     "atisUpdateTime": "2026-09-14T14:14:37+08:00"
 }
