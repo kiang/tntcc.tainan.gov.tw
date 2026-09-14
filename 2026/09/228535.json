@@ -1,16 +1,16 @@
 {
-    "eventId": "228080",
+    "eventId": "228535",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "C250544竑穗興業股份有限公司新設",
+    "eventContent": "B250587M9604AC82配電場遷移",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19224808292547",
-    "eventWgsy": "23.033248790178913",
+    "eventWgsx": "120.19683410996552",
+    "eventWgsy": "23.067846745444186",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T13:28:26+08:00",
+    "eventHappenTime": "2026-09-14T15:47:36+08:00",
     "atisUpdateTime": "2026-09-14T15:59:19+08:00"
 }
