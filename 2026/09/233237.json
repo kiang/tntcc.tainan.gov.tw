@@ -1,16 +1,16 @@
 {
-    "eventId": "229821",
+    "eventId": "233237",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "李聖偉-天然氣管線埋設工程。",
+    "eventContent": "配合警察局路口監控箱埋設電信配管及提升手孔",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25985912631286",
-    "eventWgsy": "23.01332055132429",
+    "eventWgsx": "120.2595010602006",
+    "eventWgsy": "23.00080581509833",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T10:53:52+08:00",
+    "eventHappenTime": "2026-09-14T12:30:43+08:00",
     "atisUpdateTime": "2026-09-14T12:44:53+08:00"
 }
