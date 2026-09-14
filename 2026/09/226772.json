@@ -1,16 +1,16 @@
 {
-    "eventId": "227020",
+    "eventId": "226772",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "修配管(S2D410296-S2L455317) ",
+    "eventContent": "孔蓋提升及修配管(S2D410288-S2L458414)",
     "eventTownName": "後壁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.37969492391466",
-    "eventWgsy": "23.3846030655596",
+    "eventWgsx": "120.29935079286783",
+    "eventWgsy": "23.342776685771135",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T09:19:08+08:00",
+    "eventHappenTime": "2026-09-14T13:29:08+08:00",
     "atisUpdateTime": "2026-09-14T13:44:23+08:00"
 }

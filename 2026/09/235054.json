@@ -1,16 +1,16 @@
 {
-    "eventId": "233984",
+    "eventId": "235054",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "新化大德路大新路與善化民族路民權路等汰換管線工程",
+    "eventContent": " 配合國家寬頻網路建設—佈放光纖網路需要修配管",
     "eventTownName": "新化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29532303262297",
-    "eventWgsy": "23.041594138138144",
+    "eventWgsx": "120.29437578559323",
+    "eventWgsy": "23.042546148493376",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T08:30:44+08:00",
+    "eventHappenTime": "2026-09-14T13:38:35+08:00",
     "atisUpdateTime": "2026-09-14T13:44:23+08:00"
 }
