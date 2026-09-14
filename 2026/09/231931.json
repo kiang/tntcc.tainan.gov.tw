@@ -1,16 +1,16 @@
 {
-    "eventId": "234621",
+    "eventId": "231931",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所用戶新裝-田鼎營造",
+    "eventContent": "115年新市所用戶新裝-銓興營造",
     "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26721366065583",
-    "eventWgsy": "23.09017305775396",
+    "eventWgsx": "120.26208267366755",
+    "eventWgsy": "23.08936243831175",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T13:59:19+08:00",
+    "eventHappenTime": "2026-09-14T16:11:46+08:00",
     "atisUpdateTime": "2026-09-14T16:14:25+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "235054",
+    "eventId": "233963",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": " 配合國家寬頻網路建設—佈放光纖網路需要修配管",
     "eventTownName": "新化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29437578559323",
-    "eventWgsy": "23.042546148493376",
+    "eventWgsx": "120.28773459595826",
+    "eventWgsy": "23.02161541312386",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-14T13:38:35+08:00",
+    "eventHappenTime": "2026-09-14T16:09:54+08:00",
     "atisUpdateTime": "2026-09-14T16:14:25+08:00"
 }
