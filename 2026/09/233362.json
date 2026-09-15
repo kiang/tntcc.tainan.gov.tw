@@ -1,16 +1,16 @@
 {
-    "eventId": "226527",
+    "eventId": "233362",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "A250428變壓器遷移(卓青蓉)",
+    "eventContent": "7260127彭淑華表燈新設",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18569485862724",
-    "eventWgsy": "22.993514045791652",
+    "eventWgsx": "120.18197279788562",
+    "eventWgsy": "22.98711728335141",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T15:18:18+08:00",
+    "eventHappenTime": "2026-09-15T16:19:02+08:00",
     "atisUpdateTime": "2026-09-15T16:29:35+08:00"
 }

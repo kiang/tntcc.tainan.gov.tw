@@ -1,16 +1,16 @@
 {
-    "eventId": "115MI02757",
+    "eventId": "115MI02762",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": null,
     "eventTownName": "東區",
     "eventSource": "PWB",
-    "eventLocation": "701台灣臺南市東區後甲里中華東路一段87號",
-    "eventWgsx": "120.23415289199575",
-    "eventWgsy": "22.99287063574214",
+    "eventLocation": "701台灣臺南市東區中華東路二段271號",
+    "eventWgsx": "120.23110509228297",
+    "eventWgsy": "22.982994742720642",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T13:03:08+08:00",
+    "eventHappenTime": "2026-09-15T15:08:57+08:00",
     "atisUpdateTime": "2026-09-15T16:29:35+08:00"
 }
