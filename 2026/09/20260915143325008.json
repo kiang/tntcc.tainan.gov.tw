@@ -1,16 +1,16 @@
 {
-    "eventId": "20260915130904005",
+    "eventId": "20260915143325008",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "將軍區",
+    "eventTownName": "白河區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.16382281056205",
-    "eventWgsy": "23.195005936830228",
+    "eventWgsx": "120.4169099205545",
+    "eventWgsy": "23.34630190757371",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T13:10:15+08:00",
+    "eventHappenTime": "2026-09-15T14:35:24+08:00",
     "atisUpdateTime": "2026-09-15T14:44:39+08:00"
 }
