@@ -1,16 +1,16 @@
 {
-    "eventId": "235143",
+    "eventId": "235149",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "電纜分隊人孔工作",
-    "eventTownName": "東區",
+    "eventContent": "銜接用戶管",
+    "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22979933350128",
-    "eventWgsy": "22.981457695600245",
+    "eventWgsx": "120.2976075370173",
+    "eventWgsy": "22.975534624179698",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T11:11:13+08:00",
+    "eventHappenTime": "2026-09-15T11:39:46+08:00",
     "atisUpdateTime": "2026-09-15T11:44:58+08:00"
 }
