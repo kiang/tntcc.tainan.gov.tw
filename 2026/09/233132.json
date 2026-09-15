@@ -1,16 +1,16 @@
 {
-    "eventId": "233712",
+    "eventId": "233132",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "中華西路一段26巷新建路38巷新建國家住宅大樓寬頻連通管",
+    "eventContent": "緊急工程",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.1839455503967",
-    "eventWgsy": "22.966684521066302",
+    "eventWgsx": "120.18881338674755",
+    "eventWgsy": "22.986556708273604",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T08:41:38+08:00",
+    "eventHappenTime": "2026-09-15T16:29:42+08:00",
     "atisUpdateTime": "2026-09-15T16:44:42+08:00"
 }
