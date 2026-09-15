@@ -3,14 +3,14 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": null,
+    "eventTownName": "七股區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.14929486131958",
-    "eventWgsy": "23.14818794294352",
+    "eventWgsx": "120.15126584591725",
+    "eventWgsy": "23.147199963775186",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-09-15T09:27:33+08:00",
-    "atisUpdateTime": "2026-09-15T09:29:16+08:00"
+    "atisUpdateTime": "2026-09-15T09:44:17+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "232816",
+    "eventId": "234804",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5260482臺南市政府工務局(中華東路凱旋路至中華陸橋人行道改善工程)",
+    "eventContent": "臺南市虎尾寮污水下水道系統分支管網及用戶接管工程第一標",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2317173917137",
-    "eventWgsy": "22.98395639270718",
+    "eventWgsx": "120.2314970373941",
+    "eventWgsy": "22.995661635076672",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T09:01:16+08:00",
+    "eventHappenTime": "2026-09-15T09:33:54+08:00",
     "atisUpdateTime": "2026-09-15T09:44:57+08:00"
 }
