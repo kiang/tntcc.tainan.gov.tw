@@ -1,0 +1,16 @@
+{
+    "eventId": "20260916025826003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "工廠及倉庫(含石化工業設備設施)",
+    "eventTownName": "下營區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.27282392878186",
+    "eventWgsy": "23.24280561017148",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-16T03:01:25+08:00",
+    "atisUpdateTime": "2026-09-16T03:14:44+08:00"
+}
