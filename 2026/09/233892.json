@@ -1,16 +1,16 @@
 {
-    "eventId": "221467",
+    "eventId": "233892",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市安平污水下水道系統大同分區分支管網及用戶接管工程第三標",
+    "eventContent": "7260271臺南市政府交通局新設",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16055369339617",
-    "eventWgsy": "22.991016013466925",
+    "eventWgsx": "120.17955867870174",
+    "eventWgsy": "22.990717726973195",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T09:05:26+08:00",
+    "eventHappenTime": "2026-09-15T14:01:17+08:00",
     "atisUpdateTime": "2026-09-15T14:14:17+08:00"
 }

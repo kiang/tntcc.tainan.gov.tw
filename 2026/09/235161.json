@@ -1,16 +1,16 @@
 {
-    "eventId": "235149",
+    "eventId": "235161",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管",
+    "eventContent": "銜接用戶管及手孔提升",
     "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2976075370173",
-    "eventWgsy": "22.975534624179698",
+    "eventWgsx": "120.29066773747675",
+    "eventWgsy": "22.963708956299335",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T11:39:46+08:00",
+    "eventHappenTime": "2026-09-15T14:09:23+08:00",
     "atisUpdateTime": "2026-09-15T14:14:17+08:00"
 }
