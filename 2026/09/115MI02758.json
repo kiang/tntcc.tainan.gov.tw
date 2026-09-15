@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI02758",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "鹽水區",
+    "eventSource": "PWB",
+    "eventLocation": "737台灣臺南市鹽水區橋南里忠孝路93號",
+    "eventWgsx": "120.27380488973847",
+    "eventWgsy": "23.310884811220294",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-15T13:35:42+08:00",
+    "atisUpdateTime": "2026-09-15T15:44:09+08:00"
+}
