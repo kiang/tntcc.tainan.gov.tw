@@ -1,16 +1,16 @@
 {
-    "eventId": "GN00002",
+    "eventId": "GN00006",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "北外環 台江大道與河堤路口至長和路一段  發生壅塞",
+    "eventContent": "長和路一段永安橋南向車道起點至河堤道路 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.23167018498835",
-    "eventWgsy": "23.048523901995896",
+    "eventWgsx": "120.23863142903295",
+    "eventWgsy": "23.052225178195204",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T07:46:54+08:00",
+    "eventHappenTime": "2026-09-15T08:06:54+08:00",
     "atisUpdateTime": "2026-09-15T08:15:01+08:00"
 }
