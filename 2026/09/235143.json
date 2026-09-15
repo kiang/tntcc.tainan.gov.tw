@@ -1,16 +1,16 @@
 {
-    "eventId": "230058",
+    "eventId": "235143",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "沈中衡給水",
-    "eventTownName": "南區",
+    "eventContent": "電纜分隊人孔工作",
+    "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20370350764415",
-    "eventWgsy": "22.977652322209387",
+    "eventWgsx": "120.22979933350128",
+    "eventWgsy": "22.981457695600245",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T08:55:19+08:00",
+    "eventHappenTime": "2026-09-15T11:11:13+08:00",
     "atisUpdateTime": "2026-09-15T11:14:41+08:00"
 }
