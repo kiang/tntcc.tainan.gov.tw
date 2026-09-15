@@ -1,16 +1,16 @@
 {
-    "eventId": "232110",
+    "eventId": "234732",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "大成長城-1戶",
-    "eventTownName": "歸仁區",
+    "eventContent": "7260259黃鼎殷新增設",
+    "eventTownName": "佳里區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29054818151825",
-    "eventWgsy": "22.932549104376314",
+    "eventWgsx": "120.15900512719371",
+    "eventWgsy": "23.145776739816064",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T09:01:08+08:00",
+    "eventHappenTime": "2026-09-15T10:38:36+08:00",
     "atisUpdateTime": "2026-09-15T10:44:26+08:00"
 }

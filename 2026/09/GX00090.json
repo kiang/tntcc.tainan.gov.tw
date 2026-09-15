@@ -1,16 +1,16 @@
 {
-    "eventId": "GX300026",
+    "eventId": "GX00090",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "大同路一段175巷 (大同路一段197巷至大同路一段) 發生壅塞",
+    "eventContent": "北外環 長和路至南科聯絡道(東向) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.21322786582473",
-    "eventWgsy": "22.983719876530614",
+    "eventWgsx": "120.24162744644079",
+    "eventWgsy": "23.056040586176984",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T07:00:54+08:00",
+    "eventHappenTime": "2026-09-15T10:31:54+08:00",
     "atisUpdateTime": "2026-09-15T10:44:54+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "234471",
+    "eventId": "231989",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市第一三三期新寮(三)自辦市地重劃工程",
+    "eventContent": "勝允工程給水",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20135076649264",
-    "eventWgsy": "23.05796646380873",
+    "eventWgsx": "120.1362331645544",
+    "eventWgsy": "23.05653000535394",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-15T08:39:36+08:00",
+    "eventHappenTime": "2026-09-15T10:27:35+08:00",
     "atisUpdateTime": "2026-09-15T10:44:26+08:00"
 }
