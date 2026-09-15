@@ -3,7 +3,7 @@
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "一般(集合)住宅",
-    "eventTownName": null,
+    "eventTownName": "善化區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
     "eventWgsx": "120.2950784729908",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-09-15T04:28:57+08:00",
-    "atisUpdateTime": "2026-09-15T08:44:15+08:00"
+    "atisUpdateTime": "2026-09-15T08:59:15+08:00"
 }
