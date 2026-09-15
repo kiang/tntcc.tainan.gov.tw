@@ -1,0 +1,16 @@
+{
+    "eventId": "234654",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "臺南市市區道路等交通設施代辦工程(閉口契約)",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22794503961413",
+    "eventWgsy": "22.979270027790164",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-15T09:07:28+08:00",
+    "atisUpdateTime": "2026-09-15T09:14:44+08:00"
+}

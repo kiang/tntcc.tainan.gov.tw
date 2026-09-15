@@ -1,0 +1,16 @@
+{
+    "eventId": "20260915090556018",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "誤(謊)報",
+    "eventTownName": "善化區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.29873039318952",
+    "eventWgsy": "23.14025871884224",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-15T09:07:09+08:00",
+    "atisUpdateTime": "2026-09-15T09:14:16+08:00"
+}
