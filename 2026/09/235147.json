@@ -1,16 +1,16 @@
 {
-    "eventId": "233801",
+    "eventId": "235147",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "漏水搶修",
-    "eventTownName": "中西區",
+    "eventContent": "黃清樹店鋪銜管",
+    "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19897675241367",
-    "eventWgsy": "22.99277359427977",
+    "eventWgsx": "120.18636310239971",
+    "eventWgsy": "22.97504434334036",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T08:31:37+08:00",
+    "eventHappenTime": "2026-09-16T08:45:52+08:00",
     "atisUpdateTime": "2026-09-16T08:59:54+08:00"
 }

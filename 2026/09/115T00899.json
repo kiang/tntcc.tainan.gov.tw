@@ -1,16 +1,16 @@
 {
-    "eventId": "234589",
+    "eventId": "115T00899",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "建築家建設給水",
+    "eventContent": "漏水",
     "eventTownName": "北區",
     "eventSource": "PWB",
-    "eventLocation": "",
-    "eventWgsx": "120.19767657113027",
-    "eventWgsy": "23.008110759444257",
+    "eventLocation": "北區西門路四段19巷42號",
+    "eventWgsx": "120.20516709564662",
+    "eventWgsy": "23.007262725676863",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T08:08:27+08:00",
+    "eventHappenTime": "2026-09-16T08:48:06+08:00",
     "atisUpdateTime": "2026-09-16T08:59:54+08:00"
 }
