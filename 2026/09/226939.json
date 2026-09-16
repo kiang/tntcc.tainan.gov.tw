@@ -1,16 +1,16 @@
 {
-    "eventId": "233983",
+    "eventId": "226939",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "新化大德路大新路與善化民族路民權路等汰換管線工程",
+    "eventContent": "114年新市所用戶新裝-吳靜宜",
     "eventTownName": "新化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29432462904514",
-    "eventWgsy": "23.04255047326465",
+    "eventWgsx": "120.29761745724852",
+    "eventWgsy": "23.040504033761202",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T08:29:36+08:00",
+    "eventHappenTime": "2026-09-16T10:43:48+08:00",
     "atisUpdateTime": "2026-09-16T10:59:57+08:00"
 }
