@@ -1,16 +1,16 @@
 {
-    "eventId": "228990",
+    "eventId": "228644",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年新市所用戶新裝-吳俊億",
+    "eventContent": "114年新市所用戶新裝-聯鋐營造",
     "eventTownName": "新化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.31580703044975",
-    "eventWgsy": "23.02850775587554",
+    "eventWgsx": "120.30847721535972",
+    "eventWgsy": "23.051578264974875",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T07:30:53+08:00",
+    "eventHappenTime": "2026-09-16T09:37:17+08:00",
     "atisUpdateTime": "2026-09-16T09:44:09+08:00"
 }
