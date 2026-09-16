@@ -1,16 +1,16 @@
 {
-    "eventId": "234821",
+    "eventId": "223939",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合中華東路三段(崇善路至東門路)道路改善工程--調降人手孔",
+    "eventContent": "臺南市仁德區污水下水道系統第二期工程分支管及用戶接管第一標",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22698953764758",
-    "eventWgsy": "22.978220823233986",
+    "eventWgsx": "120.2303985457044",
+    "eventWgsy": "22.969319253474918",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T08:10:53+08:00",
+    "eventHappenTime": "2026-09-16T08:56:30+08:00",
     "atisUpdateTime": "2026-09-16T09:14:59+08:00"
 }

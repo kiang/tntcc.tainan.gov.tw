@@ -1,16 +1,16 @@
 {
-    "eventId": "232203",
+    "eventId": "234980",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "巨盈建設1戶",
-    "eventTownName": "中西區",
+    "eventContent": "1",
+    "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18300115388159",
-    "eventWgsy": "23.004925747504334",
+    "eventWgsx": "120.18435539906952",
+    "eventWgsy": "22.99608992160026",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T09:01:00+08:00",
+    "eventHappenTime": "2026-09-16T08:54:04+08:00",
     "atisUpdateTime": "2026-09-16T09:14:59+08:00"
 }
