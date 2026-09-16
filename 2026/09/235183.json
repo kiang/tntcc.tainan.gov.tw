@@ -1,16 +1,16 @@
 {
-    "eventId": "233407",
+    "eventId": "235183",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "澄品建設給水",
-    "eventTownName": "安南區",
+    "eventContent": "銜接用戶管 ",
+    "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17215156210041",
-    "eventWgsy": "23.062200774470586",
+    "eventWgsx": "120.26023749302821",
+    "eventWgsy": "23.016336834545413",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T11:49:16+08:00",
+    "eventHappenTime": "2026-09-16T13:41:20+08:00",
     "atisUpdateTime": "2026-09-16T13:44:28+08:00"
 }

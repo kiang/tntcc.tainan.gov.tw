@@ -1,16 +1,16 @@
 {
-    "eventId": "233407",
+    "eventId": "233402",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "澄品建設給水",
-    "eventTownName": "安南區",
+    "eventContent": "青年路245號漏水搶修",
+    "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17215156210041",
-    "eventWgsy": "23.062200774470586",
+    "eventWgsx": "120.21256216576019",
+    "eventWgsy": "22.99155353901158",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T11:49:16+08:00",
+    "eventHappenTime": "2026-09-16T13:42:09+08:00",
     "atisUpdateTime": "2026-09-16T13:44:28+08:00"
 }
