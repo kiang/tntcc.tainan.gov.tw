@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI02771",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市東區中華東路三段77巷12號",
+    "eventWgsx": "120.22805009262228",
+    "eventWgsy": "22.979246745374983",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-16T10:41:23+08:00",
+    "atisUpdateTime": "2026-09-16T14:14:45+08:00"
+}

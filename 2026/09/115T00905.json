@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00905",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "中西區南華街50號",
+    "eventWgsx": "120.19135109717953",
+    "eventWgsy": "22.99000773789602",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-16T14:12:13+08:00",
+    "atisUpdateTime": "2026-09-16T14:14:45+08:00"
+}
