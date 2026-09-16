@@ -1,16 +1,16 @@
 {
-    "eventId": "223939",
+    "eventId": "232860",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期工程分支管及用戶接管第一標",
+    "eventContent": "東安路92巷口北側漏水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2303985457044",
-    "eventWgsy": "22.969319253474918",
+    "eventWgsx": "120.22659191419015",
+    "eventWgsy": "22.993072229082628",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T08:56:30+08:00",
+    "eventHappenTime": "2026-09-16T16:38:00+08:00",
     "atisUpdateTime": "2026-09-16T16:44:17+08:00"
 }

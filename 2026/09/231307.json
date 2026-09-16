@@ -1,16 +1,16 @@
 {
-    "eventId": "234853",
+    "eventId": "231307",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所用戶新裝-冠嘉營造",
+    "eventContent": "114年新市所用戶新裝-富鴻建設",
     "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.28674343904846",
-    "eventWgsy": "23.078711861772927",
+    "eventWgsx": "120.29136978932164",
+    "eventWgsy": "23.09464715517516",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T09:23:22+08:00",
+    "eventHappenTime": "2026-09-16T16:24:02+08:00",
     "atisUpdateTime": "2026-09-16T16:44:17+08:00"
 }
