@@ -1,16 +1,16 @@
 {
-    "eventId": "226818",
+    "eventId": "231387",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "連建建設給水",
+    "eventContent": "誠馥建設給水",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18101311183528",
-    "eventWgsy": "23.049551446360827",
+    "eventWgsx": "120.16855811749801",
+    "eventWgsy": "23.07151328195873",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T11:47:35+08:00",
+    "eventHappenTime": "2026-09-16T14:16:10+08:00",
     "atisUpdateTime": "2026-09-16T14:29:56+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "234821",
+    "eventId": "234385",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合中華東路三段(崇善路至東門路)道路改善工程--調降人手孔",
+    "eventContent": "長榮路三段23號漏水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22698953764758",
-    "eventWgsy": "22.978220823233986",
+    "eventWgsx": "120.22160198830026",
+    "eventWgsy": "22.993330652467034",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T08:10:53+08:00",
+    "eventHappenTime": "2026-09-16T14:20:17+08:00",
     "atisUpdateTime": "2026-09-16T14:29:56+08:00"
 }
