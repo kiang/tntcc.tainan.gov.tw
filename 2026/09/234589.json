@@ -1,0 +1,16 @@
+{
+    "eventId": "234589",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "建築家建設給水",
+    "eventTownName": "北區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.19767657113027",
+    "eventWgsy": "23.008110759444257",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-16T08:08:27+08:00",
+    "atisUpdateTime": "2026-09-16T08:14:40+08:00"
+}
