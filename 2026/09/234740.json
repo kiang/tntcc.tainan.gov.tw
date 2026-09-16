@@ -1,16 +1,16 @@
 {
-    "eventId": "233858",
+    "eventId": "234740",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "新營區東興十街等汰換管線工程",
+    "eventContent": "(建物引進)新營區東興八街8號(寶雅)(S2L558079-S2L558081)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32663022904319",
-    "eventWgsy": "23.31876998906712",
+    "eventWgsx": "120.32331612278625",
+    "eventWgsy": "23.31582981898437",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T08:25:13+08:00",
+    "eventHappenTime": "2026-09-16T13:10:48+08:00",
     "atisUpdateTime": "2026-09-16T13:14:14+08:00"
 }
