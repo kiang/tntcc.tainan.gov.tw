@@ -1,0 +1,16 @@
+{
+    "eventId": "233801",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水搶修",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.19897675241367",
+    "eventWgsy": "22.99277359427977",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-16T08:31:37+08:00",
+    "atisUpdateTime": "2026-09-16T08:44:47+08:00"
+}
