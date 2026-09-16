@@ -1,16 +1,16 @@
 {
-    "eventId": "226818",
+    "eventId": "232394",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "連建建設給水",
-    "eventTownName": "安南區",
+    "eventContent": "漏水搶修",
+    "eventTownName": "中西區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18101311183528",
-    "eventWgsy": "23.049551446360827",
+    "eventWgsx": "120.20755551157544",
+    "eventWgsy": "22.99221655051289",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T11:47:35+08:00",
+    "eventHappenTime": "2026-09-16T12:46:48+08:00",
     "atisUpdateTime": "2026-09-16T13:00:07+08:00"
 }
