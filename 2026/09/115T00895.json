@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00895",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "後壁區",
+    "eventSource": "PWB",
+    "eventLocation": "731台灣臺南市後壁區長安里烏樹林349號",
+    "eventWgsx": "120.37972537678377",
+    "eventWgsy": "23.34108548959052",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-16T08:13:44+08:00",
+    "atisUpdateTime": "2026-09-16T08:29:43+08:00"
+}
