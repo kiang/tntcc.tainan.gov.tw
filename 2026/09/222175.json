@@ -1,16 +1,16 @@
 {
-    "eventId": "234740",
+    "eventId": "222175",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "(建物引進)新營區東興八街8號(寶雅)(S2L558079-S2L558081)",
+    "eventContent": "113年人、手孔維護工作",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32331612278625",
-    "eventWgsy": "23.31582981898437",
+    "eventWgsx": "120.3001052965565",
+    "eventWgsy": "23.308103896626687",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T13:10:48+08:00",
+    "eventHappenTime": "2026-09-16T15:47:49+08:00",
     "atisUpdateTime": "2026-09-16T15:59:50+08:00"
 }
