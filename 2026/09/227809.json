@@ -1,16 +1,16 @@
 {
-    "eventId": "233983",
+    "eventId": "227809",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "新化大德路大新路與善化民族路民權路等汰換管線工程",
+    "eventContent": "114年新市所用戶新裝-紀秀霞",
     "eventTownName": "新化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29432462904514",
-    "eventWgsy": "23.04255047326465",
+    "eventWgsx": "120.30083923592393",
+    "eventWgsy": "23.033754915602003",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T08:29:36+08:00",
+    "eventHappenTime": "2026-09-16T12:10:24+08:00",
     "atisUpdateTime": "2026-09-16T12:14:46+08:00"
 }
