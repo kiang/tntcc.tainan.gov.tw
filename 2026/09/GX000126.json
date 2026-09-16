@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000151",
+    "eventId": "GX000126",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "文華路(文南街-中山路) 發生壅塞",
+    "eventContent": "大灣交流道-國1-永康交流道 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24312299309472",
-    "eventWgsy": "22.96990604659282",
+    "eventWgsx": "120.24848473193714",
+    "eventWgsy": "22.998720435731165",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-16T13:51:54+08:00",
+    "eventHappenTime": "2026-09-16T15:31:54+08:00",
     "atisUpdateTime": "2026-09-16T15:44:52+08:00"
 }
