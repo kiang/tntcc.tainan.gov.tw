@@ -2,15 +2,15 @@
     "eventId": "20260917185650005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "汽機車",
-    "eventTownName": "新市區",
+    "eventContent": "雜草(含廢棄物、墓地)",
+    "eventTownName": "永康區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.25152106647322",
-    "eventWgsy": "23.083550458286027",
+    "eventWgsx": "120.25232100411696",
+    "eventWgsy": "23.04751724841006",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-09-17T18:57:53+08:00",
-    "atisUpdateTime": "2026-09-17T18:59:55+08:00"
+    "atisUpdateTime": "2026-09-17T19:14:56+08:00"
 }
