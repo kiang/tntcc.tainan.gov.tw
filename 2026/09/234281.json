@@ -1,16 +1,16 @@
 {
-    "eventId": "233324",
+    "eventId": "234281",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年麻豆所用戶新(改)裝-案359劉金蓮",
+    "eventContent": "114年人、手孔維護工作",
     "eventTownName": "麻豆區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26092334210684",
-    "eventWgsy": "23.200670701208782",
+    "eventWgsx": "120.25162433768024",
+    "eventWgsy": "23.183082695855575",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T08:21:14+08:00",
+    "eventHappenTime": "2026-09-17T13:23:10+08:00",
     "atisUpdateTime": "2026-09-17T13:44:27+08:00"
 }
