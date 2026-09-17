@@ -1,16 +1,16 @@
 {
-    "eventId": "227941",
+    "eventId": "228958",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "C250246星舟快充股份有限公司表燈新設",
+    "eventContent": "1260414星舟快充股份有限公司新設",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16011953846119",
-    "eventWgsy": "23.000033825210213",
+    "eventWgsx": "120.16286963766849",
+    "eventWgsy": "22.998861077284847",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T09:05:36+08:00",
+    "eventHappenTime": "2026-09-17T09:02:42+08:00",
     "atisUpdateTime": "2026-09-17T09:14:19+08:00"
 }
