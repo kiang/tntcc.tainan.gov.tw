@@ -1,16 +1,16 @@
 {
-    "eventId": "233481",
+    "eventId": "233403",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "仁和路87之9號對面漏水搶修",
+    "eventContent": "自由路一段310號漏水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23240718057266",
-    "eventWgsy": "22.973233915975083",
+    "eventWgsx": "120.23771109911429",
+    "eventWgsy": "22.970432014446143",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T12:46:36+08:00",
+    "eventHappenTime": "2026-09-17T13:47:13+08:00",
     "atisUpdateTime": "2026-09-17T13:59:36+08:00"
 }
