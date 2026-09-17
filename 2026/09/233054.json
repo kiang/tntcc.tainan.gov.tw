@@ -1,16 +1,16 @@
 {
-    "eventId": "233115",
+    "eventId": "233054",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "永康清管站與專管區管線拆除及改管工作",
+    "eventContent": "配合永康區污水下水道第二期第一標管線代辦改遷工程(二)-3",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25399645555612",
-    "eventWgsy": "23.041105761597496",
+    "eventWgsx": "120.2590950393309",
+    "eventWgsy": "23.01893901543883",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T08:14:07+08:00",
+    "eventHappenTime": "2026-09-17T12:15:55+08:00",
     "atisUpdateTime": "2026-09-17T12:29:54+08:00"
 }
