@@ -1,16 +1,16 @@
 {
-    "eventId": "20260917110748003",
+    "eventId": "20260917131220003",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "歸仁區",
+    "eventTownName": "永康區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.28739738757488",
-    "eventWgsy": "22.931291692441313",
+    "eventWgsx": "120.23685106672247",
+    "eventWgsy": "23.04127032709506",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T11:08:29+08:00",
+    "eventHappenTime": "2026-09-17T13:12:31+08:00",
     "atisUpdateTime": "2026-09-17T13:14:26+08:00"
 }
