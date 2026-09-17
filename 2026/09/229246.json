@@ -1,16 +1,16 @@
 {
-    "eventId": "218134",
+    "eventId": "229246",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "國精化學178市道本管工程07",
+    "eventContent": "安定區和順北橋汰換管線改建工程",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21227219043703",
-    "eventWgsy": "23.078763655547444",
+    "eventWgsx": "120.21404414175831",
+    "eventWgsy": "23.07396577980071",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T08:07:21+08:00",
+    "eventHappenTime": "2026-09-17T08:29:47+08:00",
     "atisUpdateTime": "2026-09-17T08:44:05+08:00"
 }
