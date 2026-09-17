@@ -1,16 +1,16 @@
 {
-    "eventId": "234471",
+    "eventId": "231064",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市第一三三期新寮(三)自辦市地重劃工程",
+    "eventContent": "怡安路2段孔蓋調降工程",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20135076649264",
-    "eventWgsy": "23.05796646380873",
+    "eventWgsx": "120.20321865113932",
+    "eventWgsy": "23.042994538380665",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T08:35:16+08:00",
+    "eventHappenTime": "2026-09-17T09:54:56+08:00",
     "atisUpdateTime": "2026-09-17T10:14:50+08:00"
 }
