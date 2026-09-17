@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00910",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "緊急配合工程",
+    "eventTownName": "新市區",
+    "eventSource": "PWB",
+    "eventLocation": "744台灣臺南市新市區南135 線",
+    "eventWgsx": "120.26134708946662",
+    "eventWgsy": "23.087954668561334",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-17T10:14:43+08:00",
+    "atisUpdateTime": "2026-09-17T10:29:55+08:00"
+}

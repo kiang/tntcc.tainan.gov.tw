@@ -1,16 +1,16 @@
 {
-    "eventId": "234208",
+    "eventId": "234051",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "東門路二段301巷115弄14號漏水搶修",
+    "eventContent": "崇善路232巷17弄10號漏水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22975383304657",
-    "eventWgsy": "22.984593343610218",
+    "eventWgsx": "120.22753719434552",
+    "eventWgsy": "22.97675153306342",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T09:24:21+08:00",
+    "eventHappenTime": "2026-09-17T10:18:32+08:00",
     "atisUpdateTime": "2026-09-17T10:29:55+08:00"
 }
