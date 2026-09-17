@@ -1,0 +1,16 @@
+{
+    "eventId": "228170",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "臺南市仁德區太子路高速公路涵洞",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.24493532691156",
+    "eventWgsy": "22.99000299775873",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-18T02:57:12+08:00",
+    "atisUpdateTime": "2026-09-18T03:14:54+08:00"
+}
