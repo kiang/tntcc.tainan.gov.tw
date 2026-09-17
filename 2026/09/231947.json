@@ -1,16 +1,16 @@
 {
-    "eventId": "218134",
+    "eventId": "231947",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "國精化學178市道本管工程07",
+    "eventContent": "115年新市所用戶新裝-金礦建設",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21227219043703",
-    "eventWgsy": "23.078763655547444",
+    "eventWgsx": "120.24398023625515",
+    "eventWgsy": "23.09398178928574",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T08:07:21+08:00",
+    "eventHappenTime": "2026-09-17T17:06:30+08:00",
     "atisUpdateTime": "2026-09-17T17:14:13+08:00"
 }
