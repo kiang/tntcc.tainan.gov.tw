@@ -1,16 +1,16 @@
 {
-    "eventId": "233115",
+    "eventId": "231230",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "永康清管站與專管區管線拆除及改管工作",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要修配管",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25399645555612",
-    "eventWgsy": "23.041105761597496",
+    "eventWgsx": "120.26371785252788",
+    "eventWgsy": "23.01282997167959",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T08:14:07+08:00",
+    "eventHappenTime": "2026-09-17T08:14:38+08:00",
     "atisUpdateTime": "2026-09-17T08:30:00+08:00"
 }

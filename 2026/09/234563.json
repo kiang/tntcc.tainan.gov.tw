@@ -1,0 +1,16 @@
+{
+    "eventId": "234563",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "東寧路201巷12號漏水搶修",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22566631417033",
+    "eventWgsy": "22.991278084690517",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-17T08:18:52+08:00",
+    "atisUpdateTime": "2026-09-17T08:30:00+08:00"
+}
