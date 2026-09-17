@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00911",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "白河區",
+    "eventSource": "PWB",
+    "eventLocation": "732台灣臺南市白河區昇安里埤子頭1-12號斜對面",
+    "eventWgsx": "120.43549707001414",
+    "eventWgsy": "23.366142471754284",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-17T11:39:53+08:00",
+    "atisUpdateTime": "2026-09-17T11:44:35+08:00"
+}

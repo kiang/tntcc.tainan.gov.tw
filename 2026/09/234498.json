@@ -1,16 +1,16 @@
 {
-    "eventId": "231230",
+    "eventId": "234498",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要修配管",
+    "eventContent": "配合水利局污水箱涵遷移電信管道",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26371785252788",
-    "eventWgsy": "23.01282997167959",
+    "eventWgsx": "120.26046986595122",
+    "eventWgsy": "23.01654065356181",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T08:14:38+08:00",
+    "eventHappenTime": "2026-09-17T11:25:46+08:00",
     "atisUpdateTime": "2026-09-17T11:44:35+08:00"
 }
