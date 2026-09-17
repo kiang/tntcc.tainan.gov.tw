@@ -1,16 +1,16 @@
 {
-    "eventId": "233516",
+    "eventId": "232833",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "埋設用戶電信引上配管",
+    "eventContent": "114年永康所用戶用水設備新(改)裝工作勞務採購",
     "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21878462038157",
-    "eventWgsy": "23.0041623784023",
+    "eventWgsx": "120.21705727170483",
+    "eventWgsy": "23.01974692605201",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T13:16:47+08:00",
+    "eventHappenTime": "2026-09-17T14:36:51+08:00",
     "atisUpdateTime": "2026-09-17T14:45:03+08:00"
 }

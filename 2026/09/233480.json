@@ -1,16 +1,16 @@
 {
-    "eventId": "235284",
+    "eventId": "233480",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "黃震南",
+    "eventContent": "裕忠路與裕忠二街交叉口漏水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21613422058776",
-    "eventWgsy": "22.995583248661934",
+    "eventWgsx": "120.24179104118545",
+    "eventWgsy": "22.979745881805727",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T09:00:47+08:00",
+    "eventHappenTime": "2026-09-17T14:33:32+08:00",
     "atisUpdateTime": "2026-09-17T14:45:03+08:00"
 }

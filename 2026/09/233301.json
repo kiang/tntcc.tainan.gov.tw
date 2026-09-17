@@ -1,16 +1,16 @@
 {
-    "eventId": "235284",
+    "eventId": "233301",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "黃震南",
+    "eventContent": "裕忠路508號漏水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21613422058776",
-    "eventWgsy": "22.995583248661934",
+    "eventWgsx": "120.24186675169207",
+    "eventWgsy": "22.979760297885342",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T09:00:47+08:00",
+    "eventHappenTime": "2026-09-17T14:34:02+08:00",
     "atisUpdateTime": "2026-09-17T14:45:03+08:00"
 }
