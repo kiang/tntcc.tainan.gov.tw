@@ -1,16 +1,16 @@
 {
-    "eventId": "20260917131220003",
+    "eventId": "20260917141322017",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "永康區",
+    "eventTownName": "安定區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.23685106672247",
-    "eventWgsy": "23.04127032709506",
+    "eventWgsx": "120.23299979848974",
+    "eventWgsy": "23.09039998849039",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T13:12:31+08:00",
+    "eventHappenTime": "2026-09-17T14:13:48+08:00",
     "atisUpdateTime": "2026-09-17T14:14:31+08:00"
 }

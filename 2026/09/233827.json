@@ -1,16 +1,16 @@
 {
-    "eventId": "223924",
+    "eventId": "233827",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期工程分支管及用戶接管第一標",
+    "eventContent": "仁和路109巷135弄32號無水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2301648122105",
-    "eventWgsy": "22.968735806372717",
+    "eventWgsx": "120.23679149031778",
+    "eventWgsy": "22.972376391080797",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T08:57:06+08:00",
+    "eventHappenTime": "2026-09-17T14:07:33+08:00",
     "atisUpdateTime": "2026-09-17T14:14:46+08:00"
 }
