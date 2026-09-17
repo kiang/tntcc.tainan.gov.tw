@@ -1,16 +1,16 @@
 {
-    "eventId": "234000",
+    "eventId": "233481",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "崇德十二街83號對面漏水搶修",
+    "eventContent": "仁和路87之9號對面漏水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22953976496304",
-    "eventWgsy": "22.971661303476207",
+    "eventWgsx": "120.23240718057266",
+    "eventWgsy": "22.973233915975083",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T11:09:50+08:00",
+    "eventHappenTime": "2026-09-17T12:46:36+08:00",
     "atisUpdateTime": "2026-09-17T12:59:06+08:00"
 }
