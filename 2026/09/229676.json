@@ -1,16 +1,16 @@
 {
-    "eventId": "234207",
+    "eventId": "229676",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "林佳宏給水",
+    "eventContent": "銜接用戶管--邱偉志",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.209069113531",
-    "eventWgsy": "23.030012765390264",
+    "eventWgsx": "120.21578440795838",
+    "eventWgsy": "23.04943517285231",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-17T10:46:24+08:00",
+    "eventHappenTime": "2026-09-17T10:55:02+08:00",
     "atisUpdateTime": "2026-09-17T11:14:17+08:00"
 }
