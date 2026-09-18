@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI02806",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安定區",
+    "eventSource": "PWB",
+    "eventLocation": "745台灣臺南市安定區嘉同里大同里牛肉寮66-3號",
+    "eventWgsx": "120.22695339357838",
+    "eventWgsy": "23.07630197689146",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-18T14:46:13+08:00",
+    "atisUpdateTime": "2026-09-18T16:44:15+08:00"
+}
