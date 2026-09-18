@@ -1,16 +1,16 @@
 {
-    "eventId": "20260919002744005",
+    "eventId": "20260919010745018",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "誤(謊)報",
-    "eventTownName": "南區",
+    "eventContent": "其他",
+    "eventTownName": "學甲區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.17499984468384",
-    "eventWgsy": "22.920699957711797",
+    "eventWgsx": "120.2109486487874",
+    "eventWgsy": "23.25895503632532",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-19T00:28:26+08:00",
+    "eventHappenTime": "2026-09-19T01:09:19+08:00",
     "atisUpdateTime": "2026-09-19T01:14:10+08:00"
 }
