@@ -1,16 +1,16 @@
 {
-    "eventId": "231316",
+    "eventId": "230253",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年新市所用戶新裝-和昌精密",
+    "eventContent": "114年新市所用戶新裝-永峻營造",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23597846075057",
-    "eventWgsy": "23.11221786412678",
+    "eventWgsx": "120.2337150401313",
+    "eventWgsy": "23.09036836560312",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T11:17:30+08:00",
+    "eventHappenTime": "2026-09-18T14:47:15+08:00",
     "atisUpdateTime": "2026-09-18T14:59:43+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "211135",
+    "eventId": "231952",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期工程主、次幹管第三標",
+    "eventContent": "5260108旭電馳科研股份有限公司汽車充電樁",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22183894539847",
-    "eventWgsy": "22.97064096475539",
+    "eventWgsx": "120.21988938079659",
+    "eventWgsy": "22.966339798391573",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T13:37:08+08:00",
+    "eventHappenTime": "2026-09-18T14:46:59+08:00",
     "atisUpdateTime": "2026-09-18T14:59:43+08:00"
 }
