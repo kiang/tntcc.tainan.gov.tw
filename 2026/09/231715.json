@@ -1,16 +1,16 @@
 {
-    "eventId": "231714",
+    "eventId": "231715",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所用戶新裝-鄭舒珊",
+    "eventContent": "115年新市所用戶新裝-陳信宏",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23319429462164",
-    "eventWgsy": "23.101819769150616",
+    "eventWgsx": "120.23438405212826",
+    "eventWgsy": "23.105002461307294",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T08:53:52+08:00",
+    "eventHappenTime": "2026-09-18T09:28:18+08:00",
     "atisUpdateTime": "2026-09-18T09:44:43+08:00"
 }
