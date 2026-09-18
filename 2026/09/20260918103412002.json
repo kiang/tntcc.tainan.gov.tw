@@ -1,16 +1,16 @@
 {
-    "eventId": "20260918075749008",
+    "eventId": "20260918103412002",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "一般(集合)住宅",
     "eventTownName": "東區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.22809996636377",
-    "eventWgsy": "22.960700393389633",
+    "eventWgsx": "120.21794162135508",
+    "eventWgsy": "22.994767344149366",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T07:59:11+08:00",
+    "eventHappenTime": "2026-09-18T10:35:05+08:00",
     "atisUpdateTime": "2026-09-18T10:44:36+08:00"
 }

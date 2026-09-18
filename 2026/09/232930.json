@@ -1,16 +1,16 @@
 {
-    "eventId": "231715",
+    "eventId": "232930",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所用戶新裝-陳信宏",
+    "eventContent": "115年新市所用戶新裝-林明宗",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23438405212826",
-    "eventWgsy": "23.105002461307294",
+    "eventWgsx": "120.23306855585608",
+    "eventWgsy": "23.08818053371606",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T09:28:18+08:00",
+    "eventHappenTime": "2026-09-18T10:28:32+08:00",
     "atisUpdateTime": "2026-09-18T10:44:25+08:00"
 }
