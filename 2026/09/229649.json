@@ -1,16 +1,16 @@
 {
-    "eventId": "232930",
+    "eventId": "229649",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所用戶新裝-林明宗",
+    "eventContent": "114年新市所用戶新裝-蘇泊瑞",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23306855585608",
-    "eventWgsy": "23.08818053371606",
+    "eventWgsx": "120.24799586231543",
+    "eventWgsy": "23.126759256213226",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T10:28:32+08:00",
+    "eventHappenTime": "2026-09-18T15:26:22+08:00",
     "atisUpdateTime": "2026-09-18T15:30:01+08:00"
 }
