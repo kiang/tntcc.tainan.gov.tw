@@ -1,16 +1,16 @@
 {
-    "eventId": "220945",
+    "eventId": "227292",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "邰欣建設94戶",
-    "eventTownName": "安南區",
+    "eventContent": "B250569吳宇順表燈新設",
+    "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18608796619513",
-    "eventWgsy": "23.01663031265157",
+    "eventWgsx": "120.1971888434112",
+    "eventWgsy": "23.016281586239007",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T08:01:45+08:00",
+    "eventHappenTime": "2026-09-18T09:04:46+08:00",
     "atisUpdateTime": "2026-09-18T09:14:28+08:00"
 }

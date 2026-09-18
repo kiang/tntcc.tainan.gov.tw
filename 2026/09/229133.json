@@ -1,16 +1,16 @@
 {
-    "eventId": "232163",
+    "eventId": "229133",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合怡安路二段(長溪路-安中路)道路改善工程--調降人手孔",
+    "eventContent": "泓達建設8戶",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19152326870562",
-    "eventWgsy": "23.045373472459573",
+    "eventWgsx": "120.19835541929055",
+    "eventWgsy": "23.02576560701764",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T08:19:10+08:00",
+    "eventHappenTime": "2026-09-18T09:00:31+08:00",
     "atisUpdateTime": "2026-09-18T09:14:28+08:00"
 }
