@@ -1,16 +1,16 @@
 {
-    "eventId": "231657",
+    "eventId": "230516",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "5260016南泰億建設股份有限公司表燈新設",
+    "eventContent": "3260630設計課零資",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2105471146493",
-    "eventWgsy": "23.054115442476128",
+    "eventWgsx": "120.22589166308569",
+    "eventWgsy": "23.06340715981346",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T09:47:39+08:00",
+    "eventHappenTime": "2026-09-18T13:03:29+08:00",
     "atisUpdateTime": "2026-09-18T13:14:49+08:00"
 }
