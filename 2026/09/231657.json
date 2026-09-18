@@ -1,16 +1,16 @@
 {
-    "eventId": "229133",
+    "eventId": "231657",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "泓達建設8戶",
+    "eventContent": "5260016南泰億建設股份有限公司表燈新設",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19835541929055",
-    "eventWgsy": "23.02576560701764",
+    "eventWgsx": "120.2105471146493",
+    "eventWgsy": "23.054115442476128",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T09:00:31+08:00",
+    "eventHappenTime": "2026-09-18T09:47:39+08:00",
     "atisUpdateTime": "2026-09-18T09:59:52+08:00"
 }
