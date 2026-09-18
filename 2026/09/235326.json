@@ -1,16 +1,16 @@
 {
-    "eventId": "233861",
+    "eventId": "235326",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "新營區東興十街等汰換管線工程",
+    "eventContent": "115年新營營運所管線設備維修工程",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32824584031921",
-    "eventWgsy": "23.318725113274837",
+    "eventWgsx": "120.31711382376018",
+    "eventWgsy": "23.316716785232014",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T08:16:55+08:00",
+    "eventHappenTime": "2026-09-18T09:14:25+08:00",
     "atisUpdateTime": "2026-09-18T09:29:35+08:00"
 }

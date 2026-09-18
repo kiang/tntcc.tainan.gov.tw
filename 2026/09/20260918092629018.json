@@ -1,16 +1,16 @@
 {
-    "eventId": "20260918085105017",
+    "eventId": "20260918092629018",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
     "eventTownName": "東區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.2243476100083",
-    "eventWgsy": "22.99847520475685",
+    "eventWgsx": "120.22670338766223",
+    "eventWgsy": "22.98671534956307",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T08:51:36+08:00",
+    "eventHappenTime": "2026-09-18T09:27:00+08:00",
     "atisUpdateTime": "2026-09-18T09:29:29+08:00"
 }
