@@ -1,16 +1,16 @@
 {
-    "eventId": "230252",
+    "eventId": "229954",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年新市所用戶新裝-周福祥",
+    "eventContent": "114年新市所用戶新裝-吳麗卿",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23398814870106",
-    "eventWgsy": "23.094122009328284",
+    "eventWgsx": "120.23720863662095",
+    "eventWgsy": "23.120241555386343",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-18T07:40:52+08:00",
+    "eventHappenTime": "2026-09-18T13:53:54+08:00",
     "atisUpdateTime": "2026-09-18T13:59:59+08:00"
 }
