@@ -1,16 +1,16 @@
 {
-    "eventId": "229462",
+    "eventId": "230116",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "1260632設計課零資",
+    "eventContent": "陳璟瑜給水",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18524027375315",
-    "eventWgsy": "23.048334617727978",
+    "eventWgsx": "120.17437608276468",
+    "eventWgsy": "23.049222788135285",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-19T09:57:10+08:00",
+    "eventHappenTime": "2026-09-19T10:44:32+08:00",
     "atisUpdateTime": "2026-09-19T10:59:58+08:00"
 }
