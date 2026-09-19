@@ -1,8 +1,8 @@
 {
     "eventId": "GX000227",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "裕永(忠孝)-大灣路1102巷(西向) 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "裕永(忠孝)-大灣路1102巷(西向) 發生壅塞",
     "eventTownName": "",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-19T11:32:15+08:00",
-    "atisUpdateTime": "2026-09-19T11:44:59+08:00"
+    "eventHappenTime": "2026-09-19T12:01:15+08:00",
+    "atisUpdateTime": "2026-09-19T12:14:45+08:00"
 }
