@@ -1,16 +1,16 @@
 {
-    "eventId": "20260919133351003",
+    "eventId": "20260919152553001",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "麻豆區",
+    "eventTownName": "新營區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.2508427799436",
-    "eventWgsy": "23.185201161483185",
+    "eventWgsx": "120.3025440029692",
+    "eventWgsy": "23.304186134494604",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-19T13:35:25+08:00",
+    "eventHappenTime": "2026-09-19T15:26:20+08:00",
     "atisUpdateTime": "2026-09-19T15:29:07+08:00"
 }
