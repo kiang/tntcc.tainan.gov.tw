@@ -1,0 +1,16 @@
+{
+    "eventId": "20260919183908004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "雜草(含廢棄物、墓地)",
+    "eventTownName": "歸仁區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.29997945248397",
+    "eventWgsy": "22.9422993467352",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-19T18:42:12+08:00",
+    "atisUpdateTime": "2026-09-19T18:44:33+08:00"
+}
