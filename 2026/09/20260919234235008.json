@@ -1,16 +1,16 @@
 {
-    "eventId": "20260919150100003",
+    "eventId": "20260919234235008",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "七股區",
+    "eventTownName": "東區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.14570553955865",
-    "eventWgsy": "23.18619962843505",
+    "eventWgsx": "120.21160193738041",
+    "eventWgsy": "22.991590062508266",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-19T23:44:10+08:00",
+    "eventHappenTime": "2026-09-19T23:43:04+08:00",
     "atisUpdateTime": "2026-09-19T23:44:10+08:00"
 }
