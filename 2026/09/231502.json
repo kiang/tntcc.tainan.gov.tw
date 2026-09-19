@@ -1,16 +1,16 @@
 {
-    "eventId": "232758",
+    "eventId": "231502",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-臺南市政府交通局(甲管路5260169)",
+    "eventContent": "114年-正鈺建設有限公司 林禹廣(甲管路4260074)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32296903705935",
-    "eventWgsy": "23.31626649649101",
+    "eventWgsx": "120.30855738565774",
+    "eventWgsy": "23.313464906075524",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-19T08:01:24+08:00",
+    "eventHappenTime": "2026-09-19T08:26:09+08:00",
     "atisUpdateTime": "2026-09-19T08:29:59+08:00"
 }
