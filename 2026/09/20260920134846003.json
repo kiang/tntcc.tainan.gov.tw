@@ -1,16 +1,16 @@
 {
-    "eventId": "20260920131458004",
+    "eventId": "20260920134846003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "龍崎區",
+    "eventTownName": "將軍區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.41745442034232",
-    "eventWgsy": "22.935319423982556",
+    "eventWgsx": "120.14306049592435",
+    "eventWgsy": "23.22622771729709",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-20T13:15:30+08:00",
+    "eventHappenTime": "2026-09-20T13:49:50+08:00",
     "atisUpdateTime": "2026-09-20T13:59:41+08:00"
 }
