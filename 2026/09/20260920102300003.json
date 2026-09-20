@@ -2,7 +2,7 @@
     "eventId": "20260920102300003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "一般(集合)住宅",
+    "eventContent": "臨時屋(含工寮、樣品屋、雞舍等無門牌之建築物)",
     "eventTownName": "中西區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-09-20T10:24:06+08:00",
-    "atisUpdateTime": "2026-09-20T11:14:24+08:00"
+    "atisUpdateTime": "2026-09-20T11:29:26+08:00"
 }
