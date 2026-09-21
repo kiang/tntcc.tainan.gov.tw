@@ -1,16 +1,16 @@
 {
-    "eventId": "115T00924",
+    "eventId": "115T00925",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "漏水",
     "eventTownName": "南區",
     "eventSource": "PWB",
-    "eventLocation": "702台灣臺南市南區金華路一段352巷111弄43號",
-    "eventWgsx": "120.1943380966343",
-    "eventWgsy": "22.96942175241335",
+    "eventLocation": "702台灣臺南市南區大成路二段175號",
+    "eventWgsx": "120.19279609687",
+    "eventWgsy": "22.974876748568782",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T08:00:05+08:00",
+    "eventHappenTime": "2026-09-21T09:48:44+08:00",
     "atisUpdateTime": "2026-09-21T09:59:35+08:00"
 }
