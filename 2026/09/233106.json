@@ -1,16 +1,16 @@
 {
-    "eventId": "233780",
+    "eventId": "233106",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "112年新營營運所管線設備維修工程",
+    "eventContent": "114年-亞特必股份有限公司(甲管路5260261)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32541779966449",
-    "eventWgsy": "23.313609889814234",
+    "eventWgsx": "120.32821896012442",
+    "eventWgsy": "23.30867069612245",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T08:36:36+08:00",
+    "eventHappenTime": "2026-09-21T13:39:29+08:00",
     "atisUpdateTime": "2026-09-21T13:59:45+08:00"
 }
