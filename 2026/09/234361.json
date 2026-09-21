@@ -1,16 +1,16 @@
 {
-    "eventId": "233120",
+    "eventId": "234361",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "貴十八股份有限公司",
+    "eventContent": "銜接用戶管--泰勝建設(楊靖為)",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22661895726866",
-    "eventWgsy": "22.966793709293867",
+    "eventWgsx": "120.22801698055888",
+    "eventWgsy": "22.97434545444744",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T09:04:05+08:00",
+    "eventHappenTime": "2026-09-21T15:50:30+08:00",
     "atisUpdateTime": "2026-09-21T15:59:34+08:00"
 }
