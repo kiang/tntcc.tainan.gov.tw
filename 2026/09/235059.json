@@ -1,16 +1,16 @@
 {
-    "eventId": "234076",
+    "eventId": "235059",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管(NFQ11K5D2D)",
+    "eventContent": "銜接用戶管(NFQ11K5D2D)及手孔提升",
     "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32550815153546",
-    "eventWgsy": "23.07677026119273",
+    "eventWgsx": "120.28820386646295",
+    "eventWgsy": "23.08146810666412",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T10:49:13+08:00",
+    "eventHappenTime": "2026-09-21T14:46:44+08:00",
     "atisUpdateTime": "2026-09-21T14:59:07+08:00"
 }
