@@ -1,16 +1,16 @@
 {
-    "eventId": "235297",
+    "eventId": "231990",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "銜接用戶管(NFQ11K5D2D)",
     "eventTownName": "山上區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.35933281383947",
-    "eventWgsy": "23.100997272071034",
+    "eventWgsx": "120.3595636912446",
+    "eventWgsy": "23.094622339493203",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T08:32:25+08:00",
+    "eventHappenTime": "2026-09-21T10:03:17+08:00",
     "atisUpdateTime": "2026-09-21T10:14:37+08:00"
 }
