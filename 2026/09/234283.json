@@ -1,16 +1,16 @@
 {
-    "eventId": "232515",
+    "eventId": "234283",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "112年新營營運所管線設備維修工程",
     "eventTownName": "柳營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.3142281358412",
-    "eventWgsy": "23.27868241389414",
+    "eventWgsx": "120.31197715645362",
+    "eventWgsy": "23.273766172162905",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T10:27:51+08:00",
+    "eventHappenTime": "2026-09-21T11:19:20+08:00",
     "atisUpdateTime": "2026-09-21T11:29:58+08:00"
 }
