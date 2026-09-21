@@ -1,16 +1,16 @@
 {
-    "eventId": "232758",
+    "eventId": "233780",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-臺南市政府交通局(甲管路5260169)",
+    "eventContent": "112年新營營運所管線設備維修工程",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32296903705935",
-    "eventWgsy": "23.31626649649101",
+    "eventWgsx": "120.32541779966449",
+    "eventWgsy": "23.313609889814234",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T07:54:47+08:00",
+    "eventHappenTime": "2026-09-21T08:36:36+08:00",
     "atisUpdateTime": "2026-09-21T08:44:18+08:00"
 }
