@@ -1,16 +1,16 @@
 {
-    "eventId": "234471",
+    "eventId": "230948",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市第一三三期新寮(三)自辦市地重劃工程",
+    "eventContent": "銜接用戶管--力慶建設(林維震)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20135076649264",
-    "eventWgsy": "23.05796646380873",
+    "eventWgsx": "120.12735345639489",
+    "eventWgsy": "23.065271420736327",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T09:04:03+08:00",
+    "eventHappenTime": "2026-09-21T11:40:48+08:00",
     "atisUpdateTime": "2026-09-21T11:59:10+08:00"
 }

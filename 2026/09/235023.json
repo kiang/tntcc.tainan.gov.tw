@@ -1,16 +1,16 @@
 {
-    "eventId": "233698",
+    "eventId": "235023",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管--魏坤雄",
+    "eventContent": "埋設電信用戶引進管",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2152482805314",
-    "eventWgsy": "22.970937261316934",
+    "eventWgsx": "120.2309933294536",
+    "eventWgsy": "22.965701210945973",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T10:13:22+08:00",
+    "eventHappenTime": "2026-09-21T11:48:13+08:00",
     "atisUpdateTime": "2026-09-21T11:59:10+08:00"
 }
