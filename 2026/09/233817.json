@@ -1,16 +1,16 @@
 {
-    "eventId": "234471",
+    "eventId": "233817",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市第一三三期新寮(三)自辦市地重劃工程",
+    "eventContent": "7260223台達電子工業股份有限公司新設",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20135076649264",
-    "eventWgsy": "23.05796646380873",
+    "eventWgsx": "120.20601063918518",
+    "eventWgsy": "23.03251438781303",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T09:04:03+08:00",
+    "eventHappenTime": "2026-09-21T09:01:10+08:00",
     "atisUpdateTime": "2026-09-21T09:14:25+08:00"
 }
