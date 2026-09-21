@@ -1,16 +1,16 @@
 {
-    "eventId": "20260921173157002",
+    "eventId": "20260921184346002",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "麻豆區",
+    "eventTownName": "學甲區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.21458403014418",
-    "eventWgsy": "23.19958370146677",
+    "eventWgsx": "120.20406829818415",
+    "eventWgsy": "23.23834553143976",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T17:34:11+08:00",
+    "eventHappenTime": "2026-09-21T18:44:07+08:00",
     "atisUpdateTime": "2026-09-21T18:44:22+08:00"
 }
