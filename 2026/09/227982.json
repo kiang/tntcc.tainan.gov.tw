@@ -1,16 +1,16 @@
 {
-    "eventId": "233120",
+    "eventId": "227982",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "貴十八股份有限公司",
-    "eventTownName": "東區",
+    "eventContent": "埋設電信桿引上管",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22661895726866",
-    "eventWgsy": "22.966793709293867",
+    "eventWgsx": "120.17285695459663",
+    "eventWgsy": "23.023912061985353",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-21T09:04:05+08:00",
+    "eventHappenTime": "2026-09-21T15:09:54+08:00",
     "atisUpdateTime": "2026-09-21T15:29:19+08:00"
 }
