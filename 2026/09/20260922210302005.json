@@ -1,16 +1,16 @@
 {
-    "eventId": "20260922203905304",
+    "eventId": "20260922210302005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "西港區",
+    "eventTownName": "仁德區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.2193708817666",
-    "eventWgsy": "23.137399537628454",
+    "eventWgsx": "120.26056869473047",
+    "eventWgsy": "22.965439034082348",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T20:39:53+08:00",
+    "eventHappenTime": "2026-09-22T21:04:31+08:00",
     "atisUpdateTime": "2026-09-22T21:14:35+08:00"
 }
