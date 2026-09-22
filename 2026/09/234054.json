@@ -1,16 +1,16 @@
 {
-    "eventId": "228458",
+    "eventId": "234054",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期分支管網及用戶接管工程第10標",
+    "eventContent": "銜接用戶管--瀛海建設(吳厚錫)",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23130344056966",
-    "eventWgsy": "22.957660431116683",
+    "eventWgsx": "120.23681957607825",
+    "eventWgsy": "22.923927356635293",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T07:17:28+08:00",
+    "eventHappenTime": "2026-09-22T08:54:26+08:00",
     "atisUpdateTime": "2026-09-22T08:59:54+08:00"
 }
