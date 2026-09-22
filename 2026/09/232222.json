@@ -1,16 +1,16 @@
 {
-    "eventId": "233651",
+    "eventId": "232222",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
+    "eventContent": "銜接用戶管--洋光建設(張藝齡)",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2199981809457",
-    "eventWgsy": "22.97871697689498",
+    "eventWgsx": "120.22650649604135",
+    "eventWgsy": "22.98046426424514",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T08:31:33+08:00",
+    "eventHappenTime": "2026-09-22T16:10:18+08:00",
     "atisUpdateTime": "2026-09-22T16:29:40+08:00"
 }
