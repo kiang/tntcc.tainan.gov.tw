@@ -1,16 +1,16 @@
 {
-    "eventId": "232818",
+    "eventId": "229437",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
-    "eventTownName": "東區",
+    "eventContent": "寶隆建設6戶",
+    "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23560256379845",
-    "eventWgsy": "22.986826537214828",
+    "eventWgsx": "120.1611830990463",
+    "eventWgsy": "22.99274557748536",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T08:29:17+08:00",
+    "eventHappenTime": "2026-09-22T09:01:42+08:00",
     "atisUpdateTime": "2026-09-22T09:14:58+08:00"
 }

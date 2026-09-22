@@ -1,16 +1,16 @@
 {
-    "eventId": "232818",
+    "eventId": "227848",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
-    "eventTownName": "東區",
+    "eventContent": "C250168許淑雲新設",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23560256379845",
-    "eventWgsy": "22.986826537214828",
+    "eventWgsx": "120.20751186126763",
+    "eventWgsy": "23.032689901748192",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T08:29:17+08:00",
+    "eventHappenTime": "2026-09-22T09:01:00+08:00",
     "atisUpdateTime": "2026-09-22T09:14:58+08:00"
 }
