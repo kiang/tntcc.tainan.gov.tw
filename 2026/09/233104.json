@@ -1,16 +1,16 @@
 {
-    "eventId": "233651",
+    "eventId": "233104",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
+    "eventContent": "埋設電信用戶引上管",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2199981809457",
-    "eventWgsy": "22.97871697689498",
+    "eventWgsx": "120.22382409857963",
+    "eventWgsy": "22.978318024670532",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T08:31:33+08:00",
+    "eventHappenTime": "2026-09-22T15:09:57+08:00",
     "atisUpdateTime": "2026-09-22T15:29:08+08:00"
 }

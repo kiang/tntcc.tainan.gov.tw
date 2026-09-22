@@ -1,16 +1,16 @@
 {
-    "eventId": "234899",
+    "eventId": "235185",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要修配管",
+    "eventContent": "銜接用戶管",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26782069735349",
-    "eventWgsy": "23.00434109865903",
+    "eventWgsx": "120.23169711130969",
+    "eventWgsy": "23.00631213214587",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T14:01:20+08:00",
+    "eventHappenTime": "2026-09-22T15:15:16+08:00",
     "atisUpdateTime": "2026-09-22T15:29:08+08:00"
 }
