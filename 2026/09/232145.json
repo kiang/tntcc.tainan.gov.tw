@@ -1,8 +1,8 @@
 {
-    "eventId": "235036",
+    "eventId": "232145",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "(S2D587078)臺南三客網115年度電信零星積點發包工程S2D587079(銅)",
+    "eventContent": "(S2D586081)臺南三客網115年度電信零星積點發包工程S2L550079,S2D586082",
     "eventTownName": "學甲區",
     "eventSource": "PWB",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T09:00:19+08:00",
+    "eventHappenTime": "2026-09-22T14:32:15+08:00",
     "atisUpdateTime": "2026-09-22T14:44:49+08:00"
 }
