@@ -1,0 +1,16 @@
+{
+    "eventId": "234553",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "人手孔提升",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23531236818448",
+    "eventWgsy": "22.98391586505958",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-22T08:30:14+08:00",
+    "atisUpdateTime": "2026-09-22T08:44:51+08:00"
+}
