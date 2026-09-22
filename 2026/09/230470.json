@@ -1,16 +1,16 @@
 {
-    "eventId": "233651",
+    "eventId": "230470",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
-    "eventTownName": "東區",
+    "eventContent": "3260443林淑女新設",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2199981809457",
-    "eventWgsy": "22.97871697689498",
+    "eventWgsx": "120.21385262397602",
+    "eventWgsy": "23.049856699806412",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T08:31:33+08:00",
+    "eventHappenTime": "2026-09-22T13:58:43+08:00",
     "atisUpdateTime": "2026-09-22T13:59:32+08:00"
 }
