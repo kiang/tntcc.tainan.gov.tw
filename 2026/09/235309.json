@@ -1,16 +1,16 @@
 {
-    "eventId": "234552",
+    "eventId": "235309",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
-    "eventTownName": "東區",
+    "eventContent": "銜接用戶自備管",
+    "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22074151256243",
-    "eventWgsy": "22.97813174600007",
+    "eventWgsx": "120.26089535778223",
+    "eventWgsy": "23.023921482442862",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T08:31:13+08:00",
+    "eventHappenTime": "2026-09-22T11:40:45+08:00",
     "atisUpdateTime": "2026-09-22T11:59:51+08:00"
 }
