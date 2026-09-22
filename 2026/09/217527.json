@@ -1,16 +1,16 @@
 {
-    "eventId": "232758",
+    "eventId": "217527",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-臺南市政府交通局(甲管路5260169)",
+    "eventContent": "(營擴305)172線復興路開闢工程(甲管路1240045)-4",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32296903705935",
-    "eventWgsy": "23.31626649649101",
+    "eventWgsx": "120.27633244372544",
+    "eventWgsy": "23.31055214859553",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T08:00:50+08:00",
+    "eventHappenTime": "2026-09-22T09:16:29+08:00",
     "atisUpdateTime": "2026-09-22T09:30:01+08:00"
 }
