@@ -1,16 +1,16 @@
 {
-    "eventId": "230564",
+    "eventId": "235006",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "孔蓋提升及修配管(S2D510097-S2L355058)",
+    "eventContent": "孔蓋提升新工法(S2D510283-S2L555233、S2L555234)",
     "eventTownName": "官田區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2957910668981",
-    "eventWgsy": "23.186108041189364",
+    "eventWgsx": "120.34307057381244",
+    "eventWgsy": "23.187628811791612",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-22T08:22:59+08:00",
+    "eventHappenTime": "2026-09-22T10:17:31+08:00",
     "atisUpdateTime": "2026-09-22T10:29:18+08:00"
 }
