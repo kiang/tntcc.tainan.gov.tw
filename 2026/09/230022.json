@@ -1,16 +1,16 @@
 {
-    "eventId": "235159",
+    "eventId": "230022",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "電纜分隊人孔工作-2",
+    "eventContent": "翰勳建設給水",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20288054657175",
-    "eventWgsy": "23.043042806834258",
+    "eventWgsx": "120.18330947661121",
+    "eventWgsy": "23.023979065297862",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T08:40:42+08:00",
+    "eventHappenTime": "2026-09-23T10:19:15+08:00",
     "atisUpdateTime": "2026-09-23T10:29:56+08:00"
 }
