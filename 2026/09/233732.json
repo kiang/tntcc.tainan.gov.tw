@@ -1,16 +1,16 @@
 {
-    "eventId": "228358",
+    "eventId": "233732",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "C240231設計課零資工程",
+    "eventContent": "6260233台南市政府工務局電表移裝",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16708093043556",
-    "eventWgsy": "22.983417826673733",
+    "eventWgsx": "120.18311252764481",
+    "eventWgsy": "22.997383541159614",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T13:45:48+08:00",
+    "eventHappenTime": "2026-09-23T14:43:41+08:00",
     "atisUpdateTime": "2026-09-23T14:59:26+08:00"
 }
