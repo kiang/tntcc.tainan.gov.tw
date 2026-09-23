@@ -1,16 +1,16 @@
 {
-    "eventId": "20260923103704018",
+    "eventId": "20260923181807019",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "其他",
-    "eventTownName": "歸仁區",
+    "eventTownName": "楠西區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.28473117435267",
-    "eventWgsy": "22.958094874543175",
+    "eventWgsx": "120.49659991097337",
+    "eventWgsy": "23.216399953056214",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T10:37:40+08:00",
+    "eventHappenTime": "2026-09-23T18:18:53+08:00",
     "atisUpdateTime": "2026-09-23T18:29:24+08:00"
 }
