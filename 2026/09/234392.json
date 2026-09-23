@@ -1,16 +1,16 @@
 {
-    "eventId": "235009",
+    "eventId": "234392",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "埋設電信用戶引進管(王李明陽)",
+    "eventContent": "7260749和德昌股份有限公司新設用電",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2258503923452",
-    "eventWgsy": "22.983641408963855",
+    "eventWgsx": "120.23509323879084",
+    "eventWgsy": "22.96808403916914",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T09:02:24+08:00",
+    "eventHappenTime": "2026-09-23T11:27:06+08:00",
     "atisUpdateTime": "2026-09-23T11:29:26+08:00"
 }
