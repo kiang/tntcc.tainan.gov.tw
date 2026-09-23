@@ -1,16 +1,16 @@
 {
-    "eventId": "227848",
+    "eventId": "233207",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "C250168許淑雲新設",
+    "eventContent": "安南區大安街與大安街68巷--路口監控接管工程(編號75)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20751186126763",
-    "eventWgsy": "23.032689901748192",
+    "eventWgsx": "120.1918555047018",
+    "eventWgsy": "23.03130492312824",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T09:00:35+08:00",
+    "eventHappenTime": "2026-09-23T14:37:30+08:00",
     "atisUpdateTime": "2026-09-23T14:44:20+08:00"
 }
