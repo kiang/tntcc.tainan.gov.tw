@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI02880",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "709台灣臺南市安南區怡安路二段115–243號",
+    "eventWgsx": "120.19955809665032",
+    "eventWgsy": "23.04371069997499",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-23T12:20:18+08:00",
+    "atisUpdateTime": "2026-09-23T15:29:38+08:00"
+}
