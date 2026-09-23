@@ -1,16 +1,16 @@
 {
-    "eventId": "229437",
+    "eventId": "233771",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "寶隆建設6戶",
+    "eventContent": "6260230台南市政府工務局電表移裝",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.1611830990463",
-    "eventWgsy": "22.99274557748536",
+    "eventWgsx": "120.18510942507747",
+    "eventWgsy": "22.997241509455417",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T09:03:02+08:00",
+    "eventHappenTime": "2026-09-23T09:22:48+08:00",
     "atisUpdateTime": "2026-09-23T09:29:36+08:00"
 }
