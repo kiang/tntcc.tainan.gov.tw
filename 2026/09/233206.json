@@ -1,16 +1,16 @@
 {
-    "eventId": "235159",
+    "eventId": "233206",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "電纜分隊人孔工作-2",
+    "eventContent": "安南區長和路四段與布袋五街--路口監控接管工程(編號74)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20288054657175",
-    "eventWgsy": "23.043042806834258",
+    "eventWgsx": "120.20803401613807",
+    "eventWgsy": "23.06467929947841",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T08:40:42+08:00",
+    "eventHappenTime": "2026-09-23T09:43:22+08:00",
     "atisUpdateTime": "2026-09-23T09:59:44+08:00"
 }
