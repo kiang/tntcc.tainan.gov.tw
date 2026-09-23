@@ -1,16 +1,16 @@
 {
-    "eventId": "234555",
+    "eventId": "235009",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "埋設電信用戶上管",
+    "eventContent": "埋設電信用戶引進管(王李明陽)",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2368158671833",
-    "eventWgsy": "22.986038340526754",
+    "eventWgsx": "120.2258503923452",
+    "eventWgsy": "22.983641408963855",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T08:34:26+08:00",
+    "eventHappenTime": "2026-09-23T09:02:24+08:00",
     "atisUpdateTime": "2026-09-23T09:14:30+08:00"
 }
