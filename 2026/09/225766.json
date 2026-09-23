@@ -1,16 +1,16 @@
 {
-    "eventId": "221019",
+    "eventId": "225766",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "113年度-台電設計課(乙管路A220111-3)",
+    "eventContent": "114年人、手孔維護工作",
     "eventTownName": "下營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2715068729893",
-    "eventWgsy": "23.24235867560571",
+    "eventWgsx": "120.26116377582456",
+    "eventWgsy": "23.238619629594567",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T08:42:45+08:00",
+    "eventHappenTime": "2026-09-23T13:49:14+08:00",
     "atisUpdateTime": "2026-09-23T13:59:50+08:00"
 }

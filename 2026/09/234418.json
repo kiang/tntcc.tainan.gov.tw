@@ -1,16 +1,16 @@
 {
-    "eventId": "232758",
+    "eventId": "234418",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-臺南市政府交通局(甲管路5260169)",
+    "eventContent": "新營區周武街189號旁_路燈622112旁-新設置箱工程",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32296903705935",
-    "eventWgsy": "23.31626649649101",
+    "eventWgsx": "120.30847089474075",
+    "eventWgsy": "23.313474053511708",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T13:45:27+08:00",
+    "eventHappenTime": "2026-09-23T13:55:20+08:00",
     "atisUpdateTime": "2026-09-23T13:59:50+08:00"
 }
