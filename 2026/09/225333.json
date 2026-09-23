@@ -1,16 +1,16 @@
 {
-    "eventId": "234478",
+    "eventId": "225333",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "纜線障礙查修須修配管",
+    "eventContent": "台南市永康區小東路473-3號手孔提升工程",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26304783841998",
-    "eventWgsy": "23.025543530949236",
+    "eventWgsx": "120.14653714938846",
+    "eventWgsy": "22.994723943831353",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T10:48:21+08:00",
+    "eventHappenTime": "2026-09-23T11:37:30+08:00",
     "atisUpdateTime": "2026-09-23T11:44:32+08:00"
 }
