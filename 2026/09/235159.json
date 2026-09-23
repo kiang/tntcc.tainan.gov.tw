@@ -1,16 +1,16 @@
 {
-    "eventId": "227058",
+    "eventId": "235159",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管--金億開發(王翊丞)",
+    "eventContent": "電纜分隊人孔工作-2",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21859623847892",
-    "eventWgsy": "23.068058522415207",
+    "eventWgsx": "120.20288054657175",
+    "eventWgsy": "23.043042806834258",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T08:12:10+08:00",
+    "eventHappenTime": "2026-09-23T08:40:42+08:00",
     "atisUpdateTime": "2026-09-23T08:59:24+08:00"
 }
