@@ -1,16 +1,16 @@
 {
-    "eventId": "115T00931",
+    "eventId": "115T00933",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "漏水",
     "eventTownName": "中西區",
     "eventSource": "PWB",
-    "eventLocation": "中西區健康路一段368號",
-    "eventWgsx": "120.19952809610878",
-    "eventWgsy": "22.981499743874192",
+    "eventLocation": "中西區健康路一段342號",
+    "eventWgsx": "120.20116209591002",
+    "eventWgsy": "22.981513743859242",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T09:01:55+08:00",
+    "eventHappenTime": "2026-09-23T11:48:51+08:00",
     "atisUpdateTime": "2026-09-23T11:59:38+08:00"
 }
