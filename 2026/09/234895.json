@@ -1,16 +1,16 @@
 {
-    "eventId": "233054",
+    "eventId": "234895",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合永康區污水下水道第二期第一標管線代辦改遷工程(二)-3",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要修配管",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2590950393309",
-    "eventWgsy": "23.01893901543883",
+    "eventWgsx": "120.26799361285684",
+    "eventWgsy": "23.0074915027056",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T08:08:34+08:00",
+    "eventHappenTime": "2026-09-23T09:31:26+08:00",
     "atisUpdateTime": "2026-09-23T09:44:39+08:00"
 }
