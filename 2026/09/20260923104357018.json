@@ -6,11 +6,11 @@
     "eventTownName": "鹽水區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.24844751442188",
-    "eventWgsy": "23.2988266775769",
+    "eventWgsx": "120.26579982745652",
+    "eventWgsy": "23.324199988678867",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T10:44:30+08:00",
-    "atisUpdateTime": "2026-09-23T10:44:30+08:00"
+    "eventHappenTime": "2026-09-23T10:44:35+08:00",
+    "atisUpdateTime": "2026-09-23T10:59:32+08:00"
 }
