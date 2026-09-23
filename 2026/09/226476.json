@@ -1,16 +1,16 @@
 {
-    "eventId": "233206",
+    "eventId": "226476",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "安南區長和路四段與布袋五街--路口監控接管工程(編號74)",
+    "eventContent": "銜接用戶管--忠恕建設(郭仲)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20803401613807",
-    "eventWgsy": "23.06467929947841",
+    "eventWgsx": "120.21082236747938",
+    "eventWgsy": "23.04459939581884",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-23T09:43:22+08:00",
+    "eventHappenTime": "2026-09-23T10:36:16+08:00",
     "atisUpdateTime": "2026-09-23T10:45:02+08:00"
 }
