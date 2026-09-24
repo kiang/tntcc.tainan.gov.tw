@@ -1,16 +1,16 @@
 {
-    "eventId": "232163",
+    "eventId": "232594",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合怡安路二段(長溪路-安中路)道路改善工程--調降人手孔",
+    "eventContent": "銜接用戶管--高俊偉",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19152326870562",
-    "eventWgsy": "23.045373472459573",
+    "eventWgsx": "120.20438926711515",
+    "eventWgsy": "23.026583514985926",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-24T08:21:46+08:00",
+    "eventHappenTime": "2026-09-24T11:22:22+08:00",
     "atisUpdateTime": "2026-09-24T11:29:23+08:00"
 }
