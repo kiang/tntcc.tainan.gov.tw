@@ -1,16 +1,16 @@
 {
-    "eventId": "234580",
+    "eventId": "231524",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "歸仁區大德路及關廟區深坑二街等汰換管線工程",
+    "eventContent": "3260311交通部公路局雲嘉南區養護工程分局新增設",
     "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29550286224875",
-    "eventWgsy": "22.972954431893303",
+    "eventWgsx": "120.30614775860909",
+    "eventWgsy": "22.95386490618699",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-24T08:20:04+08:00",
+    "eventHappenTime": "2026-09-24T10:55:33+08:00",
     "atisUpdateTime": "2026-09-24T11:14:16+08:00"
 }
