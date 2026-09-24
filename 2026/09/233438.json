@@ -1,16 +1,16 @@
 {
-    "eventId": "230022",
+    "eventId": "233438",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "翰勳建設給水",
+    "eventContent": "皕垣物業給水",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18330947661121",
-    "eventWgsy": "23.023979065297862",
+    "eventWgsx": "120.20165790994817",
+    "eventWgsy": "23.026749121713987",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-24T11:43:09+08:00",
+    "eventHappenTime": "2026-09-24T12:30:20+08:00",
     "atisUpdateTime": "2026-09-24T12:44:08+08:00"
 }
