@@ -1,0 +1,16 @@
+{
+    "eventId": "233752",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "衛民街106號前管道埋設工程",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.20921097774827",
+    "eventWgsy": "22.9930896950867",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-24T14:19:24+08:00",
+    "atisUpdateTime": "2026-09-24T14:30:03+08:00"
+}
