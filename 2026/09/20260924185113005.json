@@ -2,7 +2,7 @@
     "eventId": "20260924185113005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "機關、學校(軍公教辦公廳舍、宿舍)",
+    "eventContent": "雜草(含廢棄物、墓地)",
     "eventTownName": "柳營區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-09-24T18:52:09+08:00",
-    "atisUpdateTime": "2026-09-24T18:59:57+08:00"
+    "atisUpdateTime": "2026-09-24T19:14:59+08:00"
 }
