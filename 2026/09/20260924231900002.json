@@ -1,0 +1,16 @@
+{
+    "eventId": "20260924231900002",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "工廠及倉庫(含石化工業設備設施)",
+    "eventTownName": "永康區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.24328618508532",
+    "eventWgsy": "22.992470977977558",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-24T23:19:43+08:00",
+    "atisUpdateTime": "2026-09-24T23:29:27+08:00"
+}
