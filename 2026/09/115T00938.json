@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00938",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市東區中華東路三段158號",
+    "eventWgsx": "120.2268250927626",
+    "eventWgsy": "22.97824474608587",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-24T10:34:42+08:00",
+    "atisUpdateTime": "2026-09-24T10:44:59+08:00"
+}
