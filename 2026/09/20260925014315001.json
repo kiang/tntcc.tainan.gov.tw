@@ -1,0 +1,16 @@
+{
+    "eventId": "20260925014315001",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "永康區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.25480483334793",
+    "eventWgsy": "23.041834080746145",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-25T01:44:10+08:00",
+    "atisUpdateTime": "2026-09-25T01:44:38+08:00"
+}
