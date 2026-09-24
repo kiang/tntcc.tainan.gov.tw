@@ -1,0 +1,16 @@
+{
+    "eventId": "234752",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "和緯路4段文賢路口新設手孔工程",
+    "eventTownName": "北區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.19353271857084",
+    "eventWgsy": "23.00979155190595",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-24T08:54:02+08:00",
+    "atisUpdateTime": "2026-09-24T08:59:20+08:00"
+}
