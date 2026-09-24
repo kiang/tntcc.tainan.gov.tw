@@ -1,16 +1,16 @@
 {
-    "eventId": "227628",
+    "eventId": "234714",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "B250846華立企業股份有限公司高壓電新設",
+    "eventContent": "(S2L554045)臺南三客網115年度電信零星積點發包工程S2L554046銅 S2L554047光",
     "eventTownName": "佳里區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19750574317251",
-    "eventWgsy": "23.167329003925452",
+    "eventWgsx": "120.21922855377707",
+    "eventWgsy": "23.107838524082126",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-24T12:12:52+08:00",
+    "eventHappenTime": "2026-09-24T13:54:08+08:00",
     "atisUpdateTime": "2026-09-24T13:59:48+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "235159",
+    "eventId": "232552",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "電纜分隊人孔工作-2",
+    "eventContent": "銜接用戶管--臺南市政府民政局",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20288054657175",
-    "eventWgsy": "23.043042806834258",
+    "eventWgsx": "120.19835180987357",
+    "eventWgsy": "23.027140520193402",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-24T13:48:40+08:00",
+    "eventHappenTime": "2026-09-24T13:43:00+08:00",
     "atisUpdateTime": "2026-09-24T13:59:48+08:00"
 }
