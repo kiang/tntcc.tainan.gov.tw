@@ -1,16 +1,16 @@
 {
-    "eventId": "233054",
+    "eventId": "232835",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合永康區污水下水道第二期第一標管線代辦改遷工程(二)-3",
+    "eventContent": "6260168郭晉溢線路遷移工程",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2590950393309",
-    "eventWgsy": "23.01893901543883",
+    "eventWgsx": "120.26801888201153",
+    "eventWgsy": "23.036010766086434",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-24T08:21:08+08:00",
+    "eventHappenTime": "2026-09-24T10:45:16+08:00",
     "atisUpdateTime": "2026-09-24T10:59:05+08:00"
 }
