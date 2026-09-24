@@ -1,16 +1,16 @@
 {
-    "eventId": "20260924145759005",
+    "eventId": "20260924152807102",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "安定區",
+    "eventTownName": "柳營區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.24307284453137",
-    "eventWgsy": "23.089780910292472",
+    "eventWgsx": "120.34446509249184",
+    "eventWgsy": "23.270174007211562",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-24T14:59:11+08:00",
+    "eventHappenTime": "2026-09-24T15:29:04+08:00",
     "atisUpdateTime": "2026-09-24T15:29:28+08:00"
 }

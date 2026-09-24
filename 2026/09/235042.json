@@ -1,16 +1,16 @@
 {
-    "eventId": "233771",
+    "eventId": "235042",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "6260230台南市政府工務局電表移裝",
+    "eventContent": "世平二街20號旁管道挖埋工程",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18510942507747",
-    "eventWgsy": "22.997241509455417",
+    "eventWgsx": "120.1507102715499",
+    "eventWgsy": "22.995830475105414",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-24T08:56:30+08:00",
+    "eventHappenTime": "2026-09-24T15:24:40+08:00",
     "atisUpdateTime": "2026-09-24T15:29:37+08:00"
 }

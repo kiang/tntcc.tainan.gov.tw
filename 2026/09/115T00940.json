@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00940",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "其他",
+    "eventTownName": "鼓山區",
+    "eventSource": "PWB",
+    "eventLocation": "804台灣高雄市鼓山區文忠路127之1號",
+    "eventWgsx": "120.29843508170153",
+    "eventWgsy": "22.665037966897895",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-24T15:20:39+08:00",
+    "atisUpdateTime": "2026-09-24T15:29:37+08:00"
+}
