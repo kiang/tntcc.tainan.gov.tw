@@ -1,16 +1,16 @@
 {
-    "eventId": "20260924195111004",
+    "eventId": "20260924211646001",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "安南區",
+    "eventTownName": "白河區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.23086616460412",
-    "eventWgsy": "23.04885684938695",
+    "eventWgsx": "120.41797989246393",
+    "eventWgsy": "23.334842994490415",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-24T19:54:35+08:00",
+    "eventHappenTime": "2026-09-24T21:20:06+08:00",
     "atisUpdateTime": "2026-09-24T21:29:14+08:00"
 }
