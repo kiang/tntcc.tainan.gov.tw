@@ -3,14 +3,14 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "南區",
+    "eventTownName": "安南區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.19087714469741",
-    "eventWgsy": "22.955598816383155",
+    "eventWgsx": "120.12505034069656",
+    "eventWgsy": "23.03693997668646",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-25T11:14:14+08:00",
-    "atisUpdateTime": "2026-09-25T11:14:32+08:00"
+    "eventHappenTime": "2026-09-25T11:15:12+08:00",
+    "atisUpdateTime": "2026-09-25T11:29:32+08:00"
 }
