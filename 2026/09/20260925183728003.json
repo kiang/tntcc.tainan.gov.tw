@@ -1,16 +1,16 @@
 {
-    "eventId": "20260925165013003",
+    "eventId": "20260925183728003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "安南區",
+    "eventTownName": "新化區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.16746715556364",
-    "eventWgsy": "23.079842225668717",
+    "eventWgsx": "120.30702312822413",
+    "eventWgsy": "23.02321373143271",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-25T16:52:41+08:00",
+    "eventHappenTime": "2026-09-25T18:38:05+08:00",
     "atisUpdateTime": "2026-09-25T18:44:19+08:00"
 }
