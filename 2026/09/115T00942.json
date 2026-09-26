@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00942",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "歸仁區",
+    "eventSource": "PWB",
+    "eventLocation": "711台灣臺南市歸仁區中正北路三段149號旁",
+    "eventWgsx": "120.29356008479637",
+    "eventWgsy": "22.99336773520755",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-26T10:37:15+08:00",
+    "atisUpdateTime": "2026-09-26T10:44:08+08:00"
+}
