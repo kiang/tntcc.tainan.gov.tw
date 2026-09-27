@@ -1,16 +1,16 @@
 {
-    "eventId": "20260927163819004",
+    "eventId": "20260927171545019",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "安定區",
+    "eventTownName": "西港區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.2156996478932",
-    "eventWgsy": "23.077811007363135",
+    "eventWgsx": "120.1768972837273",
+    "eventWgsy": "23.130166301173865",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-27T16:41:11+08:00",
+    "eventHappenTime": "2026-09-27T17:16:19+08:00",
     "atisUpdateTime": "2026-09-27T17:29:05+08:00"
 }
