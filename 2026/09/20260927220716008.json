@@ -1,16 +1,16 @@
 {
-    "eventId": "20260927214014008",
+    "eventId": "20260927220716008",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "安平區",
+    "eventTownName": "佳里區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.14808668630535",
-    "eventWgsy": "22.994534343818373",
+    "eventWgsx": "120.16551410066643",
+    "eventWgsy": "23.18247253574001",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-27T21:41:18+08:00",
+    "eventHappenTime": "2026-09-27T22:08:11+08:00",
     "atisUpdateTime": "2026-09-27T22:14:37+08:00"
 }
