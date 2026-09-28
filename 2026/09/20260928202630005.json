@@ -1,16 +1,16 @@
 {
-    "eventId": "20260928200117005",
+    "eventId": "20260928202630005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "永康區",
+    "eventTownName": "南化區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.26197228542273",
-    "eventWgsy": "23.060416935270332",
+    "eventWgsx": "120.49183370793422",
+    "eventWgsy": "23.077480392529615",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-28T20:02:47+08:00",
+    "eventHappenTime": "2026-09-28T20:29:01+08:00",
     "atisUpdateTime": "2026-09-28T20:29:23+08:00"
 }
