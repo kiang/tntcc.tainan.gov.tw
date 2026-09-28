@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00949",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市東區自強里富農街一段191巷16號四樓號",
+    "eventWgsx": "120.23413439191359",
+    "eventWgsy": "22.98280444284546",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-28T14:30:57+08:00",
+    "atisUpdateTime": "2026-09-28T14:44:21+08:00"
+}
