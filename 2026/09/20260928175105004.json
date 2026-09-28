@@ -1,0 +1,16 @@
+{
+    "eventId": "20260928175105004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "臨時屋(含工寮、樣品屋、雞舍等無門牌之建築物)",
+    "eventTownName": "關廟區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.33535172426892",
+    "eventWgsy": "22.941246358708973",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-28T17:52:29+08:00",
+    "atisUpdateTime": "2026-09-28T17:59:08+08:00"
+}
