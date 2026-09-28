@@ -1,5 +1,5 @@
 {
-    "eventId": "20260929012514005",
+    "eventId": "20260929013225005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T01:26:02+08:00",
+    "eventHappenTime": "2026-09-29T01:32:54+08:00",
     "atisUpdateTime": "2026-09-29T01:44:57+08:00"
 }
