@@ -1,0 +1,16 @@
+{
+    "eventId": "232102",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "台南市柳營區果毅後267之8號、264之29號、224之1號人孔更換手孔併調降工程",
+    "eventTownName": "柳營區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.36912416985696",
+    "eventWgsy": "23.255219319361448",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-29T08:16:11+08:00",
+    "atisUpdateTime": "2026-09-29T08:29:14+08:00"
+}
