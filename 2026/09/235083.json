@@ -1,8 +1,8 @@
 {
-    "eventId": "234198",
+    "eventId": "235083",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "(S2L550151)臺南三客網115年度電信零星積點發包工程S2L550143(新工法",
+    "eventContent": "(S2D587093)臺南三客網115年度電信零星積點發包工程S2L550144(新工法",
     "eventTownName": "安定區",
     "eventSource": "PWB",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T14:08:15+08:00",
+    "eventHappenTime": "2026-09-29T15:34:02+08:00",
     "atisUpdateTime": "2026-09-29T15:44:56+08:00"
 }
