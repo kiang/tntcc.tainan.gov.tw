@@ -1,16 +1,16 @@
 {
-    "eventId": "232628",
+    "eventId": "223344",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管--臺億建築(巴克禮三期)",
+    "eventContent": "臺南市仁德區污水下水道系統第二期工程分支管及用戶接管第一標",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2191430651102",
-    "eventWgsy": "22.962081414067544",
+    "eventWgsx": "120.23065676268719",
+    "eventWgsy": "22.961031817446464",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T08:25:09+08:00",
+    "eventHappenTime": "2026-09-29T08:48:04+08:00",
     "atisUpdateTime": "2026-09-29T08:59:21+08:00"
 }

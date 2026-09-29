@@ -1,16 +1,16 @@
 {
-    "eventId": "224505",
+    "eventId": "234965",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南海水淡化廠輸水管線統包工程(第一期)  ",
+    "eventContent": "7260481益達開發公司新增設",
     "eventTownName": "將軍區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.11597169626602",
-    "eventWgsy": "23.19066618474531",
+    "eventWgsx": "120.09453990210622",
+    "eventWgsy": "23.191547084289184",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T08:00:00+08:00",
+    "eventHappenTime": "2026-09-29T08:49:06+08:00",
     "atisUpdateTime": "2026-09-29T08:59:21+08:00"
 }

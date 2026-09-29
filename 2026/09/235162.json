@@ -1,16 +1,16 @@
 {
-    "eventId": "228210",
+    "eventId": "235162",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-設計課(甲管路C250270)",
+    "eventContent": "新營~柳營線路土建統包工程",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2827145691846",
-    "eventWgsy": "23.310450899651848",
+    "eventWgsx": "120.29969931739288",
+    "eventWgsy": "23.300958958018253",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T08:08:33+08:00",
+    "eventHappenTime": "2026-09-29T08:58:57+08:00",
     "atisUpdateTime": "2026-09-29T08:59:21+08:00"
 }
