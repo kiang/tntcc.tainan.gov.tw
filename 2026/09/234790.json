@@ -1,16 +1,16 @@
 {
-    "eventId": "233650",
+    "eventId": "234790",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
+    "eventContent": "台南市政府文化局",
     "eventTownName": "中西區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19806357493292",
-    "eventWgsy": "22.991432331308914",
+    "eventWgsx": "120.20241867036823",
+    "eventWgsy": "22.99786594774371",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T08:21:47+08:00",
+    "eventHappenTime": "2026-09-29T13:07:39+08:00",
     "atisUpdateTime": "2026-09-29T13:14:54+08:00"
 }

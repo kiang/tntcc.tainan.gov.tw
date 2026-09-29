@@ -1,8 +1,8 @@
 {
-    "eventId": "229715",
+    "eventId": "229732",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "(S2D388095)臺南三客網114年度電信零星積點發包工程S2L251062(光纜)",
+    "eventContent": "(S2D588002)臺南三客網114年度電信零星積點發包工程",
     "eventTownName": "麻豆區",
     "eventSource": "PWB",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T11:23:24+08:00",
+    "eventHappenTime": "2026-09-29T13:04:25+08:00",
     "atisUpdateTime": "2026-09-29T13:14:54+08:00"
 }
