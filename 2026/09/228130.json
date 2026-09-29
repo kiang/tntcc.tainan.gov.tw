@@ -1,16 +1,16 @@
 {
-    "eventId": "232628",
+    "eventId": "228130",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管--臺億建築(巴克禮三期)",
+    "eventContent": "銜接用戶管--華璽建築(王錦華)",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2191430651102",
-    "eventWgsy": "22.962081414067544",
+    "eventWgsx": "120.23081624468857",
+    "eventWgsy": "22.973111743287543",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T08:25:09+08:00",
+    "eventHappenTime": "2026-09-29T10:06:06+08:00",
     "atisUpdateTime": "2026-09-29T10:14:45+08:00"
 }
