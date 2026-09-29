@@ -1,16 +1,16 @@
 {
-    "eventId": "234471",
+    "eventId": "235434",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市第一三三期新寮(三)自辦市地重劃工程",
+    "eventContent": "埋設電信引上管(客訴遷移)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.20135076649264",
-    "eventWgsy": "23.05796646380873",
+    "eventWgsx": "120.19453777200852",
+    "eventWgsy": "23.0336523637959",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T10:09:26+08:00",
+    "eventHappenTime": "2026-09-29T13:37:59+08:00",
     "atisUpdateTime": "2026-09-29T13:44:08+08:00"
 }
