@@ -1,16 +1,16 @@
 {
-    "eventId": "233648",
+    "eventId": "214270",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
-    "eventTownName": "中西區",
+    "eventContent": "銜接用戶管--蔡宜君",
+    "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19944845705425",
-    "eventWgsy": "22.995269336128757",
+    "eventWgsx": "120.22754784467135",
+    "eventWgsy": "22.969758056395037",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T08:22:07+08:00",
+    "eventHappenTime": "2026-09-29T09:11:22+08:00",
     "atisUpdateTime": "2026-09-29T09:29:28+08:00"
 }
