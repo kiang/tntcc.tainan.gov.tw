@@ -1,16 +1,16 @@
 {
-    "eventId": "235434",
+    "eventId": "235447",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "埋設電信引上管(客訴遷移)",
+    "eventContent": "埋設電信引上管",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19453777200852",
-    "eventWgsy": "23.0336523637959",
+    "eventWgsx": "120.19466007107523",
+    "eventWgsy": "23.031499869640353",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T13:37:59+08:00",
+    "eventHappenTime": "2026-09-29T15:16:26+08:00",
     "atisUpdateTime": "2026-09-29T15:29:50+08:00"
 }
