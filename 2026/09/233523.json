@@ -1,16 +1,16 @@
 {
-    "eventId": "233957",
+    "eventId": "233523",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "六甲區珊瑚路88號(S2L355329-S2L355331)",
+    "eventContent": "修配管(S2D510227-S2L555085)",
     "eventTownName": "六甲區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.3531223035615",
-    "eventWgsy": "23.224799857587175",
+    "eventWgsx": "120.3519001473482",
+    "eventWgsy": "23.226587350321108",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T09:29:47+08:00",
+    "eventHappenTime": "2026-09-29T15:07:16+08:00",
     "atisUpdateTime": "2026-09-29T15:14:44+08:00"
 }
