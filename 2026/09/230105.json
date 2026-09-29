@@ -1,16 +1,16 @@
 {
-    "eventId": "232628",
+    "eventId": "230105",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管--臺億建築(巴克禮三期)",
+    "eventContent": "5250707臺南市公共運輸處包燈新設",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2191430651102",
-    "eventWgsy": "22.962081414067544",
+    "eventWgsx": "120.21953310025819",
+    "eventWgsy": "22.988404842569267",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-29T08:25:09+08:00",
+    "eventHappenTime": "2026-09-29T09:02:48+08:00",
     "atisUpdateTime": "2026-09-29T09:14:24+08:00"
 }

@@ -1,0 +1,16 @@
+{
+    "eventId": "232103",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "台南市柳營區果毅後90之17、90之7號、136號人孔更換手孔併調降工程",
+    "eventTownName": "柳營區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.37144975698354",
+    "eventWgsy": "23.255895540593563",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-29T09:06:09+08:00",
+    "atisUpdateTime": "2026-09-29T09:14:24+08:00"
+}
