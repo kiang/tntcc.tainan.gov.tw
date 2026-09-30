@@ -1,16 +1,16 @@
 {
-    "eventId": "233506",
+    "eventId": "223307",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "東區區公所給水",
+    "eventContent": "臺南市仁德區污水下水道系統第二期工程分支管及用戶接管第一標",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21758832507287",
-    "eventWgsy": "22.98250703807362",
+    "eventWgsx": "120.2294265896569",
+    "eventWgsy": "22.960949917008328",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-30T08:28:10+08:00",
+    "eventHappenTime": "2026-09-30T08:32:55+08:00",
     "atisUpdateTime": "2026-09-30T08:44:55+08:00"
 }
