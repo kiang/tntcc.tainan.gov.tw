@@ -2,7 +2,7 @@
     "eventId": "20260930162725004",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "臨時屋(含工寮、樣品屋、雞舍等無門牌之建築物)",
+    "eventContent": "工廠及倉庫(含石化工業設備設施)",
     "eventTownName": "永康區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-09-30T16:28:13+08:00",
-    "atisUpdateTime": "2026-09-30T17:29:16+08:00"
+    "atisUpdateTime": "2026-09-30T17:44:18+08:00"
 }
