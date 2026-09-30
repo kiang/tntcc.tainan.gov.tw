@@ -1,16 +1,16 @@
 {
-    "eventId": "235590",
+    "eventId": "235232",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "1",
-    "eventTownName": "安平區",
+    "eventContent": "埋設電信桿引上管",
+    "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18313905161112",
-    "eventWgsy": "22.995829405245317",
+    "eventWgsx": "120.22184659496077",
+    "eventWgsy": "22.915878773711928",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-30T10:42:26+08:00",
+    "eventHappenTime": "2026-09-30T17:11:54+08:00",
     "atisUpdateTime": "2026-09-30T17:29:29+08:00"
 }
