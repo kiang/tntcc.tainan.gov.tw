@@ -1,0 +1,16 @@
+{
+    "eventId": "20260930081111003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "學甲區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.17389979267016",
+    "eventWgsy": "23.225499943077633",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-30T08:12:08+08:00",
+    "atisUpdateTime": "2026-09-30T08:14:16+08:00"
+}
