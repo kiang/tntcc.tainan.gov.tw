@@ -1,0 +1,16 @@
+{
+    "eventId": "GX300025",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "法華街 (五妃街至大同路一段) 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.20875965052693",
+    "eventWgsy": "22.98257876548066",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-01T07:01:15+08:00",
+    "atisUpdateTime": "2026-10-01T07:14:41+08:00"
+}
