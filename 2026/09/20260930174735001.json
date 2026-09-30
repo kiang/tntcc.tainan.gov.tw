@@ -1,16 +1,16 @@
 {
-    "eventId": "20260930162725004",
+    "eventId": "20260930174735001",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "工廠及倉庫(含石化工業設備設施)",
+    "eventContent": "一般(集合)住宅",
     "eventTownName": "永康區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.26151875173986",
-    "eventWgsy": "23.045902505284324",
+    "eventWgsx": "120.28042340583175",
+    "eventWgsy": "23.03287338700741",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-30T16:28:13+08:00",
+    "eventHappenTime": "2026-09-30T17:59:19+08:00",
     "atisUpdateTime": "2026-09-30T17:59:19+08:00"
 }
