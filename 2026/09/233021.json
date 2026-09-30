@@ -1,16 +1,16 @@
 {
-    "eventId": "233941",
+    "eventId": "233021",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "崇明路363號路面改善",
+    "eventContent": "立德十路8號無水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2222665632836",
-    "eventWgsy": "22.975373004958154",
+    "eventWgsx": "120.21413136677991",
+    "eventWgsy": "22.9777454092946",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-30T11:47:36+08:00",
+    "eventHappenTime": "2026-09-30T13:32:50+08:00",
     "atisUpdateTime": "2026-09-30T13:45:03+08:00"
 }
