@@ -1,0 +1,16 @@
+{
+    "eventId": "232619",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "裕德二街11號漏水探挖",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.24866458699383",
+    "eventWgsy": "22.986701992369458",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-30T08:22:55+08:00",
+    "atisUpdateTime": "2026-09-30T08:29:48+08:00"
+}
