@@ -1,16 +1,16 @@
 {
-    "eventId": "234154",
+    "eventId": "234153",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "114年人、手孔維護工作",
     "eventTownName": "麻豆區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25018581010453",
-    "eventWgsy": "23.178649156615865",
+    "eventWgsx": "120.24804094454328",
+    "eventWgsy": "23.17850189434201",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-30T08:09:18+08:00",
+    "eventHappenTime": "2026-09-30T12:27:46+08:00",
     "atisUpdateTime": "2026-09-30T12:44:22+08:00"
 }
