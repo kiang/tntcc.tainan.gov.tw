@@ -1,16 +1,16 @@
 {
-    "eventId": "223307",
+    "eventId": "232618",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期工程分支管及用戶接管第一標",
+    "eventContent": "裕敬五街92號漏水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2294265896569",
-    "eventWgsy": "22.960949917008328",
+    "eventWgsx": "120.24867079345958",
+    "eventWgsy": "22.986699632550046",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-30T08:32:55+08:00",
+    "eventHappenTime": "2026-09-30T08:46:50+08:00",
     "atisUpdateTime": "2026-09-30T09:00:01+08:00"
 }
