@@ -1,16 +1,16 @@
 {
-    "eventId": "235141",
+    "eventId": "234040",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要提升人手孔",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26114384286554",
-    "eventWgsy": "23.01621875024957",
+    "eventWgsx": "120.22676985968933",
+    "eventWgsy": "23.016465379056655",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-30T10:49:53+08:00",
+    "eventHappenTime": "2026-09-30T14:40:23+08:00",
     "atisUpdateTime": "2026-09-30T15:14:48+08:00"
 }

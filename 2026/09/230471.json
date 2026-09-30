@@ -1,16 +1,16 @@
 {
-    "eventId": "235590",
+    "eventId": "230471",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "1",
-    "eventTownName": "安平區",
+    "eventContent": "3260436王寶惠新設",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18313905161112",
-    "eventWgsy": "22.995829405245317",
+    "eventWgsx": "120.18351408995566",
+    "eventWgsy": "23.025084295222392",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-30T10:42:26+08:00",
+    "eventHappenTime": "2026-09-30T15:04:07+08:00",
     "atisUpdateTime": "2026-09-30T15:14:48+08:00"
 }
