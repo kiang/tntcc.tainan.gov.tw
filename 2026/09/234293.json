@@ -1,16 +1,16 @@
 {
-    "eventId": "234579",
+    "eventId": "234293",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "永康區大仁街等汰換管線工程-1(大灣路37巷6弄、41巷)",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要提升人手孔",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.27141872191554",
-    "eventWgsy": "23.01174330757207",
+    "eventWgsx": "120.22436729309241",
+    "eventWgsy": "23.016949853299156",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-30T08:08:03+08:00",
+    "eventHappenTime": "2026-09-30T15:27:31+08:00",
     "atisUpdateTime": "2026-09-30T15:44:05+08:00"
 }
