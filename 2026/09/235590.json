@@ -1,0 +1,16 @@
+{
+    "eventId": "235590",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "1",
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.18313905161112",
+    "eventWgsy": "22.995829405245317",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-30T10:42:26+08:00",
+    "atisUpdateTime": "2026-09-30T11:44:33+08:00"
+}

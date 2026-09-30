@@ -1,0 +1,16 @@
+{
+    "eventId": "233555",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "崇明路361號漏水搶修",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22224005509108",
+    "eventWgsy": "22.97539360144686",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-30T11:14:23+08:00",
+    "atisUpdateTime": "2026-09-30T11:44:33+08:00"
+}

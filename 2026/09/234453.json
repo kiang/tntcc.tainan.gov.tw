@@ -1,0 +1,16 @@
+{
+    "eventId": "234453",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "中華東路三段357巷21號漏水搶修",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22295759022349",
+    "eventWgsy": "22.973592070616682",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-30T10:45:31+08:00",
+    "atisUpdateTime": "2026-09-30T11:44:33+08:00"
+}

@@ -1,0 +1,16 @@
+{
+    "eventId": "234036",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "配合警察局路口監控箱需提升手孔",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23155694480504",
+    "eventWgsy": "23.02138471301147",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-09-30T11:00:45+08:00",
+    "atisUpdateTime": "2026-09-30T11:44:33+08:00"
+}
