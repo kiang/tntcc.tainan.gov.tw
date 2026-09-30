@@ -1,16 +1,16 @@
 {
-    "eventId": "233941",
+    "eventId": "233398",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "崇明路363號路面改善",
+    "eventContent": "崇德三街67巷4號漏水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2222665632836",
-    "eventWgsy": "22.975373004958154",
+    "eventWgsx": "120.22236005957735",
+    "eventWgsy": "22.98025747028715",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-30T11:47:36+08:00",
+    "eventHappenTime": "2026-09-30T12:55:13+08:00",
     "atisUpdateTime": "2026-09-30T12:59:33+08:00"
 }
