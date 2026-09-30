@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000151",
+    "eventId": "GX000148-1",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "文華路(文南街-中山路) 發生壅塞",
+    "eventContent": "中山路(中山路606巷-奧迪公司前) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24312299309472",
-    "eventWgsy": "22.96990604659282",
+    "eventWgsx": "120.25136713933371",
+    "eventWgsy": "22.971680489588312",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T07:10:15+08:00",
+    "eventHappenTime": "2026-10-01T07:16:15+08:00",
     "atisUpdateTime": "2026-10-01T07:29:54+08:00"
 }
