@@ -1,16 +1,16 @@
 {
-    "eventId": "232618",
+    "eventId": "232764",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "裕敬五街92號漏水搶修",
+    "eventContent": "崇德三十二街54號漏水搶修",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24867079345958",
-    "eventWgsy": "22.986699632550046",
+    "eventWgsx": "120.22899451366507",
+    "eventWgsy": "22.960217321832292",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-09-30T08:46:50+08:00",
+    "eventHappenTime": "2026-09-30T09:55:07+08:00",
     "atisUpdateTime": "2026-09-30T09:59:40+08:00"
 }
