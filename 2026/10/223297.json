@@ -1,16 +1,16 @@
 {
-    "eventId": "234183",
+    "eventId": "223297",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要修配管",
+    "eventContent": "臺南市仁德區污水下水道系統第二期分支管網及用戶接管工程第10標",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26076380114343",
-    "eventWgsy": "22.992948596903222",
+    "eventWgsx": "120.22876465368971",
+    "eventWgsy": "22.957516258838304",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T09:35:37+08:00",
+    "eventHappenTime": "2026-10-01T09:54:50+08:00",
     "atisUpdateTime": "2026-10-01T09:59:47+08:00"
 }
