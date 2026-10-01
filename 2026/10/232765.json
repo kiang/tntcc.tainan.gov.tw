@@ -1,16 +1,16 @@
 {
-    "eventId": "230471",
+    "eventId": "232765",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "3260436王寶惠新設",
-    "eventTownName": "安南區",
+    "eventContent": "喜樹路69號漏水搶修",
+    "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18351408995566",
-    "eventWgsy": "23.025084295222392",
+    "eventWgsx": "120.17999966014168",
+    "eventWgsy": "22.945621897396176",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T08:37:57+08:00",
+    "eventHappenTime": "2026-10-01T08:43:26+08:00",
     "atisUpdateTime": "2026-10-01T08:59:18+08:00"
 }
