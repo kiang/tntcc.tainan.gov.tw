@@ -1,16 +1,16 @@
 {
-    "eventId": "234402",
+    "eventId": "234053",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "金華路一段116巷17號漏水搶修",
+    "eventContent": "?埕路272號漏水搶修",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19024927336045",
-    "eventWgsy": "22.96416368878088",
+    "eventWgsx": "120.18981816438689",
+    "eventWgsy": "22.970253397378077",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T09:27:39+08:00",
+    "eventHappenTime": "2026-10-01T10:18:07+08:00",
     "atisUpdateTime": "2026-10-01T10:29:07+08:00"
 }
