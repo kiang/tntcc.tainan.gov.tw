@@ -1,0 +1,16 @@
+{
+    "eventId": "234432",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "銜接用戶管--容景投資(童佳容)",
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.17413040779054",
+    "eventWgsy": "22.98519144733288",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-01T09:09:32+08:00",
+    "atisUpdateTime": "2026-10-01T09:29:29+08:00"
+}

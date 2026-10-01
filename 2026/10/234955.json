@@ -1,0 +1,16 @@
+{
+    "eventId": "234955",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "7260538臺南市政府工務局(配合工務局中華東路中央分隔島改善工程配合遷移)",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23393170342602",
+    "eventWgsy": "22.990593973094317",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-01T09:23:28+08:00",
+    "atisUpdateTime": "2026-10-01T09:29:29+08:00"
+}
