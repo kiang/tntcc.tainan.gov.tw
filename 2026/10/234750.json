@@ -1,0 +1,16 @@
+{
+    "eventId": "234750",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "安中路2段138巷66號手孔提升工程",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.18807165734889",
+    "eventWgsy": "23.047420622839113",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-01T08:27:48+08:00",
+    "atisUpdateTime": "2026-10-01T08:44:15+08:00"
+}

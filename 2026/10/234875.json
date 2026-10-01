@@ -1,0 +1,16 @@
+{
+    "eventId": "234875",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "手孔提升新工法(S2D521754)",
+    "eventTownName": "新營區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.30852611975651",
+    "eventWgsy": "23.311478633173287",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-01T08:29:26+08:00",
+    "atisUpdateTime": "2026-10-01T08:44:15+08:00"
+}
