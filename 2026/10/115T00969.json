@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00969",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "中西區府前一街57號",
+    "eventWgsx": "120.18827009758975",
+    "eventWgsy": "22.993907735153563",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-01T09:32:13+08:00",
+    "atisUpdateTime": "2026-10-01T09:44:38+08:00"
+}
