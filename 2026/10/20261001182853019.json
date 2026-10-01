@@ -6,11 +6,11 @@
     "eventTownName": "安定區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.22802652116181",
-    "eventWgsy": "23.084886196271192",
+    "eventWgsx": "120.2262811533459",
+    "eventWgsy": "23.086008481448268",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T18:29:22+08:00",
-    "atisUpdateTime": "2026-10-01T18:29:28+08:00"
+    "eventHappenTime": "2026-10-01T18:30:00+08:00",
+    "atisUpdateTime": "2026-10-01T18:44:31+08:00"
 }
