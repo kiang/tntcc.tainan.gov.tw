@@ -1,16 +1,16 @@
 {
-    "eventId": "234183",
+    "eventId": "234521",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要修配管",
+    "eventContent": "埋設電信引上管",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26076380114343",
-    "eventWgsy": "22.992948596903222",
+    "eventWgsx": "120.24064570627851",
+    "eventWgsy": "22.92352899580654",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T09:35:37+08:00",
+    "eventHappenTime": "2026-10-01T13:23:18+08:00",
     "atisUpdateTime": "2026-10-01T13:29:30+08:00"
 }
