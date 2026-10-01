@@ -1,16 +1,16 @@
 {
-    "eventId": "234053",
+    "eventId": "233558",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "?埕路272號漏水搶修",
+    "eventContent": "中華西路一段與健康路二段路口漏水探挖",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18981816438689",
-    "eventWgsy": "22.970253397378077",
+    "eventWgsx": "120.18601934629201",
+    "eventWgsy": "22.98206892937791",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T10:18:07+08:00",
+    "eventHappenTime": "2026-10-01T11:46:17+08:00",
     "atisUpdateTime": "2026-10-01T11:59:40+08:00"
 }
