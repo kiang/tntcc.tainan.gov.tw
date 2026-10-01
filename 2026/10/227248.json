@@ -1,16 +1,16 @@
 {
-    "eventId": "235726",
+    "eventId": "227248",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "緊急工程",
+    "eventContent": "B250564全輝建設有限公司新設用電",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17087378686632",
-    "eventWgsy": "23.048754405663022",
+    "eventWgsx": "120.18309584101247",
+    "eventWgsy": "23.02503993162182",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T09:21:27+08:00",
+    "eventHappenTime": "2026-10-01T11:22:00+08:00",
     "atisUpdateTime": "2026-10-01T11:29:23+08:00"
 }

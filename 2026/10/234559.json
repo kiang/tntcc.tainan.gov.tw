@@ -1,16 +1,16 @@
 {
-    "eventId": "229560",
+    "eventId": "234559",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "2260319光捷股份有限公司新設用電(電池交換站)",
+    "eventContent": "大成路二段56巷39號漏水搶修",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24812234851659",
-    "eventWgsy": "22.9765739238311",
+    "eventWgsx": "120.19610815042638",
+    "eventWgsy": "22.976424377136027",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T09:00:44+08:00",
+    "eventHappenTime": "2026-10-01T10:36:59+08:00",
     "atisUpdateTime": "2026-10-01T11:29:23+08:00"
 }
