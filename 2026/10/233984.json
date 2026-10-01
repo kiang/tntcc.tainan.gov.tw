@@ -1,16 +1,16 @@
 {
-    "eventId": "234462",
+    "eventId": "233984",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "7260400張淵揚遷移工程",
+    "eventContent": "新化大德路大新路與善化民族路民權路等汰換管線工程",
     "eventTownName": "新化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.31481824237777",
-    "eventWgsy": "23.02141482489922",
+    "eventWgsx": "120.29532303262297",
+    "eventWgsy": "23.041594138138144",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T07:44:22+08:00",
+    "eventHappenTime": "2026-10-01T14:25:56+08:00",
     "atisUpdateTime": "2026-10-01T14:44:25+08:00"
 }
