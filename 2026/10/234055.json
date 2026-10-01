@@ -1,0 +1,16 @@
+{
+    "eventId": "234055",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "7260133余進成線路遷移工程",
+    "eventTownName": "山上區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.34517431869064",
+    "eventWgsy": "23.08998809616113",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-01T07:43:50+08:00",
+    "atisUpdateTime": "2026-10-01T08:00:02+08:00"
+}

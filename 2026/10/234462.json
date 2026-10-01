@@ -1,0 +1,16 @@
+{
+    "eventId": "234462",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "7260400張淵揚遷移工程",
+    "eventTownName": "新化區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.31481824237777",
+    "eventWgsy": "23.02141482489922",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-01T07:44:22+08:00",
+    "atisUpdateTime": "2026-10-01T08:00:02+08:00"
+}
