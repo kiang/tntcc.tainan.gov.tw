@@ -1,16 +1,16 @@
 {
-    "eventId": "233797",
+    "eventId": "234383",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
-    "eventTownName": "安南區",
+    "eventContent": "德興路146號無水搶修",
+    "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16839528496044",
-    "eventWgsy": "23.05032919218483",
+    "eventWgsx": "120.1924722415587",
+    "eventWgsy": "22.962933770742545",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T08:24:36+08:00",
+    "eventHappenTime": "2026-10-01T09:02:00+08:00",
     "atisUpdateTime": "2026-10-01T09:14:24+08:00"
 }

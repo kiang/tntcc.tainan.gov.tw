@@ -1,16 +1,16 @@
 {
-    "eventId": "232765",
+    "eventId": "229560",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "喜樹路69號漏水搶修",
+    "eventContent": "2260319光捷股份有限公司新設用電(電池交換站)",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17999966014168",
-    "eventWgsy": "22.945621897396176",
+    "eventWgsx": "120.24812234851659",
+    "eventWgsy": "22.9765739238311",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T08:43:26+08:00",
+    "eventHappenTime": "2026-10-01T09:00:44+08:00",
     "atisUpdateTime": "2026-10-01T09:14:24+08:00"
 }
