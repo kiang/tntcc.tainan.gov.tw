@@ -1,16 +1,16 @@
 {
-    "eventId": "235333",
+    "eventId": "232528",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
+    "eventContent": "陳柏翰給水",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18150788903611",
-    "eventWgsy": "23.038722570131174",
+    "eventWgsx": "120.21235423220791",
+    "eventWgsy": "23.05511913749455",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T08:26:20+08:00",
+    "eventHappenTime": "2026-10-01T16:01:08+08:00",
     "atisUpdateTime": "2026-10-01T16:14:29+08:00"
 }
