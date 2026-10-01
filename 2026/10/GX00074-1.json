@@ -1,16 +1,16 @@
 {
-    "eventId": "GX000147-1",
+    "eventId": "GX00074-1",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "中山路(奧迪前-文華路) 發生壅塞",
+    "eventContent": "東寧路 中華東路至前鋒路(西向) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.24713472955406",
-    "eventWgsy": "22.972938201403256",
+    "eventWgsx": "120.23293566480777",
+    "eventWgsy": "22.988525709865495",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T17:36:15+08:00",
+    "eventHappenTime": "2026-10-01T17:31:15+08:00",
     "atisUpdateTime": "2026-10-01T17:44:58+08:00"
 }
