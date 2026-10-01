@@ -1,8 +1,8 @@
 {
     "eventId": "TVPark_08",
     "eventType": "JAM",
-    "eventSubType": "Jam",
-    "eventContent": "樹谷聯絡道 發生壅塞",
+    "eventSubType": "HeavyJam",
+    "eventContent": "樹谷聯絡道 發生重度壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T17:01:15+08:00",
-    "atisUpdateTime": "2026-10-01T19:29:35+08:00"
+    "eventHappenTime": "2026-10-02T07:11:15+08:00",
+    "atisUpdateTime": "2026-10-02T07:14:50+08:00"
 }
