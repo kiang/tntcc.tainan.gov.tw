@@ -1,16 +1,16 @@
 {
-    "eventId": "233018",
+    "eventId": "233830",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "金華路二段289巷5弄13號漏水搶修",
+    "eventContent": "尊南街258號漏水搶修",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19116811422909",
-    "eventWgsy": "22.98399441891717",
+    "eventWgsx": "120.18909353999203",
+    "eventWgsy": "22.980319496535834",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T14:52:35+08:00",
+    "eventHappenTime": "2026-10-01T15:01:56+08:00",
     "atisUpdateTime": "2026-10-01T15:14:44+08:00"
 }
