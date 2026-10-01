@@ -1,16 +1,16 @@
 {
-    "eventId": "234579",
+    "eventId": "223198",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "永康區大仁街等汰換管線工程-1(大灣路37巷6弄、41巷)",
+    "eventContent": "臺南市永康區污水下水道系統第二期(PA分區)管線及用戶接管工程第一標",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.27141872191554",
-    "eventWgsy": "23.01174330757207",
+    "eventWgsx": "120.26009847630338",
+    "eventWgsy": "23.01647209196191",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T10:04:02+08:00",
+    "eventHappenTime": "2026-10-01T17:22:32+08:00",
     "atisUpdateTime": "2026-10-01T17:29:26+08:00"
 }

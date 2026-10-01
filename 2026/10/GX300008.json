@@ -1,16 +1,16 @@
 {
-    "eventId": "GX300023",
+    "eventId": "GX300008",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "府連路 (慶東街至大同路) 發生壅塞",
+    "eventContent": "裕農路 (裕信路至裕永路) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.21530227360748",
-    "eventWgsy": "22.985162641720585",
+    "eventWgsx": "120.24481659314407",
+    "eventWgsy": "22.990088292220545",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-01T11:31:15+08:00",
+    "eventHappenTime": "2026-10-01T17:26:15+08:00",
     "atisUpdateTime": "2026-10-01T17:29:48+08:00"
 }
