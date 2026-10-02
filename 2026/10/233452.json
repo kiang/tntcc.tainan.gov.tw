@@ -1,16 +1,16 @@
 {
-    "eventId": "230471",
+    "eventId": "233452",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "3260436王寶惠新設",
-    "eventTownName": "安南區",
+    "eventContent": "漏水搶修",
+    "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18351408995566",
-    "eventWgsy": "23.025084295222392",
+    "eventWgsx": "120.19149931062597",
+    "eventWgsy": "23.012794963389933",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T10:20:01+08:00",
+    "eventHappenTime": "2026-10-02T14:05:47+08:00",
     "atisUpdateTime": "2026-10-02T14:29:57+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "230471",
+    "eventId": "235447",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "3260436王寶惠新設",
+    "eventContent": "埋設電信引上管",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18351408995566",
-    "eventWgsy": "23.025084295222392",
+    "eventWgsx": "120.19466007107523",
+    "eventWgsy": "23.031499869640353",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T10:20:01+08:00",
+    "eventHappenTime": "2026-10-02T14:13:03+08:00",
     "atisUpdateTime": "2026-10-02T14:29:57+08:00"
 }
