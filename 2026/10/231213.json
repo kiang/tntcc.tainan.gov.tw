@@ -1,16 +1,16 @@
 {
-    "eventId": "231210",
+    "eventId": "231213",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所用戶新裝-阮秋雯",
+    "eventContent": "115年新市所用戶新裝-楊淑芬",
     "eventTownName": "大內區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.35538448578772",
-    "eventWgsy": "23.120426120863346",
+    "eventWgsx": "120.3674656738089",
+    "eventWgsy": "23.106981319385515",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T09:16:47+08:00",
+    "eventHappenTime": "2026-10-02T09:48:56+08:00",
     "atisUpdateTime": "2026-10-02T09:59:50+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "229560",
+    "eventId": "234212",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "2260319光捷股份有限公司新設用電(電池交換站)",
+    "eventContent": "中華西路一段與健康路二段口漏水搶修",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24812234851659",
-    "eventWgsy": "22.9765739238311",
+    "eventWgsx": "120.18602819093307",
+    "eventWgsy": "22.982186285697228",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T09:04:24+08:00",
+    "eventHappenTime": "2026-10-02T09:49:47+08:00",
     "atisUpdateTime": "2026-10-02T09:59:50+08:00"
 }
