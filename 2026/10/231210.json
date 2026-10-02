@@ -1,16 +1,16 @@
 {
-    "eventId": "228626",
+    "eventId": "231210",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年新市所用戶新裝-祭祀公業楊利源",
+    "eventContent": "115年新市所用戶新裝-阮秋雯",
     "eventTownName": "大內區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.36642499148795",
-    "eventWgsy": "23.116095763185136",
+    "eventWgsx": "120.35538448578772",
+    "eventWgsy": "23.120426120863346",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T08:44:14+08:00",
+    "eventHappenTime": "2026-10-02T09:16:47+08:00",
     "atisUpdateTime": "2026-10-02T09:29:31+08:00"
 }
