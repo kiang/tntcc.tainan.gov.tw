@@ -1,0 +1,16 @@
+{
+    "eventId": "233989",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "6260380臺南市政府工務局(中華東路凱旋路至中華陸橋人行道改善工程配合遷移)",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23341586465529",
+    "eventWgsy": "22.986008968693998",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-02T10:03:18+08:00",
+    "atisUpdateTime": "2026-10-02T10:15:01+08:00"
+}
