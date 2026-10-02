@@ -1,16 +1,16 @@
 {
-    "eventId": "232557",
+    "eventId": "235246",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "中華東路2段189號管道埋設工程",
+    "eventContent": "8260503設計課零資工程(手孔提升)",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23282493049962",
-    "eventWgsy": "22.984628645203802",
+    "eventWgsx": "120.23326280687614",
+    "eventWgsy": "22.985698375280727",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T08:43:15+08:00",
+    "eventHappenTime": "2026-10-02T09:06:41+08:00",
     "atisUpdateTime": "2026-10-02T09:14:22+08:00"
 }

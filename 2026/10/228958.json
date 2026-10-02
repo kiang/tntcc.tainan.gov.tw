@@ -1,16 +1,16 @@
 {
-    "eventId": "233383",
+    "eventId": "228958",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "路面漏水搶修工程",
+    "eventContent": "1260414星舟快充股份有限公司新設",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.15939251055849",
-    "eventWgsy": "22.993147095711674",
+    "eventWgsx": "120.16286963766849",
+    "eventWgsy": "22.998861077284847",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T08:39:26+08:00",
+    "eventHappenTime": "2026-10-02T08:55:01+08:00",
     "atisUpdateTime": "2026-10-02T09:14:22+08:00"
 }
