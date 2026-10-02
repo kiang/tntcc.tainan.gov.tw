@@ -1,16 +1,16 @@
 {
-    "eventId": "TVPark_04",
+    "eventId": "GX00090-1",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "南134 (看西農場至樹谷大道) 發生壅塞",
+    "eventContent": "北外環 長和路至南科聯絡道(西向) 發生壅塞",
     "eventTownName": null,
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.25880754897779",
-    "eventWgsy": "23.08914205813342",
+    "eventWgsx": "120.27220717157829",
+    "eventWgsy": "23.061251062547377",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T17:21:15+08:00",
+    "eventHappenTime": "2026-10-02T18:16:15+08:00",
     "atisUpdateTime": "2026-10-02T18:29:52+08:00"
 }
