@@ -1,16 +1,16 @@
 {
-    "eventId": "235246",
+    "eventId": "235212",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "8260503設計課零資工程(手孔提升)",
+    "eventContent": "8260504設計課零資工程(手孔提升)",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23326280687614",
-    "eventWgsy": "22.985698375280727",
+    "eventWgsx": "120.22473801346123",
+    "eventWgsy": "23.001268117074577",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T09:06:41+08:00",
+    "eventHappenTime": "2026-10-02T15:09:57+08:00",
     "atisUpdateTime": "2026-10-02T15:29:26+08:00"
 }

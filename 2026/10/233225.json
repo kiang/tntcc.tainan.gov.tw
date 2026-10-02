@@ -1,16 +1,16 @@
 {
-    "eventId": "235696",
+    "eventId": "233225",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "銜接用戶管",
-    "eventTownName": "永康區",
+    "eventContent": "路面漏水搶修工程",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24315188532148",
-    "eventWgsy": "23.039243952052015",
+    "eventWgsx": "120.20003568852741",
+    "eventWgsy": "23.02518592737662",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T15:02:24+08:00",
+    "eventHappenTime": "2026-10-02T15:14:10+08:00",
     "atisUpdateTime": "2026-10-02T15:29:26+08:00"
 }
