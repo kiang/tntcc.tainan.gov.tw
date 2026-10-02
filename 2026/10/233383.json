@@ -1,16 +1,16 @@
 {
-    "eventId": "234275",
+    "eventId": "233383",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "周怡伶給水",
-    "eventTownName": "南區",
+    "eventContent": "路面漏水搶修工程",
+    "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.1766102201635",
-    "eventWgsy": "22.938406095805647",
+    "eventWgsx": "120.15939251055849",
+    "eventWgsy": "22.993147095711674",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T08:21:13+08:00",
+    "eventHappenTime": "2026-10-02T08:39:26+08:00",
     "atisUpdateTime": "2026-10-02T08:59:08+08:00"
 }

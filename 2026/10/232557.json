@@ -1,0 +1,16 @@
+{
+    "eventId": "232557",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "中華東路2段189號管道埋設工程",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23282493049962",
+    "eventWgsy": "22.984628645203802",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-02T08:43:15+08:00",
+    "atisUpdateTime": "2026-10-02T08:59:08+08:00"
+}
