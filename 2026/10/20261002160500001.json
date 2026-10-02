@@ -1,16 +1,16 @@
 {
-    "eventId": "20261002153454005",
+    "eventId": "20261002160500001",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "永康區",
+    "eventTownName": "白河區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.22561925784036",
-    "eventWgsy": "23.033468164997718",
+    "eventWgsx": "120.41934455221873",
+    "eventWgsy": "23.355257115697807",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T15:36:04+08:00",
+    "eventHappenTime": "2026-10-02T16:05:19+08:00",
     "atisUpdateTime": "2026-10-02T16:14:13+08:00"
 }
