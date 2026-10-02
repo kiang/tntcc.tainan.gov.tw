@@ -1,16 +1,16 @@
 {
-    "eventId": "226348",
+    "eventId": "235434",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "國精化學台19線本管工程",
+    "eventContent": "埋設電信引上管(客訴遷移)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21476002983029",
-    "eventWgsy": "23.07213725650723",
+    "eventWgsx": "120.19453777200852",
+    "eventWgsy": "23.0336523637959",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T10:01:52+08:00",
+    "eventHappenTime": "2026-10-02T14:47:05+08:00",
     "atisUpdateTime": "2026-10-02T14:59:40+08:00"
 }
