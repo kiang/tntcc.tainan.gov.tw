@@ -1,16 +1,16 @@
 {
-    "eventId": "229560",
+    "eventId": "228204",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "2260319光捷股份有限公司新設用電(電池交換站)",
+    "eventContent": "C250646李裕乾表燈新設",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24812234851659",
-    "eventWgsy": "22.9765739238311",
+    "eventWgsx": "120.18861751776986",
+    "eventWgsy": "22.981096987865737",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T09:04:24+08:00",
+    "eventHappenTime": "2026-10-02T10:19:09+08:00",
     "atisUpdateTime": "2026-10-02T10:29:13+08:00"
 }
