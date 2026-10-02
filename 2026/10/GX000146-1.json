@@ -1,16 +1,16 @@
 {
-    "eventId": "GX00073-1",
+    "eventId": "GX000146-1",
     "eventType": "JAM",
     "eventSubType": "Jam",
-    "eventContent": "小東路 裕永路至北門路(西向) 發生壅塞",
+    "eventContent": "東門路(文華路-自由路) 發生壅塞",
     "eventTownName": "永康區",
     "eventSource": "TTIME",
     "eventLocation": "",
-    "eventWgsx": "120.239816588194",
-    "eventWgsy": "22.99854161427409",
+    "eventWgsx": "120.24298925332229",
+    "eventWgsy": "22.974158925719905",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T07:31:15+08:00",
+    "eventHappenTime": "2026-10-02T19:06:15+08:00",
     "atisUpdateTime": "2026-10-02T19:14:55+08:00"
 }
