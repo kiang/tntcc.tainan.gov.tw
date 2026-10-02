@@ -1,16 +1,16 @@
 {
-    "eventId": "234357",
+    "eventId": "234419",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所用戶新裝-許名瑋",
+    "eventContent": "7260140瑞鋒營造股份有限公司新增設",
     "eventTownName": "善化區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.30388632189108",
-    "eventWgsy": "23.123124261579324",
+    "eventWgsx": "120.27430435236788",
+    "eventWgsy": "23.130020089841686",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T10:53:21+08:00",
+    "eventHappenTime": "2026-10-02T11:06:58+08:00",
     "atisUpdateTime": "2026-10-02T11:14:41+08:00"
 }

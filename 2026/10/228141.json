@@ -1,16 +1,16 @@
 {
-    "eventId": "231214",
+    "eventId": "228141",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所用戶新裝-蔡田芳青",
+    "eventContent": "114年新市所用戶新裝-黃國明",
     "eventTownName": "山上區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.35458122442583",
-    "eventWgsy": "23.100162578851112",
+    "eventWgsx": "120.3563794968669",
+    "eventWgsy": "23.09938944509989",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T10:39:59+08:00",
+    "eventHappenTime": "2026-10-02T11:03:01+08:00",
     "atisUpdateTime": "2026-10-02T11:14:41+08:00"
 }
