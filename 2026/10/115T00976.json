@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00976",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "702台灣臺南市南區明亮里金華路一段420巷29號",
+    "eventWgsx": "120.1918706969496",
+    "eventWgsy": "22.971136451211038",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-02T10:51:05+08:00",
+    "atisUpdateTime": "2026-10-02T10:59:34+08:00"
+}

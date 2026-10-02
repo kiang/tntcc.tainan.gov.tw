@@ -1,16 +1,16 @@
 {
-    "eventId": "234483",
+    "eventId": "231214",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "山上區山上衛生所及山上國中前汰換管線工程(二)",
+    "eventContent": "115年新市所用戶新裝-蔡田芳青",
     "eventTownName": "山上區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.35723484630931",
-    "eventWgsy": "23.103046845625627",
+    "eventWgsx": "120.35458122442583",
+    "eventWgsy": "23.100162578851112",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T08:57:56+08:00",
+    "eventHappenTime": "2026-10-02T10:39:59+08:00",
     "atisUpdateTime": "2026-10-02T10:59:34+08:00"
 }
