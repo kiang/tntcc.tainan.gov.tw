@@ -1,16 +1,16 @@
 {
-    "eventId": "229880",
+    "eventId": "234999",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-范滋庭(甲管路2260158)",
+    "eventContent": "孔蓋提升新工法(S2D510280-S2L356701)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.31898850432688",
-    "eventWgsy": "23.311075613520572",
+    "eventWgsx": "120.30702340364374",
+    "eventWgsy": "23.307051796130267",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T08:15:19+08:00",
+    "eventHappenTime": "2026-10-02T11:21:48+08:00",
     "atisUpdateTime": "2026-10-02T11:29:53+08:00"
 }

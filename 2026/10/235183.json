@@ -1,16 +1,16 @@
 {
-    "eventId": "235726",
+    "eventId": "235183",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "緊急工程",
-    "eventTownName": "安南區",
+    "eventContent": "銜接用戶管 ",
+    "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17087378686632",
-    "eventWgsy": "23.048754405663022",
+    "eventWgsx": "120.26023749302821",
+    "eventWgsy": "23.016336834545413",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T09:14:38+08:00",
+    "eventHappenTime": "2026-10-02T11:13:10+08:00",
     "atisUpdateTime": "2026-10-02T11:29:53+08:00"
 }
