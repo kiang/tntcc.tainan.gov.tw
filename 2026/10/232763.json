@@ -1,16 +1,16 @@
 {
-    "eventId": "235246",
+    "eventId": "232763",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "8260503設計課零資工程(手孔提升)",
+    "eventContent": "崇善二街36號管道埋設工程",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23326280687614",
-    "eventWgsy": "22.985698375280727",
+    "eventWgsx": "120.2288100439232",
+    "eventWgsy": "22.97815598929639",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T09:06:41+08:00",
+    "eventHappenTime": "2026-10-02T10:22:39+08:00",
     "atisUpdateTime": "2026-10-02T10:44:21+08:00"
 }
