@@ -1,16 +1,16 @@
 {
-    "eventId": "234023",
+    "eventId": "235280",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "將軍~南淡線路土建工程",
+    "eventContent": " 將軍區青鯤鯓等汰換管線工程",
     "eventTownName": "將軍區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.11199916406954",
-    "eventWgsy": "23.19091935117773",
+    "eventWgsx": "120.09137444877265",
+    "eventWgsy": "23.189003925242464",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T08:00:13+08:00",
+    "eventHappenTime": "2026-10-02T13:31:39+08:00",
     "atisUpdateTime": "2026-10-02T13:44:38+08:00"
 }
