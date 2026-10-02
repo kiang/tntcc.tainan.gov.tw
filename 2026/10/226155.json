@@ -1,16 +1,16 @@
 {
-    "eventId": "227256",
+    "eventId": "226155",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "國精化學股份有限公司-天然氣管線埋設工程\t北安路四段(1)",
+    "eventContent": "A250333臺南市政府警察局犯罪預防科新設",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2151999897534",
-    "eventWgsy": "23.07091299507735",
+    "eventWgsx": "120.13260124960806",
+    "eventWgsy": "23.029463256979707",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T10:03:13+08:00",
+    "eventHappenTime": "2026-10-02T13:04:37+08:00",
     "atisUpdateTime": "2026-10-02T13:14:20+08:00"
 }
