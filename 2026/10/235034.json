@@ -1,16 +1,16 @@
 {
-    "eventId": "230471",
+    "eventId": "235034",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "3260436王寶惠新設",
-    "eventTownName": "安南區",
+    "eventContent": "銜接用戶管--吳尚庭",
+    "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18351408995566",
-    "eventWgsy": "23.025084295222392",
+    "eventWgsx": "120.18746405316824",
+    "eventWgsy": "22.98018620898311",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-02T10:20:01+08:00",
+    "eventHappenTime": "2026-10-02T15:38:30+08:00",
     "atisUpdateTime": "2026-10-02T15:44:38+08:00"
 }
