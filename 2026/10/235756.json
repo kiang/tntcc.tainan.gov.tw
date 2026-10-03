@@ -1,16 +1,16 @@
 {
-    "eventId": "235515",
+    "eventId": "235756",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "中華南路二段106-6號對面置箱配合左轉車道施工",
+    "eventContent": "金華路一段420巷29號漏水探挖",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19267194619063",
-    "eventWgsy": "22.962557106426964",
+    "eventWgsx": "120.19178344725115",
+    "eventWgsy": "22.971178003540647",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-03T09:09:50+08:00",
+    "eventHappenTime": "2026-10-03T09:58:42+08:00",
     "atisUpdateTime": "2026-10-03T10:14:18+08:00"
 }
