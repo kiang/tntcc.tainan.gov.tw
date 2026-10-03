@@ -1,16 +1,16 @@
 {
-    "eventId": "235282",
+    "eventId": "235277",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": " 將軍區青鯤鯓等汰換管線工程",
     "eventTownName": "將軍區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.09107542643004",
-    "eventWgsy": "23.188679347639823",
+    "eventWgsx": "120.09016992500646",
+    "eventWgsy": "23.189925327937985",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-03T08:19:03+08:00",
+    "eventHappenTime": "2026-10-03T14:03:27+08:00",
     "atisUpdateTime": "2026-10-03T14:14:59+08:00"
 }
