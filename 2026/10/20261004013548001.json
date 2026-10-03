@@ -1,0 +1,16 @@
+{
+    "eventId": "20261004013548001",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "臨時屋(含工寮、樣品屋、雞舍等無門牌之建築物)",
+    "eventTownName": "新化區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.28854362106888",
+    "eventWgsy": "23.040884564542647",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-04T01:36:55+08:00",
+    "atisUpdateTime": "2026-10-04T01:44:45+08:00"
+}
