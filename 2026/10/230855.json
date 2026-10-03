@@ -1,16 +1,16 @@
 {
-    "eventId": "227256",
+    "eventId": "230855",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "國精化學股份有限公司-天然氣管線埋設工程\t北安路四段(1)",
+    "eventContent": "銜接用戶管--博元建設(曹淵博)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2151999897534",
-    "eventWgsy": "23.07091299507735",
+    "eventWgsx": "120.23214451963624",
+    "eventWgsy": "23.05551220292291",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-03T08:24:27+08:00",
+    "eventHappenTime": "2026-10-03T09:28:08+08:00",
     "atisUpdateTime": "2026-10-03T09:29:55+08:00"
 }

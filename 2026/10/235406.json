@@ -1,16 +1,16 @@
 {
-    "eventId": "235353",
+    "eventId": "235406",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "劉林玲玉、顏國寶給水",
+    "eventContent": "配合安平二期國宅都更案埋設電信配管",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.15713715947513",
-    "eventWgsy": "22.996465373090835",
+    "eventWgsx": "120.1746911327585",
+    "eventWgsy": "22.99818884952838",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-03T08:17:39+08:00",
+    "eventHappenTime": "2026-10-03T09:17:40+08:00",
     "atisUpdateTime": "2026-10-03T09:29:55+08:00"
 }

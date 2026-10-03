@@ -1,0 +1,16 @@
+{
+    "eventId": "234103",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "仁德橋管線遷移工程",
+    "eventTownName": "仁德區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.24454898034746",
+    "eventWgsy": "22.957650608800325",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-03T09:28:27+08:00",
+    "atisUpdateTime": "2026-10-03T09:29:55+08:00"
+}
