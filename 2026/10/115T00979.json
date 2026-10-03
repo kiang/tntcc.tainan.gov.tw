@@ -1,0 +1,16 @@
+{
+    "eventId": "115T00979",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "台南市中西區永華路一段290-1號",
+    "eventWgsx": "120.1887969974806",
+    "eventWgsy": "22.988847438722775",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-03T09:02:10+08:00",
+    "atisUpdateTime": "2026-10-03T09:14:51+08:00"
+}

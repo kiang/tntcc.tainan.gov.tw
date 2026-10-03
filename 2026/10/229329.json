@@ -1,16 +1,16 @@
 {
-    "eventId": "211135",
+    "eventId": "229329",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期工程主、次幹管第三標",
+    "eventContent": "2260046賽斯新能源有限公司太陽光電併網工程",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22183894539847",
-    "eventWgsy": "22.97064096475539",
+    "eventWgsx": "120.22436081535129",
+    "eventWgsy": "22.99376335238522",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-03T08:25:44+08:00",
+    "eventHappenTime": "2026-10-03T09:04:35+08:00",
     "atisUpdateTime": "2026-10-03T09:14:51+08:00"
 }
