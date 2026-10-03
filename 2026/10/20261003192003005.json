@@ -1,16 +1,16 @@
 {
-    "eventId": "20261003183800005",
+    "eventId": "20261003192003005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "關廟區",
+    "eventTownName": "新化區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.32049535303882",
-    "eventWgsy": "22.993436335979872",
+    "eventWgsx": "120.34726031741646",
+    "eventWgsy": "23.067277357731626",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-03T18:41:23+08:00",
+    "eventHappenTime": "2026-10-03T19:20:43+08:00",
     "atisUpdateTime": "2026-10-03T19:29:54+08:00"
 }
