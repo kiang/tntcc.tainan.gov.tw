@@ -1,0 +1,16 @@
+{
+    "eventId": "234141",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要修配管",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23418546603074",
+    "eventWgsy": "22.98983848661438",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-03T08:03:49+08:00",
+    "atisUpdateTime": "2026-10-03T08:14:38+08:00"
+}
