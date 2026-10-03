@@ -1,16 +1,16 @@
 {
-    "eventId": "229329",
+    "eventId": "234276",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "2260046賽斯新能源有限公司太陽光電併網工程",
+    "eventContent": "魏坤雄給水",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.22436081535129",
-    "eventWgsy": "22.99376335238522",
+    "eventWgsx": "120.2152812630811",
+    "eventWgsy": "22.970989748907275",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-03T09:04:35+08:00",
+    "eventHappenTime": "2026-10-03T16:08:13+08:00",
     "atisUpdateTime": "2026-10-03T16:14:54+08:00"
 }
