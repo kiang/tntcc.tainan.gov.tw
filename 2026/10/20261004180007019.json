@@ -1,16 +1,16 @@
 {
-    "eventId": "20261004175214008",
+    "eventId": "20261004180007019",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "南區",
+    "eventContent": "汽機車",
+    "eventTownName": "學甲區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.17628884476761",
-    "eventWgsy": "22.959097021642137",
+    "eventWgsx": "120.19659982193971",
+    "eventWgsy": "23.249099991216678",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-04T17:52:45+08:00",
+    "eventHappenTime": "2026-10-04T18:01:43+08:00",
     "atisUpdateTime": "2026-10-04T18:14:46+08:00"
 }
