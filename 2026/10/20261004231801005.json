@@ -1,16 +1,16 @@
 {
-    "eventId": "20261004203333005",
+    "eventId": "20261004231801005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "麻豆區",
+    "eventTownName": "安平區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.25555517846965",
-    "eventWgsy": "23.20232953001059",
+    "eventWgsx": "120.1525865653924",
+    "eventWgsy": "22.99458788978252",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-04T20:36:11+08:00",
+    "eventHappenTime": "2026-10-04T23:19:27+08:00",
     "atisUpdateTime": "2026-10-04T23:29:22+08:00"
 }
