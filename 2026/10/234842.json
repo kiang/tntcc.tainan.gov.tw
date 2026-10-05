@@ -1,0 +1,16 @@
+{
+    "eventId": "234842",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "N7-4110交接箱遷移埋管",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22123473017162",
+    "eventWgsy": "23.069713075981927",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-05T15:40:42+08:00",
+    "atisUpdateTime": "2026-10-05T15:59:04+08:00"
+}
