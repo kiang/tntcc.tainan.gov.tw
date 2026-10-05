@@ -1,16 +1,16 @@
 {
-    "eventId": "224505",
+    "eventId": "235270",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南海水淡化廠輸水管線統包工程(第一期)  ",
+    "eventContent": "將軍區青鯤鯓等汰換管線工程",
     "eventTownName": "將軍區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.11597169626602",
-    "eventWgsy": "23.19066618474531",
+    "eventWgsx": "120.08665006278333",
+    "eventWgsy": "23.18787345321947",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T08:02:49+08:00",
+    "eventHappenTime": "2026-10-05T08:47:34+08:00",
     "atisUpdateTime": "2026-10-05T08:59:44+08:00"
 }

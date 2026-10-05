@@ -1,16 +1,16 @@
 {
-    "eventId": "20261005074619102",
+    "eventId": "20261005084607003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "工廠及倉庫(含石化工業設備設施)",
-    "eventTownName": "後壁區",
+    "eventTownName": "山上區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.33716880259043",
-    "eventWgsy": "23.361142754017873",
+    "eventWgsx": "120.33779989416004",
+    "eventWgsy": "23.113599926315423",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T07:47:01+08:00",
+    "eventHappenTime": "2026-10-05T08:49:23+08:00",
     "atisUpdateTime": "2026-10-05T08:59:32+08:00"
 }
