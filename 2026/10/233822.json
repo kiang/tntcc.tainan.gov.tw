@@ -1,16 +1,16 @@
 {
-    "eventId": "234276",
+    "eventId": "233822",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "魏坤雄給水",
-    "eventTownName": "東區",
+    "eventContent": "漏水搶修",
+    "eventTownName": "中西區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2152812630811",
-    "eventWgsy": "22.970989748907275",
+    "eventWgsx": "120.17750499659766",
+    "eventWgsy": "23.004169159860844",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T08:33:50+08:00",
+    "eventHappenTime": "2026-10-05T09:52:47+08:00",
     "atisUpdateTime": "2026-10-05T10:00:04+08:00"
 }
