@@ -1,16 +1,16 @@
 {
-    "eventId": "227256",
+    "eventId": "230600",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "國精化學股份有限公司-天然氣管線埋設工程\t北安路四段(1)",
+    "eventContent": "3260565誠睿電力股份有限公司新設",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2151999897534",
-    "eventWgsy": "23.07091299507735",
+    "eventWgsx": "120.18888857757642",
+    "eventWgsy": "23.047747873050778",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T10:48:45+08:00",
+    "eventHappenTime": "2026-10-05T11:24:39+08:00",
     "atisUpdateTime": "2026-10-05T11:29:52+08:00"
 }
