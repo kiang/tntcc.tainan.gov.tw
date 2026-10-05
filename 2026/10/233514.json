@@ -1,16 +1,16 @@
 {
-    "eventId": "234461",
+    "eventId": "233514",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "四方建築給水",
+    "eventContent": "銜接用戶管--景大興建設(黃健信)",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18983158690592",
-    "eventWgsy": "23.05876111391681",
+    "eventWgsx": "120.18563907239516",
+    "eventWgsy": "23.04220040424255",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T10:50:36+08:00",
+    "eventHappenTime": "2026-10-05T11:35:35+08:00",
     "atisUpdateTime": "2026-10-05T11:45:00+08:00"
 }
