@@ -1,16 +1,16 @@
 {
-    "eventId": "232595",
+    "eventId": "230954",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "漏水搶修",
+    "eventContent": "配合忠義路三段延伸新闢道路公園南路管道工程",
     "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19193025583206",
-    "eventWgsy": "23.016706604534015",
+    "eventWgsx": "120.20628861039165",
+    "eventWgsy": "23.001770997747816",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T12:46:39+08:00",
+    "eventHappenTime": "2026-10-05T13:39:28+08:00",
     "atisUpdateTime": "2026-10-05T13:59:05+08:00"
 }
