@@ -1,16 +1,16 @@
 {
-    "eventId": "232415",
+    "eventId": "235104",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "路面漏水搶修工程",
-    "eventTownName": "安南區",
+    "eventContent": "人手孔提升",
+    "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.12716721636117",
-    "eventWgsy": "23.01780330965537",
+    "eventWgsx": "120.21841410092398",
+    "eventWgsy": "22.97939499951539",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T08:21:06+08:00",
+    "eventHappenTime": "2026-10-05T09:12:34+08:00",
     "atisUpdateTime": "2026-10-05T09:29:53+08:00"
 }

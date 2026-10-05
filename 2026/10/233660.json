@@ -1,16 +1,16 @@
 {
-    "eventId": "234276",
+    "eventId": "233660",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "魏坤雄給水",
+    "eventContent": "東寧路218、228、258號、東明里公車站前手孔提升",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2152812630811",
-    "eventWgsy": "22.970989748907275",
+    "eventWgsx": "120.22474208856056",
+    "eventWgsy": "22.990987052999028",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T08:33:50+08:00",
+    "eventHappenTime": "2026-10-05T09:11:23+08:00",
     "atisUpdateTime": "2026-10-05T09:29:53+08:00"
 }
