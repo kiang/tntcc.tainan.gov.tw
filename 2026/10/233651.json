@@ -1,16 +1,16 @@
 {
-    "eventId": "234276",
+    "eventId": "233651",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "魏坤雄給水",
+    "eventContent": "人手孔提升",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2152812630811",
-    "eventWgsy": "22.970989748907275",
+    "eventWgsx": "120.2199981809457",
+    "eventWgsy": "22.97871697689498",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T08:33:50+08:00",
+    "eventHappenTime": "2026-10-05T11:58:48+08:00",
     "atisUpdateTime": "2026-10-05T12:14:14+08:00"
 }
