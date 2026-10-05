@@ -1,16 +1,16 @@
 {
-    "eventId": "231362",
+    "eventId": "231057",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-朱瑞麟(甲管路4260169)",
+    "eventContent": "114年-中租迪和股份有限公司(甲管路3260142-2)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32216298394341",
-    "eventWgsy": "23.311194524591613",
+    "eventWgsx": "120.3171500594096",
+    "eventWgsy": "23.30534705483849",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T08:08:26+08:00",
+    "eventHappenTime": "2026-10-05T08:32:35+08:00",
     "atisUpdateTime": "2026-10-05T08:44:37+08:00"
 }

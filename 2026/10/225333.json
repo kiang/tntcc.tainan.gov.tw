@@ -1,0 +1,16 @@
+{
+    "eventId": "225333",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "台南市永康區小東路473-3號手孔提升工程",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.14653714938846",
+    "eventWgsy": "22.994723943831353",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-05T08:34:20+08:00",
+    "atisUpdateTime": "2026-10-05T08:44:37+08:00"
+}
