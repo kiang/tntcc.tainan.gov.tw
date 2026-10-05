@@ -1,16 +1,16 @@
 {
-    "eventId": "235391",
+    "eventId": "235144",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": " 配合國家寬頻網路建設—佈放光纖網路需要修配管",
+    "eventContent": " 銜接用戶管(NFQ11K5D2D)",
     "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32720394126414",
-    "eventWgsy": "23.100025094891162",
+    "eventWgsx": "120.29323029325495",
+    "eventWgsy": "23.078628593152022",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T08:11:55+08:00",
+    "eventHappenTime": "2026-10-05T14:55:06+08:00",
     "atisUpdateTime": "2026-10-05T14:59:33+08:00"
 }
