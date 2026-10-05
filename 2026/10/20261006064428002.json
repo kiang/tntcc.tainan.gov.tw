@@ -1,16 +1,16 @@
 {
-    "eventId": "20261006063051002",
+    "eventId": "20261006064428002",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "新營區",
+    "eventTownName": "關廟區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.30084924833673",
-    "eventWgsy": "23.296990985351307",
+    "eventWgsx": "120.32822026038689",
+    "eventWgsy": "22.961062529399804",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T06:32:17+08:00",
+    "eventHappenTime": "2026-10-06T06:45:07+08:00",
     "atisUpdateTime": "2026-10-06T06:59:11+08:00"
 }
