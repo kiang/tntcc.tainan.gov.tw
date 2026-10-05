@@ -1,16 +1,16 @@
 {
-    "eventId": "234106",
+    "eventId": "234757",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年麻豆所用戶新(改)裝-案397黃東女",
+    "eventContent": "115年麻豆所用戶新(改)裝-案44台南市麻豆區公所",
     "eventTownName": "麻豆區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24591362604619",
-    "eventWgsy": "23.17984263093534",
+    "eventWgsx": "120.24905180676221",
+    "eventWgsy": "23.170823426976764",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T09:31:28+08:00",
+    "eventHappenTime": "2026-10-05T13:21:01+08:00",
     "atisUpdateTime": "2026-10-05T13:29:52+08:00"
 }
