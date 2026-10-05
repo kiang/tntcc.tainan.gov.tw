@@ -1,16 +1,16 @@
 {
-    "eventId": "20261005155354019",
+    "eventId": "20261005160543008",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "北門區",
+    "eventTownName": "南化區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.13703937548826",
-    "eventWgsy": "23.262369751364425",
+    "eventWgsx": "120.45908034970782",
+    "eventWgsy": "23.045711741431067",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T15:54:45+08:00",
+    "eventHappenTime": "2026-10-05T16:07:17+08:00",
     "atisUpdateTime": "2026-10-05T16:14:28+08:00"
 }

@@ -1,16 +1,16 @@
 {
-    "eventId": "235104",
+    "eventId": "235658",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
+    "eventContent": "緊急工程",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21841410092398",
-    "eventWgsy": "22.97939499951539",
+    "eventWgsx": "120.2217142873584",
+    "eventWgsy": "22.976266047293354",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T09:12:34+08:00",
+    "eventHappenTime": "2026-10-05T16:09:00+08:00",
     "atisUpdateTime": "2026-10-05T16:14:14+08:00"
 }

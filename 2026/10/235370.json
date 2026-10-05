@@ -1,16 +1,16 @@
 {
-    "eventId": "234757",
+    "eventId": "235370",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年麻豆所用戶新(改)裝-案44台南市麻豆區公所",
+    "eventContent": "115年麻豆所用戶新(改)裝-案458宇順水泥",
     "eventTownName": "麻豆區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24905180676221",
-    "eventWgsy": "23.170823426976764",
+    "eventWgsx": "120.22317523223259",
+    "eventWgsy": "23.189117787576162",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T13:21:01+08:00",
+    "eventHappenTime": "2026-10-05T16:00:14+08:00",
     "atisUpdateTime": "2026-10-05T16:14:14+08:00"
 }
