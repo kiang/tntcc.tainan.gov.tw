@@ -1,16 +1,16 @@
 {
-    "eventId": "235094",
+    "eventId": "232561",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "長築興業給水",
-    "eventTownName": "安平區",
+    "eventContent": "路面漏水搶修工程",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17457488372338",
-    "eventWgsy": "22.992305043168475",
+    "eventWgsx": "120.19312946525048",
+    "eventWgsy": "23.033041120298453",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T13:19:29+08:00",
+    "eventHappenTime": "2026-10-05T14:11:31+08:00",
     "atisUpdateTime": "2026-10-05T14:29:21+08:00"
 }

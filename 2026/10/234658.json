@@ -1,16 +1,16 @@
 {
-    "eventId": "235104",
+    "eventId": "234658",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "人手孔提升",
+    "eventContent": "臺南市仁德區污水下水道系統第二期工程分支管及用戶接管第二標",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21841410092398",
-    "eventWgsy": "22.97939499951539",
+    "eventWgsx": "120.23032233265208",
+    "eventWgsy": "22.960331939644224",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T09:12:34+08:00",
+    "eventHappenTime": "2026-10-05T14:18:16+08:00",
     "atisUpdateTime": "2026-10-05T14:29:21+08:00"
 }
