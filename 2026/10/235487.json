@@ -1,16 +1,16 @@
 {
-    "eventId": "235489",
+    "eventId": "235487",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年佳里所用戶用水設備新(改)裝工作勞務採購(開口契約)",
+    "eventContent": "115年佳里所特定工廠周邊設置消防栓工程",
     "eventTownName": "佳里區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19414631702394",
-    "eventWgsy": "23.18287001638715",
+    "eventWgsx": "120.18480493615812",
+    "eventWgsy": "23.169709605239902",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T08:27:14+08:00",
+    "eventHappenTime": "2026-10-05T13:34:22+08:00",
     "atisUpdateTime": "2026-10-05T13:44:57+08:00"
 }

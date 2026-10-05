@@ -1,16 +1,16 @@
 {
-    "eventId": "231362",
+    "eventId": "228500",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-朱瑞麟(甲管路4260169)",
+    "eventContent": "114年-國營台灣鐵路股份有限公司",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32216298394341",
-    "eventWgsy": "23.311194524591613",
+    "eventWgsx": "120.32410164531521",
+    "eventWgsy": "23.308985566502315",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-05T08:08:26+08:00",
+    "eventHappenTime": "2026-10-05T13:37:36+08:00",
     "atisUpdateTime": "2026-10-05T13:44:57+08:00"
 }
