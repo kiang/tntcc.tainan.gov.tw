@@ -1,16 +1,16 @@
 {
-    "eventId": "229475",
+    "eventId": "229533",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年新市所用戶新裝-康新炎",
+    "eventContent": "114年新市所用戶新裝-嵩聖建設",
     "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29098160663789",
-    "eventWgsy": "23.09552672568474",
+    "eventWgsx": "120.31269260961639",
+    "eventWgsy": "23.101403030476018",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T12:12:23+08:00",
+    "eventHappenTime": "2026-10-06T13:40:24+08:00",
     "atisUpdateTime": "2026-10-06T13:59:25+08:00"
 }
