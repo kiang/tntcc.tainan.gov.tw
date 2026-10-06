@@ -6,11 +6,11 @@
     "eventTownName": "新市區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.28863627571091",
-    "eventWgsy": "23.100901693853945",
+    "eventWgsx": "120.28823841839802",
+    "eventWgsy": "23.101338671470135",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-10-06T12:29:32+08:00",
-    "atisUpdateTime": "2026-10-06T12:44:25+08:00"
+    "atisUpdateTime": "2026-10-06T12:59:27+08:00"
 }
