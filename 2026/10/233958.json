@@ -1,16 +1,16 @@
 {
-    "eventId": "231730",
+    "eventId": "233958",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新市所用戶新裝-昱興停車場",
+    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要提升人手孔",
     "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29069095627082",
-    "eventWgsy": "23.068296765544112",
+    "eventWgsx": "120.27438390943455",
+    "eventWgsy": "23.074713876847014",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T10:40:55+08:00",
+    "eventHappenTime": "2026-10-06T13:02:37+08:00",
     "atisUpdateTime": "2026-10-06T13:14:55+08:00"
 }
