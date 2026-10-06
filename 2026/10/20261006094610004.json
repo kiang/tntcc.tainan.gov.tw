@@ -1,16 +1,16 @@
 {
-    "eventId": "20261006083248004",
+    "eventId": "20261006094610004",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "新化區",
+    "eventTownName": "學甲區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.29551195079355",
-    "eventWgsy": "23.03075372076501",
+    "eventWgsx": "120.20990777416633",
+    "eventWgsy": "23.23922498099312",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T08:33:06+08:00",
+    "eventHappenTime": "2026-10-06T09:48:43+08:00",
     "atisUpdateTime": "2026-10-06T09:59:32+08:00"
 }

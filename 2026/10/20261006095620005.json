@@ -1,16 +1,16 @@
 {
-    "eventId": "20261006083248004",
+    "eventId": "20261006095620005",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "新化區",
+    "eventTownName": "永康區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.29551195079355",
-    "eventWgsy": "23.03075372076501",
+    "eventWgsx": "120.22852592579095",
+    "eventWgsy": "23.024289239668544",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T08:33:06+08:00",
+    "eventHappenTime": "2026-10-06T09:57:30+08:00",
     "atisUpdateTime": "2026-10-06T09:59:32+08:00"
 }

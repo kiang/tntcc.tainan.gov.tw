@@ -1,16 +1,16 @@
 {
-    "eventId": "228458",
+    "eventId": "225184",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "臺南市仁德區污水下水道系統第二期分支管網及用戶接管工程第10標",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23130344056966",
-    "eventWgsy": "22.957660431116683",
+    "eventWgsx": "120.22500311474705",
+    "eventWgsy": "22.95984433988826",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T07:08:06+08:00",
+    "eventHappenTime": "2026-10-06T09:45:46+08:00",
     "atisUpdateTime": "2026-10-06T09:59:09+08:00"
 }
