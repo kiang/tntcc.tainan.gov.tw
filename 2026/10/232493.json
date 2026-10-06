@@ -1,16 +1,16 @@
 {
-    "eventId": "235065",
+    "eventId": "232493",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年-禾楓水舍汽車旅館有限公司(甲管路7260068)",
+    "eventContent": "114年-正明食品有限公司(甲管路5260179)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29482233611485",
-    "eventWgsy": "23.309143184710948",
+    "eventWgsx": "120.33196771757731",
+    "eventWgsy": "23.311931287990802",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T07:36:45+08:00",
+    "eventHappenTime": "2026-10-06T08:17:30+08:00",
     "atisUpdateTime": "2026-10-06T08:29:34+08:00"
 }
