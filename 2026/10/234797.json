@@ -1,16 +1,16 @@
 {
-    "eventId": "234048",
+    "eventId": "234797",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "路面漏水搶修工程",
-    "eventTownName": "安南區",
+    "eventContent": "黃卓仁給水",
+    "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.21036180368539",
-    "eventWgsy": "23.04972905641032",
+    "eventWgsx": "120.21958821092093",
+    "eventWgsy": "22.989895853790163",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T08:07:22+08:00",
+    "eventHappenTime": "2026-10-06T08:37:31+08:00",
     "atisUpdateTime": "2026-10-06T08:44:39+08:00"
 }
