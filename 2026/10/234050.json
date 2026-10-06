@@ -1,16 +1,16 @@
 {
-    "eventId": "227256",
+    "eventId": "234050",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "國精化學股份有限公司-天然氣管線埋設工程\t北安路四段(1)",
+    "eventContent": "路面漏水搶修工程",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.2151999897534",
-    "eventWgsy": "23.07091299507735",
+    "eventWgsx": "120.17336354330833",
+    "eventWgsy": "23.050728253080784",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T09:39:54+08:00",
+    "eventHappenTime": "2026-10-06T13:37:51+08:00",
     "atisUpdateTime": "2026-10-06T13:44:12+08:00"
 }
