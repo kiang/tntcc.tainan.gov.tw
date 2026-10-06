@@ -1,16 +1,16 @@
 {
-    "eventId": "232109",
+    "eventId": "233337",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "配合國家寬頻網路建設—佈放光纖網路需要提升人手孔",
+    "eventContent": " 配合國家寬頻網路建設—佈放光纖網路需要提升人手孔",
     "eventTownName": "山上區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.3509906627099",
-    "eventWgsy": "23.105468702398547",
+    "eventWgsx": "120.35043569856602",
+    "eventWgsy": "23.106918357062643",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T08:30:30+08:00",
+    "eventHappenTime": "2026-10-06T09:57:23+08:00",
     "atisUpdateTime": "2026-10-06T10:14:18+08:00"
 }

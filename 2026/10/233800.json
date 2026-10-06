@@ -1,16 +1,16 @@
 {
-    "eventId": "229112",
+    "eventId": "233800",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "1260730吳艷玲表燈新設",
+    "eventContent": "7260332臺南市政府交通局新增設包燈用電",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18608286698141",
-    "eventWgsy": "22.933679586080356",
+    "eventWgsx": "120.18558562754252",
+    "eventWgsy": "22.975716176678215",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T09:02:13+08:00",
+    "eventHappenTime": "2026-10-06T10:08:27+08:00",
     "atisUpdateTime": "2026-10-06T10:14:18+08:00"
 }
