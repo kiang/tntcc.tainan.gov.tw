@@ -1,0 +1,16 @@
+{
+    "eventId": "234302",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "北安路三段745巷30號",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.21019149050933",
+    "eventWgsy": "23.049404416136557",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-06T08:05:48+08:00",
+    "atisUpdateTime": "2026-10-06T08:14:29+08:00"
+}
