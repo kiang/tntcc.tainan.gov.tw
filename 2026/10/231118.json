@@ -1,16 +1,16 @@
 {
-    "eventId": "229816",
+    "eventId": "231118",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "安平區府平路A號(道盛建設-1戶",
+    "eventContent": "銜接用戶管--龍騰建設",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16343158528943",
-    "eventWgsy": "22.987133461802475",
+    "eventWgsx": "120.18492726526928",
+    "eventWgsy": "22.99660912903689",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T09:00:32+08:00",
+    "eventHappenTime": "2026-10-06T11:33:43+08:00",
     "atisUpdateTime": "2026-10-06T11:44:13+08:00"
 }
