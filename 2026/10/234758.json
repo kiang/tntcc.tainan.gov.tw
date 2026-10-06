@@ -1,16 +1,16 @@
 {
-    "eventId": "232444",
+    "eventId": "234758",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "浩瀚開發建設-832戶",
+    "eventContent": "電纜分隊人孔工作",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17363475573785",
-    "eventWgsy": "22.985021957826895",
+    "eventWgsx": "120.22816201578215",
+    "eventWgsy": "22.97960000227928",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T09:00:33+08:00",
+    "eventHappenTime": "2026-10-06T11:03:42+08:00",
     "atisUpdateTime": "2026-10-06T11:14:59+08:00"
 }
