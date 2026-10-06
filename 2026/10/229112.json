@@ -1,16 +1,16 @@
 {
-    "eventId": "232444",
+    "eventId": "229112",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "浩瀚開發建設-832戶",
-    "eventTownName": "東區",
+    "eventContent": "1260730吳艷玲表燈新設",
+    "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17363475573785",
-    "eventWgsy": "22.985021957826895",
+    "eventWgsx": "120.18608286698141",
+    "eventWgsy": "22.933679586080356",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T09:00:33+08:00",
+    "eventHappenTime": "2026-10-06T09:02:13+08:00",
     "atisUpdateTime": "2026-10-06T09:14:51+08:00"
 }
