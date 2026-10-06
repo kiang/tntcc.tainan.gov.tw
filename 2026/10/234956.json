@@ -1,16 +1,16 @@
 {
-    "eventId": "233903",
+    "eventId": "234956",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "新營~柳營線路土建統包工程",
+    "eventContent": "柳營區成功街58號銜接用戶引進管工程(S2L557311)",
     "eventTownName": "柳營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.33173767477604",
-    "eventWgsy": "23.29553435677865",
+    "eventWgsx": "120.31647495613063",
+    "eventWgsy": "23.279112139316567",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T09:19:48+08:00",
+    "eventHappenTime": "2026-10-06T13:15:53+08:00",
     "atisUpdateTime": "2026-10-06T13:30:05+08:00"
 }
