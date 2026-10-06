@@ -1,16 +1,16 @@
 {
-    "eventId": "229816",
+    "eventId": "215512",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "安平區府平路A號(道盛建設-1戶",
+    "eventContent": "港務分公司漁光路南側沙灘停車場接管工程",
     "eventTownName": "安平區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.16343158528943",
-    "eventWgsy": "22.987133461802475",
+    "eventWgsx": "120.1676163996063",
+    "eventWgsy": "23.00157208503532",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T09:00:32+08:00",
+    "eventHappenTime": "2026-10-06T09:38:26+08:00",
     "atisUpdateTime": "2026-10-06T09:45:03+08:00"
 }

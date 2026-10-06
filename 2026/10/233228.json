@@ -1,16 +1,16 @@
 {
-    "eventId": "225853",
+    "eventId": "233228",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "安南區延伸管線-陰極防蝕放電整流站設置工程",
+    "eventContent": "路面漏水搶修工程",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.1329033933907",
-    "eventWgsy": "23.03834502567616",
+    "eventWgsx": "120.20034838862988",
+    "eventWgsy": "23.041263558300255",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T09:07:47+08:00",
+    "eventHappenTime": "2026-10-06T09:36:10+08:00",
     "atisUpdateTime": "2026-10-06T09:45:03+08:00"
 }
