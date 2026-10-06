@@ -1,16 +1,16 @@
 {
-    "eventId": "115MI03005",
+    "eventId": "115MI03009",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": null,
     "eventTownName": "北區",
     "eventSource": "PWB",
-    "eventLocation": "704台灣臺南市北區立人里海安路三段53巷17號",
-    "eventWgsx": "120.1985278964124",
-    "eventWgsy": "23.0022528292328",
+    "eventLocation": "704台灣臺南市北區文元里文賢路1122巷9號",
+    "eventWgsx": "120.19446329703113",
+    "eventWgsy": "23.016205019400136",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T13:17:27+08:00",
+    "eventHappenTime": "2026-10-06T15:42:02+08:00",
     "atisUpdateTime": "2026-10-06T16:59:21+08:00"
 }
