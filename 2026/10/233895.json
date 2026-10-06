@@ -1,16 +1,16 @@
 {
-    "eventId": "233884",
+    "eventId": "233895",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "新營~柳營線路土建統包工程",
     "eventTownName": "柳營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32680746723288",
-    "eventWgsy": "23.297505083843763",
+    "eventWgsx": "120.33722669257807",
+    "eventWgsy": "23.293345489922274",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T08:48:25+08:00",
+    "eventHappenTime": "2026-10-06T09:20:08+08:00",
     "atisUpdateTime": "2026-10-06T09:29:57+08:00"
 }

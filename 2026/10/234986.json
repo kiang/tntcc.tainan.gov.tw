@@ -1,16 +1,16 @@
 {
-    "eventId": "208480",
+    "eventId": "234986",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市永康區污水下水道系統第二期(PA分區)管線及用戶接管工程第一標",
+    "eventContent": "兆子星營造東橋安居",
     "eventTownName": "永康區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.25304625489734",
-    "eventWgsy": "23.01521479675877",
+    "eventWgsx": "120.23362328405769",
+    "eventWgsy": "23.021608913780113",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T08:55:06+08:00",
+    "eventHappenTime": "2026-10-06T09:22:40+08:00",
     "atisUpdateTime": "2026-10-06T09:29:57+08:00"
 }
