@@ -1,16 +1,16 @@
 {
-    "eventId": "231304",
+    "eventId": "229475",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年新市所用戶新裝-陳佳琪",
+    "eventContent": "114年新市所用戶新裝-康新炎",
     "eventTownName": "新市區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.32360235515279",
-    "eventWgsy": "23.07591651552059",
+    "eventWgsx": "120.29098160663789",
+    "eventWgsy": "23.09552672568474",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T09:38:00+08:00",
+    "eventHappenTime": "2026-10-06T12:12:23+08:00",
     "atisUpdateTime": "2026-10-06T12:29:36+08:00"
 }
