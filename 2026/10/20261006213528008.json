@@ -1,16 +1,16 @@
 {
-    "eventId": "20261006212052005",
+    "eventId": "20261006213528008",
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "關廟區",
+    "eventTownName": "鹽水區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.32881372870672",
-    "eventWgsy": "22.959505139754942",
+    "eventWgsx": "120.26673603461934",
+    "eventWgsy": "23.316382994984572",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-06T21:21:16+08:00",
+    "eventHappenTime": "2026-10-06T21:36:01+08:00",
     "atisUpdateTime": "2026-10-06T21:44:32+08:00"
 }
