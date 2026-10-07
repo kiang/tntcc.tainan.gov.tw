@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03019",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "708台灣臺南市安平區慶平路519號",
+    "eventWgsx": "120.1722210995783",
+    "eventWgsy": "22.997196732882546",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-07T13:01:39+08:00",
+    "atisUpdateTime": "2026-10-07T16:44:55+08:00"
+}

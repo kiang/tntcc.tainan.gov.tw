@@ -1,16 +1,16 @@
 {
-    "eventId": "228458",
+    "eventId": "231453",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "臺南市仁德區污水下水道系統第二期分支管網及用戶接管工程第10標",
+    "eventContent": "正昌公司給水",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23130344056966",
-    "eventWgsy": "22.957660431116683",
+    "eventWgsx": "120.26107968961985",
+    "eventWgsy": "22.95373324592278",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T07:04:16+08:00",
+    "eventHappenTime": "2026-10-07T16:34:11+08:00",
     "atisUpdateTime": "2026-10-07T16:44:55+08:00"
 }
