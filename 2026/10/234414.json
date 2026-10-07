@@ -1,16 +1,16 @@
 {
-    "eventId": "233760",
+    "eventId": "234414",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "路面漏水搶修工程",
+    "eventContent": "博元建設給水",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19494097579258",
-    "eventWgsy": "23.066187032888745",
+    "eventWgsx": "120.2320705054183",
+    "eventWgsy": "23.055590578593467",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T08:08:19+08:00",
+    "eventHappenTime": "2026-10-07T08:38:37+08:00",
     "atisUpdateTime": "2026-10-07T08:44:04+08:00"
 }
