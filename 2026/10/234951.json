@@ -1,16 +1,16 @@
 {
-    "eventId": "233760",
+    "eventId": "234951",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "路面漏水搶修工程",
-    "eventTownName": "安南區",
+    "eventContent": "張淳淳給水",
+    "eventTownName": "關廟區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19494097579258",
-    "eventWgsy": "23.066187032888745",
+    "eventWgsx": "120.33756349653252",
+    "eventWgsy": "22.95572362668488",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T08:08:19+08:00",
+    "eventHappenTime": "2026-10-07T08:20:39+08:00",
     "atisUpdateTime": "2026-10-07T08:29:58+08:00"
 }
