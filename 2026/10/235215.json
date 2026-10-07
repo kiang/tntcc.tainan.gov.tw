@@ -1,16 +1,16 @@
 {
-    "eventId": "234920",
+    "eventId": "235215",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "115年新營所用戶用水設備新(改)裝工作勞務採購(謝獻毅\/開口契約)",
+    "eventContent": "114年度-臺南市鹽水區公所(乙管路8260195)",
     "eventTownName": "鹽水區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.24242400408902",
-    "eventWgsy": "23.288371377156388",
+    "eventWgsx": "120.2686356361137",
+    "eventWgsy": "23.322595596612963",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T08:37:52+08:00",
+    "eventHappenTime": "2026-10-07T08:49:03+08:00",
     "atisUpdateTime": "2026-10-07T08:59:08+08:00"
 }
