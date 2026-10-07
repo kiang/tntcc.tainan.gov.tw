@@ -1,16 +1,16 @@
 {
-    "eventId": "234260",
+    "eventId": "233430",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "路面漏水搶修工程",
-    "eventTownName": "安南區",
+    "eventContent": "陳貞瑞給水",
+    "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.09338034712628",
-    "eventWgsy": "23.046764565645294",
+    "eventWgsx": "120.28843529395418",
+    "eventWgsy": "22.93942478151633",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T11:56:49+08:00",
+    "eventHappenTime": "2026-10-07T13:50:05+08:00",
     "atisUpdateTime": "2026-10-07T13:59:31+08:00"
 }
