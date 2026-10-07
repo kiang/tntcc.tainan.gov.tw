@@ -1,16 +1,16 @@
 {
-    "eventId": "233995",
+    "eventId": "233248",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "(S2L553704)臺南三客網115年度電信零星積點發包工程S2L552085(光(新工法",
+    "eventContent": "6260677興南汽車客運股份有限公司辛忠道電力增設",
     "eventTownName": "佳里區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17713460769413",
-    "eventWgsy": "23.16540943869045",
+    "eventWgsx": "120.17349701710853",
+    "eventWgsy": "23.150105647117037",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T14:02:06+08:00",
+    "eventHappenTime": "2026-10-07T14:58:18+08:00",
     "atisUpdateTime": "2026-10-07T15:00:02+08:00"
 }
