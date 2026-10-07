@@ -1,8 +1,8 @@
 {
-    "eventId": "234871",
+    "eventId": "228113",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "(S2D589169)臺南三客網115年度電信零星積點發包工程S2L552092-銅(新工法",
+    "eventContent": "(S2D489018)臺南三客網114年度電信零星積點發包工程",
     "eventTownName": "佳里區",
     "eventSource": "PWB",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T10:17:05+08:00",
+    "eventHappenTime": "2026-10-07T11:03:32+08:00",
     "atisUpdateTime": "2026-10-07T11:14:23+08:00"
 }
