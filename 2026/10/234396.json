@@ -1,16 +1,16 @@
 {
-    "eventId": "232670",
+    "eventId": "234396",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "路面漏水搶修工程",
+    "eventContent": "N4-2165交接箱遷移埋管",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.08569294733567",
-    "eventWgsy": "23.055542305416008",
+    "eventWgsx": "120.19833492489576",
+    "eventWgsy": "23.025570674753425",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T12:08:15+08:00",
+    "eventHappenTime": "2026-10-07T14:18:24+08:00",
     "atisUpdateTime": "2026-10-07T14:29:48+08:00"
 }
