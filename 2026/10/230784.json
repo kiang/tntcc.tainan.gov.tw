@@ -1,16 +1,16 @@
 {
-    "eventId": "232444",
+    "eventId": "230784",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "浩瀚開發建設-832戶",
-    "eventTownName": "東區",
+    "eventContent": "銜接用戶管--蘇美雪",
+    "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17363475573785",
-    "eventWgsy": "22.985021957826895",
+    "eventWgsx": "120.19451410012759",
+    "eventWgsy": "22.958768331744785",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T09:05:58+08:00",
+    "eventHappenTime": "2026-10-07T09:24:09+08:00",
     "atisUpdateTime": "2026-10-07T09:29:22+08:00"
 }

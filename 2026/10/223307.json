@@ -1,16 +1,16 @@
 {
-    "eventId": "232444",
+    "eventId": "223307",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "浩瀚開發建設-832戶",
+    "eventContent": "臺南市仁德區污水下水道系統第二期工程分支管及用戶接管第一標",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17363475573785",
-    "eventWgsy": "22.985021957826895",
+    "eventWgsx": "120.2294265896569",
+    "eventWgsy": "22.960949917008328",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T09:05:58+08:00",
+    "eventHappenTime": "2026-10-07T09:12:26+08:00",
     "atisUpdateTime": "2026-10-07T09:29:22+08:00"
 }
