@@ -1,16 +1,16 @@
 {
-    "eventId": "232444",
+    "eventId": "232815",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "浩瀚開發建設-832戶",
+    "eventContent": "5260482臺南市政府工務局(中華東路凱旋路至中華陸橋人行道改善工程)",
     "eventTownName": "東區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17363475573785",
-    "eventWgsy": "22.985021957826895",
+    "eventWgsx": "120.23083688180041",
+    "eventWgsy": "22.98293895285545",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T09:05:58+08:00",
+    "eventHappenTime": "2026-10-07T09:44:05+08:00",
     "atisUpdateTime": "2026-10-07T09:59:42+08:00"
 }
