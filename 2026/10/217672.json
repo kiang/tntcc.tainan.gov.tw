@@ -1,16 +1,16 @@
 {
-    "eventId": "234951",
+    "eventId": "217672",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "張淳淳給水",
-    "eventTownName": "關廟區",
+    "eventContent": "銜接用戶管--莫易憬",
+    "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.33756349653252",
-    "eventWgsy": "22.95572362668488",
+    "eventWgsx": "120.19640444908896",
+    "eventWgsy": "22.982173308549275",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T08:20:39+08:00",
+    "eventHappenTime": "2026-10-07T11:16:14+08:00",
     "atisUpdateTime": "2026-10-07T11:29:30+08:00"
 }
