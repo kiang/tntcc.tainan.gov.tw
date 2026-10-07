@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03020",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "關廟區",
+    "eventSource": "PWB",
+    "eventLocation": "718台灣臺南市關廟區關廟里大仁街322號",
+    "eventWgsx": "120.32516638070368",
+    "eventWgsy": "22.95678106093024",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-07T13:08:23+08:00",
+    "atisUpdateTime": "2026-10-07T16:59:03+08:00"
+}
