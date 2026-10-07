@@ -1,16 +1,16 @@
 {
-    "eventId": "20261007124711008",
+    "eventId": "20261007190708003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "永康區",
+    "eventTownName": "新營區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.22849497262115",
-    "eventWgsy": "23.01290686388163",
+    "eventWgsx": "120.27730672705275",
+    "eventWgsy": "23.26847154519834",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T12:48:31+08:00",
+    "eventHappenTime": "2026-10-07T19:09:27+08:00",
     "atisUpdateTime": "2026-10-07T19:14:47+08:00"
 }
