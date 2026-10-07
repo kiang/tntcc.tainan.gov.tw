@@ -1,16 +1,16 @@
 {
-    "eventId": "230694",
+    "eventId": "230697",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "臺南市虎尾寮污水下水道系統分支管網及用戶接管工程第二標",
     "eventTownName": "北區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.23051193343139",
-    "eventWgsy": "22.999284607805954",
+    "eventWgsx": "120.23119915423167",
+    "eventWgsy": "22.99905924110098",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T09:06:12+08:00",
+    "eventHappenTime": "2026-10-07T09:07:47+08:00",
     "atisUpdateTime": "2026-10-07T09:14:15+08:00"
 }
