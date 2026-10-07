@@ -1,16 +1,16 @@
 {
-    "eventId": "232823",
+    "eventId": "231562",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "陳郁璇給水",
-    "eventTownName": "安平區",
+    "eventContent": "林雲龍給水",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17212696835884",
-    "eventWgsy": "22.99937733454728",
+    "eventWgsx": "120.20947296677282",
+    "eventWgsy": "23.026914071079936",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-07T14:39:04+08:00",
+    "eventHappenTime": "2026-10-07T16:19:09+08:00",
     "atisUpdateTime": "2026-10-07T16:29:46+08:00"
 }
