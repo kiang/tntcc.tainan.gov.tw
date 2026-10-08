@@ -1,16 +1,16 @@
 {
-    "eventId": "235271",
+    "eventId": "230928",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": " 將軍區青鯤鯓等汰換管線工程",
+    "eventContent": "(S2D586056)臺南三客網115年度電信零星積點發包工程",
     "eventTownName": "將軍區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.08618618508281",
-    "eventWgsy": "23.1905114953351",
+    "eventWgsx": "120.17713460769413",
+    "eventWgsy": "23.16540943869045",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T07:58:28+08:00",
+    "eventHappenTime": "2026-10-08T11:33:36+08:00",
     "atisUpdateTime": "2026-10-08T11:44:46+08:00"
 }
