@@ -1,16 +1,16 @@
 {
-    "eventId": "234694",
+    "eventId": "235158",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "歸仁區大德路及關廟區深坑二街等汰換管線工程",
+    "eventContent": "銜接用戶管及手孔提升",
     "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.29166760473893",
-    "eventWgsy": "22.97347371327693",
+    "eventWgsx": "120.28168041048359",
+    "eventWgsy": "22.96826081538122",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T08:23:08+08:00",
+    "eventHappenTime": "2026-10-08T14:17:39+08:00",
     "atisUpdateTime": "2026-10-08T14:29:28+08:00"
 }
