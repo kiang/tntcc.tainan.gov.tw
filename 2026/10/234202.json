@@ -1,16 +1,16 @@
 {
-    "eventId": "232444",
+    "eventId": "234202",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "浩瀚開發建設-832戶",
-    "eventTownName": "東區",
+    "eventContent": "路面漏水搶修工程",
+    "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17363475573785",
-    "eventWgsy": "22.985021957826895",
+    "eventWgsx": "120.1201263513348",
+    "eventWgsy": "23.075935909639743",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T09:39:10+08:00",
+    "eventHappenTime": "2026-10-08T11:27:46+08:00",
     "atisUpdateTime": "2026-10-08T11:29:39+08:00"
 }
