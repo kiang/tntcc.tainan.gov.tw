@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03033",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "白河區",
+    "eventSource": "PWB",
+    "eventLocation": "732台灣臺南市白河區明德街15號",
+    "eventWgsx": "120.41259807278375",
+    "eventWgsy": "23.354005480380952",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-08T10:42:58+08:00",
+    "atisUpdateTime": "2026-10-08T16:44:57+08:00"
+}

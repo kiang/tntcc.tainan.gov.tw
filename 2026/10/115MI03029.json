@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03029",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "後壁區",
+    "eventSource": "PWB",
+    "eventLocation": "731台灣臺南市後壁區侯伯里後壁寮58之1號",
+    "eventWgsx": "120.36717407853696",
+    "eventWgsy": "23.368198470496527",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-08T09:46:35+08:00",
+    "atisUpdateTime": "2026-10-08T16:44:57+08:00"
+}
