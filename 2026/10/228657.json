@@ -1,16 +1,16 @@
 {
-    "eventId": "233922",
+    "eventId": "228657",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "7260376歐特儀股份有限公司新設停車場用電",
+    "eventContent": "偕展營造306戶(社會住宅)",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18548083690028",
-    "eventWgsy": "22.975104759192973",
+    "eventWgsx": "120.18397810278363",
+    "eventWgsy": "22.966225019951032",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T09:03:20+08:00",
+    "eventHappenTime": "2026-10-08T09:41:26+08:00",
     "atisUpdateTime": "2026-10-08T09:59:36+08:00"
 }
