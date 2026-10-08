@@ -1,0 +1,16 @@
+{
+    "eventId": "TNWG148",
+    "eventType": "DISASTER",
+    "eventSubType": "",
+    "eventContent": "淹水超過 10.0 公分",
+    "eventTownName": "鹽水區",
+    "eventSource": "WRB_FLOODREALTIME",
+    "eventLocation": "鹽水區-三和里竹圍仔(編號231)",
+    "eventWgsx": "120.200288",
+    "eventWgsy": "23.261983",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-09T00:38:04+08:00",
+    "atisUpdateTime": "2026-10-09T01:14:54+08:00"
+}
