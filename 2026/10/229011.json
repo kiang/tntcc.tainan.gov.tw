@@ -1,16 +1,16 @@
 {
-    "eventId": "233922",
+    "eventId": "229011",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "7260376歐特儀股份有限公司新設停車場用電",
+    "eventContent": "C250789設計課配合規新#114-227預埋管線",
     "eventTownName": "南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.18548083690028",
-    "eventWgsy": "22.975104759192973",
+    "eventWgsx": "120.18388393504627",
+    "eventWgsy": "22.966760922816846",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T09:03:20+08:00",
+    "eventHappenTime": "2026-10-08T13:38:57+08:00",
     "atisUpdateTime": "2026-10-08T13:45:02+08:00"
 }

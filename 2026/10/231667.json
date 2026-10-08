@@ -1,16 +1,16 @@
 {
-    "eventId": "234023",
+    "eventId": "231667",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "將軍~南淡線路土建工程",
+    "eventContent": "(S2D486052)臺南三客網115年度電信零星積點發包工程(新工法",
     "eventTownName": "將軍區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.11199916406954",
-    "eventWgsy": "23.19091935117773",
+    "eventWgsx": "120.17713460769413",
+    "eventWgsy": "23.16540943869045",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T08:27:59+08:00",
+    "eventHappenTime": "2026-10-08T13:30:41+08:00",
     "atisUpdateTime": "2026-10-08T13:45:02+08:00"
 }
