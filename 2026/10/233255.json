@@ -1,0 +1,16 @@
+{
+    "eventId": "233255",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "玉井區和平街等汰換管線工程",
+    "eventTownName": "玉井區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.46512964140513",
+    "eventWgsy": "23.119736818816897",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-08T08:12:46+08:00",
+    "atisUpdateTime": "2026-10-08T08:29:44+08:00"
+}

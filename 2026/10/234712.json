@@ -1,16 +1,16 @@
 {
-    "eventId": "233430",
+    "eventId": "234712",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "陳貞瑞給水",
+    "eventContent": "歸仁區大德路及關廟區深坑二街等汰換管線工程",
     "eventTownName": "歸仁區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.28843529395418",
-    "eventWgsy": "22.93942478151633",
+    "eventWgsx": "120.2878731023465",
+    "eventWgsy": "22.97373097286955",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T08:19:04+08:00",
+    "eventHappenTime": "2026-10-08T08:23:26+08:00",
     "atisUpdateTime": "2026-10-08T08:29:44+08:00"
 }
