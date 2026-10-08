@@ -1,16 +1,16 @@
 {
-    "eventId": "235866",
+    "eventId": "234719",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "(建物引進)新營區東山一路88號(S2L558297-S2L558299)",
+    "eventContent": "(待裝客訴)新營區東站段636地號(S2L558233-S2L558235)",
     "eventTownName": "新營區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.3284846951358",
-    "eventWgsy": "23.310675554635036",
+    "eventWgsx": "120.33507671824731",
+    "eventWgsy": "23.311570822594746",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T09:09:57+08:00",
+    "eventHappenTime": "2026-10-08T13:40:01+08:00",
     "atisUpdateTime": "2026-10-08T13:59:11+08:00"
 }
