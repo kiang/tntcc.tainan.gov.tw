@@ -1,16 +1,16 @@
 {
-    "eventId": "234144",
+    "eventId": "234843",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "114年度-崑綸有限公司(乙管路7260029)",
+    "eventContent": "(S2L550169)臺南三客網115年度電信零星積點發包工程S2L550168(新工法",
     "eventTownName": "學甲區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.19370420358264",
-    "eventWgsy": "23.23837268847777",
+    "eventWgsx": "120.17713460769413",
+    "eventWgsy": "23.16540943869045",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T08:51:43+08:00",
+    "eventHappenTime": "2026-10-08T10:44:31+08:00",
     "atisUpdateTime": "2026-10-08T10:59:23+08:00"
 }
