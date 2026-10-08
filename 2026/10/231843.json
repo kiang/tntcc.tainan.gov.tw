@@ -1,16 +1,16 @@
 {
-    "eventId": "234202",
+    "eventId": "231843",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "路面漏水搶修工程",
+    "eventContent": "傑傑建設給水",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.1201263513348",
-    "eventWgsy": "23.075935909639743",
+    "eventWgsx": "120.14215115343012",
+    "eventWgsy": "23.077196759781447",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T11:27:46+08:00",
+    "eventHappenTime": "2026-10-08T11:53:01+08:00",
     "atisUpdateTime": "2026-10-08T11:59:58+08:00"
 }
