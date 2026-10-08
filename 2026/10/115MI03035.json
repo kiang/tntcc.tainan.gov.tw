@@ -1,16 +1,16 @@
 {
-    "eventId": "115MI03032",
+    "eventId": "115MI03035",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": null,
     "eventTownName": "善化區",
     "eventSource": "PWB",
-    "eventLocation": "741台灣臺南市善化區光文里中山路261號",
-    "eventWgsx": "120.29661508549985",
-    "eventWgsy": "23.131925337424956",
+    "eventLocation": "741台灣臺南市善化區田寮里六分寮171之1號",
+    "eventWgsx": "120.30428348473639",
+    "eventWgsy": "23.154763621286023",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T10:19:21+08:00",
+    "eventHappenTime": "2026-10-08T13:24:05+08:00",
     "atisUpdateTime": "2026-10-08T15:59:22+08:00"
 }
