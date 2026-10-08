@@ -1,16 +1,16 @@
 {
-    "eventId": "20261008154338405",
+    "eventId": "20261008170624008",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "安定區",
+    "eventTownName": "歸仁區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.22021186981397",
-    "eventWgsy": "23.10253959125509",
+    "eventWgsx": "120.29457428075686",
+    "eventWgsy": "22.960306925462806",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T15:44:50+08:00",
+    "eventHappenTime": "2026-10-08T17:07:51+08:00",
     "atisUpdateTime": "2026-10-08T17:15:03+08:00"
 }
