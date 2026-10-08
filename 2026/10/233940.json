@@ -1,16 +1,16 @@
 {
-    "eventId": "234202",
+    "eventId": "233940",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
     "eventContent": "路面漏水搶修工程",
     "eventTownName": "安南區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.1201263513348",
-    "eventWgsy": "23.075935909639743",
+    "eventWgsx": "120.12605035831925",
+    "eventWgsy": "23.075196470989514",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T11:27:46+08:00",
+    "eventHappenTime": "2026-10-08T12:38:51+08:00",
     "atisUpdateTime": "2026-10-08T12:44:29+08:00"
 }
