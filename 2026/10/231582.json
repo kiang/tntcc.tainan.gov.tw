@@ -1,16 +1,16 @@
 {
-    "eventId": "232259",
+    "eventId": "231582",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "4260473梁淑萍新增設",
+    "eventContent": "4260518黃南仁自用停車新增設",
     "eventTownName": "中西區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.17563750978137",
-    "eventWgsy": "23.00317034082802",
+    "eventWgsx": "120.18354901370665",
+    "eventWgsy": "23.001983200307897",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T13:19:17+08:00",
+    "eventHappenTime": "2026-10-08T15:20:14+08:00",
     "atisUpdateTime": "2026-10-08T15:44:14+08:00"
 }
