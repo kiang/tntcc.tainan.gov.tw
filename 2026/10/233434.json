@@ -1,16 +1,16 @@
 {
-    "eventId": "231453",
+    "eventId": "233434",
     "eventType": "CONSTRUCTION",
     "eventSubType": "",
-    "eventContent": "正昌公司給水",
+    "eventContent": "宇慶開發給水",
     "eventTownName": "仁德區",
     "eventSource": "PWB",
     "eventLocation": "",
-    "eventWgsx": "120.26107968961985",
-    "eventWgsy": "22.95373324592278",
+    "eventWgsx": "120.23132160076132",
+    "eventWgsy": "22.9584556458211",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-08T08:23:38+08:00",
+    "eventHappenTime": "2026-10-08T10:34:14+08:00",
     "atisUpdateTime": "2026-10-08T10:44:09+08:00"
 }
