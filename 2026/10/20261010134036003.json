@@ -1,16 +1,16 @@
 {
-    "eventId": "20261010080121605",
+    "eventId": "20261010134036003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "一般(集合)住宅",
-    "eventTownName": "安平區",
+    "eventTownName": "永康區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.15523164423927",
-    "eventWgsy": "23.003134893051413",
+    "eventWgsx": "120.26029701347197",
+    "eventWgsy": "23.0431116230008",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-10-10T08:02:37+08:00",
+    "eventHappenTime": "2026-10-10T13:41:10+08:00",
     "atisUpdateTime": "2026-10-10T13:44:51+08:00"
 }
