@@ -1,0 +1,16 @@
+{
+    "eventId": "20261011063058002",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "大內區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.37093552831934",
+    "eventWgsy": "23.121641013838694",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-11T06:32:31+08:00",
+    "atisUpdateTime": "2026-10-11T06:44:09+08:00"
+}
