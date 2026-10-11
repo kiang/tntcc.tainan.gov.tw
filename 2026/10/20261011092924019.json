@@ -1,0 +1,16 @@
+{
+    "eventId": "20261011092924019",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "玉井區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.4621903961434",
+    "eventWgsy": "23.12390605431118",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-11T09:30:25+08:00",
+    "atisUpdateTime": "2026-10-11T09:44:30+08:00"
+}
