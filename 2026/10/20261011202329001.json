@@ -6,11 +6,11 @@
     "eventTownName": "東區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.22750154015009",
-    "eventWgsy": "22.96487116420023",
+    "eventWgsx": "120.2256991946405",
+    "eventWgsy": "22.964838322560094",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-10-11T20:23:56+08:00",
-    "atisUpdateTime": "2026-10-11T20:29:44+08:00"
+    "atisUpdateTime": "2026-10-11T20:44:44+08:00"
 }
