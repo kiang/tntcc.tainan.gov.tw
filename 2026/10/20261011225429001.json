@@ -1,0 +1,16 @@
+{
+    "eventId": "20261011225429001",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "仁德區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.26242237447754",
+    "eventWgsy": "22.961027720835048",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-11T22:55:18+08:00",
+    "atisUpdateTime": "2026-10-11T22:59:57+08:00"
+}
