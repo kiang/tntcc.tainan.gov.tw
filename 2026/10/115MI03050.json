@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03050",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "臺南市永康區復興國民小學 710台灣臺南市永康區忠孝路8–16號",
+    "eventWgsx": "120.23994509135964",
+    "eventWgsy": "23.000973730006052",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-12T11:30:36+08:00",
+    "atisUpdateTime": "2026-10-12T16:59:20+08:00"
+}
