@@ -1,0 +1,16 @@
+{
+    "eventId": "235565",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "新營區東安街及東興八街汰換管線工程",
+    "eventTownName": "新營區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.32471083968943",
+    "eventWgsy": "23.318794832584786",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-12T11:59:04+08:00",
+    "atisUpdateTime": "2026-10-12T11:59:19+08:00"
+}

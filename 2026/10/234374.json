@@ -1,0 +1,16 @@
+{
+    "eventId": "234374",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "台南市政府消防局給水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.1972987279245",
+    "eventWgsy": "22.997531291309027",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-12T11:42:45+08:00",
+    "atisUpdateTime": "2026-10-12T11:59:19+08:00"
+}
