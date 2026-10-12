@@ -1,0 +1,16 @@
+{
+    "eventId": "232131",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "配合中華東路人行道改善工程--埋設電信管",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23349973715372",
+    "eventWgsy": "22.98658007612263",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-12T13:43:26+08:00",
+    "atisUpdateTime": "2026-10-12T13:59:34+08:00"
+}
