@@ -1,0 +1,16 @@
+{
+    "eventId": "234567",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "山上區山上衛生所及山上國中前汰換管線工程(二)",
+    "eventTownName": "山上區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.35666921578107",
+    "eventWgsy": "23.101505167094693",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-12T09:02:59+08:00",
+    "atisUpdateTime": "2026-10-12T09:14:43+08:00"
+}
