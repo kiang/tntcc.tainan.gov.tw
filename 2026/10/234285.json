@@ -1,0 +1,16 @@
+{
+    "eventId": "234285",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "銜接溜冰場用戶管佈放電信管線及手孔提升",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.26304827716058",
+    "eventWgsy": "23.01620982059457",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-12T10:56:29+08:00",
+    "atisUpdateTime": "2026-10-12T10:59:35+08:00"
+}
