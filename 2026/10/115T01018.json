@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01018",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "學甲區",
+    "eventSource": "PWB",
+    "eventLocation": "726台灣臺南市學甲區中洲里中洲121之6號",
+    "eventWgsx": "120.15446310404437",
+    "eventWgsy": "23.24410355871621",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-12T09:20:44+08:00",
+    "atisUpdateTime": "2026-10-12T09:29:49+08:00"
+}

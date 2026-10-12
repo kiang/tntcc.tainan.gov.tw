@@ -1,0 +1,16 @@
+{
+    "eventId": "235027",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "安定區南178線至南133線配合新設管線工程(WR-115-0601-0103)",
+    "eventTownName": "安定區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22934345084437",
+    "eventWgsy": "23.083708470980838",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-12T09:19:10+08:00",
+    "atisUpdateTime": "2026-10-12T09:29:49+08:00"
+}
