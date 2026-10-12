@@ -1,0 +1,16 @@
+{
+    "eventId": "235235",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "銜接用戶管",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.25890080796559",
+    "eventWgsy": "23.016109014602534",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-12T14:13:39+08:00",
+    "atisUpdateTime": "2026-10-12T14:29:55+08:00"
+}
