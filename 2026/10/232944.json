@@ -1,0 +1,16 @@
+{
+    "eventId": "232944",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "埋設用戶電信引上配管",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.2332532620599",
+    "eventWgsy": "23.043841254762427",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-12T11:31:33+08:00",
+    "atisUpdateTime": "2026-10-12T11:44:04+08:00"
+}
