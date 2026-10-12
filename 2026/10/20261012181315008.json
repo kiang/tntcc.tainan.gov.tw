@@ -1,0 +1,16 @@
+{
+    "eventId": "20261012181315008",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "雜草(含廢棄物、墓地)",
+    "eventTownName": "新營區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.30762574471683",
+    "eventWgsy": "23.32261519980961",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-12T18:14:23+08:00",
+    "atisUpdateTime": "2026-10-12T18:29:26+08:00"
+}
