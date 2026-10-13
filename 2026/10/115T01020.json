@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01020",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "關帝殿 701台灣臺南市東區中華東路二段94號旁",
+    "eventWgsx": "120.23292609208127",
+    "eventWgsy": "22.985303741085556",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-13T08:27:03+08:00",
+    "atisUpdateTime": "2026-10-13T08:29:37+08:00"
+}
