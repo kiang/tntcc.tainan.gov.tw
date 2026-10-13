@@ -1,0 +1,16 @@
+{
+    "eventId": "230333",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "配合8M計畫道路埋設電信配管",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.29565452081482",
+    "eventWgsy": "22.974584855422325",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-13T10:29:42+08:00",
+    "atisUpdateTime": "2026-10-13T10:44:49+08:00"
+}
