@@ -1,0 +1,16 @@
+{
+    "eventId": "234876",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "吳玉芬給水",
+    "eventTownName": "關廟區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.29827968986018",
+    "eventWgsy": "22.98170744868644",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-13T15:38:06+08:00",
+    "atisUpdateTime": "2026-10-13T15:44:03+08:00"
+}
