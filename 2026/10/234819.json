@@ -1,0 +1,16 @@
+{
+    "eventId": "234819",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "銜接配管(S2L556182)",
+    "eventTownName": "新營區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.30021917449106",
+    "eventWgsy": "23.301542974180087",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-13T11:35:11+08:00",
+    "atisUpdateTime": "2026-10-13T11:44:28+08:00"
+}
