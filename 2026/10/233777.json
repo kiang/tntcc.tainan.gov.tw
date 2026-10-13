@@ -1,0 +1,16 @@
+{
+    "eventId": "233777",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "6260218台南市工務局電表移裝",
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.17894184486175",
+    "eventWgsy": "22.99747718151356",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-13T17:14:54+08:00",
+    "atisUpdateTime": "2026-10-13T17:44:27+08:00"
+}
