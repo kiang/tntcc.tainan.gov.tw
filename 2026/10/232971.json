@@ -1,0 +1,16 @@
+{
+    "eventId": "232971",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "臺南鐵路地下化延伸永康地區綜合規劃委託技術服務及配合工作-管線試挖",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.26202491233347",
+    "eventWgsy": "23.04548133187984",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-14T13:50:00+08:00",
+    "atisUpdateTime": "2026-10-14T13:59:29+08:00"
+}
