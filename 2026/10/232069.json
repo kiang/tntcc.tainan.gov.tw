@@ -1,0 +1,16 @@
+{
+    "eventId": "232069",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "臺南市官田區污水下水道系統(六甲分區)第三期分支管網及用戶接管工程第二標",
+    "eventTownName": "六甲區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.34732743058528",
+    "eventWgsy": "23.229677014136332",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-14T08:54:18+08:00",
+    "atisUpdateTime": "2026-10-14T08:59:58+08:00"
+}
