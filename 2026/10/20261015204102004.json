@@ -1,0 +1,16 @@
+{
+    "eventId": "20261015204102004",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "佳里區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.17047309841593",
+    "eventWgsy": "23.16946827133309",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-15T20:42:11+08:00",
+    "atisUpdateTime": "2026-10-15T20:44:59+08:00"
+}
