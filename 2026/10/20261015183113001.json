@@ -3,14 +3,14 @@
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "南區",
+    "eventTownName": "仁德區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.19850228538235",
-    "eventWgsy": "22.93295650853006",
+    "eventWgsx": "120.20090218448264",
+    "eventWgsy": "22.931102459909408",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-10-15T18:35:22+08:00",
-    "atisUpdateTime": "2026-10-15T18:44:43+08:00"
+    "atisUpdateTime": "2026-10-15T18:59:45+08:00"
 }
