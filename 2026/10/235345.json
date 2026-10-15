@@ -1,0 +1,16 @@
+{
+    "eventId": "235345",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "施造成給水",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.21278868816823",
+    "eventWgsy": "23.046262715631453",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-15T11:19:22+08:00",
+    "atisUpdateTime": "2026-10-15T11:29:37+08:00"
+}
