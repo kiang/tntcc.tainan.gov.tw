@@ -1,0 +1,16 @@
+{
+    "eventId": "234976",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "黃昱榜給水",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.1934590011383",
+    "eventWgsy": "23.06690749217649",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-15T14:13:50+08:00",
+    "atisUpdateTime": "2026-10-15T14:30:02+08:00"
+}
