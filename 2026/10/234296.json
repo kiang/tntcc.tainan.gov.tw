@@ -1,0 +1,16 @@
+{
+    "eventId": "234296",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "孔蓋提升新工法(S2D510263-S2L257036)",
+    "eventTownName": "白河區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.43281680392617",
+    "eventWgsy": "23.391130750950722",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-15T09:37:21+08:00",
+    "atisUpdateTime": "2026-10-15T09:44:24+08:00"
+}
