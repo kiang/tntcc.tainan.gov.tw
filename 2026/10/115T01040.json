@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01040",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市東區東安路與東平路口",
+    "eventWgsx": "120.22715209287097",
+    "eventWgsy": "22.99575273373016",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-16T16:20:49+08:00",
+    "atisUpdateTime": "2026-10-16T16:29:55+08:00"
+}
