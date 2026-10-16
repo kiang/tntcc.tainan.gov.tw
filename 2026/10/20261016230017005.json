@@ -1,0 +1,16 @@
+{
+    "eventId": "20261016230017005",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "工廠及倉庫(含石化工業設備設施)",
+    "eventTownName": "新市區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.33428889335343",
+    "eventWgsy": "23.082270506986166",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-16T23:02:00+08:00",
+    "atisUpdateTime": "2026-10-16T23:14:05+08:00"
+}
