@@ -1,0 +1,16 @@
+{
+    "eventId": "20261016090527003",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "善化區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.2974834784781",
+    "eventWgsy": "23.132566368748673",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-16T09:05:47+08:00",
+    "atisUpdateTime": "2026-10-16T09:14:33+08:00"
+}

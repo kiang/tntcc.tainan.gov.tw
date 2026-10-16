@@ -1,0 +1,16 @@
+{
+    "eventId": "20261016091203004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "一般(集合)住宅",
+    "eventTownName": "玉井區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.49728776988547",
+    "eventWgsy": "23.094059047630296",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-16T09:13:14+08:00",
+    "atisUpdateTime": "2026-10-16T09:14:33+08:00"
+}
