@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03137",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "山上區",
+    "eventSource": "PWB",
+    "eventLocation": "743台灣臺南市山上區山上里山上37之80號",
+    "eventWgsx": "120.35764607779184",
+    "eventWgsy": "23.09772066137799",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-16T12:37:26+08:00",
+    "atisUpdateTime": "2026-10-16T15:59:36+08:00"
+}
