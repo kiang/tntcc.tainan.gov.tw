@@ -3,14 +3,14 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "楠西區",
+    "eventTownName": "玉井區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.49296671852387",
-    "eventWgsy": "23.13794676852258",
+    "eventWgsx": "120.48246875530545",
+    "eventWgsy": "23.142400328244133",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-10-17T10:29:07+08:00",
-    "atisUpdateTime": "2026-10-17T10:30:01+08:00"
+    "atisUpdateTime": "2026-10-17T10:45:04+08:00"
 }
