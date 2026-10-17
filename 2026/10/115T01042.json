@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01042",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "708台灣臺南市安平區育平里健康三街186號",
+    "eventWgsx": "120.16855779995085",
+    "eventWgsy": "22.988933538724826",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-17T09:02:07+08:00",
+    "atisUpdateTime": "2026-10-17T09:14:42+08:00"
+}
