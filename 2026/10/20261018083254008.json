@@ -2,7 +2,7 @@
     "eventId": "20261018083254008",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "工廠及倉庫(含石化工業設備設施)",
+    "eventContent": "雜草(含廢棄物、墓地)",
     "eventTownName": "麻豆區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-10-18T08:34:13+08:00",
-    "atisUpdateTime": "2026-10-18T08:44:22+08:00"
+    "atisUpdateTime": "2026-10-18T08:59:23+08:00"
 }
