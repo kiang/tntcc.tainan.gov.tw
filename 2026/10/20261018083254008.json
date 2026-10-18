@@ -1,0 +1,16 @@
+{
+    "eventId": "20261018083254008",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "工廠及倉庫(含石化工業設備設施)",
+    "eventTownName": "麻豆區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.23996829776382",
+    "eventWgsy": "23.18535750079302",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-18T08:34:13+08:00",
+    "atisUpdateTime": "2026-10-18T08:44:22+08:00"
+}
