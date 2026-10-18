@@ -1,0 +1,16 @@
+{
+    "eventId": "20261018115431003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "雜草(含廢棄物、墓地)",
+    "eventTownName": "關廟區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.33072518142133",
+    "eventWgsy": "22.936991669751343",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-18T11:55:10+08:00",
+    "atisUpdateTime": "2026-10-18T11:59:45+08:00"
+}
