@@ -1,0 +1,16 @@
+{
+    "eventId": "234329",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "緊急工程",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23907494356818",
+    "eventWgsy": "22.9847303265683",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-19T12:33:27+08:00",
+    "atisUpdateTime": "2026-10-19T12:44:21+08:00"
+}
