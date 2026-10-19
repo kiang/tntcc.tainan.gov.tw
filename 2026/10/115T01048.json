@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01048",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "北區",
+    "eventSource": "PWB",
+    "eventLocation": "704台灣臺南市北區公園北路142號旁",
+    "eventWgsx": "120.20861259520761",
+    "eventWgsy": "23.005075427209526",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-19T09:15:53+08:00",
+    "atisUpdateTime": "2026-10-19T09:29:46+08:00"
+}

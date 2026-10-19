@@ -1,0 +1,16 @@
+{
+    "eventId": "234309",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "7260544台南市政府工務局增設",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.17859657329447",
+    "eventWgsy": "23.024011371575508",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-19T09:11:30+08:00",
+    "atisUpdateTime": "2026-10-19T09:29:46+08:00"
+}
