@@ -1,0 +1,16 @@
+{
+    "eventId": "234321",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "新元興、宏晟印刷、富立多媒體、邱志坤給水",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.21951014924402",
+    "eventWgsy": "23.053111532600024",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-19T08:10:49+08:00",
+    "atisUpdateTime": "2026-10-19T08:29:27+08:00"
+}
