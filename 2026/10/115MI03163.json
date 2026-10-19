@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03163",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市東區崇文里崇德路769號",
+    "eventWgsx": "120.22760839257361",
+    "eventWgsy": "22.967130453926384",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-19T09:12:37+08:00",
+    "atisUpdateTime": "2026-10-19T16:14:16+08:00"
+}

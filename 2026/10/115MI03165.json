@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03165",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "709台灣臺南市安南區公學路三段",
+    "eventWgsx": "120.19015209801958",
+    "eventWgsy": "23.068227682704325",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-19T09:18:29+08:00",
+    "atisUpdateTime": "2026-10-19T16:14:16+08:00"
+}
