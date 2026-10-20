@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01054",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "中西區西門路一段與樹林街二段口",
+    "eventWgsx": "120.19764409638285",
+    "eventWgsy": "22.986602740279142",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-20T09:05:30+08:00",
+    "atisUpdateTime": "2026-10-20T09:14:48+08:00"
+}
