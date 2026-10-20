@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01056",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "709台灣臺南市安南區溪心里安中路二段7號",
+    "eventWgsx": "120.1903328904965",
+    "eventWgsy": "23.045684904440545",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-20T10:14:57+08:00",
+    "atisUpdateTime": "2026-10-20T10:29:26+08:00"
+}
