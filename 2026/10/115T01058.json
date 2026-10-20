@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01058",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "中西區湖美街81號",
+    "eventWgsx": "120.18001009866157",
+    "eventWgsy": "23.00105473013601",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-20T13:26:53+08:00",
+    "atisUpdateTime": "2026-10-20T13:44:24+08:00"
+}
