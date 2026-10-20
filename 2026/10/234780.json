@@ -1,0 +1,16 @@
+{
+    "eventId": "234780",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "曾秀芬給水",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23256037203457",
+    "eventWgsy": "22.98623944831541",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-20T13:45:22+08:00",
+    "atisUpdateTime": "2026-10-20T13:59:39+08:00"
+}
