@@ -1,0 +1,16 @@
+{
+    "eventId": "20261020105459005",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "後壁區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.35249983702506",
+    "eventWgsy": "23.338399985012963",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-20T10:56:16+08:00",
+    "atisUpdateTime": "2026-10-20T10:59:38+08:00"
+}
