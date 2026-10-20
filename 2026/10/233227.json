@@ -1,0 +1,16 @@
+{
+    "eventId": "233227",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "配合警察局路口監控箱埋設電信配管",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.2589538275863",
+    "eventWgsy": "23.000142445304366",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-20T08:54:30+08:00",
+    "atisUpdateTime": "2026-10-20T08:59:45+08:00"
+}
