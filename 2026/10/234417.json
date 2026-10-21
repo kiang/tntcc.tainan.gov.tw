@@ -1,0 +1,16 @@
+{
+    "eventId": "234417",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "銜接用戶管(NFQ11K5D2D)",
+    "eventTownName": "關廟區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.30238890715496",
+    "eventWgsy": "22.99619241547127",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-21T08:55:22+08:00",
+    "atisUpdateTime": "2026-10-21T09:14:15+08:00"
+}
