@@ -1,0 +1,16 @@
+{
+    "eventId": "234290",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "警察局監控埋管工程",
+    "eventTownName": "關廟區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.32622804757672",
+    "eventWgsy": "22.963305552631024",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-21T11:39:51+08:00",
+    "atisUpdateTime": "2026-10-21T11:59:05+08:00"
+}
