@@ -1,0 +1,16 @@
+{
+    "eventId": "20261021223310008",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "一般(集合)住宅",
+    "eventTownName": "六甲區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.31181904496641",
+    "eventWgsy": "23.25197615451772",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-21T22:34:14+08:00",
+    "atisUpdateTime": "2026-10-21T22:45:03+08:00"
+}
