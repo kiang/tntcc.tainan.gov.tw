@@ -1,0 +1,16 @@
+{
+    "eventId": "214158",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "新工法(S2D305199-S2L255085)",
+    "eventTownName": "六甲區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.34131277795812",
+    "eventWgsy": "23.222944342061442",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-21T10:21:23+08:00",
+    "atisUpdateTime": "2026-10-21T10:30:00+08:00"
+}
