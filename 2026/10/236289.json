@@ -1,0 +1,16 @@
+{
+    "eventId": "236289",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "電纜分隊人孔工作",
+    "eventTownName": "善化區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.30939839082662",
+    "eventWgsy": "23.13022482439373",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-21T16:04:08+08:00",
+    "atisUpdateTime": "2026-10-21T16:14:16+08:00"
+}
