@@ -1,0 +1,16 @@
+{
+    "eventId": "20261021142242001",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "其他",
+    "eventTownName": "仁德區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.25611969464701",
+    "eventWgsy": "22.971516256334656",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-21T14:23:47+08:00",
+    "atisUpdateTime": "2026-10-21T14:29:03+08:00"
+}

@@ -1,0 +1,16 @@
+{
+    "eventId": "235323",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "8260482台南市政府水利局線路遷移",
+    "eventTownName": "七股區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.12759428375449",
+    "eventWgsy": "23.135287938742913",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-21T14:14:19+08:00",
+    "atisUpdateTime": "2026-10-21T14:29:59+08:00"
+}

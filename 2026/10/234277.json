@@ -1,0 +1,16 @@
+{
+    "eventId": "234277",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "劉玫秀給水",
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22912481204771",
+    "eventWgsy": "22.972957734693473",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-21T14:17:55+08:00",
+    "atisUpdateTime": "2026-10-21T14:29:59+08:00"
+}
