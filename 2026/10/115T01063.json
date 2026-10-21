@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01063",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "緊急配合工程",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市東區前鋒路153–155號",
+    "eventWgsx": "120.21412909448792",
+    "eventWgsy": "22.999547731092946",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-21T09:33:29+08:00",
+    "atisUpdateTime": "2026-10-21T09:44:32+08:00"
+}
