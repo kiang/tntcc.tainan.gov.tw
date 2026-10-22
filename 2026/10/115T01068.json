@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01068",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "710台灣臺南市永康區永明里國民路199號",
+    "eventWgsx": "120.26319578871855",
+    "eventWgsy": "23.02353381401397",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-22T08:21:43+08:00",
+    "atisUpdateTime": "2026-10-22T08:44:15+08:00"
+}
