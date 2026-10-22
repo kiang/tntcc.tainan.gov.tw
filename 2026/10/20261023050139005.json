@@ -1,0 +1,16 @@
+{
+    "eventId": "20261023050139005",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "一般(集合)住宅",
+    "eventTownName": "麻豆區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.2527653906491",
+    "eventWgsy": "23.18294933774436",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-23T05:02:09+08:00",
+    "atisUpdateTime": "2026-10-23T05:14:57+08:00"
+}
