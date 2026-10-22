@@ -1,0 +1,16 @@
+{
+    "eventId": "20261022074709004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "新市區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.27299990188743",
+    "eventWgsy": "23.061299944372145",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-22T07:50:32+08:00",
+    "atisUpdateTime": "2026-10-22T07:59:19+08:00"
+}

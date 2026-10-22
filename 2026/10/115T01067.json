@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01067",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市東區崇學路239巷29號",
+    "eventWgsx": "120.22388009315071",
+    "eventWgsy": "22.981845743553972",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-22T07:59:12+08:00",
+    "atisUpdateTime": "2026-10-22T07:59:57+08:00"
+}
