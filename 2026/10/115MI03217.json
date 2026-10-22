@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03217",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市南區大同路二段189號",
+    "eventWgsx": "120.21391209431489",
+    "eventWgsy": "22.976355747459184",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-22T14:16:01+08:00",
+    "atisUpdateTime": "2026-10-22T16:59:22+08:00"
+}
