@@ -1,0 +1,16 @@
+{
+    "eventId": "207362",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "臺南鹽水BOT污水管網工程-第三期用戶接管工程",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "海環街715巷120~134-1號",
+    "eventWgsx": "120.1831829276406",
+    "eventWgsy": "23.04570886960632",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-22T08:42:39+08:00",
+    "atisUpdateTime": "2026-10-22T08:59:23+08:00"
+}
