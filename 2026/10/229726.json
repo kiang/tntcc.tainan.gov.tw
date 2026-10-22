@@ -1,0 +1,16 @@
+{
+    "eventId": "229726",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "新工法(S2D505002-S2L355060)",
+    "eventTownName": "官田區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.29576535631614",
+    "eventWgsy": "23.186289021329173",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-22T11:12:19+08:00",
+    "atisUpdateTime": "2026-10-22T11:30:04+08:00"
+}
