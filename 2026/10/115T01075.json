@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01075",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "臺南市東區崇學國民小學 701台灣臺南市東區崇善路182巷9號",
+    "eventWgsx": "120.22505009298077",
+    "eventWgsy": "22.978561745867783",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-23T10:44:20+08:00",
+    "atisUpdateTime": "2026-10-23T10:59:39+08:00"
+}
