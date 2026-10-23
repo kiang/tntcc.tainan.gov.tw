@@ -1,0 +1,16 @@
+{
+    "eventId": "233500",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "臺南市永康區正北一路FE 幹線新建工程",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.26567172959378",
+    "eventWgsy": "23.055676712526758",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-23T11:16:33+08:00",
+    "atisUpdateTime": "2026-10-23T11:29:51+08:00"
+}
