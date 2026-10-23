@@ -1,0 +1,16 @@
+{
+    "eventId": "20261023102523003",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "下營區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.2657998807799",
+    "eventWgsy": "23.223699982474432",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-23T10:26:05+08:00",
+    "atisUpdateTime": "2026-10-23T10:29:33+08:00"
+}
