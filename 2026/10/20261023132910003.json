@@ -1,0 +1,16 @@
+{
+    "eventId": "20261023132910003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "其他",
+    "eventTownName": "安南區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.21793166563566",
+    "eventWgsy": "23.062376680136243",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-23T13:29:53+08:00",
+    "atisUpdateTime": "2026-10-23T13:44:55+08:00"
+}
