@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01073",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "臺南市崇明國中 701台灣臺南市東區崇明路崇明國中對面",
+    "eventWgsx": "120.22568209282812",
+    "eventWgsy": "22.969598752190628",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-23T07:56:14+08:00",
+    "atisUpdateTime": "2026-10-23T07:59:49+08:00"
+}
