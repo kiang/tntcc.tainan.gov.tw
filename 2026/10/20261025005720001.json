@@ -1,0 +1,16 @@
+{
+    "eventId": "20261025005720001",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "其他",
+    "eventTownName": "安平區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.18103740342698",
+    "eventWgsy": "22.989249305011075",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-25T00:59:13+08:00",
+    "atisUpdateTime": "2026-10-25T01:44:35+08:00"
+}
