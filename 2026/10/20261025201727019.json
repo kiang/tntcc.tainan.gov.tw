@@ -1,0 +1,16 @@
+{
+    "eventId": "20261025201727019",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "一般(集合)住宅",
+    "eventTownName": "安定區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.23543932081125",
+    "eventWgsy": "23.091884443270377",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-25T20:18:44+08:00",
+    "atisUpdateTime": "2026-10-25T20:29:41+08:00"
+}
