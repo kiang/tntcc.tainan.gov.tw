@@ -1,0 +1,16 @@
+{
+    "eventId": "20261026121742004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "關廟區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.34658043191949",
+    "eventWgsy": "22.961072880439545",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-26T12:19:41+08:00",
+    "atisUpdateTime": "2026-10-26T12:29:46+08:00"
+}
