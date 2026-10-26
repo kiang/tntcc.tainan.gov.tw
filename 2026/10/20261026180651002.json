@@ -1,0 +1,16 @@
+{
+    "eventId": "20261026180651002",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "白河區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.40368165795961",
+    "eventWgsy": "23.396970781184223",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-26T18:07:18+08:00",
+    "atisUpdateTime": "2026-10-26T18:14:34+08:00"
+}
