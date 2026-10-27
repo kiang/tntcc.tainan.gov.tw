@@ -1,0 +1,16 @@
+{
+    "eventId": "230973",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "新工法(S2D505009-S2L456946)",
+    "eventTownName": "東山區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.44439212416252",
+    "eventWgsy": "23.263175397673393",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-27T10:25:42+08:00",
+    "atisUpdateTime": "2026-10-27T10:29:25+08:00"
+}
