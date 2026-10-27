@@ -1,0 +1,16 @@
+{
+    "eventId": "235279",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "臺南孝智161kV及22.8kV共同路徑電纜管路挖埋土木工程",
+    "eventTownName": "學甲區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.19763227080134",
+    "eventWgsy": "23.225497609758666",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-27T09:30:57+08:00",
+    "atisUpdateTime": "2026-10-27T09:44:59+08:00"
+}
