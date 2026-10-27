@@ -1,0 +1,16 @@
+{
+    "eventId": "186770",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "臺南鹽水BOT污水管網工程－第四期管網工程",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "起功安2街150號(109號旁、112號)訖仁安4街18號(旁仁安2街25號旁)",
+    "eventWgsx": "120.17951824192575",
+    "eventWgsy": "23.05114258606431",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-27T08:44:50+08:00",
+    "atisUpdateTime": "2026-10-27T08:59:42+08:00"
+}

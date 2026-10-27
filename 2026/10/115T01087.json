@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01087",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "瓦斯漏氣",
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "702台灣臺南市南區敬南街32號",
+    "eventWgsx": "120.18919609740632",
+    "eventWgsy": "22.98595374076343",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-27T08:48:57+08:00",
+    "atisUpdateTime": "2026-10-27T08:59:42+08:00"
+}

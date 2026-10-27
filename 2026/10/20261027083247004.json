@@ -3,14 +3,14 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "佳里區",
+    "eventTownName": "西港區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.17652747598017",
-    "eventWgsy": "23.162588558424062",
+    "eventWgsx": "120.20284970242719",
+    "eventWgsy": "23.123230321849732",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-10-27T08:33:42+08:00",
-    "atisUpdateTime": "2026-10-27T08:44:40+08:00"
+    "atisUpdateTime": "2026-10-27T08:59:44+08:00"
 }
