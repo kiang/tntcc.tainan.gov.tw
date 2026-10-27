@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01094",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "西灣里永康區臺南市永康區永大路二段432號",
+    "eventWgsx": "120.26212068871354",
+    "eventWgsy": "23.006770725846334",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-27T14:03:05+08:00",
+    "atisUpdateTime": "2026-10-27T14:14:33+08:00"
+}
