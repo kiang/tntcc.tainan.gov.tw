@@ -1,0 +1,16 @@
+{
+    "eventId": "234915",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "安定區南133及中榮里許中營汰換管線工程",
+    "eventTownName": "安定區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.24108092997693",
+    "eventWgsy": "23.09609774258058",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-27T08:33:34+08:00",
+    "atisUpdateTime": "2026-10-27T08:44:38+08:00"
+}
