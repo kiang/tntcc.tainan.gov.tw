@@ -1,0 +1,16 @@
+{
+    "eventId": "235787",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "埋設電信交接箱電力管",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22002553396281",
+    "eventWgsy": "22.962126013996137",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-28T14:43:07+08:00",
+    "atisUpdateTime": "2026-10-28T14:59:30+08:00"
+}
