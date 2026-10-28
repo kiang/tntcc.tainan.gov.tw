@@ -1,0 +1,16 @@
+{
+    "eventId": "234537",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "配合遷移電信交接箱",
+    "eventTownName": "善化區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.30401346123563",
+    "eventWgsy": "23.154619076917776",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-28T08:31:28+08:00",
+    "atisUpdateTime": "2026-10-28T08:44:33+08:00"
+}
