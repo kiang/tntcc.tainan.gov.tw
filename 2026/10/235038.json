@@ -1,0 +1,16 @@
+{
+    "eventId": "235038",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "修配管(S2D521758)",
+    "eventTownName": "玉井區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.46662344660766",
+    "eventWgsy": "23.12431391611234",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-28T15:35:52+08:00",
+    "atisUpdateTime": "2026-10-28T15:44:11+08:00"
+}
