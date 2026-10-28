@@ -1,0 +1,16 @@
+{
+    "eventId": "20261028142331008",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "工廠及倉庫(含石化工業設備設施)",
+    "eventTownName": "安南區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.14752707883949",
+    "eventWgsy": "23.038047421834055",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-28T14:26:54+08:00",
+    "atisUpdateTime": "2026-10-28T14:29:15+08:00"
+}
