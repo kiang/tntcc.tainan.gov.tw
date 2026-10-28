@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03233",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "歸仁區",
+    "eventSource": "PWB",
+    "eventLocation": "臺南市歸仁區歸仁國中 711台灣臺南市歸仁區文化街二段2號",
+    "eventWgsx": "120.29350208462064",
+    "eventWgsy": "22.969772751857935",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-28T11:50:48+08:00",
+    "atisUpdateTime": "2026-10-28T12:14:48+08:00"
+}
