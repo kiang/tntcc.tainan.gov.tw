@@ -1,0 +1,16 @@
+{
+    "eventId": "20261028100110004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "其他",
+    "eventTownName": "關廟區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.32535177529843",
+    "eventWgsy": "22.955426524693603",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-28T10:01:43+08:00",
+    "atisUpdateTime": "2026-10-28T10:14:39+08:00"
+}
