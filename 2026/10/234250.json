@@ -1,0 +1,16 @@
+{
+    "eventId": "234250",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "電纜分隊人孔工作",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.2358337859424",
+    "eventWgsy": "22.98858134510938",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-29T08:44:47+08:00",
+    "atisUpdateTime": "2026-10-29T08:59:53+08:00"
+}
