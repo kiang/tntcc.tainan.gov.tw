@@ -1,0 +1,16 @@
+{
+    "eventId": "235421",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "埋設電桿引上管(客訴遷移)",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.20719838367211",
+    "eventWgsy": "23.026127159088574",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-29T11:12:12+08:00",
+    "atisUpdateTime": "2026-10-29T11:29:24+08:00"
+}
