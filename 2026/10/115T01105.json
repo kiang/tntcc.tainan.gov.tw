@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01105",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "瓦斯漏氣",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "710台灣臺南市永康區中正路886號",
+    "eventWgsx": "120.23951609173136",
+    "eventWgsy": "23.039291702968193",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-29T14:00:52+08:00",
+    "atisUpdateTime": "2026-10-29T14:14:13+08:00"
+}
