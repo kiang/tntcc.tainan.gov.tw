@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03247",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "仁德區",
+    "eventSource": "PWB",
+    "eventLocation": "717台灣臺南市仁德區虎山一街16號",
+    "eventWgsx": "120.23060339200018",
+    "eventWgsy": "22.94212707156112",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-29T12:15:29+08:00",
+    "atisUpdateTime": "2026-10-29T15:29:56+08:00"
+}
