@@ -1,0 +1,16 @@
+{
+    "eventId": "20261029150045002",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "工廠及倉庫(含石化工業設備設施)",
+    "eventTownName": "學甲區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.16180434484322",
+    "eventWgsy": "23.24451271685732",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-29T15:01:26+08:00",
+    "atisUpdateTime": "2026-10-29T15:14:07+08:00"
+}
