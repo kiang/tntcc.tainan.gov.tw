@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01104",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "702台灣臺南市南區永成路三段25巷40號",
+    "eventWgsx": "120.19463009654189",
+    "eventWgsy": "22.962950756978724",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-29T11:37:07+08:00",
+    "atisUpdateTime": "2026-10-29T11:44:31+08:00"
+}
