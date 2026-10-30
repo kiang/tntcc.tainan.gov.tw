@@ -2,7 +2,7 @@
     "eventId": "20261030172332005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "汽機車",
+    "eventContent": "誤(謊)報",
     "eventTownName": "新營區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-10-30T17:24:27+08:00",
-    "atisUpdateTime": "2026-10-30T17:29:41+08:00"
+    "atisUpdateTime": "2026-10-30T17:44:42+08:00"
 }
