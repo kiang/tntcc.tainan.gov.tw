@@ -1,0 +1,16 @@
+{
+    "eventId": "235190",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "新工法孔蓋調升(S2D547205)",
+    "eventTownName": "新營區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.30412693741353",
+    "eventWgsy": "23.30941752771621",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-30T11:39:57+08:00",
+    "atisUpdateTime": "2026-10-30T11:59:05+08:00"
+}
