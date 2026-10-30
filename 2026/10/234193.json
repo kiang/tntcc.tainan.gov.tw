@@ -1,0 +1,16 @@
+{
+    "eventId": "234193",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "孔蓋提升新工法(S2D510259-S2L552157)",
+    "eventTownName": "鹽水區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.2588983932932",
+    "eventWgsy": "23.30073254658105",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-30T15:23:34+08:00",
+    "atisUpdateTime": "2026-10-30T15:29:23+08:00"
+}
