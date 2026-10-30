@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01109",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "中西區仁愛街29號",
+    "eventWgsx": "120.19768609645665",
+    "eventWgsy": "22.99559473393375",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-30T08:39:16+08:00",
+    "atisUpdateTime": "2026-10-30T09:00:05+08:00"
+}
