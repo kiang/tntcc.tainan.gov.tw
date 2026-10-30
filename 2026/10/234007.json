@@ -1,0 +1,16 @@
+{
+    "eventId": "234007",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "修配管及新設配管(S2D510251-S2L158187)",
+    "eventTownName": "白河區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.41586160912132",
+    "eventWgsy": "23.3513599707149",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-30T08:25:31+08:00",
+    "atisUpdateTime": "2026-10-30T08:29:52+08:00"
+}
