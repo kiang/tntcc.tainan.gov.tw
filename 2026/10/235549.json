@@ -1,0 +1,16 @@
+{
+    "eventId": "235549",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "埋管電杆引上(S2D503011-S2L557067)",
+    "eventTownName": "白河區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.40564392243263",
+    "eventWgsy": "23.35474385712788",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-10-31T15:35:57+08:00",
+    "atisUpdateTime": "2026-10-31T15:44:37+08:00"
+}
