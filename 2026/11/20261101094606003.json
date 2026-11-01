@@ -1,0 +1,16 @@
+{
+    "eventId": "20261101094606003",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "東山區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.39571185518884",
+    "eventWgsy": "23.29300895877798",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-01T09:47:18+08:00",
+    "atisUpdateTime": "2026-11-01T09:59:31+08:00"
+}

@@ -1,0 +1,16 @@
+{
+    "eventId": "235636",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "SYJ1-既有管線改善作業",
+    "eventTownName": "北門區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.12955469603808",
+    "eventWgsy": "23.26941300004767",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-01T09:47:13+08:00",
+    "atisUpdateTime": "2026-11-01T09:59:57+08:00"
+}
