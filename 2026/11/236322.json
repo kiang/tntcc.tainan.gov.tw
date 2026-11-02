@@ -1,0 +1,16 @@
+{
+    "eventId": "236322",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "緊急工程",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.19032543668058",
+    "eventWgsy": "23.045743922225842",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-02T16:34:10+08:00",
+    "atisUpdateTime": "2026-11-02T16:44:24+08:00"
+}
