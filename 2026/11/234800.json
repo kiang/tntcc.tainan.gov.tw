@@ -1,0 +1,16 @@
+{
+    "eventId": "234800",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "埋設路燈桿引上管",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.21044959108163",
+    "eventWgsy": "22.991309186221002",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-02T10:08:36+08:00",
+    "atisUpdateTime": "2026-11-02T10:14:50+08:00"
+}
