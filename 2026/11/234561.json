@@ -1,0 +1,16 @@
+{
+    "eventId": "234561",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "埋設電桿引上管",
+    "eventTownName": "仁德區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23999440375516",
+    "eventWgsy": "22.924334226233697",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-02T13:50:17+08:00",
+    "atisUpdateTime": "2026-11-02T14:00:01+08:00"
+}
