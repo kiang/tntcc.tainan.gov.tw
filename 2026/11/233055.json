@@ -1,0 +1,16 @@
+{
+    "eventId": "233055",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "纜線障礙查修須提升手孔",
+    "eventTownName": "北區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.21958690902063",
+    "eventWgsy": "23.00704325732484",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-02T11:21:28+08:00",
+    "atisUpdateTime": "2026-11-02T11:29:55+08:00"
+}
