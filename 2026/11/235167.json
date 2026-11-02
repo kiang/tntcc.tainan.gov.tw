@@ -1,0 +1,16 @@
+{
+    "eventId": "235167",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "大亞電纜給水",
+    "eventTownName": "歸仁區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.28410466260839",
+    "eventWgsy": "22.97049246313641",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-02T08:04:49+08:00",
+    "atisUpdateTime": "2026-11-02T08:14:37+08:00"
+}
