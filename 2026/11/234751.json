@@ -1,0 +1,16 @@
+{
+    "eventId": "234751",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "安北路(安平路~同平路)手孔調降工程",
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.1649941562035",
+    "eventWgsy": "23.002113535437495",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-02T08:36:19+08:00",
+    "atisUpdateTime": "2026-11-02T08:44:50+08:00"
+}
