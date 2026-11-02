@@ -1,0 +1,16 @@
+{
+    "eventId": "236259",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "截斷氣源",
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.16941224710915",
+    "eventWgsy": "22.991201937640017",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-02T09:00:50+08:00",
+    "atisUpdateTime": "2026-11-02T09:14:08+08:00"
+}
