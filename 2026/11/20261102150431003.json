@@ -1,0 +1,16 @@
+{
+    "eventId": "20261102150431003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "新化區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.3426562124164",
+    "eventWgsy": "23.06642296230526",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-02T15:06:00+08:00",
+    "atisUpdateTime": "2026-11-02T15:14:21+08:00"
+}
