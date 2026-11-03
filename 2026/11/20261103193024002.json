@@ -1,0 +1,16 @@
+{
+    "eventId": "20261103193024002",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "永康區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.25500129611392",
+    "eventWgsy": "23.000983560424196",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-03T19:30:50+08:00",
+    "atisUpdateTime": "2026-11-03T19:44:52+08:00"
+}
