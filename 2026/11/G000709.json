@@ -1,0 +1,16 @@
+{
+    "eventId": "G000709",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "永大路 中山南路至永康交流道(北向) 發生壅塞",
+    "eventTownName": "永康區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.26065957002425",
+    "eventWgsy": "23.02740689097431",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-04T07:30:57+08:00",
+    "atisUpdateTime": "2026-11-04T07:44:40+08:00"
+}
