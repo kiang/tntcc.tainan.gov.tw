@@ -1,0 +1,16 @@
+{
+    "eventId": "GN00004",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "北外環 北外環車道至北外環路口 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.25044459526453",
+    "eventWgsy": "23.06044341671396",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-03T17:05:58+08:00",
+    "atisUpdateTime": "2026-11-03T17:14:42+08:00"
+}
