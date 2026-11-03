@@ -1,0 +1,16 @@
+{
+    "eventId": "20261103222039004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "雜草(含廢棄物、墓地)",
+    "eventTownName": "玉井區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.43954742845119",
+    "eventWgsy": "23.13378140661602",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-03T22:22:15+08:00",
+    "atisUpdateTime": "2026-11-03T22:29:14+08:00"
+}
