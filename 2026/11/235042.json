@@ -1,0 +1,16 @@
+{
+    "eventId": "235042",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "世平二街20號旁管道挖埋工程",
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.1507102715499",
+    "eventWgsy": "22.995830475105414",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-03T13:46:29+08:00",
+    "atisUpdateTime": "2026-11-03T13:59:59+08:00"
+}
