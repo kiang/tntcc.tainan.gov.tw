@@ -1,0 +1,16 @@
+{
+    "eventId": "GX00065-W1",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "台86線西向\/W1 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.32239609325411",
+    "eventWgsy": "22.976631195199207",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-03T17:25:57+08:00",
+    "atisUpdateTime": "2026-11-03T17:29:57+08:00"
+}
