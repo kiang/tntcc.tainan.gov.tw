@@ -3,14 +3,14 @@
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "鹽水區",
+    "eventTownName": "義竹鄉",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.2728998223589",
-    "eventWgsy": "23.352599908068843",
+    "eventWgsx": "120.2782738348371",
+    "eventWgsy": "23.35109692782752",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-11-03T17:54:05+08:00",
-    "atisUpdateTime": "2026-11-03T18:14:42+08:00"
+    "atisUpdateTime": "2026-11-03T18:29:43+08:00"
 }
