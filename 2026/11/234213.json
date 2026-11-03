@@ -1,0 +1,16 @@
+{
+    "eventId": "234213",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "協成木器行給水",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.19954082158928",
+    "eventWgsy": "23.07615421439853",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-03T08:11:38+08:00",
+    "atisUpdateTime": "2026-11-03T08:29:33+08:00"
+}
