@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000138",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "中正路(新行街-中山北路) 發生壅塞",
+    "eventTownName": "永康區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.24052493388179",
+    "eventWgsy": "23.038320063782947",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-03T12:40:57+08:00",
+    "atisUpdateTime": "2026-11-03T12:44:47+08:00"
+}
