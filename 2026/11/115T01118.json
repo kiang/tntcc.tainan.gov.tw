@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01118",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "709台灣臺南市安南區媽祖宮里北汕尾三路532號往北50公尺",
+    "eventWgsx": "120.14208180383717",
+    "eventWgsy": "23.05812088998502",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-03T10:18:28+08:00",
+    "atisUpdateTime": "2026-11-03T10:29:49+08:00"
+}
