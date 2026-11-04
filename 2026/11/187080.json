@@ -1,0 +1,16 @@
+{
+    "eventId": "187080",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "臺南鹽水BOT污水管網工程－第四期管網工程",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "起本原街3段234巷98號訖本原街3段234巷106弄84、18號(旁及與28號旁)",
+    "eventWgsx": "120.1730795739291",
+    "eventWgsy": "23.054220199794102",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-04T08:33:51+08:00",
+    "atisUpdateTime": "2026-11-04T08:44:37+08:00"
+}
