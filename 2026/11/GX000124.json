@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000124",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "國8+國1 永康交流道-南科聯絡道 發生壅塞",
+    "eventTownName": "新市區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.25225273376098",
+    "eventWgsy": "23.04180635535271",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-04T08:00:57+08:00",
+    "atisUpdateTime": "2026-11-04T08:14:59+08:00"
+}
