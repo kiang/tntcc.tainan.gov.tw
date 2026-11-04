@@ -1,0 +1,16 @@
+{
+    "eventId": "234234",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "銜接用戶管--總承建設(劉安琪)",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.14367105955586",
+    "eventWgsy": "23.075932040336163",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-04T16:42:50+08:00",
+    "atisUpdateTime": "2026-11-04T16:59:53+08:00"
+}
