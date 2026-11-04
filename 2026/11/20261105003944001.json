@@ -1,0 +1,16 @@
+{
+    "eventId": "20261105003944001",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "一般(集合)住宅",
+    "eventTownName": "七股區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.14951966523506",
+    "eventWgsy": "23.148974484466134",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T00:40:18+08:00",
+    "atisUpdateTime": "2026-11-05T00:44:15+08:00"
+}
