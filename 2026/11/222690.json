@@ -1,0 +1,16 @@
+{
+    "eventId": "222690",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "南區福吉路及建南街等汰換管線工程",
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.1928338381857",
+    "eventWgsy": "22.984570282359087",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-04T08:49:31+08:00",
+    "atisUpdateTime": "2026-11-04T08:59:41+08:00"
+}
