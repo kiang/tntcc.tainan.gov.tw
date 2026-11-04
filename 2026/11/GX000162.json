@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000162",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "正南三路(鹽信街-中正南路) 發生壅塞",
+    "eventTownName": "永康",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.23320354048744",
+    "eventWgsy": "23.032981875035194",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-04T10:35:58+08:00",
+    "atisUpdateTime": "2026-11-04T10:44:58+08:00"
+}
