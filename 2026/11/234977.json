@@ -1,0 +1,16 @@
+{
+    "eventId": "234977",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "孔蓋提升新工法(S2D510278-S2L558261)",
+    "eventTownName": "後壁區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.32801218434638",
+    "eventWgsy": "23.339617166306507",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-04T12:15:13+08:00",
+    "atisUpdateTime": "2026-11-04T12:29:06+08:00"
+}
