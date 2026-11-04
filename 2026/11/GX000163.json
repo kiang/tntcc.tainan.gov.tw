@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000163",
+    "eventType": "JAM",
+    "eventSubType": "HeavyJam",
+    "eventContent": "國1仁德南向入口 發生重度壅塞",
+    "eventTownName": "仁德",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.24841834493121",
+    "eventWgsy": "22.972414993049295",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-04T18:21:58+08:00",
+    "atisUpdateTime": "2026-11-04T18:29:54+08:00"
+}
