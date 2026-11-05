@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03328",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "臺南市安平區西門實驗小學 708台灣臺南市安平區王城里",
+    "eventWgsx": "120.16001510112063",
+    "eventWgsy": "23.002673729055505",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T11:52:02+08:00",
+    "atisUpdateTime": "2026-11-05T16:29:41+08:00"
+}
