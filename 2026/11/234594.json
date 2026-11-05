@@ -1,0 +1,16 @@
+{
+    "eventId": "234594",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "曾國猛給水",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22716729820483",
+    "eventWgsy": "23.056116203159505",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T15:26:05+08:00",
+    "atisUpdateTime": "2026-11-05T15:29:58+08:00"
+}

@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01131",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "緊急配合工程",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "709台灣臺南市安南區四草大道",
+    "eventWgsx": "120.1326161046304",
+    "eventWgsy": "23.018756717790534",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T15:11:43+08:00",
+    "atisUpdateTime": "2026-11-05T15:29:58+08:00"
+}
