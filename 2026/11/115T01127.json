@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01127",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "其他",
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "台南市長榮路二段32巷71號",
+    "eventWgsx": "120.18496109743268",
+    "eventWgsy": "22.930863779651467",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T09:35:16+08:00",
+    "atisUpdateTime": "2026-11-05T09:44:44+08:00"
+}
