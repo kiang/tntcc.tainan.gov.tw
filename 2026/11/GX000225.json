@@ -1,8 +1,8 @@
 {
     "eventId": "GX000225",
     "eventType": "JAM",
-    "eventSubType": "HeavyJam",
-    "eventContent": "中華東-裕永(忠孝) (西向) 發生重度壅塞",
+    "eventSubType": "Jam",
+    "eventContent": "中華東-裕永(忠孝) (西向) 發生壅塞",
     "eventTownName": "",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-11-05T09:30:58+08:00",
-    "atisUpdateTime": "2026-11-05T09:44:47+08:00"
+    "eventHappenTime": "2026-11-05T10:00:57+08:00",
+    "atisUpdateTime": "2026-11-05T10:14:36+08:00"
 }
