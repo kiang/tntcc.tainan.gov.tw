@@ -1,0 +1,16 @@
+{
+    "eventId": "234970",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "台南市永康區忠義街、華興街手孔提升工程",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23668858455407",
+    "eventWgsy": "23.000723316276638",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T10:31:27+08:00",
+    "atisUpdateTime": "2026-11-05T10:44:28+08:00"
+}
