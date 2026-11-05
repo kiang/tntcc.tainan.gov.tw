@@ -1,0 +1,16 @@
+{
+    "eventId": "234205",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "麗明營造給水",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23068892182485",
+    "eventWgsy": "23.06437048897106",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T13:31:28+08:00",
+    "atisUpdateTime": "2026-11-05T13:44:49+08:00"
+}
