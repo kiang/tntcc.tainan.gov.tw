@@ -1,0 +1,16 @@
+{
+    "eventId": "234320",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "吳宗明給水",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.21954194043923",
+    "eventWgsy": "23.07323656527046",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T08:05:58+08:00",
+    "atisUpdateTime": "2026-11-05T08:15:04+08:00"
+}
