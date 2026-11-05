@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03332",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市東區裕農路145號",
+    "eventWgsx": "120.22838409264304",
+    "eventWgsy": "22.986504740252283",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T16:20:44+08:00",
+    "atisUpdateTime": "2026-11-05T16:59:05+08:00"
+}
