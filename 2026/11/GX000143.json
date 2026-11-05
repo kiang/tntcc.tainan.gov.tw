@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000143",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "國1永康北向出口(往北區) 發生壅塞",
+    "eventTownName": "永康區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.24958650953258",
+    "eventWgsy": "23.031542322813042",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T07:55:58+08:00",
+    "atisUpdateTime": "2026-11-05T07:59:39+08:00"
+}
