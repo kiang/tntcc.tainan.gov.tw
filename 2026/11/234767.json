@@ -1,0 +1,16 @@
+{
+    "eventId": "234767",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "七股區173縣道新設400mm管線工程(WQ-115-061-0008、WR-115-0601-0031)",
+    "eventTownName": "七股區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.1435229239912",
+    "eventWgsy": "23.099091418587758",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T08:16:49+08:00",
+    "atisUpdateTime": "2026-11-05T08:29:10+08:00"
+}
