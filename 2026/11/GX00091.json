@@ -1,0 +1,16 @@
+{
+    "eventId": "GX00091",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "永安路 慶和路至中正北路(南向) 發生壅塞",
+    "eventTownName": "安南區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.23500274440609",
+    "eventWgsy": "23.05580948916034",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T18:01:58+08:00",
+    "atisUpdateTime": "2026-11-05T18:14:47+08:00"
+}
