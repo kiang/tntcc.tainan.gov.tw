@@ -1,0 +1,16 @@
+{
+    "eventId": "236218",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "埋設電桿引上管",
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.19394679664136",
+    "eventWgsy": "23.04393384572602",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-05T09:01:27+08:00",
+    "atisUpdateTime": "2026-11-05T09:14:28+08:00"
+}
