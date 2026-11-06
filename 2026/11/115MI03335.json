@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03335",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "東山區",
+    "eventSource": "PWB",
+    "eventLocation": "733台灣臺南市東山區南溪里二重溪26號",
+    "eventWgsx": "120.39768337410081",
+    "eventWgsy": "23.2741435367735",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-06T10:16:32+08:00",
+    "atisUpdateTime": "2026-11-06T17:45:03+08:00"
+}
