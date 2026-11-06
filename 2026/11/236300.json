@@ -1,0 +1,16 @@
+{
+    "eventId": "236300",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "配合汙水井(C01-18)臨時遷移電信配管",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22878532795445",
+    "eventWgsy": "22.96624304098703",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-06T14:17:34+08:00",
+    "atisUpdateTime": "2026-11-06T14:29:20+08:00"
+}

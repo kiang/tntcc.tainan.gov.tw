@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000164",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "中山路(中正路-中清路) 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.2517494767591",
+    "eventWgsy": "22.97155086404996",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-06T14:26:08+08:00",
+    "atisUpdateTime": "2026-11-06T14:29:39+08:00"
+}
