@@ -3,14 +3,14 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "新市區",
+    "eventTownName": "永康區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.2546097802663",
-    "eventWgsy": "23.07159308859805",
+    "eventWgsx": "120.24609986398022",
+    "eventWgsy": "23.06139995384842",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-11-06T19:02:19+08:00",
-    "atisUpdateTime": "2026-11-06T19:29:58+08:00"
+    "atisUpdateTime": "2026-11-06T19:45:01+08:00"
 }
