@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03333",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "新市區",
+    "eventSource": "PWB",
+    "eventLocation": "744台灣臺南市新市區中華路196–256號",
+    "eventWgsx": "120.29649708495792",
+    "eventWgsy": "23.060230688016045",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-06T08:48:26+08:00",
+    "atisUpdateTime": "2026-11-06T15:59:11+08:00"
+}

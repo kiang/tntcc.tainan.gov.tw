@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03334",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "新化區",
+    "eventSource": "PWB",
+    "eventLocation": "712台灣臺南市新化區礁坑里礁坑子30號",
+    "eventWgsx": "120.35790007728065",
+    "eventWgsy": "23.029894709239226",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-06T10:02:34+08:00",
+    "atisUpdateTime": "2026-11-06T15:59:11+08:00"
+}
