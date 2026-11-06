@@ -1,0 +1,16 @@
+{
+    "eventId": "20261107071958003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "佳里區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.17916289449474",
+    "eventWgsy": "23.15518643762484",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-07T07:20:24+08:00",
+    "atisUpdateTime": "2026-11-07T07:29:25+08:00"
+}
