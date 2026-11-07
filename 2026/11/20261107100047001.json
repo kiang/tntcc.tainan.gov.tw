@@ -1,0 +1,16 @@
+{
+    "eventId": "20261107100047001",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "商店(量販店)",
+    "eventTownName": "仁德區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.22729781726026",
+    "eventWgsy": "22.95858939666293",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-07T10:01:44+08:00",
+    "atisUpdateTime": "2026-11-07T10:14:43+08:00"
+}
