@@ -1,0 +1,16 @@
+{
+    "eventId": "G000518",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "安北路 四草大橋至安平路(東向) 發生壅塞",
+    "eventTownName": "安平區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.14310570924314",
+    "eventWgsy": "22.99465842660303",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-07T12:31:05+08:00",
+    "atisUpdateTime": "2026-11-07T12:44:49+08:00"
+}
