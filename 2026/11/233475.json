@@ -1,0 +1,16 @@
+{
+    "eventId": "233475",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "纜線障礙查修需修配管",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.26323725887384",
+    "eventWgsy": "23.036790993463136",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-07T13:21:02+08:00",
+    "atisUpdateTime": "2026-11-07T13:29:22+08:00"
+}
