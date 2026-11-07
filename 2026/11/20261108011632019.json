@@ -1,0 +1,16 @@
+{
+    "eventId": "20261108011632019",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "其他",
+    "eventTownName": "中西區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.20861885848518",
+    "eventWgsy": "22.994561753592556",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-08T01:17:20+08:00",
+    "atisUpdateTime": "2026-11-08T01:29:44+08:00"
+}
