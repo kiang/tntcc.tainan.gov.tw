@@ -1,0 +1,16 @@
+{
+    "eventId": "20261107204205003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "臨時屋(含工寮、樣品屋、雞舍等無門牌之建築物)",
+    "eventTownName": "佳里區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.15693908045154",
+    "eventWgsy": "23.159506528567636",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-07T20:43:36+08:00",
+    "atisUpdateTime": "2026-11-07T20:45:02+08:00"
+}
