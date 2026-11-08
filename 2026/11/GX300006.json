@@ -1,0 +1,16 @@
+{
+    "eventId": "GX300006",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "裕信路 (裕信路81號至裕農路) 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.24514064888844",
+    "eventWgsy": "22.987012328815183",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-09T07:26:10+08:00",
+    "atisUpdateTime": "2026-11-09T07:29:59+08:00"
+}
