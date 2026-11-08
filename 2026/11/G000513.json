@@ -1,0 +1,16 @@
+{
+    "eventId": "G000513",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "民權路 中華西路至安北路(西向) 發生壅塞",
+    "eventTownName": "中西區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.1866833475226",
+    "eventWgsy": "22.998964578435594",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-08T11:31:05+08:00",
+    "atisUpdateTime": "2026-11-08T11:44:45+08:00"
+}
