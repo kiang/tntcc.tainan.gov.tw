@@ -1,0 +1,16 @@
+{
+    "eventId": "GX300005",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "裕孝路 (裕孝路129號至裕農路) 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.24348002768076",
+    "eventWgsy": "22.986909334918476",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-09T07:41:05+08:00",
+    "atisUpdateTime": "2026-11-09T07:44:39+08:00"
+}
