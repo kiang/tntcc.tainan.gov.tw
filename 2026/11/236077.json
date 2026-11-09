@@ -1,0 +1,16 @@
+{
+    "eventId": "236077",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "修配管(S2D510293-S2L555256)",
+    "eventTownName": "六甲區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.34688747004242",
+    "eventWgsy": "23.228297083460145",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-09T14:10:50+08:00",
+    "atisUpdateTime": "2026-11-09T14:30:03+08:00"
+}
