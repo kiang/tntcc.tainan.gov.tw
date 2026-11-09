@@ -1,0 +1,16 @@
+{
+    "eventId": "233936",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "cds",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.26352160750345",
+    "eventWgsy": "23.03766577903784",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-09T08:14:50+08:00",
+    "atisUpdateTime": "2026-11-09T08:29:30+08:00"
+}
