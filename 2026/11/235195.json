@@ -1,0 +1,16 @@
+{
+    "eventId": "235195",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "埋設配管(S2L557307)",
+    "eventTownName": "楠西區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.48813328903584",
+    "eventWgsy": "23.17222963459182",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-10T08:24:06+08:00",
+    "atisUpdateTime": "2026-11-10T08:29:41+08:00"
+}
