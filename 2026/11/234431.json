@@ -1,0 +1,16 @@
+{
+    "eventId": "234431",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "臺南學甲麻豆漁電共生太陽光電發電廠道路挖掘埋設管線工程",
+    "eventTownName": "麻豆區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.20758584963424",
+    "eventWgsy": "23.208705579746532",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-10T09:23:50+08:00",
+    "atisUpdateTime": "2026-11-10T09:29:59+08:00"
+}
