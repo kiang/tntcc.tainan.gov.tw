@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01143",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "東山區",
+    "eventSource": "PWB",
+    "eventLocation": "733台灣臺南市東山區東河里吉貝耍15-7號",
+    "eventWgsx": "120.38469907584015",
+    "eventWgsy": "23.293819522926963",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-10T08:51:44+08:00",
+    "atisUpdateTime": "2026-11-10T08:59:47+08:00"
+}

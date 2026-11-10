@@ -1,0 +1,16 @@
+{
+    "eventId": "20261110084801003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "北門區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.10459980215516",
+    "eventWgsy": "23.236699912335776",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-10T08:48:58+08:00",
+    "atisUpdateTime": "2026-11-10T08:59:30+08:00"
+}
