@@ -1,0 +1,16 @@
+{
+    "eventId": "20261110151503004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "臨時屋(含工寮、樣品屋、雞舍等無門牌之建築物)",
+    "eventTownName": "善化區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.2818040542962",
+    "eventWgsy": "23.14046641818857",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-10T15:16:36+08:00",
+    "atisUpdateTime": "2026-11-10T15:29:15+08:00"
+}
