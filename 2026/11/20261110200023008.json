@@ -1,0 +1,16 @@
+{
+    "eventId": "20261110200023008",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "雜草(含廢棄物、墓地)",
+    "eventTownName": "麻豆區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.22991898857876",
+    "eventWgsy": "23.2194432258514",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-10T20:01:20+08:00",
+    "atisUpdateTime": "2026-11-10T20:14:57+08:00"
+}
