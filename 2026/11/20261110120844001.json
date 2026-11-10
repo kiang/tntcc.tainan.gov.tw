@@ -1,0 +1,16 @@
+{
+    "eventId": "20261110120844001",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "工廠及倉庫(含石化工業設備設施)",
+    "eventTownName": "善化區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.27875162411006",
+    "eventWgsy": "23.13252478654245",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-10T12:09:38+08:00",
+    "atisUpdateTime": "2026-11-10T12:14:50+08:00"
+}
