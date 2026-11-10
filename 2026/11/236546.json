@@ -1,0 +1,16 @@
+{
+    "eventId": "236546",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "新設配管(S2L456132-S2L456134)",
+    "eventTownName": "玉井區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.46913936451273",
+    "eventWgsy": "23.12071588979062",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-10T10:04:18+08:00",
+    "atisUpdateTime": "2026-11-10T10:14:19+08:00"
+}
