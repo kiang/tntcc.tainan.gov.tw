@@ -1,0 +1,16 @@
+{
+    "eventId": "236249",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "台灣積體電路製造試挖案",
+    "eventTownName": "安定區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.2460884765661",
+    "eventWgsy": "23.119114579263258",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-11T10:33:21+08:00",
+    "atisUpdateTime": "2026-11-11T10:44:29+08:00"
+}
