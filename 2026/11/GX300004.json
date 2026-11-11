@@ -1,0 +1,16 @@
+{
+    "eventId": "GX300004",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "裕忠路 (裕忠路65號至裕農路) 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.24177024845652",
+    "eventWgsy": "22.986869442407137",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-11T17:51:05+08:00",
+    "atisUpdateTime": "2026-11-11T17:59:41+08:00"
+}
