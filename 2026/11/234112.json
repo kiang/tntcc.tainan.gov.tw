@@ -1,0 +1,16 @@
+{
+    "eventId": "234112",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "孔蓋調升及用戶銜接配管及新設配管(S2L557270-S2L557272)",
+    "eventTownName": "大內區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.35795208717276",
+    "eventWgsy": "23.12028869450654",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-11T09:44:38+08:00",
+    "atisUpdateTime": "2026-11-11T09:59:13+08:00"
+}

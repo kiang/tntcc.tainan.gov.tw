@@ -1,0 +1,16 @@
+{
+    "eventId": "236028",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "臺南市政府交通局",
+    "eventTownName": "新化區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.31028581641768",
+    "eventWgsy": "23.03758792964011",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-11T09:52:39+08:00",
+    "atisUpdateTime": "2026-11-11T09:59:13+08:00"
+}
