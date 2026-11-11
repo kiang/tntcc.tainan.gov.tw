@@ -1,0 +1,16 @@
+{
+    "eventId": "234628",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "6260486內政部國土管理署下水道工程分署線路遷移工程",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22140033258752",
+    "eventWgsy": "22.978084026857452",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-11T09:07:05+08:00",
+    "atisUpdateTime": "2026-11-11T09:30:00+08:00"
+}
