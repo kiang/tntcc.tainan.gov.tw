@@ -1,0 +1,16 @@
+{
+    "eventId": "20261111160528005",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "關廟區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.34998662631774",
+    "eventWgsy": "22.901262034101155",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-11T16:06:18+08:00",
+    "atisUpdateTime": "2026-11-11T16:14:33+08:00"
+}
