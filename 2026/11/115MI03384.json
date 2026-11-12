@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03384",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "新化區",
+    "eventSource": "PWB",
+    "eventLocation": "712台灣臺南市新化區信義路396–410號",
+    "eventWgsx": "120.30502408372415",
+    "eventWgsy": "23.0346017060753",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-12T13:23:35+08:00",
+    "atisUpdateTime": "2026-11-12T17:14:58+08:00"
+}

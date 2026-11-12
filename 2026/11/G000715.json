@@ -1,0 +1,16 @@
+{
+    "eventId": "G000715",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "中華路 中正南路至小東路(南向) 發生壅塞",
+    "eventTownName": "永康區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.21829693740622",
+    "eventWgsy": "23.02342389687042",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-12T17:06:11+08:00",
+    "atisUpdateTime": "2026-11-12T17:14:51+08:00"
+}
