@@ -1,0 +1,16 @@
+{
+    "eventId": "235010",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "115年新市所管線改遷工程(WR-115-0601-0034)",
+    "eventTownName": "山上區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.35325889651358",
+    "eventWgsy": "23.10254802824774",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-12T15:03:27+08:00",
+    "atisUpdateTime": "2026-11-12T15:14:52+08:00"
+}
