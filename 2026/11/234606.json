@@ -1,0 +1,16 @@
+{
+    "eventId": "234606",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "配合汙水井(H1803)遷移電信配管",
+    "eventTownName": "仁德區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23203636688058",
+    "eventWgsy": "22.955296678753395",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-12T09:10:06+08:00",
+    "atisUpdateTime": "2026-11-12T09:14:47+08:00"
+}

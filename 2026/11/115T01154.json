@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01154",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "中西區中山路146號",
+    "eventWgsx": "120.20940609502621",
+    "eventWgsy": "22.995285734115217",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-12T09:07:49+08:00",
+    "atisUpdateTime": "2026-11-12T09:14:47+08:00"
+}
