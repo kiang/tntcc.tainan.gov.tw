@@ -2,15 +2,15 @@
     "eventId": "20261112145258005",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "一般(集合)住宅",
+    "eventContent": "誤(謊)報",
     "eventTownName": "南區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.18914071384599",
-    "eventWgsy": "22.967965070442254",
+    "eventWgsx": "120.18898041180944",
+    "eventWgsy": "22.967994411242223",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-11-12T14:53:46+08:00",
-    "atisUpdateTime": "2026-11-12T15:14:13+08:00"
+    "atisUpdateTime": "2026-11-12T15:29:14+08:00"
 }
