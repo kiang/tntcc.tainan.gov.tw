@@ -6,11 +6,11 @@
     "eventTownName": "歸仁區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.29304758961432",
-    "eventWgsy": "22.9469744408808",
+    "eventWgsx": "120.27236782223142",
+    "eventWgsy": "22.96951771516648",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-11-12T09:14:01+08:00",
-    "atisUpdateTime": "2026-11-12T09:14:28+08:00"
+    "eventHappenTime": "2026-11-12T09:15:28+08:00",
+    "atisUpdateTime": "2026-11-12T09:29:30+08:00"
 }
