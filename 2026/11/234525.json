@@ -1,0 +1,16 @@
+{
+    "eventId": "234525",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "建國工程給水",
+    "eventTownName": "仁德區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.262011886704",
+    "eventWgsy": "22.95995410293688",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-13T11:40:01+08:00",
+    "atisUpdateTime": "2026-11-13T11:44:21+08:00"
+}
