@@ -1,0 +1,16 @@
+{
+    "eventId": "GX000135-1",
+    "eventType": "JAM",
+    "eventSubType": "HeavyJam",
+    "eventContent": "中正南路(新中街-中正路) 發生重度壅塞",
+    "eventTownName": "永康區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.24392151571662",
+    "eventWgsy": "23.041705086602462",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-13T10:06:11+08:00",
+    "atisUpdateTime": "2026-11-13T10:14:59+08:00"
+}
