@@ -3,14 +3,14 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "官田區",
+    "eventTownName": "麻豆區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.34805054480951",
-    "eventWgsy": "23.191108411060906",
+    "eventWgsx": "120.28669988382428",
+    "eventWgsy": "23.198399929990902",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-11-13T07:41:52+08:00",
-    "atisUpdateTime": "2026-11-13T07:44:13+08:00"
+    "atisUpdateTime": "2026-11-13T07:59:15+08:00"
 }
