@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03391",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "學甲區",
+    "eventSource": "PWB",
+    "eventLocation": "726台灣臺南市學甲區天水路21號",
+    "eventWgsx": "120.17868010094934",
+    "eventWgsy": "23.236257564176498",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-13T11:29:16+08:00",
+    "atisUpdateTime": "2026-11-13T17:14:45+08:00"
+}

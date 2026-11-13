@@ -1,8 +1,8 @@
 {
     "eventId": "GX00063-E2",
     "eventType": "JAM",
-    "eventSubType": "Jam",
-    "eventContent": "台86線東向\/E2 發生壅塞",
+    "eventSubType": "HeavyJam",
+    "eventContent": "台86線東向\/E2 發生重度壅塞",
     "eventTownName": "",
     "eventSource": "TTIME",
     "eventLocation": "",
@@ -11,6 +11,6 @@
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
-    "eventHappenTime": "2026-11-13T16:56:11+08:00",
-    "atisUpdateTime": "2026-11-13T16:59:53+08:00"
+    "eventHappenTime": "2026-11-13T17:02:11+08:00",
+    "atisUpdateTime": "2026-11-13T17:15:01+08:00"
 }
