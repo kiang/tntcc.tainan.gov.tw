@@ -1,0 +1,16 @@
+{
+    "eventId": "234886",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "銜接用戶管--李品宏",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23505342674103",
+    "eventWgsy": "22.968136139648546",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-13T13:11:18+08:00",
+    "atisUpdateTime": "2026-11-13T13:14:15+08:00"
+}
