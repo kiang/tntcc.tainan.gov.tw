@@ -1,0 +1,16 @@
+{
+    "eventId": "20261113085633008",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "六甲區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.34510464116744",
+    "eventWgsy": "23.22283614114739",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-13T08:57:32+08:00",
+    "atisUpdateTime": "2026-11-13T08:59:26+08:00"
+}
