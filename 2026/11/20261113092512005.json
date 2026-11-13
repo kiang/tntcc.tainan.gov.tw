@@ -3,14 +3,14 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "中西區",
+    "eventTownName": "東區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.21144726002548",
-    "eventWgsy": "22.98934495780296",
+    "eventWgsx": "120.21160374139787",
+    "eventWgsy": "22.989774404285747",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-11-13T09:25:33+08:00",
-    "atisUpdateTime": "2026-11-13T09:29:30+08:00"
+    "atisUpdateTime": "2026-11-13T09:44:31+08:00"
 }
