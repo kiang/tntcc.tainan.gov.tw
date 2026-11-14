@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03403",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "700台灣臺南市中西區大同路一段163號前",
+    "eventWgsx": "120.211239594715",
+    "eventWgsy": "22.985088741305013",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-14T09:08:12+08:00",
+    "atisUpdateTime": "2026-11-14T11:44:56+08:00"
+}
