@@ -1,0 +1,16 @@
+{
+    "eventId": "GX300001",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "裕農路 (富農街至裕永路) 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.235778680534",
+    "eventWgsy": "22.98861758956554",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-14T16:56:11+08:00",
+    "atisUpdateTime": "2026-11-14T16:59:50+08:00"
+}
