@@ -1,0 +1,16 @@
+{
+    "eventId": "20261115004627005",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "其他",
+    "eventTownName": "東區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.22667700041903",
+    "eventWgsy": "23.000014943947694",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-15T00:47:03+08:00",
+    "atisUpdateTime": "2026-11-15T00:59:20+08:00"
+}
