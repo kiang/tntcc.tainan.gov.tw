@@ -1,0 +1,16 @@
+{
+    "eventId": "236373",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "埋設用戶電信引上配管",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.2351060265005",
+    "eventWgsy": "22.990862483424802",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-14T13:50:43+08:00",
+    "atisUpdateTime": "2026-11-14T13:59:47+08:00"
+}
