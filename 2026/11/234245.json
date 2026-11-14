@@ -1,0 +1,16 @@
+{
+    "eventId": "234245",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "吳秉諭給水",
+    "eventTownName": "龍崎區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.36387909076711",
+    "eventWgsy": "22.945411779426816",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-14T11:51:12+08:00",
+    "atisUpdateTime": "2026-11-14T12:00:01+08:00"
+}
