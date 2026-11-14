@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01161",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "701台灣臺南市東區大學里林森路二段351號",
+    "eventWgsx": "120.22384939325386",
+    "eventWgsy": "22.993546735297148",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-14T07:50:33+08:00",
+    "atisUpdateTime": "2026-11-14T07:59:52+08:00"
+}
