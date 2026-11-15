@@ -3,14 +3,14 @@
     "eventType": "ACCIDENT",
     "eventSubType": "緊急救護",
     "eventContent": "車禍",
-    "eventTownName": "下營區",
+    "eventTownName": "後壁區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.24879971826913",
-    "eventWgsy": "23.240416550228005",
+    "eventWgsx": "120.33742459641196",
+    "eventWgsy": "23.357734744688106",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-11-15T14:44:13+08:00",
-    "atisUpdateTime": "2026-11-15T14:59:07+08:00"
+    "atisUpdateTime": "2026-11-15T15:14:09+08:00"
 }
