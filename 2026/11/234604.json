@@ -1,0 +1,16 @@
+{
+    "eventId": "234604",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "銜接用戶管及手孔提升",
+    "eventTownName": "仁德區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.26292172478449",
+    "eventWgsy": "22.970568044646946",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-16T11:11:22+08:00",
+    "atisUpdateTime": "2026-11-16T11:14:19+08:00"
+}
