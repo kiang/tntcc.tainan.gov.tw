@@ -1,0 +1,16 @@
+{
+    "eventId": "234598",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "銜接用戶管",
+    "eventTownName": "仁德區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.25506135172802",
+    "eventWgsy": "22.949442449750673",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-16T10:18:56+08:00",
+    "atisUpdateTime": "2026-11-16T10:29:59+08:00"
+}
