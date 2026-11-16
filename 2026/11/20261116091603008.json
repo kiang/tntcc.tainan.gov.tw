@@ -1,0 +1,16 @@
+{
+    "eventId": "20261116091603008",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "麻豆區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.25145539887099",
+    "eventWgsy": "23.18367549761193",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-16T09:16:21+08:00",
+    "atisUpdateTime": "2026-11-16T09:29:17+08:00"
+}
