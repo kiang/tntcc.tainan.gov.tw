@@ -1,0 +1,16 @@
+{
+    "eventId": "234579",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "永康區大仁街等汰換管線工程-1(大灣路37巷6弄、41巷)",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.27141872191554",
+    "eventWgsy": "23.01174330757207",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-16T08:29:01+08:00",
+    "atisUpdateTime": "2026-11-16T08:44:19+08:00"
+}
