@@ -1,0 +1,16 @@
+{
+    "eventId": "232112",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "銜接用戶管",
+    "eventTownName": "歸仁區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.30479577187926",
+    "eventWgsy": "22.965080547752635",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-17T12:09:12+08:00",
+    "atisUpdateTime": "2026-11-17T12:14:51+08:00"
+}
