@@ -1,0 +1,16 @@
+{
+    "eventId": "234782",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "許清財給水",
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.18683473632306",
+    "eventWgsy": "22.94627425454181",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-17T08:07:12+08:00",
+    "atisUpdateTime": "2026-11-17T08:14:42+08:00"
+}
