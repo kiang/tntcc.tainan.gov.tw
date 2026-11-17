@@ -1,0 +1,16 @@
+{
+    "eventId": "234034",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "配合警察局路口監控箱修復電信配管",
+    "eventTownName": "歸仁區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.28755067738737",
+    "eventWgsy": "22.967532758182394",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-17T08:33:56+08:00",
+    "atisUpdateTime": "2026-11-17T08:44:48+08:00"
+}

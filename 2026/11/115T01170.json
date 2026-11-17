@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01170",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "中西區頂美二街48巷口",
+    "eventWgsx": "120.18465909808826",
+    "eventWgsy": "23.000421730568185",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-17T08:40:20+08:00",
+    "atisUpdateTime": "2026-11-17T08:44:48+08:00"
+}
