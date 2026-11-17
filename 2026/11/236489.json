@@ -1,0 +1,16 @@
+{
+    "eventId": "236489",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "埋設電信配管",
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.1608811684087",
+    "eventWgsy": "22.99420382119368",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-17T09:13:45+08:00",
+    "atisUpdateTime": "2026-11-17T09:29:07+08:00"
+}
