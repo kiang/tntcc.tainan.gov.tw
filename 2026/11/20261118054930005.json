@@ -1,0 +1,16 @@
+{
+    "eventId": "20261118054930005",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "臨時屋(含工寮、樣品屋、雞舍等無門牌之建築物)",
+    "eventTownName": "安南區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.16729985224819",
+    "eventWgsy": "23.058128946655362",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-18T05:50:52+08:00",
+    "atisUpdateTime": "2026-11-18T05:59:08+08:00"
+}
