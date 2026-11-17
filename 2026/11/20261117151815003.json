@@ -1,0 +1,16 @@
+{
+    "eventId": "20261117151815003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "地下建築物",
+    "eventTownName": "東區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.21249985210301",
+    "eventWgsy": "22.997299980308693",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-17T15:18:54+08:00",
+    "atisUpdateTime": "2026-11-17T15:29:27+08:00"
+}
