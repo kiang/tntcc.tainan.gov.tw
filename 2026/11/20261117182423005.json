@@ -1,0 +1,16 @@
+{
+    "eventId": "20261117182423005",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "一般(集合)住宅",
+    "eventTownName": "永康區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.2437118494892",
+    "eventWgsy": "23.02003691140147",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-17T18:25:05+08:00",
+    "atisUpdateTime": "2026-11-17T18:29:48+08:00"
+}
