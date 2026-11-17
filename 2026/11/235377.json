@@ -1,0 +1,16 @@
+{
+    "eventId": "235377",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "七股區南38線道新設400mm管線工程(WQ11506010009、WR11506010032)",
+    "eventTownName": "七股區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.13571350085418",
+    "eventWgsy": "23.10243442820703",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-17T09:24:31+08:00",
+    "atisUpdateTime": "2026-11-17T09:44:18+08:00"
+}
