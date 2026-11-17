@@ -1,0 +1,16 @@
+{
+    "eventId": "236812",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "截斷氣源",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.2274447561196",
+    "eventWgsy": "22.961052258827422",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-17T09:11:25+08:00",
+    "atisUpdateTime": "2026-11-17T09:15:00+08:00"
+}
