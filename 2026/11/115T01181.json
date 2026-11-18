@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01181",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "東山區",
+    "eventSource": "PWB",
+    "eventLocation": "東山碧軒寺 733台灣臺南市東山區東山里東山218號",
+    "eventWgsx": "120.40330807374838",
+    "eventWgsy": "23.325470500541115",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-18T14:55:29+08:00",
+    "atisUpdateTime": "2026-11-18T15:14:44+08:00"
+}
