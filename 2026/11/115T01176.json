@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01176",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "緊急配合工程",
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "710台灣臺南市永康區中山路41巷5號",
+    "eventWgsx": "120.25645008956964",
+    "eventWgsy": "23.027305711373295",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-18T09:23:29+08:00",
+    "atisUpdateTime": "2026-11-18T09:44:57+08:00"
+}
