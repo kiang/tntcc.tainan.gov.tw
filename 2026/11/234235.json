@@ -1,0 +1,16 @@
+{
+    "eventId": "234235",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "吳虹誼給水",
+    "eventTownName": "仁德區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.23871986895578",
+    "eventWgsy": "22.929799351754376",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-19T01:17:52+08:00",
+    "atisUpdateTime": "2026-11-19T01:29:31+08:00"
+}
