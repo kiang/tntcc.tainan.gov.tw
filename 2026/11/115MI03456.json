@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03456",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "永康區",
+    "eventSource": "PWB",
+    "eventLocation": "臺南市立永康國民中學 710台灣臺南市永康區中山路與中山路41巷巷口",
+    "eventWgsx": "120.25680208952842",
+    "eventWgsy": "23.027500711234605",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-18T15:26:02+08:00",
+    "atisUpdateTime": "2026-11-18T16:14:17+08:00"
+}
