@@ -1,0 +1,16 @@
+{
+    "eventId": "234268",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "浤海建設給水",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.24642103652803",
+    "eventWgsy": "22.98359670172464",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-19T08:44:04+08:00",
+    "atisUpdateTime": "2026-11-19T08:59:45+08:00"
+}
