@@ -1,0 +1,16 @@
+{
+    "eventId": "20261119101443001",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "其他",
+    "eventTownName": "佳里區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.18128291271579",
+    "eventWgsy": "23.161731717284685",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-19T10:15:49+08:00",
+    "atisUpdateTime": "2026-11-19T13:14:28+08:00"
+}
