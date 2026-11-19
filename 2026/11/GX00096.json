@@ -1,0 +1,16 @@
+{
+    "eventId": "GX00096",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "南科聯絡道 新港社大道至中正北路(西向) 發生壅塞",
+    "eventTownName": null,
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.27983175375975",
+    "eventWgsy": "23.067907143794578",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-19T18:16:44+08:00",
+    "atisUpdateTime": "2026-11-19T18:29:45+08:00"
+}
