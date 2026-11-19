@@ -1,0 +1,16 @@
+{
+    "eventId": "234017",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "營擴319-學甲區南53鄉道管路工程(乙管路7240030-7)",
+    "eventTownName": "學甲區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.19761505013746",
+    "eventWgsy": "23.226146970375446",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-19T08:24:03+08:00",
+    "atisUpdateTime": "2026-11-19T08:44:39+08:00"
+}
