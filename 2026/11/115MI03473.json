@@ -1,0 +1,16 @@
+{
+    "eventId": "115MI03473",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "善化區",
+    "eventSource": "PWB",
+    "eventLocation": "741台灣臺南市善化區光復路49號",
+    "eventWgsx": "120.29308908590802",
+    "eventWgsy": "23.128874639588393",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-19T13:07:59+08:00",
+    "atisUpdateTime": "2026-11-19T13:59:29+08:00"
+}
