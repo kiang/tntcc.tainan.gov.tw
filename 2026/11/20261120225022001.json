@@ -1,0 +1,16 @@
+{
+    "eventId": "20261120225022001",
+    "eventType": "ACCIDENT",
+    "eventSubType": "緊急救護",
+    "eventContent": "車禍",
+    "eventTownName": "南區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.1803425228483",
+    "eventWgsy": "22.932497458929337",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-20T22:50:50+08:00",
+    "atisUpdateTime": "2026-11-20T22:59:36+08:00"
+}
