@@ -1,0 +1,16 @@
+{
+    "eventId": "234406",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "7260360陳江彬線路遷移工程",
+    "eventTownName": "歸仁區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.27849939857637",
+    "eventWgsy": "22.97173908561268",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-20T10:35:42+08:00",
+    "atisUpdateTime": "2026-11-20T10:44:22+08:00"
+}
