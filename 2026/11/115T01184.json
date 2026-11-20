@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01184",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "後壁區",
+    "eventSource": "PWB",
+    "eventLocation": "731台灣臺南市後壁區長短樹里下長41號旁",
+    "eventWgsx": "120.32206908406489",
+    "eventWgsy": "23.354814480074936",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-20T16:09:09+08:00",
+    "atisUpdateTime": "2026-11-20T16:14:41+08:00"
+}
