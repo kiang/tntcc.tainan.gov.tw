@@ -1,0 +1,16 @@
+{
+    "eventId": "20261121113900104",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "雜草(含廢棄物、墓地)",
+    "eventTownName": "白河區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.45198088088861",
+    "eventWgsy": "23.35230625111397",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-21T11:40:48+08:00",
+    "atisUpdateTime": "2026-11-21T11:44:21+08:00"
+}
