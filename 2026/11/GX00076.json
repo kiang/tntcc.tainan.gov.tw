@@ -1,0 +1,16 @@
+{
+    "eventId": "GX00076",
+    "eventType": "JAM",
+    "eventSubType": "Jam",
+    "eventContent": "國民路 大同路至南門健康路口(北向) 發生壅塞",
+    "eventTownName": "南區",
+    "eventSource": "TTIME",
+    "eventLocation": "",
+    "eventWgsx": "120.216017494989",
+    "eventWgsy": "22.96733568868644",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-21T14:16:44+08:00",
+    "atisUpdateTime": "2026-11-21T14:29:59+08:00"
+}
