@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01185",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "中西區",
+    "eventSource": "PWB",
+    "eventLocation": "700台灣臺南市中西區府前路一段272巷口",
+    "eventWgsx": "120.19992909613306",
+    "eventWgsy": "22.98985573797653",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-21T07:55:43+08:00",
+    "atisUpdateTime": "2026-11-21T08:14:25+08:00"
+}

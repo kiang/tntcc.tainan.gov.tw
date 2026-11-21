@@ -1,0 +1,16 @@
+{
+    "eventId": "236866",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "林森路二段351號漏水探挖",
+    "eventTownName": "東區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.22360370940964",
+    "eventWgsy": "22.993582001369315",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-21T07:56:28+08:00",
+    "atisUpdateTime": "2026-11-21T08:14:25+08:00"
+}
