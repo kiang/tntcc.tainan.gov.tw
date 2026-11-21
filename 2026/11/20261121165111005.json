@@ -3,14 +3,14 @@
     "eventType": "DISASTER",
     "eventSubType": "火災",
     "eventContent": "雜草(含廢棄物、墓地)",
-    "eventTownName": "安南區",
+    "eventTownName": "安定區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
-    "eventWgsx": "120.2337603464838",
-    "eventWgsy": "23.069632684658696",
+    "eventWgsx": "120.22964509046301",
+    "eventWgsy": "23.070984138296065",
     "eventPolyline": null,
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-11-21T16:52:18+08:00",
-    "atisUpdateTime": "2026-11-21T17:14:22+08:00"
+    "atisUpdateTime": "2026-11-21T17:29:22+08:00"
 }
