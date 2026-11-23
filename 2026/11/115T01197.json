@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01197",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "白河區",
+    "eventSource": "PWB",
+    "eventLocation": "732台灣臺南市白河區關嶺里關子嶺16號",
+    "eventWgsx": "120.50456806128301",
+    "eventWgsy": "23.339955490054464",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-23T14:15:05+08:00",
+    "atisUpdateTime": "2026-11-23T14:29:36+08:00"
+}
