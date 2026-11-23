@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01192",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "709台灣臺南市安南區佃東里十二佃路192號",
+    "eventWgsx": "120.17400760000815",
+    "eventWgsy": "23.068863182306277",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-23T09:19:49+08:00",
+    "atisUpdateTime": "2026-11-23T09:29:28+08:00"
+}
