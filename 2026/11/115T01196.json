@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01196",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "緊急配合工程",
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "708台灣臺南市安平區永華路二段1302號",
+    "eventWgsx": "120.1595671010732",
+    "eventWgsy": "22.991531736919203",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-23T11:05:52+08:00",
+    "atisUpdateTime": "2026-11-23T11:14:29+08:00"
+}
