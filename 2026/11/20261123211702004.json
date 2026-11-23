@@ -1,0 +1,16 @@
+{
+    "eventId": "20261123211702004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "其他",
+    "eventTownName": "新市區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.29464701845002",
+    "eventWgsy": "23.106101235178397",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-23T21:19:05+08:00",
+    "atisUpdateTime": "2026-11-23T21:29:39+08:00"
+}
