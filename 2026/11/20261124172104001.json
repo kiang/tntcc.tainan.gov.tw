@@ -1,0 +1,16 @@
+{
+    "eventId": "20261124172104001",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "雜草(含廢棄物、墓地)",
+    "eventTownName": "鹽水區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.26257349823365",
+    "eventWgsy": "23.31585633340863",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-24T17:23:18+08:00",
+    "atisUpdateTime": "2026-11-24T17:29:08+08:00"
+}
