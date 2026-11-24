@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01203",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "702台灣臺南市南區夏林路63號旁",
+    "eventWgsx": "120.19517309665581",
+    "eventWgsy": "22.983418742533672",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-24T14:55:22+08:00",
+    "atisUpdateTime": "2026-11-24T14:59:40+08:00"
+}
