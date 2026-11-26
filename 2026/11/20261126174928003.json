@@ -2,7 +2,7 @@
     "eventId": "20261126174928003",
     "eventType": "DISASTER",
     "eventSubType": "火災",
-    "eventContent": "高層(超高)建築物",
+    "eventContent": "一般(集合)住宅",
     "eventTownName": "東區",
     "eventSource": "FD_INSTANTCASE",
     "eventLocation": "",
@@ -12,5 +12,5 @@
     "eventPolygon": null,
     "eventTop": false,
     "eventHappenTime": "2026-11-26T17:50:30+08:00",
-    "atisUpdateTime": "2026-11-26T17:59:31+08:00"
+    "atisUpdateTime": "2026-11-26T18:14:31+08:00"
 }
