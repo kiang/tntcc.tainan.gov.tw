@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01208",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "漏水",
+    "eventTownName": "南區",
+    "eventSource": "PWB",
+    "eventLocation": "702台灣臺南市南區塩埕路185號",
+    "eventWgsx": "120.18913809726483",
+    "eventWgsy": "22.96917975260025",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-26T07:55:38+08:00",
+    "atisUpdateTime": "2026-11-26T08:14:23+08:00"
+}
