@@ -1,0 +1,16 @@
+{
+    "eventId": "20261126152940004",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "汽機車",
+    "eventTownName": "安南區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.13824028443048",
+    "eventWgsy": "23.03038133022722",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-26T15:31:40+08:00",
+    "atisUpdateTime": "2026-11-26T15:44:30+08:00"
+}
