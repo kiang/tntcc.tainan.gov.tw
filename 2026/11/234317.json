@@ -1,0 +1,16 @@
+{
+    "eventId": "234317",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "7260393陳恩慧線路遷移工程",
+    "eventTownName": "歸仁區",
+    "eventSource": "PWB",
+    "eventLocation": "",
+    "eventWgsx": "120.28469075046304",
+    "eventWgsy": "22.912299131733935",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-26T11:02:04+08:00",
+    "atisUpdateTime": "2026-11-26T11:14:26+08:00"
+}
