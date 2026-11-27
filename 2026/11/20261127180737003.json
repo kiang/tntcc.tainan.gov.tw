@@ -1,0 +1,16 @@
+{
+    "eventId": "20261127180737003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "雜草(含廢棄物、墓地)",
+    "eventTownName": "永康區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.23885080662788",
+    "eventWgsy": "23.0148103414403",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-27T18:08:22+08:00",
+    "atisUpdateTime": "2026-11-27T18:14:34+08:00"
+}
