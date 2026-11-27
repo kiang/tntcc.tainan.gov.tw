@@ -1,0 +1,16 @@
+{
+    "eventId": "23467",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": "0ZC2694宏翰建設用電新設",
+    "eventTownName": "安平區",
+    "eventSource": "PWB",
+    "eventLocation": "起平豐路251巷40號(等)",
+    "eventWgsx": "120.16282601303331",
+    "eventWgsy": "22.99247777060752",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-27T08:55:14+08:00",
+    "atisUpdateTime": "2026-11-27T09:14:21+08:00"
+}
