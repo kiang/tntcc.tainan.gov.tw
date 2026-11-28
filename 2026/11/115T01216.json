@@ -1,0 +1,16 @@
+{
+    "eventId": "115T01216",
+    "eventType": "CONSTRUCTION",
+    "eventSubType": "",
+    "eventContent": null,
+    "eventTownName": "安南區",
+    "eventSource": "PWB",
+    "eventLocation": "709台灣臺南市安南區東和里長和路一段50號",
+    "eventWgsx": "120.23716869214216",
+    "eventWgsy": "23.05414949249118",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-28T09:46:16+08:00",
+    "atisUpdateTime": "2026-11-28T09:59:23+08:00"
+}
