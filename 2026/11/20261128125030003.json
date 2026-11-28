@@ -1,0 +1,16 @@
+{
+    "eventId": "20261128125030003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "雜草(含廢棄物、墓地)",
+    "eventTownName": "六甲區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.35875523633865",
+    "eventWgsy": "23.220345589826447",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-28T12:51:10+08:00",
+    "atisUpdateTime": "2026-11-28T12:59:26+08:00"
+}
