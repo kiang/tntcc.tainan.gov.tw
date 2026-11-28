@@ -1,0 +1,16 @@
+{
+    "eventId": "20261128190952003",
+    "eventType": "DISASTER",
+    "eventSubType": "火災",
+    "eventContent": "機關、學校(軍公教辦公廳舍、宿舍)",
+    "eventTownName": "新營區",
+    "eventSource": "FD_INSTANTCASE",
+    "eventLocation": "",
+    "eventWgsx": "120.3001402696704",
+    "eventWgsy": "23.30839496509502",
+    "eventPolyline": null,
+    "eventPolygon": null,
+    "eventTop": false,
+    "eventHappenTime": "2026-11-28T19:11:28+08:00",
+    "atisUpdateTime": "2026-11-28T19:14:32+08:00"
+}
